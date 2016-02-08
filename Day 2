@@ -257,7 +257,13 @@ label maehome1:
     b"It sounds like you've had some pretty bad first days..."
     "Kunikada doesn't respond for a moment, then continues."
     c"It's fun to walk with friends like this isn't it? I was a little scared to go with you guys, but I'm glad I did in the end."
-    a"Yeah, it is nice."
+    a"Don't you do this often?."
+    c"Well, I've never really had proper friends before..."
+    a"Oh, I'm sorry"
+    c"Don't be, you couldn't have known that"
+    b"Well that doesn't matter because you have us now, right?"
+    "Maeko gave a wide smile which Kunikada tentatively returned"
+    "All was well"
     "We make it to the bridge."
     show Bridge
 
