@@ -1,0 +1,386 @@
+    ############################################
+    #--> 3rd Try of first day
+    ############################################
+    
+label secondtry:
+    scene black
+    with pixellate
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "ambientdark1.mp3"
+    "I'm back in the same state as before, it feels no different."
+    "Tranquility fills this void."
+    "Who knows how much time has passed."
+    "But eternally, this may come to a beginning."
+    show Bedroom
+    with pixellate
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "from020.mp3"
+    "I'm ready to start again, but first I have to think."
+    "There's not much point in rushing out without a plan."
+    "I should start by looking at what's happened so far."
+    "Somehow the killer always manages to leave me without harm, why?"
+    "He solely goes to kill Kunikada but not me."
+    "If he were a regular murderer he'd kill a witness that's close to the scene right?"
+    "He also wouldn't go killing her in such open locations."
+    "Unless he's just an anomaly but I doubt that's the case."
+    "He obviously doesn't care if he gets caught, or has some sort of way that he can't be caught."
+    "He also seems to avoid killing me."
+    "He's found Kunikada twice, despite my changed decisions."
+    "He wears a mask despite not caring if he's caught... does that mean he has something to hide?"
+    
+    "How is he so evasive?"
+    "Why is he so against killing me?"
+    "How has he found her two times in a row?"
+    "What is his secret?"
+    
+    "Knowing this I may be able to make a trap for him."
+    "Now I'll need to look at some realistic options."
+    "Once again it'll be hard to get people like the police involved, nobody would listen to a time travel story."
+    "And even if I told them a guy were stalking one of my friends I wouldn't have any proof whatsoever so I doubt they'd send any real help if any."
+    "This is something I'll have to handle myself, with maybe a little manipulation if need be."
+    "In any case I'll need some way to deal with him, weapon-wise that is."
+    "I know my dad has a gun in his room somewhere, he tried to keep it a secret from my sister and I but I overheard my mum and dad arguing about it one day."
+    "He said he wouldn't get rid of it so it's probably in one of his bedroom draws."
+    "Both of my parents have left for work already so I do have an opportunity to search."
+    
+    "I leave my room to head down the hall, entering my parent's bedroom."
+    "It is a little risky to steal the gun and take it to school in my bag but I can always reset the day if I need to so it should be fine."
+    "It'd be bad to be known for the rest of my life as the school shooter if someone found out."
+    
+    "I search the room for potential locations, it could be in his bedside table."
+    "If he has this gun for defensive purposes he'd need it somewhere that'd be easy to access to quickly protect his family."
+    "Intruders tend to not make scheduled appointments."
+    "Random personal belongings are scattered throughout the top two, no luck so far."
+    "But the third draw is locked. My curiousity is growing, it could potentially house the gun."
+    "Where is the key?"
+    "Maybe it's in some other place in the room."
+    "Where could it be?"
+    "I search for a while unsuccessfully for the most part."
+    "Until I search underneath the bed. My eye catches a glimmer to the side of it underneath the bedside table."
+    "And there it was, the key was beneath it."
+    "I inaudibly chuckled to myself, of course my dad put the key right beneath it."
+    "While it did seem like a stupid mistake at first perhaps it was set up this way to have easy access to the in the case of an emergency, while still deterring those who casually check drawers."
+    "I pull the key out beneath the table and fit it into the keyhole."
+    "And sure enough, it fits. After a turn and click the draw is no longer locked."
+    "I pull the draw and it slides open, revealing the very item I was looking for."
+    "The gun and magazine were seperate for safety reasons but could easily be put back together for use."
+    "I inspected it a little further, I wasn't too familiar with guns but had fired one at a shooting range once before so I knew about some of the important details."
+    "At least I wouldn't make a mistake like forgetting to turn off the safety."
+    "I slide the draw back into place and lock it."
+    "The key is placed carefully back into the same position as it was before."
+    
+    "Just as I was heading out of the room, gun in hand, I hear footsteps in the kitchen."
+    "My sister must've woken up."
+    "I can't let her see me with the gun, this could pose a problem if she starts looking for me."
+    "The sound of footsteps stopped in the kitchen, she either be standing still or gone back to her room."
+    "I put my head slightly around the wall to check if she was still there."
+    "She was, but luckily she had the back of her head facing my direction so she hadn't seen me yet."
+    "My sister, has this annoying habit of waking me up every morning if I sleep in too late past my alarm."
+    "I wish she'd just mind her own schedule."
+    "Which means she's probably already checked my room and has figured I must've left already."
+    "I stay in my parents bedroom for around ten minutes while my sister eats breakfast, while keeping watch over her."
+    "The stress and boredom of sitting here had become awfully straining."
+    "But just as those ten minutes were over she left the kitchen to do a few more things before leaving for school."
+    "I quickly dashed out of the room across the hall to my room while I had an open opportunity to."
+    "I dropped the gun in my bag and zipped it shut."
+    d"Takeru, is that you?"
+    "She must've heard me... I've been found!"
+    "Wait a second, I just need to calm down, as far as she knows I'm not doing anything illegal or wrong."
+    "I walk outside to the hallway and find her just outside of her room."
+    a"Yeah it's me, Good morning Saya."
+    "She looked a little surprised, she probably did check to see if I was in my room earlier but just didn't want to admit it to me."
+    "Luckily for me, that worked with my plan quite well."
+    d"I'm heading off now, it's pretty late so you probably want to head off soon!"
+    a"Yeah, yeah..."
+    "As dismissive as my response was it really was late, I needed to leave soon or I'd be late."
+    "The extra time it took for me to get the gun and wait for Saya hasn't left me with much time to get ready."
+    "I'll have to skip breakfast today and grab the rest of my things in the remaining 5 minutes."
+    "I step outside into the brutal cold but see a letter sticking out of my mailbox, I only notice it because it has my name written on it."
+    "I don't really have time to read it right now so I shove it into my bag and rush to school, not quite running but still at a hastened pace."
+    "As I'm heading toward school I remember Maeko who I usually meet today, it's a shame I couldn't leave earlier today to meet up with her."
+    "She's probably already at school."
+    hide Bedroom
+    stop music
+    
+        
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "thelounge.mp3"
+    show School
+    with dissolve
+    "I slow down when I reach the school gates in an attempt to catch my breath. I'm not really the fittest guy out there."
+    "Going up the stairs to my classroom just made my already exhausted body feel worse."
+    "It seems I was just a few minutes late and walked into the classroom as the roll was being called."
+    "Coincedentally the teacher calls out my name the moment I step into the room."
+    hide School
+    show Classroom
+    "He turns his head toward me in an acknowledging manner."
+    f"Ah, there you are Ichiro."
+    a"Sorry I'm late."
+    "I sit down in my chair without wanting to disrupt the class anymore than I had already."
+    
+    "And here comes the next important part of the day, the arrival of the one I need to keep alive, Kunikada Setsuko."
+    
+    f"Class, we will be welcoming a new transfer student today so please make her feel at home"
+    "I kept quiet, awaiting the class to settle their new discussions about the new student."
+    f"Quieten down class, we need to give our new student a chance to introduce herself."
+    hide Classroom
+    show SetsukoGall1
+    "And Kunikada Setsuko entered, I won't fail this time, this is the face of the girl I have a duty to protect."
+    c"My name is Kunikada Setsuko."
+    f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
+    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
+
+    f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
+    
+    "The exact same lines ran by as before."
+    
+    f"Ichiro and Kunikada, I need you both to stay behind at lunch. I need to talk to you about something."
+    
+    hide SetsukoTop
+    show Classroom
+    "Once everyone has left the class I go see the teacher with her."
+    
+    f"Okay so you two are probably wondering what's going on."
+    
+    "She nods, I do the same."
+    
+    f"Well it's just Kunikada is new here so I thought it would be a good idea for you two to walk back home together, since you live in the same building."
+    
+    "We both look at each other, then back at the teacher."
+    
+    "I continue trying to imitate how I originally acted here."
+    
+    z"We do?!"
+    
+    f"Oh you didn't already know?"
+    
+    z"No."
+    
+    f"Well, now you do, so I hope you can help her out."
+    
+    "I respond in agreement."
+    
+    "Now for the rest of the day I'll need to figure out how to lure the killer out to get him away from Kunikada. In the worst case scenario I may have to kill him."
+    
+    "Since I left late today I didn't get to talk to Maeko so she didn't get the chance to ask me to talk to her alone."
+    
+    "However she did seem a little weird around me in class and we didn't talk at all."
+    
+    "Which means I don't even have to worry about that past obligation. I can focus on taking Kunikada home... safety."
+    
+    "I don't think it'll be a good idea to get anyone else involved this time or there will just be more and more causualities."
+    
+    "He seems to not want to hurt me and always seems to know where Kunikada is so there's not much point in me sending her off somewhere else."
+    
+    "The best option is probably the simplest one, just walk home together with Kunikada while keeping a sharp lookout for the masked killer."
+    
+    
+    hide Classroom
+    with dissolve
+    
+    
+    ############################################
+    #--> Confrontation of gunman
+    ############################################
+    
+    "The same classes go by and it's the end of the day, where all of the action begins."
+    "As we leave the classroom block I meet up with Kunikada and intiate the conversation."
+    
+    a"Hey Kunikada."
+    c"Oh... you're Ichiro right?"
+    a"Yeah that's right, I'm Ichiro Takeru."
+    "Just being around her felt weird, like it wasn't real. I suppose knowing someone is dead in your mind does that to you when you see them with your eyes."
+    a"Just as the teacher said I'll be taking you home this afternoon."
+    c"Yeah, thank you for walking me home. I hope I'm not causing you any inconvenience."
+    a"Uhhh no! Not at all! I'd be walking home alone anyway so really this is fine."
+    "A few painful seconds of silence continued as we left the school as I failed to bring up a new topic of conversation."
+    "However she seemed to be the type to be content in being with someone without talking constantly."
+    "Still, I was not that type and felt an urge to keep things from being awkward from my own perspective."
+    
+    a"So did you find anyone to sit with at lunch?"
+    "I was sitting in the cafeteria with some of my other friends while as far as I know Kunikada stayed in the classroom."
+    c"Oh ummm I did but... I don't really consider them as friends."
+    c"A few girls were friendly with me and invited me to sit with them at lunch but I didn't really talk all that much."
+    c"I didn't fit in, well I didn't feel that way at least."
+    c"They were pretty interested about my past school and home, since I transferred at a strange time."
+    c"But I don't really like talking about that sort of thing... I'd rather live in the present and make new friends."
+    a"Well you can always sit with me if you like at lunch, I don't really belong to one group in particular."
+    a"But it's not like I don't have any friends or anything!"
+    c"Huh? Well I'm not completely opposed but I barely know you."
+    a"Well you didn't know those other girls too right?"
+    c"I suppose not but you're different."
+    a"Different? In what way?"
+    c"Never mind."
+    a"No really, what is it?"
+    c"Okay then."
+    c"You're... a guy."
+    a"It's not like we can't be friends though."
+    "Her expression was hesitant but soon changed to a wide grin."
+    c"Ok let's be friends!"
+    c"I might... just might sit with you sometime."
+    "Her cheeks began to blush but the conversation ended for a while after that."
+    hide SetsukoGall1
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "Wastedonyouth.mp3"
+    "I had to start thinking straight, that masked guy could come out at any moment around now."
+    "To the side I saw him, the figure dressed in black with the covered face."
+    "It was sure to be him."
+    "He must not have noticed that I've seen him yet."
+    "He hasn't drawn his gun yet and looks to be finding a good spot to aim for Kunikada while having no chance to miss."
+    "But before that can happen I must stick with my theory, it's risky but I don't think much else will work at this point."
+    "I rush toward him abandoning Kunikada on the spot."
+    "During the rush I pull the pistol from my school bag."
+    "I calculated this decision knowing that he'd miss a shot on Kunikada most likely from that distance."
+    "He's noticed me now."
+    "He draws his pistol and aims toward me."
+    "I stop when I'm around 10 metres away from him."
+    "We stare at each other for a while, my gun not yet drawn."
+    "He doesn't seem to want to shoot me, if he's the murderer I know he wouldn't hesitate on any kill unless he had a reason not to."
+    "So I pull my pistol up."
+    "Not aiming at him."
+    "But aiming at my own head."
+    "While I couldn't see his sweat or expression I could tell he was agitated by my action through his body language."
+    a"WHO ARE YOU?!"
+    "I assert my dominance in the situation despite having both barrels pointing at my own head."
+    "Despite my attitude I'm actually incredibly horrified at the thought of death but if I show it now my fate, or Kunikada's will soon end."
+    a"WHAT DO YOU HAVE AGAINST HER?!"
+    a"WHY ARE YOU DOING THIS?!"
+    "Nobody but him, Kunikada and myself can hear my shouts, nobody seems to be around."
+    "But to my disappointment he makes no noise, no response."
+    "I guess I'm left with no other options."
+
+menu:
+    "Swiftly aim toward the masked killer and shoot":
+         jump aim1
+
+    "Shoot myself":
+         jump sui1
+
+         
+label aim1:
+    "After the stare down I turn the gun away from my head and shoot toward him."
+    "But the moment I turn the gun he disappeared."
+    "At the same moment I feel slightly nauseous."
+    "I hear the bullet hit the metal panelling behind where he used to be."
+    "There was no blood."
+    "No signs of him being there at all."
+    "Did he get away again?!"
+    "But just as I have that thought I turn to hear Kunikada calling out my name."
+    "It doesn't matter that he got away."
+    "Every other time resulted in both him and Kunikada no longer being here."
+    "That's not the case today."
+    "I've suceeded."
+    "But I doubt there's much stopping him from coming back."
+    "For now I can celebrate this victory, one I can only celebrate by myself."
+    
+    c"Ichiro, are you done wondering around, let's go!"
+    "Wait... did she not just see what happened?"
+    "Surely she must've, she couldn't have missed it."
+    "There must be something going on."
+    "Not much point thinking about it further right now, it's time for rest."
+    a"Yeah Kunikada, let's keep going."
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "longroad.mp3"
+    
+    "The walk home is so relieving to me, I feel free."
+    "Being next to Kunikada for so long, not fearing the next step could result in a bullet through her head."
+    "It was nice."
+    "I'm making it home with her by my side."
+    "I want this moment to last forever."
+    "We walk up the stairs together and we part at our apartments."
+    a"Bye Kunikada, see you tomorrow."
+    c"Thanks for showing me the way back."
+    a"It's fine, you were fun to talk to."
+    a"And it's not like we can't walk back together anymore."
+    c"Really?!"
+    "She sounded far to excited for any normal reaction."
+    a"Of course, we live right next to each other and are in the same class, it'd only make sense."
+    c"Bye!"
+    "She quickly shut her door behind her and left me in the hallway alone."
+    
+    "I opened my door and entered my home to find my sister and mother were already home."
+    "My dad wasn't back yet, probably still working."
+    "We exchange greetings until I get into my room."
+    "It's a habit of mine to change my school books over when I get home for the next day."
+    "But as I do that I notice the letter I got this morning, the one I'd forgotten about until now."
+    "Exhausted from today I lay my back across my bed to rest as I open the letter."
+    
+    "I pull at the side, tearing the envelope while being careful not to rip the paper inside."
+    "It's folded in thirds so I unfold it to reveal the writing."
+    "I immediately search the page for who it's from... and there is the name."
+    "It's from Maeko."
+    "This actually makes a lot of sense... that's why she was on the other side of the river and walking away from the school that morning."
+    "She sounded like she was hiding something when she made up the story about going to the convenience store."
+    "So this was it, she was dropping in to give me this letter."
+    "And of course when I came out early she couldn't just head to my house, or give it to me in person."
+    "After scanning the letter with my eyes I focus in and read from the start."
+    b"Hey Takeru, can I meet you after school today, it's really important so please be there!"
+    "..."
+    "And just when I thought everything was fine."
+    "So the other day she had summoned the courage to ask me to talk to her in person."
+    "Her real plan was to write this note to me."
+    "Well this poses a pretty bad problem."
+    "I hope she doesn't hate me, she must've been waiting for me, or at least hoping I'd respond in some way."
+    "What should I do?"
+menu:
+    "Apologise and make it up to her somehow.":
+         jump maekit
+
+    "Ignore it, it'd be too awkward to bring it up now.":
+         jump ignore
+         
+label sui1:
+    "I don't have time to react to my death, but I'm sure this feeling will last for an eternity... or maybe just a second?"
+    "Suicide End."
+
+    ############################################
+    #--> Consider apologising to Maeko 
+    ############################################
+
+         
+label maekit:
+    "It's already bad enough, I need to explain what happened."
+    "Not being able to apologise to her immediately doesn't quite sit well with me, it feels like I'm not getting something accomplished that I should be."
+    "Despite that feeling and urge, I can't do anything about it right now."
+    "I could call her about it but I think this is something I have to do in person."
+    "Considering that, the hours of the evening dwindle away until I fall asleep with nothing to achieve."
+label ignore:
+    "It's already bad enough that I didn't respond so her, I doubt she'd even want to talk to me right now."
+    
+    jump Day4
+    scene Bedroom
+    with dissolve
