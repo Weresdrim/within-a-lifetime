@@ -477,7 +477,7 @@ label back1:
     "Her body topples toward me."
     "Bracing for the impact with no time to think, I hold both arms out in an attempt to catch her."
     "She gracefully lands unharmed within my arms."
-    "Her body is a lot softer and ligher than I had expected."
+    "Her body is a lot softer and lighter than I had expected."
     "The rest of the class turn their heads to see what the noise is in my corner of the classroom."
     "And all they see is me, holding the transfer student half a metre from the ground."
     a"Are you alright?"
@@ -500,7 +500,7 @@ label back1:
     c"This is the first time I've fallen that hasn't resulted in a bruised or bleeding face."
     c"So thanks for that."
     "We reached the stairs, the infirmary is located on the 1st floor."
-    "We're currently on the 3rd."
+    "We're currently on the third."
     a"Do you think you can manage?"
     c"Yeah, I think so."
     "This time Kunikada holds onto me tight on each step we descend."
@@ -510,14 +510,14 @@ label back1:
     "And it was right infront of us, we'd reached the 1st floor."
     c"It's ok, I know I seem pretty faint right now."
     c"But I always get better within an hour or two."
-    c"I should be back by 4th period."
+    c"I should be back by fourth period."
     a"Sounds good. I'll see you then."
     
     hide SetsukoGall1
     
     show Classroom
     "The rest of class is uneventful, the same as always."
-    "However halfway through 4th period Kunikada re-enters the classroom."
+    "However halfway through fourth period Kunikada re-enters the classroom."
     f"Welcome back Kunikada."
     "Without being instructed Kunikada heads straight for her seat and sits down, trying to avoid anymore attention from the other members of the class."
     
