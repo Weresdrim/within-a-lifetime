@@ -1,0 +1,373 @@
+label Day6:
+    show Bedroom
+    with dissolve
+    "It was now morning, time for my time test."
+    "I just needed to focus how I usually do, focus on the energy through my hands..."
+    with pixellate
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "ambientdark1.mp3"    
+    "The void again."
+    "I feel a sharp cold pain in my head."
+    "Then warmth returning across my body."
+    
+    ############################################
+    #--> Time travel, first name basis?! 
+    ############################################
+    
+    show Bedroom
+    with dissolve
+    "I was back in my bed, underneath my covers."
+    "It worked! But the question was, did I go back to yesterday, or this morning?"
+    "I checked my clock..."
+    "To my amazement, it was neither today, nor yesterday."
+    "It was tomorrow."
+    "Rather, it was yesterday's tomorrow."
+    "I have no idea what I could've done over the past day."
+    "I'm more a mind travelling through my bodies, existing at different points in time."
+    "Meaning I erase any memories or experiences this current Ichiro Takeru has that I do not."
+    "I also gain memories I have had in the future, as I've done before."
+    "But that also means the Ichiro Takeru I leave behind is also erased if travelling to the past."
+    "However this doesn't affect anyone else but me."
+    "Meaning I may have done something important yesterday I have no idea about currently."
+    "There is also a fairly high chance nothing particularly important happened."
+    
+    "I currently know my power can't be controlled past activation at the moment."
+    "Meaning I could try to use it and go back to yesterday, or it could take me another day forward."
+    "Or some time worse."
+    "The safest option is to see what has happened up until this point, it may not be necessary to go back if nothing happened yesterday."
+    "I can always time travel again anyway if something bad has happened."
+    
+    "I gather my things and get ready for school, as I'm leaving I check the mailbox again, nothing was inside." 
+    "Above me I hear a familiar voice calling out, it was Kunikada's, still in her pyjama's at the top of the staircase multiple floors above me."
+    c"Hey! What are you doing leaving without me!"
+    "Wait... did I promise to walk with her too school as well?"
+    "I don't remember anything like that."
+    "But wait! I could've told her I would yesterday."
+    "Yes, that must be it."
+    a"Oh, sorry about that I almost forgot!"
+    a"I'll wait for you down here ok? Just finish up getting ready."
+    c"Geez, how could you forget so easily?"
+    c"I'll be down soon so just hang on."
+    with fade
+    
+    "'Soon' turned out to be a lot longer than I had expected."
+    "I usually like to leave a little earlier than usual if I can."
+    "So basically Kunikada wasn't helping."
+    
+    c"Ok I'm ready! Coming down now!"
+    "I heard her voice and footsteps simulatenously going down the staircase."
+    "She reached the bottom and seemed ready to go."
+    c"Good morning Takeru!"
+    "Wait... did she just say Takeru? Why is she calling me by my first name?"
+    "We aren't that close are we?"
+    "I think it's a little early to be calling each other by first names."
+    a"Morning Kunikada."
+    c"Kunikada....?"
+    "She seemed to be fixated on her on name more than usual."
+    a"Sorry, did I say something wrong?"
+    c"I thought you told me yesterday that you'd call me by my first name from now on."
+    c"And that I'd do the same to you."
+    "Damn it, what did I do yesterday?"
+    "I need to play along and do as she says."
+    a"Sorry, I'm feeling a little tired this morning, Good morning Setsuko."
+    "My heart jumped at the mention of her first name, maybe I'm just overreacting."
+    c"Good morning... Takeru."
+    c"Seems kinda strange, doesn't it?"
+    c"We don't have to if you..."
+    a"No no, it's fine. I think it's nice this way."
+    "I don't even know what I said to her yesterday to even be having this conversation but I feel like saying something that will comfort her is the best course of action."
+    c"Really?! Alright then!"
+    a"Well we better head off then."
+    
+    "There's no telling what happened yesterday, already things have turned different to how I expected."
+    "If things get any worse than this it might be bad."
+    "I wonder when I agreed to us calling each other by our first names."
+    "I suppose it's not too weird... I mean Maeko and I do the same."
+    "But Maeko is the only one outside of my family who does that."
+    "Well, she's not the only one anymore."
+    
+    c"You know Takeru I was thinking, I've been wondering what club I should join at school."
+    c"None of the existing clubs really interest me at the moment, and you're not involved in any of them are you?"
+    a"That's right, I'm clubless."
+    c"Well I thought maybe I could make my own club, and you could help me."
+    a"Oh, that's an interesting idea."
+    a"What were you thinking exactly?"
+    c"That's the thing, I don't really know."
+    a"Huh? You don't even have an idea?"
+    c"Yeah... That's the thing I was hoping you would help with..."
+    a"It's your club, I'm not interested in making one myself but I'll help you out if you want to make one."
+    a"But I can't make the club for you."
+    c"Ok, I'll try to think of something by myself."
+    with fade
+    
+    "We entered school and I prepared for whatever else had happened yesterday."
+    "Walking into class nothing seemed too unusual, which was to be expected I guess, it'd only been a day."
+    "Everyone else entered the classroom and homeroom started, the roll was called and everyone was present besides Maeko."
+    "She's probably sick or something, it's probably not anything to worry about."
+    "My phone might have some more answers to yesterday, maybe Maeko or somebody else sent me something yesterday."
+    "Unfortunately, or perhaps somewhat fortunately nobody had messaged me yesterday."
+    "Again, it's probably nothing but something urges me to find out."
+    "Despite that urge I have no way of finding out right now, not until lunch anyway."
+    
+    with fade
+    
+    "Without any verbal cue Kunikada, or Setsuko rather, left for the stairs to the roof."
+    "I did the same right behind her."
+    "I suppose yesterday must've made the idea that this was our normal place to eat lunch now."
+    "I wanted to ask her about Maeko anyway and it's not as if I dislike Setsuko's company."
+    "We sat down together right beside each other."
+    a"Setsuko, I wanted to ask you about something."
+    c"Fire away."
+    a"Do you have any idea on where Maeko is today?"
+    c"No, sorry, I have no idea."
+    "It was a long shot asking her about it anyway."
+    
+    with fade
+    
+    ############################################
+    #--> Playful classmate
+    ############################################
+    
+    "Class resumed and one of my guy friends started talking to me."
+    "His name is Uchida."
+    g"Hey Ichiro, you've been acting quite friendly with Kunikada recently."
+    g"Are you guys seeing each other or something?"
+    a"What? No, we're not do anything like that."
+    g"Oh really? The other guys just thought something must've been going on between you two, being alone with her on that roof everyday and all."
+    "I had to admit this wasn't something I'd done before I meet Setsuko, and if I looked at it from an outsider's perspective it might look like we're going out."
+    "But I know that's not the case."
+    a"Nope, we're just friends, we also live in the same building so it's just convenient for us to walk to and from school together."
+    g"Wait what?! The rumours are true, you two actually do walk together?!"
+    a"No I already told you! It's not like that!"
+    
+    f"Quieten down you two, you're disrupting the class!"
+    "I realised my voice had risen a little too loud after Uchida worked me up so much."
+    "The discussion could go no further after that."
+    
+    "Great, now people think we're going out."
+    "Actually, how close are we? Do people usually get this close and then become boyfriend and girlfriend."
+    "I guess Setsuko is kinda cute, but I've never really thought of her that way before, we're just friends right?"
+    "If she said she liked me would I be opposed to becoming a couple?"
+    "I'll cross that bridge when I get to it, no point worrying over fantasy."
+    
+    with fade
+    "Class continued until lunch where I was just about to leave to the roof with Setsuko until I overheard some girls talking about Maeko."
+    e"Where's Maeko today anyway?"
+    h"I heard she felt pretty bad after what happened yesterday."
+    i"Yeah he was pretty rough with her right?"
+    e"Oh? Was it really that bad?"
+    "The topic changed after that so I made my way out the classroom toward the roof as I thought about what they were discussing."
+    "What happened to Maeko yesterday, who was rough with her?"
+    "Wait, does she have an abusive boyfriend or something?"
+    "I would've thought she'd tell me about having a boyfriend."
+    "I suppose it's not really my business anyway."
+    "I thought about this while climbing up the stairs and found Setsuko cheerfully greeting me at the top, her sweet smile swept my mind of all previous worries as we ate lunch together."
+    
+    with fade
+    
+    "I'd just made my way back from school, I have time to think about what's my next move from here as far as time is concerned."
+    "Things happened yesterday, I don't know what but it's worse than I'd hoped."
+    "Something happened to Maeko that stopped her from coming to school."
+    "And something happened that cause Setsuko to be more friendly toward me."
+    "Do I continue from here, things seem ok... well for me at least."
+    "What happened to Maeko?"
+    "Waiting until tomorrow can't hurt, I'll see if she comes to school then."
+    "Maybe I'll even leave earlier and walk to her place first."
+    "I'd have to tell Setsuko first though, that I won't be walking with her in the morning."
+    "I walk out onto my balcony, Setsuko is right next door so I just texted her and told her to come to her balcony."
+    "I could've yelled but I would've disturbed half the building if I had."
+    "After a short while she came out to meet me."
+    a"I can't walk with you tomorrow morning ok?"
+    c"Huh? Why?"
+    "She seemed much more disappointed than I had first anticipated."
+    a"I want to leave early to check if Maeko's alright, she's seemed weird lately and was away yesterday."
+    c"Uhh Takeru that might not be the best idea."
+    a"What, why not?"
+    c"You know, you saw yesterday..."
+    "I can't question her because I'm supposed to know what she's talking about."
+    a"I'm going anyway, Maeko is an important friend of mine."
+    c"Ok well I still want to go with you if you're going early anyway."
+    "I couldn't see a reason why she couldn't so I didn't bother arguing."
+    a"Alright, if you want to, just make sure you're ready to leave at 6:30."
+    c"Sure, I'll be ready."
+    
+    show Bedroom
+    with dissolve
+    
+    ############################################
+    #--> Finding Abused Maeko
+    ############################################
+    
+    "It was a morning like any other, somewhat out of habit I checked the date, it was as expected."
+    "It was 6:00am at the moment so I only had half an hour to get ready, meaning I needed to get out of bed quickly."
+    with fade
+    "After eating some of the leftovers of dinner from last night for breakfast I went to check the bottom of the staircase."
+    "Setsuko was already down there and ready."
+    "A little more punctual than usual today, I was surprised."
+    c"Come on, you're late, hurry up."
+    "I felt like she was almost mocking me for the other day."
+    a"Yeah yeah, I'm coming down now."
+    
+    with fade
+    
+    show Bridge
+    "We made our way over the bridge, the barrier between me and Setsuko's side of town and Maeko's side of town."
+    "I'd always liked this bridge."
+    "It had been a while since I'd last been to Maeko's house so we walked around a bit for me to find the right street."
+    c"You sure you know where you're going, we've been down this street three times now."
+    a"Yeah I know it, I've been here before."
+    "Just as I was walking along that street I saw Maeko walk out of her house in her school uniform."
+    "However, bruising covered half of her face."
+    "I stood in shock, seeing her face like this, seeing her in this much pain."
+    "Both physically and mentally."
+    "After she walked from her house to the footpath she noticed me and Setsuko standing there waiting for her."
+    "But at that moment she also stopped in her tracks, but realised she was out of options and came closer."
+    a"Maeko are you alright?"
+    "She seemed really uncomfortable, like she didn't wanted to talk about it."
+    "I'd empathise with her and not ask further but this was obviously an issue that needed to be dealt with."
+    "I care about her too much to allow that."
+    "I reached for her bruised, purple cheeck."
+    "She retreated away from me."
+    a"Maeko, we can talk about this. Please let me help you."
+    a"Why is your face all bruised?"
+    b"Don't worry, it doesn't matter... it doesn't hurt or anything. Let's just go to school."
+    a"No. We're not going to school or anywhere until you tell me what happened."
+    "She started sobbing."
+    b"*Sniff*....I'll tell you... *Sniff*... Just somewhere... *Sniff*... else... *Sniff*... please."
+    "It's a rare occasion to see Maeko cry like this, she only ever cries if it's serious."
+    "She's usually quite strong, or strong headed rather when it comes to crying."
+    
+    "It was hard to hear her properly when she was crying like this but as long as she told me what was up I saw no harm in taking her somewhere away from here."
+    "Setsuko, Maeko and I walked partway to school, Maeko didn't say a single word the whole way but did stop crying."
+    "The words between Setsuko and myself were fairly limited due to the mood."
+    
+    a"Okay, Maeko this is far enough."
+    a"Now please, let me help you."
+    a"Why is your face bruised?"
+    b"..."
+    b"My uncle did it."
+    "This had surprised me, I mean I knew they never really had a loving family relationship but it looks like I'd misjudged how bad it actually was."
+    "He was an abusive guardian."
+    "Setsuko was just as shocked."
+    c"Did he beat you?!"
+    b"..."
+    "Maeko gave a slight nod."
+    a"So that's why you haven't been coming to school."
+    c"But you were planning on going to school with that bruise? What were you going to say to anyone who asked?"
+    b"I actually wasn't planning on going to school today. I skipped school yesterday too."
+    c"But you're in your uniform."
+    b"My aunt and uncle still expect me to go to school no matter what."
+    a"But wouldn't that get your uncle in trouble? You could use that bruise as proof."
+    b"Where would that get me? If my uncle were sent to jail chances are I'd either be sent to a foster home or I'd be homeless."
+    b"And that's if anybody believed me. There's no way for me to prove it were him."
+    
+    a"Maeko I hope you know this isn't ok, abusive home lives aren't healthy."
+    
+    a"Let me see how badly you really are hurt."
+    "Maeko withdraws when I reach out with my hand."
+    a"Don't worry, I won't hurt you."
+    "I softly touched her blackened, bruised cheek."
+    with dissolve
+    "Huh where am I?"
+    "Wait this is Maeko, but where did Setsuko go?"
+    "Thats... Maeko's uncle."
+    j"You ignorrant, ungrateful girl!"
+    j"Do you understand how much I have to work to let you stay and live in my own home?"
+    j"We're not even related by blood, if it were up to me I'd have you in the oprhanage already."
+    j"You're just lucky your aunt is a little more caring for her dead sister's daughter."
+    "I think I'm getting a glimpse of the past, when Maeko was beat by her uncle."
+    b"Sorry!"
+    b"I'm sorry!"
+    b"I'm so sorry!"
+    j"Don't think you'll get out of this that easily!"
+    "Maeko's voice was trembling incredibly while her uncle's voice just got louder and angrier."
+    "He swung punches and hit Maeko multiple times while she sobbed uncontrollably without fighting back."
+    "It seemed like nobody else was at home."
+    j"You're a weak, miserable, waste of space."
+    "Maeko's uncle left the room after that, leaving her on the floor with blood flowing out of her nose along with bruising already showing."
+    "I would've thrown up at the sight of this if this wasn't just a vision? Or dream?"
+    with dissolve
+    c"Takeru!!! Are you ok?!"
+    "Huh? I woke up where I was before but in Setsuko and Maeko's arms. I must've fainted when I had that vision."
+    b"You just fainted when you touched my cheek! Are you ok?"
+    a"Yeah, I think I'm fine."
+    a"I must've just been a little light headed since I skipped breakfast."
+    c"Just make sure you tell me if you're feeling faint again."
+    a"Sure. But remember it's Maeko we should be focusing on."
+    a"Maeko, are you comfortable at home? With your homelife?"
+    b"It's ok... really. I mean..."
+    a"This is serious Maeko, we need to know, we you're friends and we want to help you."
+    b"..."
+    b"No... I don't feel comfortable at home."
+    a"Ok, that's understandable so if I can find you somewhere else to stay, would you go there?"
+    b"That depends where it is..."
+    a"How about my place? My parents know you pretty well so I don't they'd be opposed to it."
+    b"I guess that wouldn't be too bad."
+    a"Alright, I'll have to ask my parents about it though so no promises."
+    a"Let's head off to school for now, and please tell me if you have anymore problems at home."
+    
+    with dissolve
+    
+    ############################################
+    #--> Finding help for Maeko
+    ############################################
+    
+    "After school I walked back with Setsuko and entered my apartment after saying goodbye to her at the stairwell."
+    "Asking my parents at Maeko staying over had been on my mind for a while now, I don't know how long Maeko would be staying for and I doubt that would be ok with them."
+    
+    a"Mum I need to ask you about something!"
+    m"What is it?"
+    a"You remember Maeko right, we used to play a lot as kids."
+    m"Of course I do, what about her? This isn't a question about girls is it?"
+    a"No, listen this is important."
+    a"She's having trouble at home, I've discovered she's being abused by her uncle and I don't think it's a good environment to be living in."
+    a"But she needs a place to stay."
+    a"So I was wondering if she could stay here."
+    m"I see."
+    m"But Takeru, do you know how long she'd be staying for?"
+    a"No, I don't really know."
+    m"And where she'd sleep, we don't have any spare rooms in this place."
+    a"She can sleep in my bed! I'll sleep on the floor in the loungeroom or soemthing."
+    m"That's just like you... Sadly that's not a sustainable situation."
+    m"I'm sorry son but having her stay here isn't a realistic solution, we don't have the space and who knows how long she'll be staying here for."
+    m"I can't allow that."
+    a"But Mum she's being abused by her uncle!"
+    m"Having her run away won't help unless it's somewhere she can reliably stay at long term, we can't offer that."
+    "My mother raised a good point, if Maeko has to go back home after running away things would only get worse for her."
+    "I'll have to find some other way."
+    
+    "I sent a text to Setsuko to come out on the balcony so I could talk to her."
+    "I closed the glass window behind me so I could talk in private."
+    "She came out shortly after I did."
+    
+    c"What is it? Did you ask your parents about Maeko?"
+    a"Yeah I did, that's what I came to talk to you about."
+    a"My parents are opposed to having her stay here because we don't have the room and we don't know how long Maeko might be staying for."
+    a"Meaning if it's not until she finishes high school it would be a disaster if she'd have to go back to her uncle."
+    c"Oh, that's too bad then."
+    a"So I came to talk to you about it, I have a very selfish request."
+    c"What is it?"
+    a"I was wondering if Maeko could stay with you?"
+    "Setsuko took a moment to think and process my request."
+    c"I think she might be able to, we have a spare room after all."
+    a"Wow really?! That would be a massive help!"
+    c"Hey I didn't promise anything yet, I still have to ask my parents about it."
+    "Things are looking good, Maeko might never have to deal with abuse in her life ever again."
+    
+    c"My parents aren't actually back home yet so I'll tell you what their response is when we walk to school."
+    a"Sounds good, goodnight Setsuko."
+    c"Goodnight Takeru."
+    "I'm a little worried with how Maeko is doing right now since she had to stay another night at her place, hopefully it's not to bad."
+    "My worry continues as I close my eyes and find it hard to put my feelings at rest."
+    "Tossing and turning in my bed until eventually my consciousness finds some peace."
+    
+    with dissolve
+    
+    jump Day7
