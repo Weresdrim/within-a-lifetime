@@ -18,11 +18,11 @@ label kunisetsu:
     "Somehow it feels so peaceful."
     "But there is nothing."
     "I can't tell how much time has passed."
-    "This sensation feels both instantaneous and as if it's lasted for millions of years at the same time."
-    "But eventually, it does end, as all things do."
+    "But I feel guided by this light at what feels like the edge of the universe."
+      
     
     scene white
-    with dissolve
+    with pixellate
     show Bedroom
     
     ###########
