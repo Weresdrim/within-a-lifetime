@@ -37,7 +37,7 @@ label kunisetsu:
     "Was that really just a dream?"
     "Again it's cold but I don't have time to deal with it today, I need to think about what happened last night."
     "Actually was it last night? The voice told me I could change what happened..."
-    "I check my clock, something that's equipped with both date and time."
+    "I check my clock."
     "It's March 3rd, same as yesterday... or today?"
     "So this means I've been sent back to the beginning of today."
     "Or did I really just imagine all of those things happening last night?"
@@ -53,7 +53,7 @@ label kunisetsu:
     "I push this to the back of my mind, while it is unsettling I have no evidence to think it's true."
     "So all I have to go off is what that voice said... I can save Kunikada, maybe that's the answer to this."
 
-    "But how will I do it... how can I save Kunikada?"
+    "But how will I do it, how can I save Kunikada?"
     "I don't think it's wise to put her anywhere near the pathway home, maybe if I can get her away from there she'll be safe."
     "I'm sure I'll figure out something today."
     "I quickly get my things and wait for Maeko to come to where she was yesterday."
@@ -81,7 +81,7 @@ label kunisetsu:
     
     show Convinience
     "We arrive at the convenience store, Maeko buys her melon bread."
-    "My mind has been drifiting from the conversation with Maeko quite a bit this morning, I'm too focused on how to save Kunikada."
+    "My mind has been drifiting from the conversation with Maeko quite a bit this morning, I'm too focused on how I can save Kunikada."
     "There are quite a few options aren't there? I can't be sure which is the best one without testing if it suceeds."
     "The real problem is there's no telling if time travel is still a possibility if I fail."
     "So far I have three ideas."
@@ -192,40 +192,25 @@ label maehome1:
     f"Quieten down class, we need to give our new student a chance to introduce herself."
     hide Classroom
     show SetsukoTop
-    "And Kunikada Setsuko entered, her presence is awfully eerie to me, seeing her alive here considering she was dead before."
     c"My name is Kunikada Setsuko."
     f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
     c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
 
     f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
     
-    "I keep watch of her as she sits beside me, she's obviously confused by my gaze."
+    "This time I'm prepared to catch Kunikada."
+    "I don't fell the necessity to change anything that happened here."
+    "So I let Kunikada fall into my arms, I catch her again."
+    "I hold her back, shoulder and head up, feeling her silky hair run down my arms to the floor."
+    "I catch myself staring at what I see as a corpse of a past life."
+    "It's awfully strange seeing her like this, still breathing."
+    "I can feel her heart beat, her chest moving up and down with the movement of her lungs."
+    "She's still very much alive right infront of me."
+    "Just about the exact same scenario follows until the end of school."
+    "The teacher once again asks for me to take Kunikada home today."
+    "Today is different, I don't have a choice between Maeko or Kunikada."
+    "Maeko might be important to me but Kunikada will die without my help, I'm sure of that."
     
-    f"Ichiro and Kunikada, I need you both to stay behind at lunch. I need to talk to you about something."
-    
-    hide SetsukoGall1
-    show Classroom
-    "Once everyone has left the class I go see the teacher with her"
-    
-    f"Okay so you two are probably wondering what's going on."
-    
-    "She nods, I do too but it's a lying nod."
-    
-    f"Well it's just Kunikada is new here so I thought it would be a good idea for you two to walk back home together, since you live in the same building."
-    
-    "We both look at each other, then back at the teacher."
-    
-    "I continue trying to imitate how I originally acted here."
-    
-    z"We do?!"
-    
-    f"Oh you didn't already know?"
-    
-    z"No."
-    
-    f"Well, now you do, I hope you'll be able to help her out."
-    
-    a"Yeah ok."
     
     scene white
     with dissolve
@@ -342,7 +327,31 @@ label undec1:
     ############################################
     
 label undeccon:
-    show Classroom
+       show Classroom
+    "I shuffle my feet into class 2-C with everyone else into homeroom. I'm awaiting the announcement about the new transfer student."
+    f"Class, we will be welcoming a new transfer student today so please make her feel at home"
+    "Again discussion arose but I took no part in it, I'd already been through it before."
+    f"Quieten down class, we need to give our new student a chance to introduce herself."
+    hide Classroom
+    show SetsukoTop
+    c"My name is Kunikada Setsuko."
+    f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
+    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
+
+    f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
+    
+    "This time I'm prepared to catch Kunikada."
+    "I don't fell the necessity to change anything that happened here."
+    "So I let Kunikada fall into my arms, I catch her again."
+    "I hold her back, shoulder and head up, feeling her silky hair run down my arms to the floor."
+    "I catch myself staring at what I see as a corpse of a past life."
+    "It's awfully strange seeing her like this, still breathing."
+    "I can feel her heart beat, her chest moving up and down with the movement of her lungs."
+    "She's still very much alive right infront of me."
+    "Just about the exact same scenario follows until the end of school."
+    "The teacher once again asks for me to take Kunikada home today."
+    "Today is different, I don't have a choice between Maeko or Kunikada."
+    "Maeko might be important to me but Kunikada will die without my help, I'm sure of that."
     with dissolve
     "I haven't paid attention in class at all today, I've been too busy searching for a plan."
     "But I think I might have one."
