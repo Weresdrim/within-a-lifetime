@@ -270,10 +270,11 @@ label maehome1:
     "I don't walk over this bridge too often, and it's been a while since I last did."
 
     b"You guys are lucky I didn't have a student council meeting today."
-    c"Oh, I didn't know you're our classes student council member..."
-    a"Oh you didn't know?"
-    c"No one told me..."
-    b"That's understandable, it's only your first day."
+    c"Oh, I didn't know you were our classes student council member..."
+    b"Don't worry about it, it's Takeru's fault for not mentioning it to you"
+    "Maeko gave me a fake glare, to which I rolled my eyes"
+    b"Well now that you know, you better remember"
+    c"Ah, I will"
     
     ###########
     #         #
