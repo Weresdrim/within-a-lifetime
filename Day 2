@@ -1,0 +1,408 @@
+   ############################################
+    #--> 2nd Try of first day
+    ############################################
+    
+label kunisetsu:
+    scene black
+    with pixellate
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "ambientdark1.mp3"
+    "I'm not too sure where I am right now."
+    "Somehow it feels so peaceful."
+    "But there is nothing."
+    "I can't tell how much time has passed."
+    "This sensation feels both instantaneous and as if it's lasted for millions of years at the same time."
+    "But eventually, it does end, as all things do."
+    
+    scene white
+    with dissolve
+    show Bedroom
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "spiritbird.mp3"
+    "I've awoke in my bedroom."
+    "Was that really just a dream?"
+    "Again it's cold but I don't have time to deal with it today, I need to think about what happened last night."
+    "Actually was it last night? The voice told me I could change what happened..."
+    "I check my clock, something that's equipped with both date and time."
+    "It's March 3rd, same as yesterday... or today?"
+    "So this means I've been sent back to the beginning of today."
+    "Or did I really just imagine all of those things happening last night?"
+    "Hold on, how is this happening?"
+    "I recall a voice last night, telling me I could change what had happened."
+    "I'm not really sure what happened after that."
+    
+    "I'm by no means a sci-fi fan but I do know a little about time travel."
+    "Although as far as I knew all of that was fiction."
+    "There are several theories regarding time travel and how it works."
+    "Of course they might all be wrong but I recall one of them about breaking off from a time line and creating a new one."
+    "Which means in some parallel universe Kunikada is still dead."
+    "I push this to the back of my mind, while it is unsettling I have no evidence to think it's true."
+    "So all I have to go off is what that voice said... I can save Kunikada, maybe that's the answer to this."
+
+    "But how will I do it... how can I save Kunikada?"
+    "I don't think it's wise to put her anywhere near the pathway home, maybe if I can get her away from there she'll be safe."
+    "I'm sure I'll figure out something today."
+    "I quickly get my things and wait for Maeko to come to where she was yesterday."
+    "I don't think it's safe to tell Maeko about me coming from a different time, and she probably wouldn't believe me anyway so I'll try to get her to help without mentioning it."
+    "And in just a few minutes Maeko does arrive at the same time as before, confirming this truly is a repeat of today."
+    "Or maybe I have oddly accurate dreams?"
+    "No that can't be it, the chances of me dreaming Maeko being here... she's never come here before school while I'm walking before."
+    show MaekoGall2
+    hide Bedroom
+    "Just like before, she's on the other side of the road."
+    "But do I do the same as I did yesterday?"
+    "It'd be an easy way to confirm whether that was a dream or not."
+    "But if it isn't, it means Kunikada will die once again."
+    "Arghh whatever."
+    a"Hey Maeko!"
+    "And yet again, she's flustered, now that I think about it she's kinda cute when she's embarrassed like this."
+    b"Hey Takeru..."
+    a"So, where are you headed so early this morning?"
+    b "Oh uhm... I'm just going for a bit of a longer walk before going to school... and I uhhh decided to go to the convenience store."
+    a"Alright, I'll join you on your walk, if that's ok with you."
+    hide MaekoGall2
+    show MaekoHap
+    b"Yeah, of course you can!"
+    hide MaekoHap
+    
+    show Convinience
+    "We arrive at the convenience store, Maeko buys her melon bread."
+    "My mind has been drifiting from the conversation with Maeko quite a bit this morning, I'm too focused on how to save Kunikada."
+    "There are quite a few options aren't there? I can't be sure which is the best one without testing if it suceeds."
+    "The real problem is there's no telling if time travel is still a possibility if I fail."
+    "So far I have three ideas."
+    "I could wait for Kunikada outside of the school gate to try to convince her to not go to school today. I'd tell her to turn back and go home immediately until tomorrow."
+    "She might not listen to me though, considering I'm a stranger."
+    "I could ask Maeko if we could stay at her place, but ever since her parents died I haven't be able to stay at her house, she had to move to her aunt and uncles place. Luckily it was in the same city so she didn't move too far."
+    "So that might not work either."
+    "Or I could wait to see if any other ideas pop up as the day plays out."
+    hide Convinience
+
+menu:
+    "Tell Kunikada to go home before school ends.":
+         jump kunihome
+
+    "Ask Maeko if we can stay at her place.":
+         jump maehome
+         
+    "Don't decide yet.":
+         jump undec
+
+label kunihome:
+    a "I'll tell Kunikada to go home."
+    jump kunihome1
+
+label maehome:
+    a"I'll ask Maeko if I can stay at hers tonight with Kunikada."
+    jump maehome1
+
+label undec:
+    a"I'll wait until I have a better idea."
+    jump undec1
+    
+label kunihome1:
+    
+    ############################################
+    #--> Convince Kunikada to go home
+    ############################################
+    a "I'll tell Kunikada to go home."
+    
+    "This could work, I'll just need to tell Maeko I'll be waiting for someone outside of the school gate."
+    "We continue walking back to school, due to my fastened walking pace we got their a little earlier than last time."
+    
+    "Out of the corner of her eye she saw me stop so she turned her head to inspect further."
+    b"Is something wrong? We should probably wait in class until school starts."
+    a"No it's ok, you go ahead, I'm waiting for someone."
+    "She gave a look of disappointment, as she did I remembered the words she never got to speak."
+    b"Alright then, I'll see you in class."
+    "It seems in a way she both wanted and didn't want to know who I was waiting for."
+    a"Yeah, see you there."
+    
+    "After a few minutes of searching the crowds of students entering the school I spot the purple headed transfer student I'm looking for."
+    "Now that the task is in front of me it's actually a little intimidating pulling out a random girl who doesn't know you from a crowd ."
+    "Especially if it's to talk to them alone."
+    
+    "Eventually I swallow my pride before it's too late and call out for her name while walking toward her in the midst of the scattered groups of students."
+    "She looks around in a confused fashion, probably wondering who called out for her name and where they are."
+    "And to her surprise she finds me looking for her."
+    
+    c"Sorry if you know me from somewhere but I can't seem to recall ever seeing you before."
+    c"I'm new to this school."
+    "I just realised I may have made a mistake, should I have called out her name...? I shouldn't know it at this point in time."
+    "I suppose there's no harm in using it to my advantage if I've already said it."
+    a"No that's right, you probably don't remember me."
+    a"But anyway I have something extremely important to tell you."
+    "She stands still, a little creeped out by this strange person who's new to her."
+    "However, she still seems intrigued waiting for my explanation so I continue with the same integrity as before."
+    a"You need to head back home right now, start school tomorrow."
+    c"Huh, why? I don't want to miss my first day."
+    a"It's not safe for you right now, please just listen to what I have to say."
+    c"Sorry but I can't just miss my first day at school, I can't go back home or I'll get into trouble from my parents."
+    "She turns and walks away before I get a chance to say another word."
+    "It's dissappointing that she didn't listen to me but it does make sense, I don't think I'd trust some stranger telling me to go home on my first day."
+    "Maybe I'll find some other way to get her out of danger."
+    jump undeccon
+
+label maehome1:
+    
+    ############################################
+    #--> Bridge Walk
+    ############################################
+    
+    "This could work, I'll just need to ask Maeko about it."
+    "We continue walking back to school, we got their a little earlier than last time due to me walking faster than usual."
+    "Before Maeko gets the opportunity to tell me to meet her alone I quickly stop her to talk to her directly."
+    "I've been thinking about how to get Maeko to go along with my plan, even if it does involve a few lies it'll all be to save Kunikada."
+    a"Maeko I have an old friend transferring into the school today and she's having problems at home. She wasn't particularly happy with transferring so she's been arguing with her parents and doesn't feel comfortable at home."
+    a"I'm sure she'll get over it she just needs a place to stay tonight."
+    a"So I was wondering if you'd be ok with me and her coming over to your house."
+    b"You... want to stay at my place?!"
+    "Her voice trembled in disbelief and excitement."
+    b"Can't she stay at yours?"
+    a"We actually live in the same building and our parents know each other so it'd be hard to get away with that."
+    a"Your aunt and uncle are usually against having friends of yours over though aren't they?"
+    b"Well actually they're away on a holiday right now with my cousins, I was left behind."
+    a"Wow they just left you behind like that?"
+    b"It's ok really, they need someone to look after the house and it's not like I'm their real child so I don't expect them to take me on holidays as well as giving me a place to stay."
+    a"Just because they had to take you in doesn't mean you have to put up with that sort of thing."
+    b"Please don't worry about it."
+    b"The important thing is I can have you guys stay over since no one is home, so you're in luck."
+    b"Just remember you owe me one!"
+    a"Yeah of course, thank you so much!"
+    
+    "Nice, I'm making progress, now I just have to convince Kunikada to come with me after school."
+    show Classroom
+    "I shuffle my feet into class 2-C with everyone else into homeroom. I'm awaiting the announcement about the new transfer student."
+    f"Class, we will be welcoming a new transfer student today so please make her feel at home"
+    "Again discussion arose but I took no part in it, I'd already been through it before."
+    f"Quieten down class, we need to give our new student a chance to introduce herself."
+    hide Classroom
+    show SetsukoTop
+    "And Kunikada Setsuko entered, her presence is awfully eerie to me, seeing her alive here considering she was dead before."
+    c"My name is Kunikada Setsuko."
+    f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
+    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
+
+    f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
+    
+    "I keep watch of her as she sits beside me, she's obviously confused by my gaze."
+    
+    f"Ichiro and Kunikada, I need you both to stay behind at lunch. I need to talk to you about something."
+    
+    hide SetsukoGall1
+    show Classroom
+    "Once everyone has left the class I go see the teacher with her"
+    
+    f"Okay so you two are probably wondering what's going on."
+    
+    "She nods, I do too but it's a lying nod."
+    
+    f"Well it's just Kunikada is new here so I thought it would be a good idea for you two to walk back home together, since you live in the same building."
+    
+    "We both look at each other, then back at the teacher."
+    
+    "I continue trying to imitate how I originally acted here."
+    
+    z"We do?!"
+    
+    f"Oh you didn't already know?"
+    
+    z"No."
+    
+    f"Well, now you do, I hope you'll be able to help her out."
+    
+    a"Yeah ok."
+    
+    scene white
+    with dissolve
+    "The bell rings signalling the end of class, I walk with Kunikada to the front gate where Maeko is waiting."
+    a"Kunikada I need to tell you something about how we're getting home today."
+    c"Huh, is there a problem?"
+    a"Well I had actually planned to stay at Maeko's place to study tonight."
+    "I'd been thinking through school how I'd convince her to come with me and this was the best I came up with."
+    "She looks a little unimpressed, expecting an escort home instead of going to someone elses house."
+    "Damn, did I mess up?! Things aren't looking good, I need to tell her something more!"
+    a"So I thought it would be a good idea for you to come too, we can teach you a bit about the school and maybe catch you up on some work we've been doing in class so far."
+    "I thought maybe this effort was a little hopeless but then..."
+    c"Alright, sounds fun, I'll just call my Mum and tell her I'm staying over at a friends tonight."
+    "Success!"
+    "There is a world where Kunikada lives!"
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "Sunshine2.mp3"
+    "And just as our discussion ends we reach Maeko."
+    a"Hey Maeko."
+    "She nudges me, signalling in the direction of Kunikada, trying to get an introduction."
+    "I'm a little embarrassed that I forgot such a basic thing"
+    a"Maeko, this is Kunikada Setsuko."
+    a"And Kunikada, this is Kotaru Maeko."
+    
+    "They both smile at each other, a little awkward at first but Maeko breaks the silence quickly."
+    b"Nice to meet you!"
+    c"You too."
+    b"Well then, shall we leave?"
+    
+    "And with that, we make our first steps together as three from the school."
+    
+    "It takes around the same time to get from school to Maeko's house as it does to mine if my memory serves correctly."
+    "There is a bridge on that side however that is needed to be crossed to get to the other side of town."
+    
+    b"So Kunikada, did you enjoy your first day?"
+    c"Yeah I like it here, I've been to a few schools in the past and this one has had one of the better first impressions."
+    b"It sounds like you've had some pretty bad first days..."
+    "Kunikada doesn't respond for a moment, then continues."
+    c"It's fun to walk with friends like this isn't it? I was a little scared to go with you guys, but I'm glad I did in the end."
+    a"Yeah, it is nice."
+    "We make it to the bridge."
+    show Bridge
+
+    "I don't walk over this bridge too often, and it's been a while since I last did."
+
+    b"You guys are lucky I didn't have a student council meeting today."
+    c"Oh, I didn't know you're our classes student council member..."
+    a"Oh you didn't know?"
+    c"No one told me..."
+    b"That's understandable, it's only your first day."
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "isleofdoom.mp3"
+    "Halfway through walking along the bridge I notice a strange figure approaching us, not making too much of an effort to conceal himself."
+    "Maeko noticed too, she seemed uncomfortable in his presence."
+    "Maeko moved closer to me."
+    "She lifts her hand and points in the direction of the man."
+    b"Who is that guy?"
+    "She whispered in my ear, sounding scared."
+    "Kunikada continued walking as normal. Not yet noticing the man."
+    "His hand reaches into his side, and he pulls out a pistol."
+    "I quickly grab Kunikada by the hand and turned her around."
+    "Maeko who's now holding onto me gets the idea and runs with me."
+    "Ours hearts pounding, quickly, almost synchronised."
+    "We kept running back the way we had came, ten metres, then twenty. then thirty..."
+    "I heard a gunshot... and then a thump on the pavement..."
+    "then Kunikada's grip weakened... she was on the floor."
+    "completely lifeless."
+    "Wait a second... don't tell me that's the guy from before!... the one who killed Kunikada!"
+    "I stopped in my tracks, and turned, Maeko did the same."
+    b"Takeru what are you doing?! We have to get away now!"
+    a"Kunikada's been shot Maeko, I have to turn back!"
+    b"Takeru that's suicidal! Don't let your emotions get in the way of reality!"
+    a"No... I have to."
+    "Despite Maeko's disagreement she still stands by me."
+    "Then the masked man pointed his pistol in the direction of Maeko."
+    "Maeko stood there paralysed, unable to move any limb or make any sound."
+    "I quickly stepped in front of her, blocking any attempt to kill her if one was made."
+    "I could probably attempt to reset today right now but I want to see what this guy's deal is."
+    "He kept his finger on the trigger and his sights on me for what felt like an eternity but was probably less than 10 seconds."
+    "Then he lowered his weapon."
+    "Without warning he jumped off the bridge into the river below."
+    "Maeko was still too shocked to react."
+    "I put my head out over the river to check where he landed, the strange thing is there was no sign of him being there."
+    "With Kunikada dead there isn't much point staying here."
+    "I attempt to concentrate my power."
+    "And with some luck my hands begin to glow."
+    "And again, I try."
+    hide Bridge
+    jump secondtry
+
+    return
+
+label undec1:
+    a"I'll wait until I have a better idea."
+    "I don't think either of these ideas are too reliable so maybe I can try figuring something else later."
+    jump undeccon
+    
+    ############################################
+    #--> Not sure
+    ############################################
+    
+label undeccon:
+    show Classroom
+    with dissolve
+    "I haven't paid attention in class at all today, I've been too busy searching for a plan."
+    "But I think I might have one."
+    "It might still be safe to get Kunikada home, only she can't be seen by whoever is chasing her down."
+    "Maybe I could call up a taxi and get us home quickly without being seen out in an open place walking."
+    "I look up a taxi number on my phone."
+    "Now I just have to wait until school is over."
+    hide Classroom
+    "I get Kunikada to come with me as we head to the front gate."
+    a"We're going to get a taxi home today."
+    c"Huh? Why... do you usually? It's not that long of a walk, right?"
+    a"Yes, you're right but I need to get somewhere quickly today and I can't just leave you out on your own not knowing how to get home."
+    c"Alright then... just walk me home tomorrow then ok?"
+    a"Yeah, sure thing."
+    "I call the taxi company I looked up earlier and one arrives shortly."
+    "I have enough money in my bag to pay but I'm still a little annoyed that I have to spend my money like this."
+    "I suppose it's for Kunikada's life so I shouldn't be complaining."
+    
+    "We both get in."
+    t"So, where're you two headed off to?"
+    a"We need to get home, it's not too far away so I'll just direct you where to go."
+    t"Alright, sure thing."
+    a"So just head down this lane... take a left here... go around the roundabout 2nd exit..."
+    "After giving many more directions you could say things went in a bit of the wrong direction..."
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+    play music "isleofdoom.mp3"
+    with hpunch
+    "The glass of the windshield shattered, then the driver fell forward."
+    "Had we hit something?!"
+    with vpunch
+    "Kunikada was screaming."
+    "I couldn't tell much else of what was happening before the the car swerved into the building up the footpath."
+    with hpunch
+    "Surprisingly I didn't black out from the impact but I was visibly shaken, I checked for injuries on myself but I was pretty much fine apart from a few scratches from the glass."
+    "I quickly checked to the side to see if Kunikada was ok, she seemed alright too, but upon further inspection she was bleeding from her forehead."
+    "I checked the driver seat, I was shocked to see the driver dead, with a bullet hole in the head."
+    "No, not again..."
+    "I quickly pull the handle on the door and push, it won't open."
+    with hpunch
+    "I try a second time with a kick and the door swings open after some effort."
+    with hpunch
+    "But then I hear the other door open behind me, it was the same man who killed the driver."
+    "Before I had a chance to turn around the man had already grabbed hold of Kunikada by the arm."
+    "He swung her out of the car and took the gun he was holding and put it to her head."
+    "After the crash Kunikada wasn't completely conscious and didn't put up much of a struggle, and even if she had tried it probably would've been futile."
+    "I put my hand out and rushed toward her to stop him from shooting her."
+    "The gun had already fired before I could reach him."
+    "And there, once again was Kunikada, her limp body lying completely lifeless."
+    "No no no no no! I can't accept this, how can this guy find us like this?!"
+    "Expecting my life to be in danger next I thought he'd aim at me next."
+    "Instead he walked away from the car, looking like he didn't care about anything."
+    "I've failed... can I try again?"
+    "I try to concentrate on my power, I can't really explain it even to myself."
+    "But sure enough my hands start glowing, I'm in luck."
+    "Again I must try."
+    jump secondtry
