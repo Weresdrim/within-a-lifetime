@@ -147,38 +147,9 @@ label secondtry:
     show SetsukoGall1
     "And Kunikada Setsuko entered, I won't fail this time, this is the face of the girl I have a duty to protect."
     c"My name is Kunikada Setsuko."
-    f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
-    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
-
-    f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
-    
-    "The exact same lines ran by as before."
-    
-    f"Ichiro and Kunikada, I need you both to stay behind at lunch. I need to talk to you about something."
-    
-    hide SetsukoTop
-    show Classroom
-    "Once everyone has left the class I go see the teacher with her."
-    
-    f"Okay so you two are probably wondering what's going on."
-    
-    "She nods, I do the same."
-    
-    f"Well it's just Kunikada is new here so I thought it would be a good idea for you two to walk back home together, since you live in the same building."
-    
-    "We both look at each other, then back at the teacher."
-    
-    "I continue trying to imitate how I originally acted here."
-    
-    z"We do?!"
-    
-    f"Oh you didn't already know?"
-    
-    z"No."
-    
-    f"Well, now you do, so I hope you can help her out."
-    
-    "I respond in agreement."
+    "Again moments pass and I hold her in my arms, how can I lose this so easily?"
+    "I imitate my previous actions in taking Kunikada to the infirmary and talking to my teacher."
+    with dissolve
     
     "Now for the rest of the day I'll need to figure out how to lure the killer out to get him away from Kunikada. In the worst case scenario I may have to kill him."
     
