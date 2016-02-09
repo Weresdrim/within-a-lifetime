@@ -61,8 +61,8 @@ label kunisetsu:
     "And in just a few minutes Maeko does arrive at the same time as before, confirming this truly is a repeat of today."
     "Or maybe I have oddly accurate dreams?"
     "No that can't be it, the chances of me dreaming Maeko being here... she's never come here before school while I'm walking before."
-    show MaekoGall2
     hide Bedroom
+    show MSReg at center
     "Just like before, she's on the other side of the road."
     "But do I do the same as I did yesterday?"
     "It'd be an easy way to confirm whether that was a dream or not."
@@ -70,14 +70,15 @@ label kunisetsu:
     "Arghh whatever."
     a"Hey Maeko!"
     "And yet again, she's flustered, now that I think about it she's kinda cute when she's embarrassed like this."
+    show MSEmba at center
     b"Hey Takeru..."
     a"So, where are you headed so early this morning?"
     b "Oh uhm... I'm just going for a bit of a longer walk before going to school... and I uhhh decided to go to the convenience store."
     a"Alright, I'll join you on your walk, if that's ok with you."
-    hide MaekoGall2
-    show MaekoHap
+   
+    show MSHap at center
     b"Yeah, of course you can!"
-    hide MaekoHap
+    hide MSHap
     
     show Convinience
     "We arrive at the convenience store, Maeko buys her melon bread."
@@ -91,6 +92,7 @@ label kunisetsu:
     "So that might not work either."
     "Or I could wait to see if any other ideas pop up as the day plays out."
     hide Convinience
+    scene
 
 menu:
     "Tell Kunikada to go home before school ends.":
@@ -125,12 +127,14 @@ label kunihome1:
     "We continue walking back to school, due to my fastened walking pace we got their a little earlier than last time."
     
     "Out of the corner of her eye she saw me stop so she turned her head to inspect further."
+    show MSReg at center
     b"Is something wrong? We should probably wait in class until school starts."
     a"No it's ok, you go ahead, I'm waiting for someone."
     "She gave a look of disappointment, as she did I remembered the words she never got to speak."
     b"Alright then, I'll see you in class."
     "It seems in a way she both wanted and didn't want to know who I was waiting for."
     a"Yeah, see you there."
+    hide MSReg
     
     "After a few minutes of searching the crowds of students entering the school I spot the purple headed transfer student I'm looking for."
     "Now that the task is in front of me it's actually a little intimidating pulling out a random girl who doesn't know you from a crowd ."
@@ -140,12 +144,15 @@ label kunihome1:
     "She looks around in a confused fashion, probably wondering who called out for her name and where they are."
     "And to her surprise she finds me looking for her."
     
+    show KSReg at center
+    
     c"Sorry if you know me from somewhere but I can't seem to recall ever seeing you before."
     c"I'm new to this school."
     "I just realised I may have made a mistake, should I have called out her name...? I shouldn't know it at this point in time."
     "I suppose there's no harm in using it to my advantage if I've already said it."
-    a"No that's right, you probably don't remember me."
-    a"But anyway I have something extremely important to tell you."
+    a"No that's alright, you probably don't remember me."
+    a"Anyway I have something extremely important to tell you."
+    show KSUnc at center
     "She stands still, a little creeped out by this strange person who's new to her."
     "However, she still seems intrigued waiting for my explanation so I continue with the same integrity as before."
     a"You need to head back home right now, start school tomorrow."
@@ -156,6 +163,7 @@ label kunihome1:
     "It's dissappointing that she didn't listen to me but it does make sense, I don't think I'd trust some stranger telling me to go home on my first day."
     "Maybe I'll find some other way to get her out of danger."
     jump undeccon
+    scene
 
 label maehome1:
     
@@ -167,11 +175,14 @@ label maehome1:
     "We continue walking back to school, we got their a little earlier than last time due to me walking faster than usual."
     "Before Maeko gets the opportunity to tell me to meet her alone I quickly stop her to talk to her directly."
     "I've been thinking about how to get Maeko to go along with my plan, even if it does involve a few lies it'll all be to save Kunikada."
+    show MSReg at center
     a"Maeko I have an old friend transferring into the school today and she's having problems at home. She wasn't particularly happy with transferring so she's been arguing with her parents and doesn't feel comfortable at home."
-    a"I'm sure she'll get over it she just needs a place to stay tonight."
+    a"I'm sure she'll get over it, she just needs a place to stay for tonight."
     a"So I was wondering if you'd be ok with me and her coming over to your house."
+    show MSEmba at center
     b"You... want to stay at my place?!"
     "Her voice trembled in disbelief and excitement."
+    show MSReg at center
     b"Can't she stay at yours?"
     a"We actually live in the same building and our parents know each other so it'd be hard to get away with that."
     a"Your aunt and uncle are usually against having friends of yours over though aren't they?"
@@ -183,6 +194,7 @@ label maehome1:
     b"The important thing is I can have you guys stay over since no one is home, so you're in luck."
     b"Just remember you owe me one!"
     a"Yeah of course, thank you so much!"
+    scene
     
     "Nice, I'm making progress, now I just have to convince Kunikada to come with me after school."
     show Classroom
@@ -216,6 +228,7 @@ label maehome1:
     with dissolve
     "The bell rings signalling the end of class, I walk with Kunikada to the front gate where Maeko is waiting."
     a"Kunikada I need to tell you something about how we're getting home today."
+    show KSReg at center
     c"Huh, is there a problem?"
     a"Well I had actually planned to stay at Maeko's place to study tonight."
     "I'd been thinking through school how I'd convince her to come with me and this was the best I came up with."
@@ -224,8 +237,10 @@ label maehome1:
     a"So I thought it would be a good idea for you to come too, we can teach you a bit about the school and maybe catch you up on some work we've been doing in class so far."
     "I thought maybe this effort was a little hopeless but then..."
     c"Alright, sounds fun, I'll just call my Mum and tell her I'm staying over at a friends tonight."
+    scene
     "Success!"
     "There is a world where Kunikada lives!"
+    
     
     ###########
     #         #
@@ -236,6 +251,7 @@ label maehome1:
     
     play music "Sunshine2.mp3"
     "And just as our discussion ends we reach Maeko."
+    show MSReg at center
     a"Hey Maeko."
     "She nudges me, signalling in the direction of Kunikada, trying to get an introduction."
     "I'm a little embarrassed that I forgot such a basic thing"
@@ -244,7 +260,10 @@ label maehome1:
     
     "They both smile at each other, a little awkward at first but Maeko breaks the silence quickly."
     b"Nice to meet you!"
+    show KSReg at center
     c"You too."
+    hide KSReg
+    show MSReg at center
     b"Well then, shall we leave?"
     
     "And with that, we make our first steps together as three from the school."
@@ -252,29 +271,48 @@ label maehome1:
     "It takes around the same time to get from school to Maeko's house as it does to mine if my memory serves correctly."
     "There is a bridge on that side however that is needed to be crossed to get to the other side of town."
     
+    show MSReg at center
     b"So Kunikada, did you enjoy your first day?"
+    hide MSReg
+    show KSReg at center
     c"Yeah I like it here, I've been to a few schools in the past and this one has had one of the better first impressions."
+    hide KSReg
+    show MSReg at center
     b"It sounds like you've had some pretty bad first days..."
     "Kunikada doesn't respond for a moment, then continues."
+    hide MSReg
+    show KSReg at center
     c"It's fun to walk with friends like this isn't it? I was a little scared to go with you guys, but I'm glad I did in the end."
     a"Don't you do this often?."
     c"Well, I've never really had proper friends before..."
     a"Oh, I'm sorry"
     c"Don't be, you couldn't have known that"
+    hide KSReg
+    show MSReg at center
     b"Well that doesn't matter because you have us now, right?"
     "Maeko gave a wide smile which Kunikada tentatively returned"
     "All was well"
     "We make it to the bridge."
+    scene
     show Bridge
 
     "I don't walk over this bridge too often, and it's been a while since I last did."
+    
+    show MSReg at center
 
-    b"You guys are lucky I didn't have a student council meeting today."
+    b"We're lucky I didn't have a student council meeting today."
+    hide MSReg
+    show KSReg at center
     c"Oh, I didn't know you were our classes student council member..."
+    hide KSReg
+    show MSReg at center
     b"Don't worry about it, it's Takeru's fault for not mentioning it to you"
     "Maeko gave me a fake glare, to which I rolled my eyes"
     b"Well now that you know, you better remember"
+    hide MSReg
+    show KSReg
     c"Ah, I will"
+    hide KSReg
     
     ###########
     #         #
@@ -288,7 +326,9 @@ label maehome1:
     "Maeko noticed too, she seemed uncomfortable in his presence."
     "Maeko moved closer to me."
     "She lifts her hand and points in the direction of the man."
+    show MSUnc at center
     b"Who is that guy?"
+    hide MSUnc
     "She whispered in my ear, sounding scared."
     "Kunikada continued walking as normal. Not yet noticing the man."
     "His hand reaches into his side, and he pulls out a pistol."
@@ -301,9 +341,11 @@ label maehome1:
     "completely lifeless."
     "Wait a second... don't tell me that's the guy from before!... the one who killed Kunikada!"
     "I stopped in my tracks, and turned, Maeko did the same."
+    show MSUnc at center
     b"Takeru what are you doing?! We have to get away now!"
     a"Kunikada's been shot Maeko, I have to turn back!"
     b"Takeru that's suicidal! Don't let your emotions get in the way of reality!"
+    hide MSUnc
     a"No... I have to."
     "Despite Maeko's disagreement she still stands by me."
     "Then the masked man pointed his pistol in the direction of Maeko."
