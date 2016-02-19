@@ -93,7 +93,7 @@ label Day6:
     "But Maeko is the only one outside of my family who does that."
     "Well, she's not the only one anymore."
     
-    c"You know Takeru I was thinking, I've been wondering what club I should join at school."
+    c"You know Takeru, I've been thinking, what club do you think I should join at school."
     c"None of the existing clubs really interest me at the moment, and you're not involved in any of them are you?"
     a"That's right, I'm clubless."
     c"Well I thought maybe I could make my own club, and you could help me."
@@ -119,7 +119,7 @@ label Day6:
     with fade
     
     "Without any verbal cue Kunikada, or Setsuko rather, left for the stairs to the roof."
-    "I did the same right behind her."
+    "I did the same."
     "I suppose yesterday must've made the idea that this was our normal place to eat lunch now."
     "I wanted to ask her about Maeko anyway and it's not as if I dislike Setsuko's company."
     "We sat down together right beside each other."
@@ -135,7 +135,7 @@ label Day6:
     #--> Playful classmate
     ############################################
     
-    "Class resumed and one of my guy friends started talking to me."
+    "Class resumed and one of my friends started talking to me."
     "His name is Uchida."
     g"Hey Ichiro, you've been acting quite friendly with Kunikada recently."
     g"Are you guys seeing each other or something?"
@@ -168,26 +168,32 @@ label Day6:
     "Wait, does she have an abusive boyfriend or something?"
     "I would've thought she'd tell me about having a boyfriend."
     "I suppose it's not really my business anyway."
-    "I thought about this while climbing up the stairs and found Setsuko cheerfully greeting me at the top, her sweet smile swept my mind of all previous worries as we ate lunch together."
+    "Even so, something doesn't feel right."
+    "Something was going on, something bad."
+    "A familiar feeling came rushing through me."
+    "Just like that time, all those years ago.."
+    "My best friend was in trouble"
+    "I thought about this while climbing up the stairs and found Setsuko cheerfully greeting me at the top, her sweet smile distracting me from my thoughts momentarily."
     
     with fade
     
-    "I'd just made my way back from school, I have time to think about what's my next move from here as far as time is concerned."
-    "Things happened yesterday, I don't know what but it's worse than I'd hoped."
+    "I'd just made my way back from school, I have time to think about what my next move from here should be, as far as time is concerned."
+    "Things happened yesterday, I don't know what, but it's worse than I'd hoped."
     "Something happened to Maeko that stopped her from coming to school."
-    "And something happened that cause Setsuko to be more friendly toward me."
-    "Do I continue from here, things seem ok... well for me at least."
+    "And something happened that caused Setsuko to be more friendly toward me."
+    "Do I continue from here?"
+    "Things seem ok... well for me at least."
     "What happened to Maeko?"
     "Waiting until tomorrow can't hurt, I'll see if she comes to school then."
-    "Maybe I'll even leave earlier and walk to her place first."
+    "Maybe I'll even leave earlier and walk to her place beforehand."
     "I'd have to tell Setsuko first though, that I won't be walking with her in the morning."
-    "I walk out onto my balcony, Setsuko is right next door so I just texted her and told her to come to her balcony."
+    "I walk out onto my balcony, Setsuko is right next door so I just texted her and told her to come onto hers as well."
     "I could've yelled but I would've disturbed half the building if I had."
     "After a short while she came out to meet me."
     a"I can't walk with you tomorrow morning ok?"
     c"Huh? Why?"
     "She seemed much more disappointed than I had first anticipated."
-    a"I want to leave early to check if Maeko's alright, she's seemed weird lately and was away yesterday."
+    a"I want to leave early to check if Maeko's alright, she's been acting strangely, and ."
     c"Uhh Takeru that might not be the best idea."
     a"What, why not?"
     c"You know, you saw yesterday..."
