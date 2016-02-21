@@ -39,7 +39,7 @@ define a2 = Character('Dark Figure', colour= "#000000")
 
 image Setsuko = "SetsukoImp.png"
 image Maeko = "MaekoImp.png"
-image MSEmba = "MSEmba.png"
+image MSEmb = "MSEmb.png"
 image MSReg = "MSReg.png"
 image MSHap = "MSHap.png"
 image SetsukoTop = "SetsukoTop.png"
@@ -58,11 +58,14 @@ image School = "School.png"
 image SetsukoGall2 = "SetsukoGall2.png"
 image MaekoGall3 = "MaekoGall3.png"
 image Kitchen = "Kitchen.png"
+image Bloodover = "Bloodover.png"
+image KSReg = "KSReg.png"
 
 image SetsukoReg = "SetsukoReg.png"
 
 image sky = "#7ec0ee"
 image sun = "#ee742b"
+image white = "#4C454E"
 
 
 # The game starts here.
@@ -90,6 +93,7 @@ label start:
     "I pull it to the side without getting out of bed, allowing the light to pour freely into every corner of my room."
     
     show Bedroom
+
     with wiperight
     
     "What time is it?"
@@ -114,9 +118,9 @@ label start:
     
     "Why should I have to give up something so warm? All to just go to school."
     
-    "The cold air embraces me, but I don't embrace back, it's uncomfortable."
+    #"The cold air embraces me, but I don't embrace back, it's uncomfortable."
     
-    "Finding the power to get out of bed wasn't an easy task despite the amount of times I'd done it before, but I manage to gain a hold on the floor in the end."
+    "I find the energy and urge my legs to bring the rest of my body to a stand."
     
     with dissolve
     
@@ -131,14 +135,14 @@ label start:
     
     "Every morning, having to get ready. What a pain."
     
-    "I put on my uniform and pack my bag, I've still got plenty of time so I won't skip breakfast today."
+    "I spend a few minutes getting dressed and packing my bag."
+    
+    "I suppose I've still got plenty of time for breakfast so I won't skip it today."
     
     hide Bedroom
     show Kitchen
     
     "It looks like nobody is up yet, understandable being 6:00am."
-    
-    "I check the pantry and fridge for food."
     
     "Urghhh, cereal."
     
@@ -156,7 +160,7 @@ label start:
     
     "I step outside onto the footpath, with an empty road ahead of me."
     
-    "The mountains ahead of me bursts full of light as the sun just breaks the horizon."
+    "The mountains ahead burst full of light as the sun just breaks the horizon."
     
     "The sight blinded me, I never see the sun at this angle at the time I usually wake up."
     
@@ -172,7 +176,7 @@ label start:
     
     "The modern buildings towering around me have all been built fairly recently to accomodate for the growing population of Mirako City."
     
-    "I miss my old home, it had been replaced with these new developments just a few years back."
+    "As I think about this I'm reminded of my old home. I used to live in a small house until it was demolished for this apartment complex."
     
     #"People have thought that I'm rich, just from judging the buildings, but it's actually the opposite."
     
@@ -184,7 +188,7 @@ label start:
     
     #"But I barely notice the difference from day to day."
     
-    "I usually end up in a day-dream like state as I walk to school. Every morning is more or less the same."
+    "Every morning is more or less the same."
     
     "It's even worse when I'm still tired from lack of sleep."
     
@@ -201,7 +205,7 @@ label start:
     "She's in a school uniform."
     "It's one from my school actually."
     
-    "My vision begins to focus as I got closer and began to concentrate."
+    "My vision begins to focus as I get closer and begin to concentrate."
     
     #show MaekoGall1
     with dissolve
@@ -214,7 +218,7 @@ label start:
     
     play music "love.mp3"
     show MSReg
-    "Oh it's Kotaru Maeko."
+    "Oh it's Maeko."
     
     "Hold on, isn't that strange?"
     
@@ -229,7 +233,7 @@ label start:
     "It looks like she hasn't noticed me yet."
     
 menu:
-    "I should call out to her.":
+    "Call out to her.":
          jump callout
 
     "Avoid her and keep walking to school.":
@@ -279,7 +283,7 @@ label callout:
     
     
 label back1:
-    show MSEmba at center
+    show MSEmb at center
     b "Hey Takeru..."
     
     a "Are you alright?"
@@ -290,18 +294,12 @@ label back1:
     
     "I don't want to make her uncomfortable by confronting her but the urge to know what she's doing overpowers that."
     
-    b"Oh uhm... I'm just going for a bit of a longer walk before going to school... and I uhhh decided to go to the convenience store."
-    b"I thought I should start getting fit!"
+    b"Oh uhm... I'm just going for a bit of a longer walk before going to school... but I uhhh... forgot breakfast this morning.."
+    b"So now I'm heading to the convenience store."
     
-    a"Isn't going to the convenience store a little counter productive then?"
+    a"Really? You came all this way? It's a forty minute walk from your house to here."
     
     b"Oh... ermmm..."
-    
-    "I'm well aware there are plenty of convenience stores around her house and I know she knows I know that too."
-    
-    "Maeko isn't stupid, and I trust her, so there's not much point in calling her out to be a liar."
-    
-    "Even if she is lying, it shouldn't harm me if I don't know."
     
     a"Ah sorry, forget about what I said. How about we get going then?"
     show MSReg at center
@@ -313,10 +311,11 @@ label back1:
     b"No! Not at all!"
     
     "We're both heading in the same direction so I don't see why we can't walk to school together."
-    "She sounds happy to be walking with me too."
+    "Though the look on her face was a little uneasy when she said I could."
    
     "So we began to walk, side by side. I could hear our footsteps in unison."
     "Our school shoes made a distinct noise on the pavement."
+    "But still, no other students were around yet."
    
     hide MaekoGall1
     
@@ -370,7 +369,7 @@ label back1:
     
     b "I'm so glad this place is heated!"
     
-    "Maeko had a look around and in the end picked up a melon bread."
+    "Maeko searchs for a while but eventually picks up a melon bread."
     "I know that melon bread is one of Maeko's favourites from we were kids."
     "I wait by the entrance for Maeko without triggering the automatic door to avoid letting in cold air."
     hide Convinience
@@ -379,13 +378,13 @@ label back1:
     "Maeko walked to the counter to pay for the melon bread, the store was empty right now apart from the store clerk and us so she didn't have to wait in line."
     "She went to reach for her money in her schoolbag until..."
     hide MSReg
-    show MSEmba at center
+    show MSEmb at center
     "She turns around to face and then walk toward me."
     b "Oh whoops, I forgot my money! Do you have any on you Takeru? I'll pay you back."
     "Seriously? Who goes to the convenience store without any money?"
     "Despite that I'm still obliged to help her out, although somewhat regrettably."
     a "Yeah I do, don't worry about paying it back though."
-    hide MSEmba
+    hide MSEmb
     show MSHap at center
     
     b "Thank you!"
@@ -468,6 +467,8 @@ label back1:
     c"I just moved here, my Dad's work brought him to this town and as a result brought me too, so I'm pleased to meet you all!"                                                                                                
     "Luckily she handled the situation quite well and avoided making the atmosphere any worse."
     f"Alright class, make sure you make Kunikada feel welcome. You may take your seat now, Kunikada."
+    hide SetsukoGall1
+    show Classroom
     
     "Kunikada searches for a moment for her seat, she finds the only seat left. The one next to mine."
     "As she walks toward her desk I notice her face, it's quickly growing paler and paler."
@@ -486,6 +487,9 @@ label back1:
     "I could feel my face growing red."
     a"Can you stand?"
     "Kunikada nods again and tries to move upright with my help."
+    hide Classroom
+    show white
+    show KSReg
     "I grab her arm and put it around my neck to support her weight as we walk out of the classroom into the empty hall."
     "As we walk it seems her condition is improving."
     "She's slowly leaning on me less and less, trying to bear her own weight."
@@ -513,7 +517,7 @@ label back1:
     c"I should be back by fourth period."
     a"Sounds good. I'll see you then."
     
-    hide SetsukoGall1
+    hide KSReg
     
     show Classroom
     "The rest of class is uneventful, the same as always."
@@ -598,7 +602,7 @@ label maeko2:
     show sky
     with dissolve
     
-    show SetsukoReg at center
+    show KSReg at center
     a"Hey Kunikada."
     c"Hi... your name is Ichiro right?"
     a"Yeah that's right."
@@ -607,7 +611,7 @@ label maeko2:
     c"Hmmm... I suppose I could..."
     a"Alright, that's good then, I need to go now, bye!"
 
-    hide SetsukoReg at center
+    hide KSReg at center
 
     with dissolve
     
@@ -615,7 +619,7 @@ label maeko2:
     a"Hey Maeko!"
     b"Hey Takeru!"
     a"So, what did you want to talk to me about?"
-    show MSEmba at center
+    show MSEmb at center
     b"Oh uhmmm... hmmmm...."
     "She looked even more flustered than this morning, what is she going to say?"
     b"I... uhhh...."
@@ -641,7 +645,7 @@ label maeko2:
     a"It's beautiful isn't it?"
     "She stands still staring up at the sky."
     "Somehow, I feel tension in the atmosphere around her."
-    show MSEmba
+    show MSEmb
     b"Well Takeru, I've been thinking for a while now..."
     "Wait, this isn't a confession is it?!"
     b"that I really, really..."
@@ -784,14 +788,14 @@ label kuni2:
     a "What Maeko wants to tell me can wait, I need to help out Kunikada because she's new to the school and the town."
     a "Hopefully Maeko isn't too mad, I'll send her a message."
     
-    scene white
+    show white
     with dissolve
     
     a "I've been assigned with walking Kunikada home today since we live in the same building, you'll have to wait until tomorrow to tell me what you wanted to tell me, I'm sorry."
     "I wait a few minutes but there's no response from Maeko."
     "Maybe she just hasn't seen it yet."
     "I'm not entirely sure where Kunikada is waiting for me but I figure she's probably at the front gate."
-    show SetsukoTop
+    show KSReg
     "And sure enough, she is."
     a"Hey Kunikada."
     c"Hey... you're Ichiro right?"
@@ -812,15 +816,15 @@ label kuni2:
     c"Could you be my friend Ichiro?"
     a"Sure, I'll be your friend."
     
-    hide SetsukoReg
+    hide KSReg
     
     show SetsukoHap at center
     
     "She looks excited now, I wonder if she had many friends at her previous school?"
     
-    hide SetsukoHap
+    hide KSReg
     
-    show SetsukoReg at center
+    show KSReg at center
     
     c"You know, I've never really had a friend before."
     c"My family needs to move wherever my Dad work is at so for the past few years I've been changing schools over and over and never really staying long enough to make any real friends."
@@ -850,7 +854,7 @@ label kuni2:
     "I pull Kunikada to the ground with me to try to avoid the oncoming bullets."
     "My hearts pounding, I can feel her's pounding too."
     "We're going to die here, I'm sure of it."
-    hide SetsukoReg
+    hide KSReg
     show CapsuleFall
     with vpunch
     "Suddenly the sky lit up in a blue flash."
@@ -872,6 +876,9 @@ label kuni2:
     "I've gotten closer, it looks like a futuristic capsule with an obscure pattern along its sides."
     "I take one more step and then..."
     "Another shot, I hear a thump on the ground behind me."
+    play sound "KnifeStab.mp3"
+    show Bloodover
+    "..."
     
     ###########
     #         #
