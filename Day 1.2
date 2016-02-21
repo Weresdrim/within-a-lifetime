@@ -1,4 +1,5 @@
-############################################
+
+    ############################################
     #--> 2nd Try of first day
     ############################################
     
@@ -70,7 +71,7 @@ label kunisetsu:
     "Arghh whatever."
     a"Hey Maeko!"
     "And yet again, she's flustered, now that I think about it she's kinda cute when she's embarrassed like this."
-    show MSEmba at center
+    show MSEmb at center
     b"Hey Takeru..."
     a"So, where are you headed so early this morning?"
     b "Oh uhm... I'm just going for a bit of a longer walk before going to school... and I uhhh decided to go to the convenience store."
@@ -179,7 +180,7 @@ label maehome1:
     a"Maeko I have an old friend transferring into the school today and she's having problems at home. She wasn't particularly happy with transferring so she's been arguing with her parents and doesn't feel comfortable at home."
     a"I'm sure she'll get over it, she just needs a place to stay for tonight."
     a"So I was wondering if you'd be ok with me and her coming over to your house."
-    show MSEmba at center
+    show MSEmb at center
     b"You... want to stay at my place?!"
     "Her voice trembled in disbelief and excitement."
     show MSReg at center
@@ -346,6 +347,8 @@ label maehome1:
     "We have to get away"
     "Suddenly, a loud crack... and then a thump on the pavement..."
     "Kunikada's hand slips out of my own."
+    play sound "KnifeStab.mp3"
+    show Bloodover
     "She's lying there."
     "Wait a second... don't tell me that's the guy from before!... the one who killed Kunikada!"
     "I stop in my tracks"
@@ -356,7 +359,7 @@ label maehome1:
     hide MSUnc
     a"No... I have to."
     "She stands by me as I walk back, even though she obviously disagrees."
-    "The gun imeediately gets trained on Maeko."
+    "The gun turns next to Maeko."
     "She stood there paralysed, unable to move any limb or make any sound."
     "I quickly step in front of her, I can't lose Maeko die too."
     "I could probably attempt to reset today right now but I want to see what this guy's deal is."
@@ -371,7 +374,7 @@ label maehome1:
     "And with some luck my hands begin to glow."
     "And again, I try."
     "I have to try again."
-    hide Bridge
+    scene
     jump secondtry
 
     return
@@ -386,13 +389,13 @@ label undec1:
     ############################################
     
 label undeccon:
-       show Classroom
+    show Classroom
     "I shuffle my feet into class 2-C with everyone else into homeroom. I'm awaiting the announcement about the new transfer student."
     f"Class, we will be welcoming a new transfer student today so please make her feel at home"
     "Again discussion arose but I took no part in it, I'd already been through it before."
     f"Quieten down class, we need to give our new student a chance to introduce herself."
     hide Classroom
-    show SetsukoTop
+    show KSReg
     c"My name is Kunikada Setsuko."
     f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
     c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
@@ -408,6 +411,7 @@ label undeccon:
     "I can feel her heart beat, her chest moving up and down with the movement of her lungs."
     "She's still very much alive right infront of me."
     "Just about the exact same scenario follows until the end of school."
+    hide KSReg
     "The teacher once again asks for me to take Kunikada home today."
     "Today is different, I don't have a choice between Maeko or Kunikada."
     "Maeko might be important to me but Kunikada will die without my help, I'm sure of that."
@@ -420,11 +424,13 @@ label undeccon:
     "Now I just have to wait until school is over."
     hide Classroom
     "I get Kunikada to come with me as we head to the front gate."
+    show KSReg
     a"We're going to get a taxi home today."
     c"Huh? Why... do you usually? It's not that long of a walk, right?"
     a"Yes, you're right but I need to get somewhere quickly today and I can't just leave you out on your own not knowing how to get home."
     c"Alright then... just walk me home tomorrow then ok?"
     a"Yeah, sure thing."
+    hide KSReg
     "I call the taxi company I looked up earlier and one arrives shortly."
     "I have enough money in my bag to pay but I'm still a little annoyed that I have to spend my money like this."
     "I suppose it's for Kunikada's life so I shouldn't be complaining."
@@ -464,6 +470,9 @@ label undeccon:
     "He swung her out of the car and took the gun he was holding and put it to her head."
     "After the crash Kunikada wasn't completely conscious and didn't put up much of a struggle, and even if she had tried it probably would've been futile."
     "I put my hand out and rushed toward her to stop him from shooting her."
+    play sound "KnifeStab.mp3"
+    show Bloodover
+    "..."
     "The gun had already fired before I could reach him."
     "And there, once again was Kunikada, her limp body lying completely lifeless."
     "No no no no no! I can't accept this, how can this guy find us like this?!"
