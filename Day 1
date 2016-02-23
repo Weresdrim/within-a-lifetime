@@ -78,6 +78,50 @@ label start:
     stop music fadeout 2
     scene black
     
+    "I hate change."
+    pause 0.5
+    "But this world is full of it."
+    pause 0.5
+    "In a stage of constant regression."
+    pause 0.5
+    "Although not all change is bad."
+    pause 0.5
+    "The world isn't perfect as it is."
+    pause 0.5
+    "But as for the things that are perfect."
+    pause 0.5
+    "They never stay that way."
+    pause 0.5
+    "If only we could hold onto that perfection."
+    pause 0.5
+    "But that's impossible."
+    pause 0.5
+    "Nobody knows what to anticipate next."
+    pause 0.5
+    "Can anyone really prepare for the future?"
+    pause 0.5
+    "I remember a time when things were better."
+    pause 0.5
+    "But this town and the people within it."
+    pause 0.5
+    "They keep changing."
+    pause 0.5
+    "Most of them don't even notice."
+    pause 0.5
+    "I hate myself too, because I know I change just like them."
+    pause 0.5
+    "Is that change worth it?"
+    pause 0.5
+    "Is it worth the potential risk, pain, stress, grief, loss."
+    pause 0.5
+    "Yet I long for perfection, the perfect life."
+    pause 0.5
+    "The life I live right now isn't perfect."
+    pause 0.5
+    "Something has to change....."
+    pause 3
+    with dissolve
+    
     "I squint at the painful white light entering my eyes."
     
     "I'm just waking, feeling an unpleasant amount of drowsiness overwhelm me."
