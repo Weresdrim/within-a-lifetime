@@ -514,11 +514,10 @@ label back1:
     "Wait, I can hear people muttering about something..."
     "Did I miss something important?"
     f"...we will be welcoming a new transfer student today so please make her feel at home."
-    "What? A transfer student in the middle of term?"
-    "I guess on some days these announcements are a little more interesting than on others."
-    "Although I doubt it'll actually mean anything for me."
-    "Just another classmate that will be talked about for a week and then forgotten like the rest of us."
-    "The only empty seat is next to me, I guess that's where the new transfer student will be sitting."
+    "Wait, it can be her can it?"
+    "The girl Maeko and I met this morning."
+    "Her name... I think it was Kunikada?"
+    "The only empty seat is next to me, I guess that's where she'll be sitting."
     e"Since when was a transfer student coming here? Don't we usually get told about this sort of stuff?"
     h"Yeah we do... that's a little strange isn't it?"
     e"She sounds interesting."
@@ -535,6 +534,7 @@ label back1:
     "After the class settled down the atmosphere was set for the mysterious girl to introduce herself, she didn't seem afraid at all by the thirty or so students staring at her waiting to speak."
     "The strange girl stood still patiently awaiting the class, until taking a short breath in preparation to speak."
     c"My name is Kunikada Setsuko."
+    "It was unmistakably her, the girl I met this morning."
     "Her voice was soft, but not quiet, everyone heard her words."
     "The class seemed a little surprised with such a blunt introduction, nothing more than her name"
     "Usually students would add a little more to their introduction when coming into a school for the first time."
@@ -552,6 +552,7 @@ label back1:
     "Her hand reaches for the desk beside her."
     "But her knees wobble as she takes the next step."
     "Her body topples toward me."
+    "Times seems to slow down around me."
     "Bracing for the impact with no time to think, I hold both arms out in an attempt to catch her."
     "She gracefully lands unharmed within my arms."
     "Her body is a lot softer and lighter than I had expected."
@@ -572,7 +573,7 @@ label back1:
     c"Sorry about this."
     "She tries to speak, this time with a voice much softer than before."
     c"It only happens every once and while."
-    c"Sometimes I inexplainably feel nauseous for a few moments, usually I just faint and fall to the floor."
+    c"I have a condition that sometimes makes me inexplainably feel nauseous for a few moments, usually I end up fainting and falling to the floor."
     c"So thanks for catching me."
     a"Don't worry about it, you were falling toward me anyway so it's not like I could just step out of your way."
     c"You'd be surpised."
@@ -599,7 +600,7 @@ label back1:
     "The rest of class is uneventful, the same as always."
     "However halfway through fourth period Kunikada re-enters the classroom."
     f"Welcome back Kunikada."
-    "Without being instructed Kunikada heads straight for her seat and sits down, trying to avoid anymore attention from the other members of the class."
+    "Without instruction, Kunikada heads straight for her seat and sits down, trying to avoid anymore attention from the other members of the class."
     
     with dissolve
     
@@ -623,7 +624,13 @@ label back1:
     
     "She seems just as confused as I am."
     
-    f"Well it's just Kunikada is still unfamiliar with the area and after today I thought it would be a good idea for you two to walk back home together, since you live in the same building."
+    "My teacher leans over to me and whispers in my ear without Kunikada hearing."
+    f"Kunikada isn't the best with navigation, and seeing as she almost fainted today I believe it would be best for her to not be walking home alone."
+    "I nod in agreement."
+    "He then turns to talk to Kunikada to open the conversation to the both of us."
+    f"Kunikada, I hope you don't mind but I've just asked Ichiro to walk with you home today."
+    f"I think it'd be best for your safety."
+    f"Considering you two both live next to eachother."
     
     "We both look at each other, then back at the teacher."
     
@@ -633,245 +640,16 @@ label back1:
     
     z"No."
     
+    
     f"Well you two seemed well acquantied enough already so I thought it shouldn't be too much trouble for you to help her out getting home."
     
-    "I don't belong to any club so I usually just go straight home after school anyway."
-    a"Yeah, I don't see why not, I can help her out."
     "Huh, so Kunikada lives next door to me too?"
     "Maybe she won't just end up being another class member to me."
 
     with dissolve
-    "It was only halfway through last period I realised something important."
-    "I'd promised Maeko I would go see her about something important this afternoon."
-    "But I also promised to take Kunikada home."
-    "What should I do?, I promised them both..."
+    "The rest of class went by fairly quickly until the final bell rang for the end of school."
     hide Classroom
-
-menu:
-    "I'll go to Maeko.":
-         jump maeko1
-
-    "I'll go with Kunikada.":
-         jump kuni1
-
-label maeko1:
-    "I'll go to Maeko."
-    jump maeko2
-
-label kuni1:
-    "I'll go with Kunikada."
-    jump kuni2
-
-label maeko2:
     
-    ############################################
-    #--> Listen to what Maeko wants to say
-    ############################################
-    
-    scene
-    with dissolve
-    a "I'm sure Kunikada will make it home alright. She seems fine now and she went from home to school today anyway right? It shouldn't be too hard for her."
-    a "And in any case, I need to find out what Maeko wants to tell me."
-    
-    "I'll have to go tell Kunikada what's going on first though, I can't leave her blind without knowing what's going on."
-    
-    show sky
-    with dissolve
-    
-    show KSReg at center
-    a"Hey Kunikada."
-    c"Hi... your name is Ichiro right?"
-    a"Yeah that's right."
-    a"Listen, I'm really sorry but I can't actually walk you home today, something came up, do you think you can manage walking yourself back?"
-    c"Huh? Oh..."
-    c"Hmmm... I suppose I could..."
-    a"Alright, that's good then, I need to go now, bye!"
-
-    hide KSReg at center
-
-    with dissolve
-    
-    show MSReg at center
-    a"Hey Maeko!"
-    b"Hey Takeru!"
-    a"So, what did you want to talk to me about?"
-    show MSEmb at center
-    b"Oh uhmmm... hmmmm...."
-    "She looked even more flustered than this morning, what is she going to say?"
-    b"I... uhhh...."
-    "Come on spit it out!"
-    show MSReg at center
-    b"Hang on, I can't tell you here, come with me."
-    a"Huh? Where are we going?!"
-    b"Just come on, I need to tell you someplace else."
-    "I've known Maeeko for a long time now, and I can honestly say that I'd trust her with my life, so I follow obediently."
-    scene
-    show sun
-    "We walk for long time, not saying a word but by the time we get to where she's taking me it's already sunset."
-    "I recognise where we are, we used to play around here as kids togther, it's a hill that has a scenic view down onto the city through a part in the trees, you can also see the sky and the stars quite clearly above."
-    
-    show MSReg at center
-    b"Ok we're here."
-    a"So we are."
-    b"I wanted to be here because this place is special to me, you remember it don't you?"
-    a"Yeah I do, it's where you and I used to play as kids right?"
-    b"Oh you do remember!"
-    a"Of course I do, how could I forget."
-    "We both look toward the sky and the stars above"
-    a"It's beautiful isn't it?"
-    "She stands still staring up at the sky."
-    "Somehow, I feel tension in the atmosphere around her."
-    show MSEmb
-    b"Well Takeru, I've been thinking for a while now..."
-    "Wait, this isn't a confession is it?!"
-    b"that I really, really..."
-    scene
-    show CapsuleFall
-    with vpunch
-    "Suddenly the sky lit up in a blue flash."
-    with vpunch
-    "A thunderous boom cracked the sky and the sound barrier directly above us."
-    with vpunch
-    "I'm thrown back, the wave of energy is too great to resist."
-    with hpunch
-    "I'm not sure how many metres I flew through the air."
-    "I try to get back up."
-    "Somehow I seem alright, though I'm sure it won't be long until the bruising starts to show up."
-    "My vision slowly returns as I attempt to get back up."
-    "The ground around the capsule is completely incinerated."
-    "Wait, where's Maeko?!"
-    a"Maeko!"
-    "No response, I scan around for Maeko."
-    "I find her body laying next to a tree."
-    "I rush over as fast as I can manage."
-    "I turn her over so her face is facing me."
-    "Her eyes are closed, her face is pale."
-    a"Maeko!"
-    "I shake her body, trying to wake her up."
-    a"Maeko!"
-    "Again, I shake."
-    a"Maeko!"
-    "Over and over."
-    b"Ta..ke..ru.."
-    "Her eyes flicker as she whispers my name."
-    a"Maeko are you alright?!"
-    b"Yeah, I think so..."
-    "Maeko tries to get up."
-    b"Owwwww oww..."
-    a"No, just stay there it's ok."
-    
-    
-    
-    stop music
-    
-    ###########
-    #         #
-    #         #
-    #         #
-  ###       ###
-  ###       ###
-    
-    play music "DarkMyst.mp3"
-    "My phone rings."
-    "Terribly strange timing."
-    "It's probably a coincidence but I pick up immediately just in case."
-    a"Hello, who's this?"
-    f"It's me your teacher."
-    f"Takeru can I ask you where you've been tonight"
-    "Crap, he knows! Did Kunikada tell him!"
-    a"Sorry, I couldn't take her home this afternoon, something came up."
-    f"I thought that might have been the case, she's no longer with us Ichiro."
-    a"Wait what? What do you mean isn't with us?!"
-    f"Her parents reported her missing to the police a few hours ago and soon after she was found dead in the street."
-    "Police are currently investigating the cause of death."
-    a"..."
-    f"Judging from your reaction, it doesn't seem like you had anything to do with it."
-    f"Police will still be coming to question you later though, so be aware of that."
-    f"I know this might be some heavy news to you but don't feel like you have to take responsibility, this isn't your fault."
-    a"But I could've saved her if I were with her, couldn't I?"
-    f"There's no telling what would've happened, for all we know you could have been killed too."
-    a"But sir! I could've helped her! She can't just be dead!"
-    f"I'm sorry Ichiro, goodbye."
-    "And without further response the phone call disconnected."
-    
-    b"Takeru, what happened?"
-    "I know I have to tell her, but it's incredibly difficult. Even if it was only for one day we still lost a fellow classmember."
-    "I'd never experienced this before."
-    a"I was supposed to walk Kunikada home today... that was just a phonecall about her being found dead this afternoon."
-    b"..."
-    b"It was all my fault. If I hadn't brought you here you could've walked her home."
-    a"No it was mine, it was my choice and responsibility."
-    
-    "We're both pretty distraught by this news but soon we remember what's in front of us, the glowing blue object. Somehow, I find my eyes drawn to it."
-    
-    "I've gotten closer, it looks like a futuristic capsule with an obscure pattern along its sides."
-    "I take one more step closer but then..."
-    "A jolt hits me from the capsule, light blue arcs of lighting shattering my chest from the inside out, surely this should be painful but somehow I feel power."
-    "I can't see Maeko anymore, I can't hear her either if she's talking or screaming at me."
-    "Suddenly the shock stops."
-    "I feel dizzy but now hear Maeko asking me if I'm ok, over and over and over."
-    "My limbs seem to be glowing blue with the same pattern inscribed on the capsule."
-    hide CapsuleFall
-    show PowerUnlock
-    with zoominout
-    "I regain my senses."
-    with zoominout
-    "But still feel dizzy."
-    "I hear a voice in my head, 'Use your power, there is a way to change what has happened.'"
-    with zoominout
-    "What?"
-    "Nobody is around for the voice to be that clear in my head."
-    "It felt like someone was whispering right in my ear."
-    "Did I unlock some power?"
-    "I can remember the words... 'Use your power, there is a way to change what has happened.'"
-    "Kunikada is already dead, things are falling from the sky and I have voices in my head."
-    "It feels to real to be a dream."
-    "I look back at the capsule, searching for some sort of clue."
-    "Maybe if I touch it again?"
-    "I press the palm of my hand against the glowing metal."
-    "It doesn't feel hot or cold."
-    "A sense of clarity flows through my palm."
-    "It's like I've known this all along."
-    "I raise my arm in front of me and form a half-fist."
-    "Concentrate."
-    "Clear."
-    "Undo."
-    "My hand flashes with bright blue sparks."
-    hide PowerUnlock
-    
-    #show MaekoDaze
-    "I turn around to find Maeko, she's right there behind me, completely pale and dazed."
-    a"I'm sorry Maeko, I'll have to leave you now."
-    b"What are you... What are you talking.. about...?"
-    "I don't respond."
-    b"Takeru?"
-    a"It's ok Maeko, don't worry about a thing."
-    
-    "And with that I did what now felt natural and blacked out."
-    #hide MaekoDaze
-    
-    jump kunisetsu
-    
-    
-label kuni2:
-    
-    ############################################
-    #--> Take Kunikada Home
-    ############################################
-    
-    scene black
-    with dissolve
-    a "What Maeko wants to tell me can wait, I need to help out Kunikada because she's new to the school and the town."
-    a "Hopefully Maeko isn't too mad, I'll send her a message."
-    
-    show white
-    with dissolve
-    
-    a "I've been assigned with walking Kunikada home today since we live in the same building, you'll have to wait until tomorrow to tell me what you wanted to tell me, I'm sorry."
-    "I wait a few minutes but there's no response from Maeko."
-    "Maybe she just hasn't seen it yet."
-    "I'm not entirely sure where Kunikada is waiting for me but I figure she's probably at the front gate."
-    show KSReg
     "And sure enough, she is."
     a"Hey Kunikada."
     c"Hey... you're Ichiro right?"
@@ -881,53 +659,182 @@ label kuni2:
     a"Uhhh home is actually that way."
     c"Oh... maybe it's better if you lead the way then."
     a"Sure."
-    c"So, what do club do you belong to?"
+    
+    "It was only halfway through the school's courtyard when I realised something important."
+    "I'd promised Maeko I would go see her about something important this afternoon."
+    "But I also promised to take Kunikada home."
+    "What should I do?, I promised them both..."
+    "I can't just leave Maeko without an explanation."
+    "I try to think of a solution but can't come up with much."
+    "I'm already walking with Kunikada right now."
+    "I approach the front gate."
+    "She's waiting for me."
+    "Maeko's right there."
+    "We both stare at eachother."
+    "Beside me Kunikada analyses the situation."
+    "Maeko rushes up to me."
+    b"Are you ready now Takeru?"
+    a"Ohh uhhh."
+    "I nervously glance at Kunikada."
+    a"Sorry Maeko, can we talk some other time? I've been entrusted with walking Kunikada home today."
+    "A disappointed look grows over Maeko's face."
+    b"Who entrusted you?"
+    a"The teacher wanted me to walk her home today, since she just fainted earlier."
+    a"And it turns out we live right next to eachother too."
+    a"Don't worry, we'll be able to talk some other time yeah?"
+    b"Yeah, that's alright I understand."
+    "Maeko abruptly leaves Kunikada and I with those final words."
+    "She walks through the school gates ahead of us, going in the opposite direction."
+    c"I feel like I've just done something awful."
+    a"No don't worry about it, you've done nothing wrong."
+    c"But she seemed pretty sad didn't she? Like she really had something important to say."
+    c"I don't mind if want to..."
+    a"No, I told you not to worry didn't I?"
+    a"I've already decided, you need my help don't you?"
+    a"Come on, let's just get going."
+    "Maybe Kunikada and I started this walk on the wrong foot."
+    "But it's not too long until that atmosphere disappeared entirely."
+    
+    c"So, what club do you belong to?"
     a"I don't belong to any."
     c"Huh? Why not?"
     a"None of the clubs really interested me too much."
     c"That's too bad, I was wondering which one I should join. I thought maybe you'd have a good recommendation."
-    a"I'm sure you'll be able to find one that's good, there are plenty of posters looking for new recruits all around the school."
+    a"I'm sure you'll be able to find one that's good, there are plenty of posters looking for new recruits all around the school, even with it being half way through the term."
     c"It's just I'm new and I don't really know anyone yet so I feel like I'd be making a mistake if I randomly joined a club and didn't fit in properly."
     a"You shouldn't let that sort of stuff stop you or else you'll never make any friends."
-    c"Could you be my friend Ichiro?"
-    a"Sure, I'll be your friend."
+    c"Can I ask you something?"
+    a"Sure"
+    c"Are we friends?"
+    "I was taken aback a little by her sudden question."
+    c"Sorry, that was a strange question to ask after all..."
+    c"It's just, I've never really had a real friend before."
+    c"My family needs to move wherever my Dad's work is at, so for the past few years I've been changing schools over and over and never really staying long enough to make any real friends."
+    a"Doesn't that mean you'll be leaving this place too?"
+    c"I don't think so this time, my parents have grown tired of moving around and wants to settle down to work in one place so I think it should be ok."
+    a"I see."
+    a"Well I wouldn't worry about it too much."
+    a"There are plenty of friendly people around here, especially at our school."
+    a"You'll make plenty of friends, I'm sure of it."
+    "Never having any friends?"
+    "How can someone cope like that for their entire life?"
+    "Does that mean that even now, I'm the closest thing she's had to a friend?"
+    "Probably{p} not."
+    "There's no way, and we've only known eachother for a day."
+    "I'm sure she would've been at some of her other schools for long enough to make a least something close to a friend."
+    "But when I see her smile like this I wonder."
+    "Maybe I'm making a difference in someone else's life."
     
-    hide KSReg
+    a"Yeah Kunikada, we're frien... *cough*"
+    "What was that?"
+    "It's hard to breathe."
+    "I felt a crushing blow to my chest."
+    "I cough and splutter trying to regain my breath."
+    "Something hit me."
+    "But I can't see anything around me."
+    "I fall to my knees."
+    "Then a scream, my ears are almost shattered."
+    "My ears are pierced by the shear terror voiced within this scream."
+    "I try to turn my head to look up while constanting wheezing for more air."
+    "A man, or maybe a woman in a black cloak is right in front of me, holding Kunikada."
+    "He draws a sword, a cyan blade from within his cloak."
+    "He holds the edge of the blade up to Kunikada's neck."
+    "What's going on?"
+    "Why does it look like this girl I've only just met today, the girl who fell into my arms... she's just going to die?"
+    "She's going to be murdered?"
+    "Will I meet her same fate?"
+    "No."
+    "I can't let that happen, nobody else is around to help her."
+    "Nobody else can save her but me."
+    "I have to try."
+    "I won't let her die."
+    "I put as much power as I can into driving my body back into a standing position."
+    "I don't have enough time, I need to act now."
+    "I slowly raise from the ground, and see Kunikada right in front of me."
+    "She's still trying to struggle, trying to scream."
+    "But the cloaked figured has completely silenced her, while holding her in place."
+    "While Kunikada's tear filled eyes stare directly into my own."
+    b"Please, help me!"
+    "I can't her her voice."
+    "But I can hear her plea."
+    a"Hey asshole."
+    "I try to get the black figure's attention."
+    "Anything to keep him distracted for just a moment."
+    "For Kunikada to break free."
+    "I charge at him, in some desperate attempt at a surpise attack."
+    "The cloak is ready for me, he swiftly moves to the side and throws me back onto the ground, this time harder than last."
+    "My entire back hurts even more than before."
+    "But there's no way I can give up."
+    "I stand yet again giving it my all."
+    "I'm sure if he wanted to he could've killed both me and Kunikada by now."
+    "But for whatever reason, he wasn't."
+    "Like he was just playing with us."
+    "Like toys."
+    "Filled with rage this time I throw a punch straight for his head."
+    "He dodges it easily while pushing me to the side."
+    "I can feel a sharp pain in my upper right rib cage."
+    "I can taste blood at the back of my throat."
+    "I try again, this time I charge at him in the back, attempting to knock him off balance."
+    "But I practically bounce straight back off."
+    "The dark body doesn't move an inch."
+    "This person... {p} this thing... {p} whatever it is... {p} It's not human."
+    "I try to keep up with my breath, and my heart beat, I'm starting to feel faint."
+    "But from the looks of things Kunikada is suffocating in his arms."
+    "I don't know what to do anymore."
+    "What is there left to do?"
+    "This 'thing' is on an entirely different level."
+    "But there has to be something, anything!"
+    "The figure raises Kunikada up in his grasp with one hand and with the other he also raises his long, blue metallic blade."
+    "The sharp blade edges closer and closer to her neck."
+    "But his hand is shaking, quite violently too."
+    "Like he can't control it."
+    "Looking at him, some of limbs begin to shake but others freeze up entirely."
+    "This is my chance!"
+    "I charge straight at the cloaked figure with full force managing to knock him just enough for his grip to release on Kunikada."
+    "Kunikada falls to the ground beneath him."
+    a"Come on Kunikada! We have to run now!"
+    "I was just stating the obvious, Kunikada had already sustained similar injuries to what I had but we had to get away from here as fast as we could."
+    "Judging from what this thing can do the only thing we can do is try to hide."
+    "A police station isn't going to do anything even if there was one nearby."
+    "I grab Kunikada's hand and rush down the nearest street, just running as far and as fast as I could."
+    "After multiple turns down several different streets we come to a place I'm very familiar with."
+    "Maeko and I used to play here as kids, it's a forest up the mountain."
+    "If we go up here we might just be safe."
+    "We stop when we're deep enough in. Night has already fallen and the stars are shining above us between the break in the trees above us."
+    c"Do you think we're still being followed?"
+    a"I don't know, but I'd rather not risk finding out."
+    c"Me neither."
+    a"Are you alright?"
+    c"I can't say I am."
+    a"Neither can I."
+    "We'd dropped out school bags a long way back so we're just two high schoolers lying down looking at the stars with only the clothes on our back."
+    "No food, no water, it's cold and we're running from something that's worse than all three of those."
+    "Neither of us will complain though, we can't afford to bring eachothers hopes down anymore than they already are."
+    c"What a first day..."
+    c"First I get lost, then I faint and fall into your arms, then you get dragged into all of this too."
+    a"You didn't know that guy did you?"
+    c"I've got no clue who or what that thing was."
+    a"So you really did just fall into this mess?"
+    c"Honestly I was going ask you about what this was all about."
+    c"But as awful as this has been."
+    c"I've never had this much fun before."
+    a"Don't worry, I've got a place in mind that we can stay the night at up here."
+    a"Soon we'll be out of the cold, we'll be safe."
+    a"Hopefully if we just stay there for the night we won't be bothered by that guy anymore."
+    c"Alright."
+    "Kunikada stands up to follow me, she sounds weak and frail."
+    a"Here, just lean on me, we can make it."
+    "Kunikada doesn't object but the edge of my rib cage flairs up in pain."
+    a"Owwww!"
+    c"Sorry, sorry!"
+    a"No, no, it's ok."
+    "We make a weak almost crawl further into the forest, the old log cabin is in sight."
+    "Nobody has used it in years, someone used to live in it decades ago but it's been in disprepair ever since."
+    "Maeko and I used to play there when we were younger."
+    a"We're almost there."
     
-    show SetsukoHap at center
-    
-    "She looks excited now, I wonder if she had many friends at her previous school?"
-    
-    hide KSReg
-    
-    show KSReg at center
-    
-    c"You know, I've never really had a friend before."
-    c"My family needs to move wherever my Dad work is at so for the past few years I've been changing schools over and over and never really staying long enough to make any real friends."
-    a"Doesn't that mean you'll be leaving soon?"
-    c"I don't think so this time, my Dad has grown tired of moving around and wants to settle down to work in one place so I think it should be ok."
-    a"Sounds good!"
-    "Out of the corner of my eye I've been watching a man who seems to have been following us for a while now, I have growing suspicions that he could be dangerous."
-    "To test it out I'll try varying my usual route to see if he follows."
-    a"Ok Kunikada, we'll go this way now."
-    "Kunikada nods and follows me."
-    "And sure enough he follows us further."
-    "After a long while of walking Kunikada seems worried, she's not quite sure why it's taking this long to get back home."
-    "I guess I should tell her so she keeps close."
-    a"Don't turn around but there's a guy who has been following us for a while now, do you have any idea who he is?"
-    "Kunikada turns her head to the side to gain peripheral vision of him."
-    c"No, I've got no idea who he is."
-    a"Ok then, we'll have to pick up the pace and get to somewhere else."
-    "After going further along it gets close to sun down but they are still following us so I lead Kunikada into the forest on the outskirts of the city."
-    "I actually remember this place, Maeko and I used to play around here as kids."
-    
-
-  
-   # play music "Battle.mp3"
-    
-    "But just as I'm reminiscing over the past I hear a gunshot coming from the direction of the man."
-    a"Get down!"
-    "I pull Kunikada to the ground with me to try to avoid the oncoming bullets."
+    "Suddenly the sky lights up in a blue flair."
+    "Wild vibrations move through the air."
     "My hearts pounding, I can feel her's pounding too."
     "We're going to die here, I'm sure of it."
     hide KSReg
@@ -945,13 +852,14 @@ label kuni2:
     "My vision slowly returns as I attempt to get back up."
     "There's a blue capsule embedded into the side of the hill just next to me."
     "The ground around the capsule is completely incinerated."
-    "The shots stopped."
+    "The vibrations stopped."
     "I search for Kunikada."
     "She looks just about as bad as I do right now, but somehow she's still remaing calm by my side."
     "The capsule ahead of me has this presence, it's drawing me in closer and closer..."
     "I've gotten closer, it looks like a futuristic capsule with an obscure pattern along its sides."
-    "I take one more step and then..."
-    "Another shot, I hear a thump on the ground behind me."
+    "I take one more step."
+    "Right beside me a gust of wind brushes my hair."
+    "With a flash of black in my peripheral vision."
     play sound "KnifeStab.mp3"
     show Bloodover
     "..."
@@ -967,11 +875,26 @@ label kuni2:
     "I turn my head away from the unescapable aura of the capsule."
     "It was Kunikada's body."
     "I fall to my knees in shock and extend my arm to reach for her."
-    "But the blue object decided my fate for me, without giving me a choice it pulls me toward it instead."
+    "Her body was cleanly cleaved in two, her eyes left completely lifeless."
+    "I stare at the expression on her face."
+    "Nothing."
+    "She completely gone."
+    "The blood begins to pool all around her."
+    "I failed."
+    "I couldn't protect her like I said I would."
+    "Eventually this was all hopeless."
+    "I couldn't forsee the end coming like this."
+    "It was obvious, I had no chance against that cloaked figure."
+    "It was inevitable."
+    "Now my end also draws closer and closer."
+    "Kunikada..."
+    "There's nothing left to do, the blue object decides my fate for me, without giving me a choice it pulls me toward it instead."
+    "As I draw nearer the capsule begins to move and radiate it's energy more and more."
     "A jolt hits me from the capsule, light blue arcs of lighting shattering my chest from the inside out, surely this should be painful but somehow I feel power."
-    "I can't see Kunikada anymore, I can't hear gunshots."
+    "I can't see Kunikada anymore, that sharp sword is no where to be seen either."
     "Suddenly the shock stops."
     "I feel dizzy."
+    "But I'm not dead."
     "My limbs seem to be glowing blue with the same pattern inscribed on the capsule."
     show PowerUnlock
     "I regain my senses."
@@ -988,11 +911,11 @@ label kuni2:
     
     
     "I turn around to find Kunikada on the floor, completely lifeless."
-    "I try put my hand to activate something, anything."
-    "I'm still aware of the gunman, he could be lining me up in his sights right now."
+    "I try putting my hand out to activate something, anything."
+    "I'm still aware of the blue cloak, he could be hiding anywhere."
     "But there's no point in running."
     "Kunikada is already dead, things are falling from the sky and I have voices in my head."
-    "It feels to real to be a dream."
+    "But it feels too real to be a dream."
     "I look back at the capsule, searching for some sort of clue."
     "Maybe if I touch it again?"
     "I press the palm of my hand against the glowing metal."
@@ -1012,6 +935,207 @@ label kuni2:
     "And with that I did what now felt natural and blacked out."
     
     jump kunisetsu
+     
+    
+
+  
+   # play music "Battle.mp3"
+    
+  
+    
+    ############################################
+    #--> Listen to what Maeko wants to say
+    ############################################
+    
+#    scene
+#    with dissolve
+#    a "I'm sure Kunikada will make it home alright. She seems fine now and she went from home to school today anyway right? It shouldn't be too hard for her."
+#    a "And in any case, I need to find out what Maeko wants to tell me."
+    
+#    "I'll have to go tell Kunikada what's going on first though, I can't leave her blind without knowing what's going on."
+    
+#    show sky
+#    with dissolve
+    
+#    show KSReg at center
+#    a"Hey Kunikada."
+#    c"Hi... your name is Ichiro right?"
+#    a"Yeah that's right."
+#    a"Listen, I'm really sorry but I can't actually walk you home today, something came up, do you think you can manage walking yourself back?"
+#    c"Huh? Oh..."
+#    c"Hmmm... I suppose I could..."
+#    a"Alright, that's good then, I need to go now, bye!"
+
+#    hide KSReg at center
+
+#    with dissolve
+    
+#    show MSReg at center
+#    a"Hey Maeko!"
+#    b"Hey Takeru!"
+#    a"So, what did you want to talk to me about?"
+#    show MSEmb at center
+#    b"Oh uhmmm... hmmmm...."
+#    "She looked even more flustered than this morning, what is she going to say?"
+#    b"I... uhhh...."
+#    "Come on spit it out!"
+#    show MSReg at center
+#    b"Hang on, I can't tell you here, come with me."
+#    a"Huh? Where are we going?!"
+#    b"Just come on, I need to tell you someplace else."
+#    "I've known Maeeko for a long time now, and I can honestly say that I'd trust her with my life, so I follow obediently."
+#    scene
+#    show sun
+#    "We walk for long time, not saying a word but by the time we get to where she's taking me it's already sunset."
+#    "I recognise where we are, we used to play around here as kids togther, it's a hill that has a scenic view down onto the city through a part in the trees, you can also see the sky and the stars quite clearly above."
+    
+#    show MSReg at center
+#    b"Ok we're here."
+#    a"So we are."
+#    b"I wanted to be here because this place is special to me, you remember it don't you?"
+#    a"Yeah I do, it's where you and I used to play as kids right?"
+#    b"Oh you do remember!"
+#    a"Of course I do, how could I forget."
+#    "We both look toward the sky and the stars above"
+#    a"It's beautiful isn't it?"
+#    "She stands still staring up at the sky."
+#    "Somehow, I feel tension in the atmosphere around her."
+#    show MSEmb
+#    b"Well Takeru, I've been thinking for a while now..."
+#    "Wait, this isn't a confession is it?!"
+#    b"that I really, really..."
+#    scene
+#    show CapsuleFall
+#    with vpunch
+#    "Suddenly the sky lit up in a blue flash."
+#    with vpunch
+#    "A thunderous boom cracked the sky and the sound barrier directly above us."
+#    with vpunch
+#    "I'm thrown back, the wave of energy is too great to resist."
+#    with hpunch
+#    "I'm not sure how many metres I flew through the air."
+#    "I try to get back up."
+#    "Somehow I seem alright, though I'm sure it won't be long until the bruising starts to show up."
+#    "My vision slowly returns as I attempt to get back up."
+#    "The ground around the capsule is completely incinerated."
+#    "Wait, where's Maeko?!"
+#    a"Maeko!"
+#    "No response, I scan around for Maeko."
+#    "I find her body laying next to a tree."
+#    "I rush over as fast as I can manage."
+#    "I turn her over so her face is facing me."
+#    "Her eyes are closed, her face is pale."
+#    a"Maeko!"
+#    "I shake her body, trying to wake her up."
+#    a"Maeko!"
+#    "Again, I shake."
+#    a"Maeko!"
+#    "Over and over."
+#    b"Ta..ke..ru.."
+#    "Her eyes flicker as she whispers my name."
+#    a"Maeko are you alright?!"
+#    b"Yeah, I think so..."
+#    "Maeko tries to get up."
+#    b"Owwwww oww..."
+#    a"No, just stay there it's ok."
+    
+    
+    
+#    stop music
+    
+    ###########
+    #         #
+    #         #
+    #         #
+  ###       ###
+  ###       ###
+    
+#    play music "DarkMyst.mp3"
+#    "My phone rings."
+#    "Terribly strange timing."
+#    "It's probably a coincidence but I pick up immediately just in case."
+#    a"Hello, who's this?"
+#    f"It's me your teacher."
+#    f"Takeru can I ask you where you've been tonight"
+#    "Crap, he knows! Did Kunikada tell him!"
+#    a"Sorry, I couldn't take her home this afternoon, something came up."
+#    f"I thought that might have been the case, she's no longer with us Ichiro."
+#    a"Wait what? What do you mean isn't with us?!"
+#    f"Her parents reported her missing to the police a few hours ago and soon after she was found dead in the street."
+#    "Police are currently investigating the cause of death."
+#    a"..."
+#    f"Judging from your reaction, it doesn't seem like you had anything to do with it."
+#    f"Police will still be coming to question you later though, so be aware of that."
+#    f"I know this might be some heavy news to you but don't feel like you have to take responsibility, this isn't your fault."
+#    a"But I could've saved her if I were with her, couldn't I?"
+#    f"There's no telling what would've happened, for all we know you could have been killed too."
+#    a"But sir! I could've helped her! She can't just be dead!"
+#    f"I'm sorry Ichiro, goodbye."
+#    "And without further response the phone call disconnected."
+    
+#    b"Takeru, what happened?"
+#    "I know I have to tell her, but it's incredibly difficult. Even if it was only for one day we still lost a fellow classmember."
+#    "I'd never experienced this before."
+#    a"I was supposed to walk Kunikada home today... that was just a phonecall about her being found dead this afternoon."
+#    b"..."
+#    b"It was all my fault. If I hadn't brought you here you could've walked her home."
+#    a"No it was mine, it was my choice and responsibility."
+    
+#    "We're both pretty distraught by this news but soon we remember what's in front of us, the glowing blue object. Somehow, I find my eyes drawn to it."
+
+
+#    "I've gotten closer, it looks like a futuristic capsule with an obscure pattern along its sides."
+#    "I take one more step closer but then..."
+#    "A jolt hits me from the capsule, light blue arcs of lighting shattering my chest from the inside out, surely this should be painful but somehow I feel power."
+#    "I can't see Maeko anymore, I can't hear her either if she's talking or screaming at me."
+#    "Suddenly the shock stops."
+#   
+#    "I feel dizzy but now hear Maeko asking me if I'm ok, over and over and over."
+#    "My limbs seem to be glowing blue with the same pattern inscribed on the capsule."
+#    hide CapsuleFall
+#    show PowerUnlock
+#    with zoominout
+#    "I regain my senses."
+#    with zoominout
+#    "But still feel dizzy."
+#    "I hear a voice in my head, 'Use your power, there is a way to change what has happened.'"
+#    with zoominout
+#    "What?"
+#    "Nobody is around for the voice to be that clear in my head."
+#    "It felt like someone was whispering right in my ear."
+#    "Did I unlock some power?"
+#    "I can remember the words... 'Use your power, there is a way to change what has happened.'"
+#    "Kunikada is already dead, things are falling from the sky and I have voices in my head."
+#    "It feels to real to be a dream."
+#    "I look back at the capsule, searching for some sort of clue."
+#    "Maybe if I touch it again?"
+#    "I press the palm of my hand against the glowing metal."
+#    "It doesn't feel hot or cold."
+#    "A sense of clarity flows through my palm."
+#    "It's like I've known this all along."
+#    "I raise my arm in front of me and form a half-fist."
+#    "Concentrate."
+#    "Clear."
+#    "Undo."
+#    "My hand flashes with bright blue sparks."
+#    hide PowerUnlock
+    
+    #show MaekoDaze
+#    "I turn around to find Maeko, she's right there behind me, completely pale and dazed."
+#    a"I'm sorry Maeko, I'll have to leave you now."
+#    b"What are you... What are you talking.. about...?"
+#    "I don't respond."
+#    b"Takeru?"
+#    a"It's ok Maeko, don't worry about a thing."
+    
+#    "And with that I did what now felt natural and blacked out."
+    #hide MaekoDaze
+    
+#    jump kunisetsu
+    
+    
+
+
     
 
     
