@@ -42,6 +42,7 @@ image Maeko = "MaekoImp.png"
 image MSEmb = "MSEmb.png"
 image MSReg = "MSReg.png"
 image MSHap = "MSHap.png"
+image MSSad = "MSSad.png"
 image SetsukoTop = "SetsukoTop.png"
 image CapsuleFall = "CapsuleFall.png"
 image MaekoDaze = "MaekoDaze.png"
@@ -60,6 +61,9 @@ image MaekoGall3 = "MaekoGall3.png"
 image Kitchen = "Kitchen.png"
 image Bloodover = "Bloodover.png"
 image KSReg = "KSReg.png"
+image KSEmb = "KSEmb.png"
+image KSHap = "KSHap.png"
+image Street = "Street.png"
 
 image SetsukoReg = "SetsukoReg.png"
 
@@ -122,51 +126,35 @@ label start:
     pause 3
     with dissolve
     
-    "I squint at the painful white light entering my eyes."
-    
-    "I'm just waking, feeling an unpleasant amount of drowsiness overwhelm me."
-    
-    "Along with that, a wave of regret flows over me."
-    
-    "I stayed up too late last night."
-    
-    "It was still quite dark in my room."
-    
-    "I roll over, while still attempting to keep the sheets on, to the other side of my bed and reached for the curtain."
-     
-    "I pull it to the side without getting out of bed, allowing the light to pour freely into every corner of my room."
-    
-    show Bedroom
 
-    with wiperight
+#    "I'm just waking, feeling an unpleasant amount of drowsiness overwhelm me."
+#    "Along with that, a wave of regret flows over me."
+#    "I stayed up too late last night."
+#    "It was still quite dark in my room."
+#    "I roll over, while still attempting to keep the sheets on, to the other side of my bed and reached for the curtain."
+#    "I pull it to the side without getting out of bed, allowing the light to pour freely into every corner of my room."
     
-    "What time is it?"
+#    show Bedroom
+
+#    with wiperight
     
-    "I turn my head to check my bedside clock."
-    
-    "It's 6:00am, my alarm hasn't even gone off yet... why did I wake up so early?"
-    
-    "It's still very quiet, apart from a distant sound of birds chirping."
-    
-    "I have a hard time sleeping after waking up in the morning."
-    
-    "There's no point trying to get back to sleep."
-    
-    "I'll need to leave for school soon anyway."
-     
-    "Still, I would rather have slept until seven."
-    
-    "I should get up."
-    
-    "It is cold so I don't want to relinquish my hold on the blanket wrapped tightly around my body, unfortunately it's an unavoidable experience."
-    
-    "Why should I have to give up something so warm? All to just go to school."
+#    "What time is it?"
+#    "I turn my head to check my bedside clock."
+#    "It's 6:00am, my alarm hasn't even gone off yet... why did I wake up so early?"
+#    "It's still very quiet, apart from a distant sound of birds chirping."
+#    "I have a hard time sleeping after waking up in the morning."
+#    "There's no point trying to get back to sleep."
+#    "I'll need to leave for school soon anyway."
+#    "Still, I would rather have slept until seven."
+#    "I should get up."
+#    "It is cold so I don't want to relinquish my hold on the blanket wrapped tightly around my body, unfortunately it's an unavoidable experience."
+#    "Why should I have to give up something so warm? All to just go to school."
     
     #"The cold air embraces me, but I don't embrace back, it's uncomfortable."
     
-    "I find the energy and urge my legs to bring the rest of my body to a stand."
-    
-    with dissolve
+#    "I find the energy and urge my legs to bring the rest of my body to a stand."
+#   
+#    with dissolve
     
     ###########
     #         #
@@ -175,71 +163,51 @@ label start:
   ###       ###
   ###       ###
     
+
+    
+#    "Every morning, having to get ready. What a pain."
+#    "I spend a few minutes getting dressed and packing my bag."
+#    "I suppose I've still got plenty of time for breakfast so I won't skip it today."
+    
+#    hide Bedroom
+#    show Kitchen
+    
+#    "It looks like nobody is up yet, understandable being 6:00am."
+#    "Urghhh, cereal."
+#    "This'll have to do I guess."
+#    "After consuming the wet mush that made up my morning meal, I decided to leave."
+#    "It's either that or I can sit around at home for an extra half an hour."
+#    "I'd rather not feel the sleepy wrath of my sister so I shut the door behind me quietely as I leave."
+    
+#    hide Kitchen
+#    with dissolve
+#    show sky
     play music "theelevatorbossanova.mp3"
-    
-    "Every morning, having to get ready. What a pain."
-    
-    "I spend a few minutes getting dressed and packing my bag."
-    
-    "I suppose I've still got plenty of time for breakfast so I won't skip it today."
-    
-    hide Bedroom
-    show Kitchen
-    
-    "It looks like nobody is up yet, understandable being 6:00am."
-    
-    "Urghhh, cereal."
-    
-    "This'll have to do I guess."
-    
-    "After consuming the wet mush that made up my morning meal, I decided to leave."
-     
-    "It's either that or I can sit around at home for an extra half an hour."
-    
-    "I'd rather not feel the sleepy wrath of my sister so I shut the door behind me quietely as I leave."
-    
-    hide Kitchen
-    with dissolve
-    show sky
-    
-    "I step outside onto the footpath, with an empty road ahead of me."
-    
+    "I squint at the painful white light entering my eyes."
     "The mountains ahead practically burst with light as the sun rises behind them."
-    
     "The sight blinded me, I never get to see the sun like this since I usually wake up much later."
-    
+    with fade
+    show Street
     "I wipe my eyes and rub the sleep away while my eyes attempt to adjust to the brightness."
-    
+    "I'm welcomed by the sharp cold air."
+    "I step outside onto the footpath, with an empty road ahead of me."
     "I'm the only one here, but in about 30 minutes this place will be full of students walking to school."
-    
     "Not that it makes much of a difference, considering I always walk alone anyway."
-    
-    "Construction workers are blocking my normal route, as usual."
-    
+    "Construction workers are blocking my normal route, as usual." 
     "I'll have to go around."
-    
     "The modern buildings towering around me have all been built fairly recently to accomodate for the growing population of Mirako City."
-    
     "As I think about this I'm reminded of my old home. I used to live in a small house until it was demolished for this apartment complex."
     
     
     "Every morning is more or less the same."
-    
     "It's even worse when I'm still tired from lack of sleep."
-    
     "In my dreamy state of mind I notice someone on the other side of the road."
-    
     "She looks familiar, I'm sure I know her from somewhere."
-    
     "Being this early there shouldn't be many people around."
-    
     "But despite that, she's standing there."
-    
     "Standing alone, waiting to cross."
-    
     "She's in a school uniform."
     "It's one from my school actually."
-    
     "My vision begins to focus as I get closer and begin to concentrate."
     
     #show MaekoGall1
@@ -352,7 +320,6 @@ label back1:
     "Our school shoes always make a distinct noise on the pavement."
     "But still, no other students were around yet."
    
-    hide MaekoGall1
     
     a "So, how are things holding up in the student council?"
     
@@ -396,6 +363,7 @@ label back1:
     scene
     
     with dissolve
+    hide Street
     show Convinience
     
     "The convenience store is in sight now and we have plenty of time to spare before school."
@@ -430,10 +398,11 @@ label back1:
     
     hide MSHap
     hide Convinience
-    
+    show Street
     "We leave the convenience store while I'm reminded of the girl I saw before."
     "She's still searching for something in the same spot."
     a"Maeko, do you see that girl just over there?"
+    show MSReg
     b"Oh, she looks like someone from our school."
     b"But I can't recognise her."
     b"Maybe she's a second year?"
@@ -447,6 +416,9 @@ label back1:
     b"Whatever, come on you have to man up."
     b"I'll be right behind you if you're worried about looking like a creep."
     a"Did you just call me a creep? Do I look like one?"
+    hide MSReg
+    show MSReg at left
+    show KSReg at right
     c"Excuse me, you look like you're in the same school as me..."
     "Just as I was bickering with Maeko the strange girl intiates the conversation instead."
     "We were so preoccupied we didn't even notice her coming toward us."
@@ -469,13 +441,18 @@ label back1:
     #Yada yada... more conversation here to develope Setsuko before she rips
     
     
-    
+    scene
     show School
     with dissolve
     "We get to the school gates just as the bell starts to ring."
-    hide School
+    show KSReg
+    c"Thanks again for showing me the way!"
+    c"I'll have to see the teacher before class though, so I'll go on ahead."
+    c"See you guys later."
+    z"Bye!"
+    hide KSReg
     with dissolve
-    show MaekoGall2
+    show MSEmb
     
     "Before homeroom Maeko stops me from entering the classroom."
     "She looks embarrassed, but also quite determined for some reason."
@@ -485,7 +462,7 @@ label back1:
     
     a "Yeah, sure I'll be there."
     
-    hide MaekoGall2
+    hide MSEmb
     show MSHap at center
     
     b "Thanks."
@@ -504,7 +481,7 @@ label back1:
     #         #
   ###       ###
   ###       ###
-    
+    hide School
     play music "thelounge.mp3"
     show Classroom
     "I walk into class 2-C with everyone else."
@@ -649,16 +626,19 @@ label back1:
     with dissolve
     "The rest of class went by fairly quickly until the final bell rang for the end of school."
     hide Classroom
-    
-    "And sure enough, she is."
+    show School
+    show KSReg at center
     a"Hey Kunikada."
     c"Hey... you're Ichiro right?"
     a"Yeah that's right, so you're ready to leave?"
     c"Yeah I am, let's go!" 
-    "Kunikada makes a start and begins to walk out of the school"
+    "Kunikada makes a start and begins to walk out of the building."
     a"Uhhh home is actually that way."
+    hide KSReg
+    show KSEmb at center
     c"Oh... maybe it's better if you lead the way then."
     a"Sure."
+    hide KSEmb
     
     "It was only halfway through the school's courtyard when I realised something important."
     "I'd promised Maeko I would go see her about something important this afternoon."
@@ -669,6 +649,7 @@ label back1:
     "I'm already walking with Kunikada right now."
     "I approach the front gate."
     "She's waiting for me."
+    show MSReg
     "Maeko's right there."
     "We both stare at eachother."
     "Beside me Kunikada analyses the situation."
@@ -677,14 +658,18 @@ label back1:
     a"Ohh uhhh."
     "I nervously glance at Kunikada."
     a"Sorry Maeko, can we talk some other time? I've been entrusted with walking Kunikada home today."
+    hide MSReg
+    show MSSad
     "A disappointed look grows over Maeko's face."
     b"Who asked you to?"
     a"The teacher, he felt it was best since she just fainted earlier."
     a"And it turns out we live right next to each other too."
     a"Don't worry, we'll be able to talk some other time yeah?"
     b"Yeah, that's alright I understand."
+    hide MSSad
     "Maeko abruptly leaves Kunikada and me with those final words."
     "She walks through the school gates ahead of us, going in the opposite direction."
+    show KSReg at center
     c"I feel like I've just done something awful."
     a"No don't worry about it, you've done nothing wrong."
     c"But she seemed pretty sad didn't she? Like she really had something important to say."
@@ -695,14 +680,17 @@ label back1:
     "Maybe Kunikada and I started this walk on the wrong foot."
     "But it's not too long until the tension disappeared entirely."
     
-    c"So, what club do you belong to?"
-    a"I don't belong to any."
-    c"Huh? Why not?"
+    c"Do you mind if I ask what club you belong to?"
+    a"No, not really but you'll be disappointed with my answer."
+    c"Huh? Why's that?"
     a"None of the clubs really interested me too much."
-    c"That's too bad, I was wondering which one I should join. I thought maybe you'd have a good recommendation."
-    a"I'm sure you'll be able to find one that's good, there are plenty of posters looking for new recruits all around the school, even with it being half way through the term."
+    a"So back in my first year I searched for something, I told myself I'd pick the first club that interested me."
+    a"But that never really ended up happening."
+    c"I get it, I was only asking because I'm wondering which one I should join. I thought maybe you'd have a good recommendation."
+    a"Sorry I won't be of any help to you. I'm sure you'll be able to find one that's good, there are plenty of posters looking for new recruits all around the school, even with it being half way through the term."
     c"It's just, I'm new and I don't really know anyone yet so I feel like I'd be making a mistake if I randomly joined a club and didn't fit in properly."
-    a"You shouldn't let that sort of stuff stop you or else you'll never make any friends."
+    a"Look, I really don't know much about any of the clubs, especially since it's been a year since I looked at any of them."
+    a"But in any case you shouldn't let that sort of stuff stop you or else you'll never make any friends."
     c"Can I ask you something?"
     a"Sure"
     c"Are we friends?"
@@ -720,7 +708,7 @@ label back1:
     "How can someone cope like that for their entire life?"
     "Does that mean that even now, I'm the closest thing she's had to a friend?"
     "Probably{p} not."
-    "There's no way, and we've only known eachother for a day."
+    "There's no way, and we've only known eachother for half a day."
     "I'm sure she would've been at some of her other schools for long enough to make a least something close to a friend."
     "But when I see her smile like this I wonder."
     "Maybe I'm making a difference in someone else's life."
@@ -749,21 +737,27 @@ label back1:
     "I have to try."
     "I won't let her die."
     "I put as much power as I can into driving my body back into a standing position."
+    "My knees buckle as I try to life myself up."
     "I don't have enough time, I need to act now."
     "I slowly raise from the ground, and see Kunikada right in front of me."
     "She's still trying to struggle, trying to scream."
     "But the cloaked figured has completely silenced her, and is holding her in place."
     "While Kunikada's tear filled eyes stare directly into my own."
     b"Please, help me!"
-    "I can't her her voice."
+    "I can't her hear voice."
     "But I can hear her plea."
+    "I stare at the empty spot within the dark hood."
+    "It's completely black, even in the middle of the day I can't identify anything on where his face should be."
     a"Hey asshole."
     "I try to get the black figure's attention."
     "Anything to keep him distracted for just a moment."
     "For Kunikada to break free."
+    "He turns his head slightly toward me, acknowledging my existence, nothing more."
     "I charge at him, in some desperate attempt at a surpise attack."
     "The cloak is ready for me, he swiftly moves to the side and throws me back onto the ground, this time harder than last."
+    "My body crashes onto the floor and then rolls like a ragdoll."
     "My entire back hurts even more than before."
+    "I can't feel any blood, but then again I can't feel much of anything."
     "But there's no way I can give up."
     "I stand yet again, giving it my all."
     "I'm sure if he wanted to he could've killed both me and Kunikada by now."
@@ -786,9 +780,20 @@ label back1:
     "But there has to be something, anything!"
     "The figure raises Kunikada up in his grasp with one hand and with the other he also raises his long, blue metallic blade."
     "The sharp blade edges closer and closer to her neck."
+    "How am I so useless?!"
+    "Can somebody help?"
+    "I search my surroundings, but no one is there."
+    "It's too unnatural, there isn't a chance that nobody would've noticed this by now."
+    "We're right next to the main road and yet there aren't even any cars."
+    "I'm alone, I'm the only one."
+    "I clench my first."
+    "It's not up to anyone else now, she's relying on me."
+    "I face the shadow in front of me, but I don't step any closer."
+    "It looks as if he's holding her as hostage."
+    "He would've killed her otherwise."
     "But his hand is shaking, quite violently too."
     "Like he can't control it."
-    "Looking at him, some of limbs begin to shake but others freeze up entirely."
+    "Some of his limbs begin to shake but others freeze up entirely."
     "This is my chance!"
     "I charge straight at the cloaked figure with full force managing to knock him just enough for his grip to release on Kunikada."
     "Kunikada falls to the ground beneath him."
@@ -796,9 +801,10 @@ label back1:
     "I was just stating the obvious, Kunikada had already sustained similar injuries to what I had but we had to get away from here as fast as we could."
     "Judging from what this thing can do, our only chance is to hide."
     "A police station isn't going to do anything, even if there was one nearby."
+    "Kunikada looks up at me with teary eyes, she nods as if she's understood."
     "I grab Kunikada's hand and rush down the nearest street, just running as far and as fast as I could."
     "After multiple turns down several different streets we come to a place I'm very familiar with."
-    "Maeko and I used to play here as kids, it's a forest up the mountain."
+    "Maeko and I used to play here as kids, it's a forest up in the mountains."
     "If we go up here we might just be safe."
     "We stop when we're deep enough in. Night has already fallen and the stars are shining through the gap in the canopy above"
     c"What was that thing?"
@@ -807,7 +813,7 @@ label back1:
     a"Are you alright?"
     c"I can't say I am."
     a"Yeah, I didn't think so."
-    "We'd dropped out school bags a long way back so we're just two high schoolers lying down, staring up at the starry night."
+    "We'd dropped our school bags a long way back so we're just two high schoolers lying down, staring up at the starry night."
     "We've got nothing but the clothes on our backs"
     "No food, no water, it's cold and we're running from something that's worse than all three of those combined."
     "Neither of us will complain though, we can't afford to bring down our morale any more."
@@ -880,7 +886,7 @@ label back1:
     "Her body was cleanly cleaved in two, her eyes left completely lifeless."
     "I stare at the expression on her face."
     "Nothing."
-    "She completely gone."
+    "Completely gone."
     "The blood begins to pool all around her."
     "I failed."
     "I couldn't protect her like I said I would."
@@ -921,7 +927,7 @@ label back1:
     "I look back at the capsule, searching for some sort of clue."
     "Maybe if I touch it again?"
     "I press the palm of my hand against the glowing metal."
-    "It doesn't feel hot or cold."
+    "It doesn't feel hot nor cold."
     "A sense of clarity flows through my palm."
     "It's like I've known this all along."
     "I raise my arm in front of me and form a half-fist."
