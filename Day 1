@@ -70,6 +70,7 @@ image SetsukoReg = "SetsukoReg.png"
 image sky = "#7ec0ee"
 image sun = "#ee742b"
 image white = "#4C454E"
+image bright = "#ffffff"
 
 
 # The game starts here.
@@ -83,45 +84,45 @@ label start:
     scene black
     
     "I hate change."
-    pause 0.5
+    pause 0.25
     "But this world is full of it."
-    pause 0.5
+    pause 0.25
     "In a stage of constant regression."
-    pause 0.5
+    pause 0.25
     "Although not all change is bad."
-    pause 0.5
+    pause 0.25
     "The world isn't perfect as it is."
-    pause 0.5
+    pause 0.25
     "But as for the things that are perfect."
-    pause 0.5
+    pause 0.25
     "They never stay that way."
-    pause 0.5
+    pause 0.25
     "If only we could hold onto that perfection."
-    pause 0.5
+    pause 0.25
     "But that's impossible."
-    pause 0.5
+    pause 0.25
     "Nobody knows what to anticipate next."
-    pause 0.5
+    pause 0.25
     "Can anyone really prepare for the future?"
-    pause 0.5
+    pause 0.25
     "I remember a time when things were better."
-    pause 0.5
+    pause 0.25
     "But this town and the people within it."
-    pause 0.5
+    pause 0.25
     "They keep changing."
-    pause 0.5
+    pause 0.25
     "Most of them don't even notice."
-    pause 0.5
+    pause 0.25
     "I hate myself too, because I know I change just like them."
-    pause 0.5
+    pause 0.25
     "Is that change worth it?"
-    pause 0.5
+    pause 0.25
     "Is it worth the potential risk, pain, stress, grief, loss."
-    pause 0.5
+    pause 0.25
     "Yet I long for perfection, the perfect life."
-    pause 0.5
+    pause 0.25
     "The life I live right now isn't perfect."
-    pause 0.5
+    pause 0.25
     "Something has to change....."
     pause 3
     with dissolve
@@ -182,10 +183,13 @@ label start:
 #    hide Kitchen
 #    with dissolve
 #    show sky
-    play music "theelevatorbossanova.mp3"
+
+    show bright
+    play music "theelevatorbossanova.mp3" fadein 10.0
     "I squint at the painful white light entering my eyes."
     "The mountains ahead practically burst with light as the sun rises behind them."
-    "The sight blinded me, I never get to see the sun like this since I usually wake up much later."
+    "The sight blinded me, I never get to see the sun like this."
+    "I never walk to school this early."
     with fade
     show Street
     "I wipe my eyes and rub the sleep away while my eyes attempt to adjust to the brightness."
@@ -199,8 +203,10 @@ label start:
     "As I think about this I'm reminded of my old home. I used to live in a small house until it was demolished for this apartment complex."
     
     
-    "Every morning is more or less the same."
-    "It's even worse when I'm still tired from lack of sleep."
+    "Every morning is more or less the same, I'm somewhat disappointed that this one is no different from the others."
+    "I woke up earlier, I guess I wasn't really expecting much honestly."
+    "Just a small part of me thought I might see something new."
+    "It's even worse that the only payoff is me being even more tired than usual."
     "In my dreamy state of mind I notice someone on the other side of the road."
     "She looks familiar, I'm sure I know her from somewhere."
     "Being this early there shouldn't be many people around."
@@ -221,8 +227,10 @@ label start:
     
     play music "love.mp3"
     show MSReg
+    with dissolve
+
     "Oh it's Maeko."
-    
+
     "Hold on, isn't that strange?"
     
     "What is she doing around here?"
@@ -232,6 +240,8 @@ label start:
     "Mirako is split in two by a river, and she lives on the other side."
     
     "This is actually way off where her normal route should be."
+    
+    "Huh, maybe this morning will turn out a little more interesting than I'd thought."
     
     "It looks like she hasn't noticed me yet."
     
@@ -286,7 +296,8 @@ label callout:
     
     
 label back1:
-    show MSEmb at center
+    show MSEmb
+    
     b "Hey Takeru..."
     
     a "Are you alright?"
@@ -304,7 +315,8 @@ label back1:
     
     b"Oh... ermmm..."
     
-    a"Ah sorry, forget about what I said. How about we get going then?"
+    a"Ah sorry, forget what I said. How about we get going then?"
+    hide MSEmb
     show MSReg at center
     
     b"Oh you're coming along?"
@@ -313,21 +325,26 @@ label back1:
     
     b"No! Not at all!"
     
-    "We're both heading in the same direction so I don't see why we can't walk together."
-    "Though the look on her face was a little uneasy when she said I could."
+    b"I mean, we're both heading in the same direction so I don't see why we can't walk together."
+    "I can't help but feel a little uneasy myself, her eyes dart from side to side while her voice trembles."
+    "Oh well, I can't see any harm coming from spending my time with Maeko instead of just being alone."
    
     "So we begin to walk, side by side. I can hear our footsteps sound in unison."
     "Our school shoes always make a distinct noise on the pavement."
-    "But still, no other students were around yet."
+    "But still, not a single other student was in sight."
    
+    "I actually haven't spoken to Maeko for a while now."
+    "Ever since we entered high school together the distance has just gradually grown further and further between us."
+    "But being with her has a familiar nostalgic feel to it."
     
+    "With Maeko acting so strange I figure it's probably a good idea to start a conversation."
     a "So, how are things holding up in the student council?"
     
     b "It's been pretty busy lately with the School Festival coming up."
     
     a "Oh, that's coming up soon isn't it?"
     
-    b "Of course! That's why we have to plan it now."
+    b "Of course! That's why we've been so busy planning it recently."
     
     b "Geez Takeru, if you were in charge you'd leave it until the last minute I'm sure."
     
@@ -335,7 +352,7 @@ label back1:
     
     "I take a little pride in it though, I still manage decent grades at school despite not preparing properly for anything."
     
-    a "Heh, I can't say that wouldn't happen."
+    a "Heh, I can't say that wouldn't happen. I can't imagine myself as a class rep."
     
     b "Luckily planning is going well and everyone is putting in there best efforts to have a great festival this year."
     
@@ -347,18 +364,20 @@ label back1:
     
     a"Did they ever find out what caused the fire?"
     
-    b"Investigators couldn't find any definitive evidence but it's assumed that one of the cooking stalls caused it."
+    b"I'm not sure, but I heard the investigators couldn't find any definitive evidence but it's assumed that one of the cooking stalls caused it."
     
-    a"Yeah, I heard a rumour about that actually, someone left their station while food was cooking, until it eventually burnt and caught fire."
+    a"Yeah, I heard a rumour like that too, someone left their station while food was cooking, until it eventually burnt and caught fire."
     a"Then nobody noticed until it was too late."
     
-    b"Yeah that could've been it."
+    b"Someone just left the food they were making?"
+    a"That's what I heard, seems pretty odd though."
+    b"Yeah it still could've happened, nobody really knows what caused the fire though."
     
     b"In any case there is a lot more paperwork to fill out, and we're limited a lot by new restrictions put in place."
     
-    a"I'm sure you can handle it."
+    a"Hey I'm sure you can handle it."
     
-    b"I hope so."
+    b"I'm sure with everyone's help it'll be done in no time."
 
     scene
     
@@ -372,6 +391,7 @@ label back1:
     
     b "I'm so glad this place is heated!"
     
+    "The entire store is empty apart from the store clerk."
     "Maeko searches for a while but eventually picks up a melon bread."
     "She's loved it since we were kids."
     "I wait by the entrance without triggering the automatic door to avoid letting in cold air."
@@ -382,27 +402,33 @@ label back1:
     "Maybe it's a photo?"
     "Actually, she's wearing our uniform too."
     "I'm a little interested, I wonder what she's doing."
-    "While I'm distracted by this, I feel someone poking my shoulder."
+    "I catch myself staring at the her when I feel someone poking my shoulder."
 
     
     show MSEmb at center
+    with dissolve
+
     b "Uhmm sorry Takeru, I forgot my money! Do you have any on you? I'll pay you back."
     "Seriously? Who goes to the convenience store without any money?"
-    "Despite that I'm still obliged to help her out, although somewhat regrettably."
+    "Despite that I'm still obliged to help her out."
     a "Yeah I do, don't worry about paying it back though."
     hide MSEmb
     show MSHap at center
     
     b "Thank you!"
-    "I got paid back with a smile at least."
+    "I regret spending my money like this just a little, but Maeko seems happy so I guess it's ok."
     
     hide MSHap
+    with dissolve
     hide Convinience
+    with dissolve
     show Street
     "We leave the convenience store while I'm reminded of the girl I saw before."
     "She's still searching for something in the same spot."
     a"Maeko, do you see that girl just over there?"
     show MSReg
+    with dissolve
+
     b"Oh, she looks like someone from our school."
     b"But I can't recognise her."
     b"Maybe she's a second year?"
@@ -418,7 +444,11 @@ label back1:
     a"Did you just call me a creep? Do I look like one?"
     hide MSReg
     show MSReg at left
+    with dissolve
+
     show KSReg at right
+    with dissolve
+
     c"Excuse me, you look like you're in the same school as me..."
     "Just as I was bickering with Maeko the strange girl intiates the conversation instead."
     "We were so preoccupied we didn't even notice her coming toward us."
@@ -427,15 +457,15 @@ label back1:
     b"Did you need something?"
     c"Yeah I do actually. I'm new to the school, I've just transferred but I'm having trouble with finding it."
     c"I've made it this far by reading this map."
-    c"But as you can probably guess I'm not too good at reading maps."
+    c"But as you can probably tell I'm not too good at reading maps."
     "She's definitely right, after checking her map she's not even on the route the map shows her to go."
     "Both Maeko and I look over the map but neither of us respond to the girl for what has become an uncomfortable amount of time."
     a"Don't worry about it, we're heading there right now so you can come with us."
-    "Eventually I decide we should help her. I don't know why Maeko didn't say anything."
+    "Eventually I decide we should help her. I wish Maeko had spoken up sooner, she's usually good with this sort of thing."
     c"Thank you! I don't know what I would've done if you two hadn't come along!"
     a"That's fine, it's not like you're putting us out of our way or anything."
     c"Can I ask what your names' are? I'm Kunikada Setsuko."
-    a"Takeru Ichiro."
+    a"Ichiro Takeru."
     b"Kotaru Maeko."
     
     #Yada yada... more conversation here to develope Setsuko before she rips
@@ -450,16 +480,20 @@ label back1:
     c"I'll have to see the teacher before class though, so I'll go on ahead."
     c"See you guys later."
     z"Bye!"
+    "We both wave her off but with only 10 minutes until class there isn't really much to do apart from waiting in the classroom."
+    "So we end up following her anyway."
     hide KSReg
     with dissolve
     show MSEmb
     
-    "Before homeroom Maeko stops me from entering the classroom."
+    
+    b"Hold on Takeru, can we talk for a second before class?"
     "She looks embarrassed, but also quite determined for some reason."
+    "She seemed weird this morning but her entire expression was completely different now."
     "What could it be?"
-    
-    b "Takeru, I need to speak to you alone after school okay? It's really important, so be there and don't forget!"
-    
+    b"It's just..."
+    b "I need to speak to you alone about something after school? It's really important, so be there and don't forget!"
+
     a "Yeah, sure I'll be there."
     
     hide MSEmb
@@ -473,6 +507,12 @@ label back1:
                     
     "Must be something important if she couldn't just tell me before school."
     
+    "Maeko rushes off ahead without me too."
+    
+    "I guess in the end I'm still walking to school alone as always."
+    
+
+    
     stop music 
     
     ###########
@@ -484,6 +524,7 @@ label back1:
     hide School
     play music "thelounge.mp3"
     show Classroom
+    with dissolve
     "I walk into class 2-C with everyone else."
     "The roll is called, meaning it's time to zone out for the rest of homeroom."
     "The announcements are usually meaningless, or only important for a few students who are active in school activities."
@@ -494,7 +535,6 @@ label back1:
     "Wait, it can't be her can it?"
     "The girl Maeko and I met this morning."
     "Her name... I think it was Kunikada?"
-    "The only empty seat is next to me, I guess that's where she'll be sitting."
     e"Since when was a transfer student coming here? Don't we usually get told about this sort of stuff?"
     h"Yeah we do... that's a little strange isn't it?"
     e"She sounds interesting."
@@ -520,6 +560,7 @@ label back1:
     c"I just moved here, my Dad's work brought him to this town and as a result brought me too, so I'm pleased to meet you all!"                                                                                                
     "Luckily she handled the situation quite well and avoided making the atmosphere any worse."
     f"Alright class, make sure you make Kunikada feel welcome. You may take your seat now, Kunikada."
+    
     hide SetsukoGall1
     show Classroom
     
