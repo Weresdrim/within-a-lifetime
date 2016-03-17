@@ -17,7 +17,7 @@ define k = Character('Natsumi', colour= "#e5c100")
 define l = Character('Chiyada', colour= "#b20000")
 define a2 = Character('Dark Figure', colour= "#000000")
 
-#NVL MODE#
+#NVL MODE
 
 #define a = Character('Takeru', kind=nvl, color="#00b0e5")
 #define b = Character('Maeko', kind=nvl, color="#53c1b9")
