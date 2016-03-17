@@ -182,7 +182,7 @@
     "I step through feeling slightly relieved as I continue the search."
     "The hallway splits off into a few doorways with a staircase going upward at the end of it."
     "Judging from the noise levels, this place was probably an old classroom building, repurposed for some other use."
-    "This place doesn't look like administration to me but it can't hurt ot search around a little more, especially since it seems empty."
+    "This place doesn't look like administration to me but it can't hurt to search around a little more, especially since it seems empty."
     "All the doors are open in the hallway except for the one that the end."
     "I peer through all the open doors, they're all empty."
     "Before I know it I'm standing in front of the closed one."
@@ -195,22 +195,26 @@
     "The only set table is the one in the centre of the room that the tea set is sitting on, all the others are stacked up in the corner of the room."
     "Four chairs sit around it."
     "What could they be used for? It doesn't look like this place has been used at all for a long time."
-    "Or seen sunlight"
-    "I step inside the dark room and step towards the curtains on the other side of the room."
-    "I cast them aside, allowing the sunlight to pour through, drenching every corner of the room in light."
+    “There’s no doubt it hasn’t seen sunlight either.”
+    "I step inside the dark room and step towards the curtains on the other side of the room, whilst watching my step with every move forward in the unfamiliar room.”
+    "I cast the curtains aside, allowing the sunlight to pour through, drenching every corner of the room in light."
     "The features are clear now as I turn around and..."
     "----woah what?"
-    "There's a girl sitting down at the table."
+    “I’m startled as I only just notice there's a girl sitting down at the table."
     "Her silver hair and violet eyes glisten in the sun's rays as she sits at the table diligently, she doesn't seem to be paying attention to anything."
     "I could've sworn there was no one in here before I opened these curtains."
     "Maybe it was a little too dark to see...."
-    a"Hello, excuse me, I'm sorry for intruding."
+    a"Hello, excuse me, I'm sorry for intruding...”
     "The silver haired girl seems unimpressed, she turns her head toward me with a completely blank face, devoid of all expression."
     h"Hello."
+    “The slight movement of her neck and upper body feels unnatural, almost robotic like.”
+    “But that’s not even the strangest part about her at first glance.”
     "Her neck and a part of her lower face is covered in what I can only guess are burn scars."
     "I've seen pictures of them before, red skin with white vein-like lines running through them."
     "I step back as she stares at me, obviously aware of my reaction to the scarring."
     "Realising that I was being rude I quickly bring out an awkward smile as I think of something to say."
+    “I’m sure there’s a story behind the scarring that she’d probably rather not share, so I’m going to avoid bringing it up.”
+    “My mouth struggles to find the right thing to say as I take care not to trip on my own words.”
     a"So uh, what were you doing, sitting here on your own?"
     h"This is the only empty building in the school."
     "Her voice is monotone, and her answer doesn't make much sense."
@@ -222,11 +226,19 @@
     h"My name? I don't even know anymore, but a long time ago others called me Hikari."
     a"Nice to meet you Hikari, I'm Takeru."
     "I inwardly groan as I say that, she must think I'm a complete idiot."
-    h"Hi."
-    a"Listen, I gotta go now, could you tell me where the administration office is?"
-    h"Go left, and it's the third builing on your right."
-    a"Ok thanks Hikari, I'll come back later!"
+    h”You’re new around here aren’t you?”
+    a”Yeah I am, but how could you tell?”
+    h”I haven’t seen you before today, but judging from your presence here I can only guess you must be lost.”
+    “Wow, she guessed two from two without any hints from me.”
+    a”I’m amazed, you pretty much just summed up my little time at this school so far.”
+    h”It wasn’t any magic. The only reason anyone would ever come here is if they didn’t know where they were going.“
+    a”I see, you must get a lot of lost visitors then…”
+    h”——————“
+    a"Listen, I don’t want to be too much of a bother to you but I have no idea where to go next, could you help me out and tell me where the administration office is?"
+    h"Go left, and it's the third building on your right."
+    “Her response was fast, calm, dull and calculated.”
+    a"Ok thanks Hikari, I'll come back and visit later!”
     "She doesn't react in any way as I rush out the door"
-    "However as I started to run I thought I heard 'no you won't' coming from behind me."
+    "However as I started to run I thought I heard ‘No you won’t...’ coming from behind me."
     "What a strange encounter."
  
