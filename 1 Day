@@ -2,8 +2,10 @@
     "I struggle to open my eyes, and end up squinting instead."
     "...Hmm"
     "Thump!"
-    "Something hit me, right in the head."
-    "Thump--"
+    “I feel something strange on my head, like a weight has just been dropped on it, but the feeling disappears after a few moments.”
+    “—Thump"
+    “There it is again.”
+    “Thump—”
     "...Come on, I just got here... I don't want to go to school yet..."
     "--Thump"
     "I spent all of last night moving all of my stuff to this place."
@@ -16,19 +18,21 @@
     a"Ow ow oowwww Hey knock it off already!"
     
     "I open my eyes completely now finding myself in an unfamiliar room, with a throbbing forehead."
+    “While I feel like I may just get a concussion I am now finally fully awake.”
     "I have to remind myself where I am, that this is my new home."
     "As of today I officially live here at this dormitory."
     "----a fist comes rushing toward my head without warning."
     "I instinctively lift up my arm to block it."
     "In my sleepy daze I manage to deflect it, instead of hitting my face, the fist lands on my pillow."
     a"Hey come on, I'm up---I'm up you see! All awake now!"
-    k"Hmphh, so you are."
+    k”Good morning.”
     "I look up at the tall guy looming over my bed."
     "He's already dressed in my school's uniform."
     "It's hard for me to remember when my heads all beaten up but I'm pretty sure this guy is my roommate, his name was Kenta I think."
+    “I only met him briefly last night before going to bed, for some reason he got back pretty late.”
     "I can only hope he isn't like this every morning."
     k"Come on then, we don't have much time."
-    k"You needed a wake-up call so I provided it, considering that it's your first day."
+    k"You needed a wake-up call so I provided, considering that it's your first day."
     k"I wouldn't mind much if you missed out though, you can always have your first day tomorrow, or the next day, or the next."
     k"But I still wouldn't leave it too long, at that rate you'd never finish high school."
     "I'm not entirely following this guy, I'm not sure if he's being serious or not but I don't think it's safe to ask."
@@ -39,21 +43,22 @@
     "Seemingly focused on something else Kenta just stares off into the distance as I ask him my question."
     a"Hey Kenta, you alright?"
     k"Oh you were talking to me?"
-    "Huh, there's no one else in the room... oh well."
+    "Huh, there's no one else in the room…”
+    “…oh well."
     a"Yeah do you know where my clothes are?"
     k"Oh those things, yes I do know what happened to those. Last night I woke up in the middle of the night to use the bathroom and saw your clothes lying about next to the draws so I figured I should sort them out, it got to me you know?"
     a"Ok so where are they?"
     k"I organised them."
     "I check my draws, they're not there."
     a"Where?"
-    k"Oh they're not over there, they're in my draws. I had to colour code them together or else there wouldn't be enough space."
+    k"Oh they're not over there, they're in these draws. I had to colour code them together or else there wouldn't be enough space."
     a"Huh?"
-    k"I said they're in my draws, I had to colour code them together or else there wouldn't be enough space."
+    k"I said they're in these draws, on this side, I had to colour code them together or else there wouldn't be enough space."
     a"No, no I got that part."
-    a"But why did you mix my clothes with yours?"
+    a"But why did you mix my clothes with yours, that is your side isn’t it?”
     k"Like I said, there wouldn't be enough space."
     a"But I have an entire side over here, completely empty."
-    k"Oh sorry, I forgot you didn't know already."
+    k"Oh sorry, I forgot you didn't already know.”
     k"Allow me to explain, before you got here I was alone in this room."
     k"And that space over there is for my collections, I've got some pretty cool stuff you know?"
     k"I had to make some sacrifices by making some room in the clothes draws, and I even gave up a collection draw for your stuff."
@@ -64,7 +69,7 @@
     "And even back then it was lame."
     k"You seem to have taken a interest to the 1956 set, a very keen eye you have there."
     k"I can tell you a bit about those if you like, you see the metal composition of coins in the---"
-    a"No stop please Kenta, tell me some other time."
+    a"No stop please Kenta, just tell me some other time."
     a"I need my uniform right now or else we'll both be late."
     k"Ah don't worry about finding that, I've got you covered friend."
     "He pulls out my uniform from the draw labelled 'darks'."
@@ -74,6 +79,7 @@
     k"Oh darn, that's the 3rd time this week."
     "I can't imagine what he's done considering it's only Monday today."
     "There's no time to think about that anyway."
+    “I shut the bathroom door behind me, I can’t help but feel a little relieved that I’ve escaped Kenta’s antics, if only for a brief while.” 
     "I take a look at myself in the mirror as I begin to get ready, in a way I'm not just reflecting on my physical self, but also my mental self."
     "Already this morning has been crazy, it's pretty different to my old life...well, at least Kenta is different to anyone I've ever met before."
     "My breath condenses on the mirror pane in front of me, it's incredibly cold this morning."
@@ -82,23 +88,23 @@
     "Luckily my forehead isn't bruised from the beating it took this morning, I don't know what I'd would've done if I had walked into class with a purple forehead."
     "My hair is dishevelled, even after brushing it still doesn't sit right."
     "Well it's not like it's ever done that before."
-    "I guess this place doesn't have any heaters, unless Kenta is against them for whatever reason."
+    "I guess this place doesn't have any heaters, unless Kenta is against having them turned on for whatever reason."
     "At this point I wouldn't be surprised."
-    "Now I just have to change into these clothes quickly before I freeze to death."
+    “Giving up on my hairs position, I just have to change into these clothes quickly before I freeze to death."
     "After I'm finished I unlock the door and step outside to find Kenta waiting for me patiently, this time with his shirt on the right way."
     k"Alright, let's go."
     a"Sure let me just grab my bag."
     "Being my first day my bag is almost entirely empty apart from a few empty notebooks and pens."
     "I grab my school sweater from my bag and quickly put it on, relieving myself from the cold."
     a"I'm ready now."
-    "Kenta leads the way out into the hallway, it seems we're the last ones to leave judging from the lack of sound around us."
-    "Everyone's probably already left by now."
-    "Now that I think about it Kenta is actually pretty considerate, waking me up and waiting for me... he even organised my clothes for me--though not in the way I'd exactly wanted."
+    "Kenta leads the way out into the hallway, it seems we're the last ones to leave judging from the lack of noise around us."
+    "Everyone has probably already left by now."
+    "Now that I think about it Kenta is actually pretty considerate, waking me up and waiting for me... he even organised my clothes for me--though not in the way I exactly wanted."
     "In any case his intentions have been good, I was having second thoughts this morning about having him as a roommate."
-    "But maybe we'll become good friends someday."
+    "But I guess he’s not too bad.”
     
     
-    "The mountains ahead practically burst with light as the sun rises behind them."
+    "The mountains ahead burst with light as the sun rises behind them."
     "The sight blinded me, I haven't seen the sun rising over mountains for a long time."
     "A warm nostalgic feeling rushes over me."
     with fade
@@ -121,29 +127,31 @@
     k"We're late."
     "He says it in such a carefree way that I can't help but feel a little mad about what's happened this morning."
     "I suppose it is mostly my fault for not getting up early enough though."
-    k"If you don't want to be late again I'll wake you up early next time if you'd like."
+    k"If you don't want to be late again I'll wake you up early next time, if you'd like."
     "The picture of a bruised, purple forehead fills my mind."
     a"No, no, no Kenta that's alright I'll just set my alarm a little earlier."
     a"You shouldn't need to worry about waking me up."
     "Kenta just nods his head as we continue our steady pace through the empty street."
+    “I’m reassured by his nod but I don’t entirely trust that he agrees with my request completely.”
     "At least the walk gives me a chance to sort through my conflicting feelings."
-    
+    “I’m a little anxious about this new school and the students who attend it.”
+    “I used to know a lot of people from this town well, but I haven’t really spoken to anyone from here in a while.”
     "Along the way I notice the construction workers demolishing an old traditional home."
     "That seems to be the case around here nowadays, lots and lots of new developments."
-    "I suppose the average person wouldn't notice but I'm different, I haven't been here in almost two years, so I have no idea how everything is changing."
+    "I suppose the average person wouldn't notice but I'm different, I haven't been here in almost two years, so I can see clearly how everything is changing."
     "It's strange when I think about everything that's been built in that time."
     "It's like my entire model of what I thought this place was has been tossed out and remade, within a few seconds of coming back and seeing it all."
-    "Getting used to all this isn't easy."
+    "Getting used to all of this isn't easy."
     
     with dissolve
-    "My eyes a drawn to the only other person in the street apart from me and Kenta."
+    "My eyes are drawn to the only other person in the street apart from me and Kenta."
     "Across the road there's a girl, in a school uniform."
     "She looks familiar, I'm sure I know her from somewhere."
     "Being this late, there shouldn't be many people around."
     "But despite that, she's standing there."
-    "Alone, waiting to cross."
+    "Alone, waiting to cross the road.”
     "My vision quickly sharpens as we get closer."
-    "She has straight brown hair hanging down just past her shoulders and calm green eyes... I know I recognise her."
+    "She has straight brown hair hanging down just past her shoulders and calm green eyes... She looks around my age... I know I recognise her."
     "But I can't quite put my finger on who she is exactly."
     "Somehow a part of me hopes I don't know her, this place was meant to be a new start for me."
     "A place where I can forget about the past."
@@ -155,29 +163,31 @@
     k"Go ahead be honest."
     a"No, I just think I know her from somewhere, I can't remember though."
     a"Do you know her name?"
-    k"I don't know her by name but I know she's a member of the student council."
+    k”You sure you aren’t interested in her?”
+    a”No! Come on, I told you... she just looks familiar...”
+    k”Alright, alright. I don't know her by name but I know she's a member of the student council."
     a"Hmm, know anything else?"
     k"I'm not gonna lie, I really don't know all that much about a lot of the people at our school, I just happened to see that girl walking into the student council room the other day."
     k"But apart from that I've got nothing else to tell you about her."
     "That info doesn't help me at all, and I still have no idea who she is."
-    "I guess her name will come to me soon enough."
+    "I guess her name will come to me eventually if I do know her.”
     
     "The bell's ringing as we walk through the school gates."
     k"My class is that way, I'll see you later."
     "Kenta says as he abruptly changes course and starts walking away at an extremely fast pace."
     a"O-oh, bye."
     "I call out as he walks around the corner."
-    a"Crap! I'm late!"
+    ”Damn it! I'm late and I have no idea where to go.”
     "Without many options open to me, I sprint off blindly, rapidly sorting through the buildings as I do so."
     "They all look about the same."
     "That's the biggest problem, none of them seem to have been built recently but they don't look especially old either."
     "I've only ever seen the school from afar when I was a child since I'd sometimes walk past here during the day."
     "The inside is pretty different from what I expected though."
-    "Despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in way."
+    "Despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in a way."
     
     "Judging from the sizes of the buildings I can only guess the largest one's for the regular, non-specialised classes, the three stories should be for three year groups."
     "There's a smaller building connected to the large one but it's hard to tell whether it's an entrance hall or administration. It's worth a look in any case."
-    "Since I'm probably the only one out of class at the moment so I carefully push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
+    "Since I'm probably the only one out of class at the moment I carefully push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
     "I take a peek through the slightly open door, it looks like its empty inside, just like the school grounds."
     "I step through feeling slightly relieved as I continue the search."
     "The hallway splits off into a few doorways with a staircase going upward at the end of it."
@@ -204,8 +214,9 @@
     "Her silver hair and violet eyes glisten in the sun's rays as she sits at the table diligently, she doesn't seem to be paying attention to anything."
     "I could've sworn there was no one in here before I opened these curtains."
     "Maybe it was a little too dark to see...."
+    “It seems she missed my entrance the same way I didn’t see her here in the first place.”
     a"Hello, excuse me, I'm sorry for intruding...”
-    "The silver haired girl seems unimpressed, she turns her head toward me with a completely blank face, devoid of all expression."
+    “I try to get her attention but the silver haired girl seems unimpressed, she turns her head toward me with a completely blank face, devoid of all expression."
     h"Hello."
     “The slight movement of her neck and upper body feels unnatural, almost robotic like.”
     “But that’s not even the strangest part about her at first glance.”
@@ -221,11 +232,12 @@
     a"Oh, you like being alone?"
     h"Yes."
     "She seems completely disinterested as she answers."
-    a"Oh, uh, what's your name?"
+    a"Oh, uh, can I ask, what's your name?"
     "It may have been my imagination but it looked like her eyes flickered a little when I asked that, but it was gone before I could get a closer look."
-    h"My name? I don't even know anymore, but a long time ago others called me Hikari."
+    h"My name? I don't think anyone knows the answer to to that question. Not even I know anymore, but a long time ago others called me Hikari."
+    “Her answers are just as strange as her behaviour.”
     a"Nice to meet you Hikari, I'm Takeru."
-    "I inwardly groan as I say that, she must think I'm a complete idiot."
+    "I inwardly groan as I say that, I have no idea how to act when paired with someone like this.”
     h”You’re new around here aren’t you?”
     a”Yeah I am, but how could you tell?”
     h”I haven’t seen you before today, but judging from your presence here I can only guess you must be lost.”
