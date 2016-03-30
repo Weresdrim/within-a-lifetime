@@ -325,6 +325,49 @@
     a”Ah, maybe some other time.”
     “I call over my shoulder as I run towards Kenta.”
     n”I’m holding you to that! I’m Haruki Natsumi! You better not forget it!”
+    
+    "I finally escape the overly assertive girl, or... I guess I should call her Haruki."
+    "I think I need somewhere quiet to escape from everyone, I've felt like the centre of attention for the entire morning."
+    "I still have no idea where anything is though."
+    k"Hey friend."
+    a"Hey Kenta, thanks for saving me there."
+    k"Huh? I don't remember saving anyone."
+    "I look over my shoulder to make sure she isn't following us."
+    a"The girl from my class with red hair, I'm not really too sure about her..."
+    k"I could help clear some things up if you'd like."
+    a"Uhh no that's ok."
+    "We walked for a while longer, completely unfarmiliar to my surroundings I'm not too sure where we're going."
+    a"So Kenta where are we headed?"
+    k"I don't know about you but I'm going to try to solve a problem that's been going on for a while now in this school."
+    k"Due to my clubless state I have been assigned with a special duty, that being to protect the school."
+    a"Is that like punishment for not choosing a club?"
+    k"No no no! It's not punishment, we are the bringers of justice throughtout these halls. Believe me this entire place would've fallen to pieces with the INSERT JUSTICE GROUP NAME HERE."
+    a"So there is a group of you, are you going to a meeting right now?"
+    k"Oh uh no you misunderstood what I said."
+    k"It's just me."
+    a"Oh."
+    k"Right now we're currently facing a huge issue in the library. Books keep disappearing without being checked out."
+    a"Are they ever returned?"
+    k"Well that's the strange thing, they're always returned within a few weeks of their disappearance."
+    a"I suppose that's not so bad then."
+    k"It makes stock taking a true nightmare when books suddenly disappear and reappear with no record."
+    k"So I've been assigned with this job to try to solve who, when, where and why this crime is taking place."
+    a"Could you really call it a crime?"
+    k"This is a serious issue you know? It's definitely a crime, in some circumstances I'd even label it as a tier 2 crime at least."
+    a"Alright, good luck then."
+    k"Woah hey, you're not going somewhere are you?"
+    a"Yeah I am, sorry I've got places to be."
+    "I turned down the next corridor as soon as I could to get off Kenta's route."
+    "I wanted off of Kenta's Crazy Contingency as soon as possible."
+    "I don't have any plans on staying clubless, even if he considers that to be a club."
+    
+    
+    
+    #Choice? Ask teacher or go back to ask Natsumi where the library is?#
+    #Let's just go with Natsumi for now"
+    
+    #"I'll go back and ask Haruki, she's the only person I've spoken to in my entire class so far, even if it were just a few words
+    #rofl what am I talking about he's with Kenta
 
 
 
