@@ -143,32 +143,31 @@
     "Getting used to all of this isn't easy."
 
     with dissolve
-    "My eyes are drawn to the only other person in the street apart from me and Kenta."
+    "My eyes are drawn to the only other person in the street apart from Kenta and I."
     "Across the road there's a girl, in a school uniform."
     "She looks familiar, I'm sure I know her from somewhere."
     "Being this late, there shouldn't be many people around."
     "But despite that, she's standing there."
     "Alone, waiting to cross the road.”
-    "My vision quickly sharpens as we get closer."
-    "She has straight brown hair hanging down just past her shoulders and calm green eyes... She looks around my age... I know I recognise her."
-    "But I can't quite put my finger on who she is exactly."
-    "Somehow a part of me hopes I don't know her, this place was meant to be a new start for me."
+    "My vision quickly sharpens as we get closer." (Awkward Phrasing)
+    "She has straight brown hair hanging down just past her shoulders and calm green eyes... She looks around my age... I know I recognise her.I just can't quite put my finger on who she is exactly."
+    "A part of me hopes I don't know her, this place was meant to be a new start for me."
     "A place where I can forget about the past."
     "I try to stay away in a hope to avoid catching her attention."
     "She doesn't seem to notice me."
 
     k"Huh, so you've got your eyes on her then?"
     a"Oh ---uhh no, she just ummm..."
-    k"Go ahead be honest."
+    k"Go ahead. Be honest."
     a"No, I just think I know her from somewhere, I can't remember though."
     a"Do you know her name?"
     k”You sure you aren’t interested in her?”
     a”No! Come on, I told you... she just looks familiar...”
     k”Alright, alright. I don't know her by name but I know she's a member of the student council."
     a"Hmm, know anything else?"
-    k"I'm not gonna lie, I really don't know all that much about a lot of the people at our school, I just happened to see that girl walking into the student council room the other day."
+    k"I'm not gonna lie, I really don't know all that much about a lot of the people at our school, I just happened to see that girl walking into the student council room recently."
     k"But apart from that I've got nothing else to tell you about her."
-    "That info doesn't help me at all, and I still have no idea who she is."
+    "That doesn't help me at all, I still have no idea who she is."
     "I guess her name will come to me eventually if I do know her.”
 
     "The bell's ringing as we walk through the school gates."
@@ -179,7 +178,7 @@
     ”Damn it! I'm late and I have no idea where to go.”
     "Without many options open to me, I sprint off blindly, rapidly sorting through the buildings as I do so."
     "They all look about the same."
-    "That's the biggest problem, none of them seem to have been built recently but they don't look especially old either."
+    "That's the biggest problem, none of them seem to have been built recently but they don't look especially old either." (Relevance?)
     "I've only ever seen the school from afar when I was a child since I'd sometimes walk past here during the day."
     "The inside is pretty different from what I expected though."
     "Despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in a way."
@@ -197,7 +196,7 @@
     "Before I know it I'm standing in front of the closed one."
     "I take a moment to observe the door, the paint is peeling and the handle is rusted, it probably hasn't been opened in a long time."
     "Curiosity piqued I go to push at it."
-    a"It isn't locked!"
+    a"It isn't locked!" (No shit.)
     "A musty smell wafts out as the door creaks open."
     "It looks like a mostly empty classroom, except there are a couple of shelves on the side and a beautiful porcelain tea set sits on a table"
     "It looks like it hasn't been touched for a while"
@@ -256,15 +255,15 @@
     "Even though she was sitting right there, I didn't see her until I opened the curtains."
     "How?"
     "How could I have missed her?"
-    "Has my eyesight degraded this much?"
+    "Has my eyesight degraded this much?" (When is it mentionened his eyesight is degarding?"
     "No that can't be right, everything else is normal."
     "So why?"
 
-    t”Oi, you there!”
-    “Instantly, my mind snaps back to the present, as I notice the smiling man beside me.”
+    t”You there!”
+    “Instantly, my mind snaps back to the present, as I notice the smiling man strolling towards me.” 
     a”O-oh, hello.”
     t”Now what are you doing outside of class?”
-    a”Sorry, I kind of don’t know where I’m going… I’m lost and I huh…”
+    a”Sorry, I kind of don’t know where I’m going... I’m lost and I uh...” 
     t”Are you Ichiro Takeru by any chance?”
     a”Huh? Yeah that’s me, how did you know?”
     t”I was looking for you, you’re in class 2-B, come on let’s go!”
@@ -273,7 +272,7 @@
 
     “I stop for a moment, attempting to mentally prepare myself. I’m probably going to have to introduce myself in just a few moments.”
     “The entire class stares at me.”
-    “God it feels like Judgement Day.”
+    “God, it feels like Judgement Day.”
     “My mind goes blank.”
     “What am I meant to say here?”
     “What do people usually say in these situations?”
@@ -288,8 +287,8 @@
     “I stumbled on my own words and I’m failing to think of any other options.”
     “What other words start with base? Basement? That doesn’t make any sense. I can’t see any way out.”
     t”Sorry to cut you off there Ichiro but we’re running a little late, could you take a seat please?”
-    a”Ah, sure…”
-    “Somehow the teacher answers my prayers, for the second time today he seemingly read my mind, or perhaps he’s just good at reading the situation.”
+    a”Ah, sure...”
+    “Somehow the teacher answers my prayers, for the second time today he seemingly read my mind, perhaps he’s just good at reading the situation.”
     “I give him a grateful look as I move to the empty seat by the windowsill.”
     “Along the way I try to take in as much as I can about the room.”
     “There are five rows, with six seats in each,”
@@ -299,7 +298,7 @@
     “That’s a good thing I guess, less to worry about.”
 
     “The bell rings, signalling the start of lunch.”
-    a”Huh, that was fast.”
+    a”Huh, that was fast.” (Outloud?)
     “The room is filled with chatter, after we bid the teacher farewell.”
     “With no reason to stay any longer, I head straight out the door.”
     n”Hey you! Wait up a second!”
@@ -310,10 +309,10 @@
     n”Nice reflexes.”
     “She smirks as she turns to face me.”
     a”Ah, thanks.”
-    n”So new kid, what were you saying before the teacher interrupted you?”
+    n”So new kid,Ichiro, what were you saying before the teacher interrupted you?”
     “Her knowing smirk feels like it pierces straight through me.”
-    a”Ah, it’s nothing interesting…”
-    n”Eh? Come on now, you can tell me, I promise I won’t fun of you.”
+    a”Ah, it’s nothing interesting...”
+    n”Eh? Come on now, you can tell me, I promise I won’t make fun of you.”
     “My eyes dart around, desperately trying to find a way out of this situation.”
     “Just outside the classroom, walking past is my way out. I see it.”
     a”Hey Kenta!”
@@ -325,13 +324,13 @@
     “Her bottom lip sticks out in a pout.”
     a”Ah, maybe some other time.”
     “I call over my shoulder as I run towards Kenta.”
-    n”I’m holding you to that! I’m Haruki Natsumi! You better not forget it!”
+    n”I’m holding you to that! The name's Haruki Natsumi! You better not forget it!”
 
     #Choice? Ask teacher or go back to ask Natsumi where the library is?#
     #Let's just go with Natsumi for now"
 
     #"I'll go back and ask Haruki, she's the only person I've spoken to in my entire class so far, even if it were just a few words
-    #rofl what am I talking about he's with Kenta
+    #rofl what am I talking about he's with Kenta(DA BEST)
 
     "I finally escape the overly assertive girl, or... I guess I should call her Haruki."
     "I think I need somewhere quiet to escape from everyone, I've felt like the centre of attention for the entire morning."
@@ -348,11 +347,12 @@
     k"I don't know about you but I'm going to try to solve a problem that's been going on for a while now in this school."
     k"Due to my club-less state I have been assigned with a special duty, that being to protect the school."
     a"Is that like punishment for not choosing a club?"
-    k"No no no! It's not punishment, we are the bringers of justice throughout these halls. Believe me this entire place would've fallen to pieces with the INSERT JUSTICE GROUP NAME HERE."
-    a"So there is a group of you, are you going to a meeting right now?"
-    k"Oh uh no you misunderstood what I said."
+    k"No no no! It's not punishment, we are the bringers of justice throughout these halls. Believe me this entire place would've fallen to pieces without the INSERT JUSTICE GROUP NAME HERE(Hallway Hero's, Kenta's Knights, School Super Sentai."
+    a"Are you going to a meeting right now?"
+    k"Oh, uh, no. You misunderstood what I said."
     k"It's just me."
     a"Oh."
+    "Jesus H. Christ on a motherfucking moterbike. I'm friends with the largest autisitic nutjob in the universe."
     k"Right now we're currently facing a huge issue in the library. Books keep disappearing without being checked out."
     a"Are they ever returned?"
     k"Well that's the strange thing, they're always returned within a few weeks of their disappearance."
@@ -367,7 +367,7 @@
     "I turn down the next corridor as soon as I could to get off Kenta's route."
     "I wanted off of Kenta's Crazy Contingency as soon as possible."
     "I don't have any plans on staying club-less, even if he considers that to be a club."
-    "Despite my decision to get away from Kenta I somewhat regret my choice."
+    "Despite making the correct decision to get away from Kenta I regret the necessity of my choice."
     "Where am I supposed to go now for the rest of lunch?"
     "I can't spend the rest of the day alone."
     "The random corridor I had split off to was a lot shorter and smaller than I had expected."
