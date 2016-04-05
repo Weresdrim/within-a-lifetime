@@ -16,7 +16,7 @@
     "Guess I have no choice."
     "Thump, thump, THUMP!"
     a"Ow ow oowwww Hey knock it off already!"
-    
+
     "I open my eyes completely, finding myself in an unfamiliar room with a throbbing forehead."
     “While I feel like I may just have got a concussion, I'm now fully awake.”
     "I have to remind myself where I am." /p "That this is my new home."
@@ -79,7 +79,7 @@
     k"Oh darn, that's the third time this week."
     "I can't imagine what he's done considering it's only Monday today."
     "But there's no time to think about that."
-    “I shut the bathroom door behind me, I can’t help but feel a little relieved that I’ve escaped Kenta’s presence, if only for a brief while.” 
+    “I shut the bathroom door behind me, I can’t help but feel a little relieved that I’ve escaped Kenta’s presence, if only for a brief while.”
     "I take a look at myself in the mirror as I begin to get ready, in a way I'm not just reflecting on my physical self, but also my mental self."
     "Already this morning has been crazy, it's pretty different to my old life... Well, at least Kenta is different to anyone I've ever met before."
     "My breath condenses on the mirror pane in front of me, it's incredibly cold this morning."
@@ -101,8 +101,8 @@
     "Now that I think about it Kenta is actually pretty considerate, waking me up and waiting for me... he even organised my clothes for me, though not in the way I exactly wanted."
     "In any case his intentions have been good, I was having second thoughts this morning about having him as a roommate."
     "But I guess he’s not too bad.”
-    
-    
+
+
     "The mountains ahead burst with light as the sun rises behind them."
     "The sight blinded me, I haven't seen the sun rising over mountains for a long time."
     "A warm nostalgic feeling rushes over me."
@@ -141,7 +141,7 @@
     "It's strange when I think about everything that's been built in that time."
     "It's like my entire model of what I thought this place was has been tossed out and remade, within a few seconds of coming back and seeing it all."
     "Getting used to all of this isn't easy."
-    
+
     with dissolve
     "My eyes are drawn to the only other person in the street apart from me and Kenta."
     "Across the road there's a girl, in a school uniform."
@@ -156,7 +156,7 @@
     "A place where I can forget about the past."
     "I try to stay away in a hope to avoid catching her attention."
     "She doesn't seem to notice me."
-    
+
     k"Huh, so you've got your eyes on her then?"
     a"Oh ---uhh no, she just ummm..."
     k"Go ahead be honest."
@@ -170,7 +170,7 @@
     k"But apart from that I've got nothing else to tell you about her."
     "That info doesn't help me at all, and I still have no idea who she is."
     "I guess her name will come to me eventually if I do know her.”
-    
+
     "The bell's ringing as we walk through the school gates."
     k"My class is that way, I'll see you later."
     "Kenta says as he abruptly changes course and starts walking away at an extremely fast pace."
@@ -183,7 +183,7 @@
     "I've only ever seen the school from afar when I was a child since I'd sometimes walk past here during the day."
     "The inside is pretty different from what I expected though."
     "Despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in a way."
-    
+
     "Judging from the sizes of the buildings I can only guess the largest one's for the regular, non-specialised classes, the three stories should be for three year groups."
     "There's a smaller building connected to the large one but it's hard to tell whether it's an entrance hall or administration. It's worth a look in any case."
     "Since I'm probably the only one out of class at the moment I carefully push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
@@ -259,7 +259,7 @@
     "Has my eyesight degraded this much?"
     "No that can't be right, everything else is normal."
     "So why?"
-    
+
     t”Oi, you there!”
     “Instantly, my mind snaps back to the present, as I notice the smiling man beside me.”
     a”O-oh, hello.”
@@ -293,7 +293,8 @@
     “I give him a grateful look as I move to the empty seat by the windowsill.”
     “Along the way I try to take in as much as I can about the room.”
     “There are five rows, with six seats in each,”
-    “They’re all occupied except for one at the windowsill and another, next to a black haired girl.”
+    “They’re all occupied except for one at the windowsill and another, empty seat beside it.”
+    "I guess the window seat is always better."
     “Everybody seems to have forgotten me already.”
     “That’s a good thing I guess, less to worry about.”
 
@@ -325,13 +326,13 @@
     a”Ah, maybe some other time.”
     “I call over my shoulder as I run towards Kenta.”
     n”I’m holding you to that! I’m Haruki Natsumi! You better not forget it!”
-    
+
     #Choice? Ask teacher or go back to ask Natsumi where the library is?#
     #Let's just go with Natsumi for now"
-    
+
     #"I'll go back and ask Haruki, she's the only person I've spoken to in my entire class so far, even if it were just a few words
     #rofl what am I talking about he's with Kenta
-    
+
     "I finally escape the overly assertive girl, or... I guess I should call her Haruki."
     "I think I need somewhere quiet to escape from everyone, I've felt like the centre of attention for the entire morning."
     "I still have no idea where anything is though."
@@ -342,12 +343,12 @@
     a"The girl from my class with red hair, I'm not really too sure about her..."
     k"I could help clear some things up if you'd like."
     a"Uhh no that's ok."
-    "We walked for a while longer, completely unfarmiliar to my surroundings I'm not too sure where we're going."
+    "We walked for a while longer, completely unfamiliar to my surroundings I'm not too sure where we're going."
     a"So Kenta where are we headed?"
     k"I don't know about you but I'm going to try to solve a problem that's been going on for a while now in this school."
-    k"Due to my clubless state I have been assigned with a special duty, that being to protect the school."
+    k"Due to my club-less state I have been assigned with a special duty, that being to protect the school."
     a"Is that like punishment for not choosing a club?"
-    k"No no no! It's not punishment, we are the bringers of justice throughtout these halls. Believe me this entire place would've fallen to pieces with the INSERT JUSTICE GROUP NAME HERE."
+    k"No no no! It's not punishment, we are the bringers of justice throughout these halls. Believe me this entire place would've fallen to pieces with the INSERT JUSTICE GROUP NAME HERE."
     a"So there is a group of you, are you going to a meeting right now?"
     k"Oh uh no you misunderstood what I said."
     k"It's just me."
@@ -363,10 +364,37 @@
     a"Alright, good luck then."
     k"Woah hey, you're not going somewhere are you?"
     a"Yeah I am, sorry I've got places to be."
-    "I turned down the next corridor as soon as I could to get off Kenta's route."
+    "I turn down the next corridor as soon as I could to get off Kenta's route."
     "I wanted off of Kenta's Crazy Contingency as soon as possible."
-    "I don't have any plans on staying clubless, even if he considers that to be a club."
+    "I don't have any plans on staying club-less, even if he considers that to be a club."
+    "Despite my decision to get away from Kenta I somewhat regret my choice."
+    "Where am I supposed to go now for the rest of lunch?"
+    "I can't spend the rest of the day alone."
+    "The random corridor I had split off to was a lot shorter and smaller than I had expected."
+    "There's only a single room, and a door that leads to the outside."
+    "The room looks so out of place, I'm surprised by the strange design of this school."
+    "Without the class numbering above the doorway I know it's not even a classroom, and why would it be? Being this isolated."
+    "It's my first day, I'm allowed to be curious aren't I?"
+    "I check over my shoulder to make sure no one is watching."
+    "The corridor is empty behind me."
+    "What's there to lose?"
+    "I turn the door handle and with just a small push the entire room is revealed to me."
+    "I was reminded of the encounter I had with that other girl when I entered the room in the old part of the school."
+    "Although this place, while it felt like it was positioned awkwardly from the outside, in actuality it was comfortingly quaint inside."
+    "Though just like that other place, there is a girl, also sitting in a chair. Though this time she is reading a book silently."
+    "It seems she hasn't noticed my entrance."
+    a"Hello..."
+    "The black haired girl's head instantly jumps up out of the book at the sound of my voice."
+    "Like she had just been on the verge of sleep but had jerked herself awake, startled suddenly before she could properly fall unconscious."
+    "But this girl is anything but drowsy."
+    "Her eyes widen upon meeting my gaze."
+    "But she quickly turns her head to the floor."
+    "Despite her efforts to hide it, I can tell her face is covered red."
+    "I feel a little bad, what do people usually do when someone acts like this just to a simple hello..."
+    a"Sorry, did I intrude at the wrong time? I'm new here so I wasn't too sure what this place was so-"
     
+
+
     #Find Hagami in club room after ditching Kenta
     #Hagami leaves soon after you enter, but she leaves all of her stuff behind
     #You assume she'll be coming back don't want to be rude by leaving and you found a quiet place to read anyway
@@ -375,9 +403,3 @@
     #She's worried and doesn't know what to do now that you've taken over the clubroom so she waits for Mana who said she'd be coming after swim club."
     #Then Mana shows up with wet dripping hair and a towel around her shoulders (from swimming)
     #Mana sums up the situation and pushes you both into the clubroom, solving the situation.
-    
-    
-
-
-
-
