@@ -29,7 +29,7 @@
     "I look up at the tall guy looming over my bed."
     "He's already dressed in my new school's uniform."
     "It's hard for me to remember when my head's all beaten up but I'm pretty sure this guy is my roommate, his name was Kenta I think."
-    #(Show not tell) “I only met him briefly last night before going to bed, for some reason he got back pretty late.”
+    “I only met him briefly last night before going to bed, for some reason he got back pretty late.”
     "I can only hope he isn't like this every morning."
     k"Come on then, we don't have much time."
     k"You needed a wake-up call so I provided, considering that it's your first day."
@@ -149,8 +149,8 @@
     "Being this late, there shouldn't be many people around."
     "But despite that, she's standing there."
     "Alone, waiting to cross the road.”
-    "My vision quickly sharpens as we get closer." (Awkward Phrasing)
-    "She has straight brown hair hanging down just past her shoulders and calm green eyes... She looks around my age... I know I recognise her.I just can't quite put my finger on who she is exactly."
+    "My vision quickly sharpens as I move closer to the girl."
+    "She has straight brown hair hanging down just past her shoulders and calm green eyes... She looks around my age... I know I recognise her. I just can't quite put my finger on who she is exactly."
     "A part of me hopes I don't know her, this place was meant to be a new start for me."
     "A place where I can forget about the past."
     "I try to stay away in a hope to avoid catching her attention."
@@ -196,7 +196,7 @@
     "Before I know it I'm standing in front of the closed one."
     "I take a moment to observe the door, the paint is peeling and the handle is rusted, it probably hasn't been opened in a long time."
     "Curiosity piqued I go to push at it."
-    a"It isn't locked!" (No shit.)
+    "It isn't locked!"
     "A musty smell wafts out as the door creaks open."
     "It looks like a mostly empty classroom, except there are a couple of shelves on the side and a beautiful porcelain tea set sits on a table"
     "It looks like it hasn't been touched for a while"
@@ -298,7 +298,7 @@
     “That’s a good thing I guess, less to worry about.”
 
     “The bell rings, signalling the start of lunch.”
-    a”Huh, that was fast.” (Outloud?)
+    ”Huh, that was fast.”
     “The room is filled with chatter, after we bid the teacher farewell.”
     “With no reason to stay any longer, I head straight out the door.”
     n”Hey you! Wait up a second!”
@@ -309,7 +309,7 @@
     n”Nice reflexes.”
     “She smirks as she turns to face me.”
     a”Ah, thanks.”
-    n”So new kid,Ichiro, what were you saying before the teacher interrupted you?”
+    n”So new kid, Ichiro, what were you saying before the teacher interrupted you?”
     “Her knowing smirk feels like it pierces straight through me.”
     a”Ah, it’s nothing interesting...”
     n”Eh? Come on now, you can tell me, I promise I won’t make fun of you.”
@@ -448,13 +448,24 @@
     a"Sorr-"
     m"Don't worry, you didn't do anything wrong. She's just fragile is all."
     m"Everything should be fine though as long as I'm there this time, she's my best friend after all."
-    
+    "As soon as we step into the library I'm reminded of Kenta, who has a fairly high probablity of being here too."
+    "I really don't want to bump into him here, especially not with Mana after I ditched him."
+    "Being my first time here I take in the libraries scenerary, it's spacious and filled with books as you'd expect from any library."
+    "It's not as big nor is it as impressive as my old school's though."
+    m"So you said you were new here?"
+    a"Yeah."
+    m"It's probably your first visit to the library then."
+    m"I'll give you a little tour sometime if you'd like."
+    m"But for now we need to find Hagami."
+    a"Sure."
+    m"Her usual spot is just over here."
+    "This library is much more like a labyrinth of books than a library. You could easily got lost within the sea of shelves if you took the wrong turn."
+    "I don't know who designed this place but I'm glad I have Mana to guide me, she seems to know this place well."
+    "I try to keep an imaginary map in my mind of which way to go to get back but that's quickly forgotten."
+    "A sanctuary opens, hidden far away from the rest of the school and even the rest of the library."
+    "There's just a small opening between the bookshelves that opens to another entire small room."
+    a"Pretty good hiding spot."
+    m"She comes here because she knows I'm the only other person who knows about this spot."
 
-    #Find Hagami in club room after ditching Kenta
-    #Hagami leaves soon after you enter, but she leaves all of her stuff behind
-    #You assume she'll be coming back don't want to be rude by leaving and you found a quiet place to read anyway
-    #Eventually you decide it's been too long so you leave them room.
-    "After stepping outside of the room I find Hagami, standing up straight, petrified as I look at her."
-    #She's worried and doesn't know what to do now that you've taken over the clubroom so she waits for Mana who said she'd be coming after swim club."
-    #Then Mana shows up with wet dripping hair and a towel around her shoulders (from swimming)
+    
     #Mana sums up the situation and pushes you both into the clubroom, solving the situation.
