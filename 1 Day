@@ -337,9 +337,6 @@
     “I call over my shoulder as I run towards Kenta.”
     n”I’m holding you to that! The name's Haruki Natsumi! You better not forget it!”
 
-    #Choice? Ask teacher or go back to ask Natsumi where the library is?#
-    #Let's just go with Natsumi for now"
-
     #"I'll go back and ask Haruki, she's the only person I've spoken to in my entire class so far, even if it were just a few words
     #rofl what am I talking about he's with Kenta(DA BEST)
 
@@ -485,25 +482,62 @@
     "She's completely relaxed while reading a book."
     "The situation is not too different from the one at the start of lunch."
     "Although this time Mana is with me."
+    "This time things should go a lot better if what she's said is true."
     "Hagami notices us both immediately, her eyes again widen from the sight of me."
     "And just like before her gaze makes me feel like I've done something awful"
     "Mana sits next to Hagami as she talks to her directly in an attempt to take me out of the situation briefly."
     m"Trust me Hagami he's harmless. He's a nice guy. He came here to see you because he's afraid he's done something wrong to you."
+    "She speaks softly but not quiet enough to stop me from hearing her words."
     h"O-ok"
     h"So-rry, I meant to say I'm alright."
     "Her voice is soft, but carries her feelings well enough."
-    h"I'm just this w-way because I didn't... I didn't expect you to come here..."
+    h"I'm just this w-way, because I didn't... I didn't expect you to come here..."
     h"Or t-to the clubroom."
     "I was afraid that I may have offended her but it seems like she's even more afraid of that than I am."
     h"B-but thanks... for coming."
     "A shy, calm smile slowly appears on her face."
-    "I let out a sigh of relief as my worries are laid to rest."
+    "I let out a an nonexistent sigh of relief as my worries are laid to rest."
     "It seems she didn't need all that much convincing, or maybe Mana is just good at this sort of thing?"
-    ""
+    "Just from the way they act, I can tell their friendship is strong."
+    "It sorta makes me a little envious in a way."
+    m"How about we all head back to the clubroom?"
+    a"Sure."
+    "Hagami also agrees with a slight nod of the head."
+    a"Actually now is probably as good as any to ask... What exactly is the club you two belong to?"
+    a"I still need to find one."
+    h"The literature club."
+    "Despite the distance she's keeping between us, Hagami actually answered my question."
+    "She's been close to Mana's side this entire time so I didn't expect much of any response from her."
+    a"The literature club?"
+    a"I suppose that explains the copious amounts of books in that small room."
+    m"I'm a member but really it's Hagami that loves to read a lot, she's the club president after all."
+    m"You might've already figured this out but I'm also part of the swimming club too so I have to manage my time between both clubs."
+    a"Wait, this school has club activities at lunch?"
+    m"Well no, not technically... but nobody really minds since places like the pool and this room are always open."
+    "The bell rings, signaling the end of lunch."
+    "We'd only just made it back to the entrance clubroom."
+    "Oh well."
+    m"Shoot, lunch is over already?"
+    m"You won't even get a proper introduction tour of the literature club..."
+    m"How about you come some other time and we'll show you around?"
+    a"Sure, I'll come back soon."
+    m"Awesome, bye then."
+    a"See ya."
+    "Hagami also manages a goodbye wave."
 
-
-
-    " This time things should go a lot better if what she's said is true."
-
-
-    #Mana sums up the situation and pushes you both into the clubroom, solving the situation.
+    #Go to class, not much happens (unless it does)
+    #Go back home and wake up the following morning
+    #Go to school new student (Setsuko) arrives
+    #Scene from old vn
+    #Be walking around school, bump into Meiko
+    #Recognise each other, she asks for your help in running an errand for her
+    #Get lost
+    #End up in Hikari's room again
+    #Talk with her for a bit (She's surprised you can see her again, it's the first time anyone has seen her two times in a row as a ghost, though she doesn't tell you anything about herself being dead).
+    #Leave, she tells you the way to the student council room
+    #Find student council room, Meiko is there, talk with her for a bit to catch up
+    #Ask about Hikari, she'll tell you about the story of the student who died in a fire last year in the school festival
+    #^Already written in old vn
+    #Something about Natsumi and baseball after school, still struggling around the specifics of why he'd be playing baseball with her
+    #Figure out a point of MC has fucking lost, meaning he hasn't gotten enough points from the decisions to get with any girls
+    #This leaves him alone and hopeless with a shell of a life
