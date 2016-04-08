@@ -208,7 +208,7 @@
     "I cast the curtains aside, allowing the sunlight to pour through, drenching every corner of the room in light."
     "The features are clear now as I turn around and..."
     "----woah what?"
-    “I’m startled as I only just notice there's a girl sitting down at the table."
+    “Somehow I hadn't noticed this before, but there's a girl sitting down at the table."
     "Her silver hair and violet eyes glisten in the sun's rays as she sits at the table diligently, she doesn't seem to be paying attention to anything."
     "I could've sworn there was no one in here before I opened these curtains."
     "Maybe it was a little too dark to see...."
@@ -223,6 +223,7 @@
     "I step back as she stares at me, obviously aware of my reaction to the scarring."
     "Realising that I was being rude I quickly bring out an awkward smile as I think of something to say."
     “I’m sure there’s a story behind the scarring that she’d probably rather not share, so I’m going to avoid bringing it up.”
+    "My throat is a little dry as I attempt to swallow."
     “My mouth struggles to find the right thing to say as I take care not to trip on my own words.”
     a"So uh, what were you doing, sitting here on your own?"
     h"This is the only empty building in the school."
@@ -236,13 +237,14 @@
     “Her answers are just as strange as her behaviour.”
     a"Nice to meet you Hikari, I'm Takeru."
     "I inwardly groan as I say that, I have no idea how to act when paired with someone like this.”
+    "It feels like we're completely disconnected from each other."
     h”You’re new around here aren’t you?”
     a”Yeah I am, but how could you tell?”
     h”I haven’t seen you before today, but judging from your presence here I can only guess you must be lost.”
     “Wow, she guessed two from two without any hints from me.”
     a”I’m amazed, you pretty much just summed up my little time at this school so far.”
     h”It wasn’t any magic. The only reason anyone would ever come here is if they didn’t know where they were going.“
-    a”I see, you must get a lot of lost visitors then…”
+    a”I see, you must get a lot of lost visitors then...”
     h”——————“
     a"Listen, I don’t want to be too much of a bother to you but I have no idea where to go next, could you help me out and tell me where the administration office is?"
     h"Go left, and it's the third building on your right."
@@ -255,15 +257,15 @@
     "Even though she was sitting right there, I didn't see her until I opened the curtains."
     "How?"
     "How could I have missed her?"
-    "Has my eyesight degraded this much?" (When is it mentionened his eyesight is degarding?"
+    "Has my eyesight degraded without me even noticing?"
     "No that can't be right, everything else is normal."
     "So why?"
 
     t”You there!”
-    “Instantly, my mind snaps back to the present, as I notice the smiling man strolling towards me.” 
+    “Instantly, my mind snaps back to the present, as I notice the smiling man strolling towards me.”
     a”O-oh, hello.”
     t”Now what are you doing outside of class?”
-    a”Sorry, I kind of don’t know where I’m going... I’m lost and I uh...” 
+    a”Sorry, I kind of don’t know where I’m going... I’m lost and I uh...”
     t”Are you Ichiro Takeru by any chance?”
     a”Huh? Yeah that’s me, how did you know?”
     t”I was looking for you, you’re in class 2-B, come on let’s go!”
@@ -271,6 +273,7 @@
     “After a second of hesitation I quickly follow.”
 
     “I stop for a moment, attempting to mentally prepare myself. I’m probably going to have to introduce myself in just a few moments.”
+    "I didn't expect this all to be done so rushed, that is to say, I'm not prepared at all."
     “The entire class stares at me.”
     “God, it feels like Judgement Day.”
     “My mind goes blank.”
@@ -294,11 +297,18 @@
     “There are five rows, with six seats in each,”
     “They’re all occupied except for one at the windowsill and another, empty seat beside it.”
     "I guess the window seat is always better."
-    “Everybody seems to have forgotten me already.”
+    "I really messed up that introduction but luckily it seems everybody has forgotten me already."
+
     “That’s a good thing I guess, less to worry about.”
 
-    “The bell rings, signalling the start of lunch.”
-    ”Huh, that was fast.”
+    "Looking at the clock I notice there are only two minutes before lunch."
+    "I didn't manage to speak to anyone in these first two classes."
+    "Luckily it wasn't my own fault, but rather due to the nature of the classes."
+    "It was just book work on History and English, no group tasks required."
+    "I wonder if I can find anyone to sit...?"
+    "I guess I could go find Kenta... though maybe that's not the best idea."
+    “The bell rings, signaling the start of lunch.”
+    ”That was fast.”
     “The room is filled with chatter, after we bid the teacher farewell.”
     “With no reason to stay any longer, I head straight out the door.”
     n”Hey you! Wait up a second!”
@@ -309,6 +319,7 @@
     n”Nice reflexes.”
     “She smirks as she turns to face me.”
     a”Ah, thanks.”
+    "My heart begins to race due to the erratic spontaneousness of her movements."
     n”So new kid, Ichiro, what were you saying before the teacher interrupted you?”
     “Her knowing smirk feels like it pierces straight through me.”
     a”Ah, it’s nothing interesting...”
@@ -448,9 +459,9 @@
     a"Sorr-"
     m"Don't worry, you didn't do anything wrong. She's just fragile is all."
     m"Everything should be fine though as long as I'm there this time, she's my best friend after all."
-    "As soon as we step into the library I'm reminded of Kenta, who has a fairly high probablity of being here too."
+    "As soon as we step into the library I'm reminded of Kenta, who has a fairly high probability of being here too."
     "I really don't want to bump into him here, especially not with Mana after I ditched him."
-    "Being my first time here I take in the libraries scenerary, it's spacious and filled with books as you'd expect from any library."
+    "Being my first time here I take in the libraries scenery, it's spacious and filled with books as you'd expect from any library."
     "It's not as big nor is it as impressive as my old school's though."
     m"So you said you were new here?"
     a"Yeah."
@@ -463,9 +474,36 @@
     "I don't know who designed this place but I'm glad I have Mana to guide me, she seems to know this place well."
     "I try to keep an imaginary map in my mind of which way to go to get back but that's quickly forgotten."
     "A sanctuary opens, hidden far away from the rest of the school and even the rest of the library."
-    "There's just a small opening between the bookshelves that opens to another entire small room."
+    "There's just a small opening between the bookshelves that reveals another entire small room."
     a"Pretty good hiding spot."
     m"She comes here because she knows I'm the only other person who knows about this spot."
+    a"So why are you showing me?"
+    m"You would've turned back a while ago if you weren't concerned about Hagami."
+    m"I'm sure about that".
+    "She says something I have no response for, I don't exactly know Hagami all that well... maybe it's just curiosity?"
+    "We step around the corner into the space between the shelves and sure enough Hagami is sitting on the floor, leaning against one of the shelves.
+    "She's completely relaxed while reading a book."
+    "The situation is not too different from the one at the start of lunch."
+    "Although this time Mana is with me."
+    "Hagami notices us both immediately, her eyes again widen from the sight of me."
+    "And just like before her gaze makes me feel like I've done something awful"
+    "Mana sits next to Hagami as she talks to her directly in an attempt to take me out of the situation briefly."
+    m"Trust me Hagami he's harmless. He's a nice guy. He came here to see you because he's afraid he's done something wrong to you."
+    h"O-ok"
+    h"So-rry, I meant to say I'm alright."
+    "Her voice is soft, but carries her feelings well enough."
+    h"I'm just this w-way because I didn't... I didn't expect you to come here..."
+    h"Or t-to the clubroom."
+    "I was afraid that I may have offended her but it seems like she's even more afraid of that than I am."
+    h"B-but thanks... for coming."
+    "A shy, calm smile slowly appears on her face."
+    "I let out a sigh of relief as my worries are laid to rest."
+    "It seems she didn't need all that much convincing, or maybe Mana is just good at this sort of thing?"
+    ""
 
-    
+
+
+    " This time things should go a lot better if what she's said is true."
+
+
     #Mana sums up the situation and pushes you both into the clubroom, solving the situation.
