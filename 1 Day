@@ -178,18 +178,27 @@
     ”Damn it! I'm late and I have no idea where to go.”
     "Without many options open to me, I sprint off blindly, rapidly sorting through the buildings as I do so."
     "They all look about the same."
-    "That's the biggest problem, none of them seem to have been built recently but they don't look especially old either." (Relevance?)
+    "That's the biggest problem, none of them seem to have been built recently but they don't look especially old either."
     "I've only ever seen the school from afar when I was a child since I'd sometimes walk past here during the day."
     "The inside is pretty different from what I expected though."
-    "Despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in a way."
+    "It feels lively, but also somewhat empty. It's a hard feeling to describe."
+    "Eerie, maybe?"
+    "It's also different from my old school, I can't decide whether it's better or worse just yet."
+    "Though despite being a hurry, I can already feel this place growing on me, its familiar feel is comforting in a way."
+    "Whether it's comforting or not, this is my new life."
+    "I can't go back to where I came from."
+    "But this isn't the end."
+    "This is the beginning."
+    "I can't help being a little anxious when I'm surrounded by these thoughts of this new environment."
 
     "Judging from the sizes of the buildings I can only guess the largest one's for the regular, non-specialised classes, the three stories should be for three year groups."
     "There's a smaller building connected to the large one but it's hard to tell whether it's an entrance hall or administration. It's worth a look in any case."
-    "Since I'm probably the only one out of class at the moment I carefully push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
-    "I take a peek through the slightly open door, it looks like its empty inside, just like the school grounds."
+    "I need to be careful here, since I'm probably the only one out of class at them moment. I cautiously push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
+    "I take a peek through the slightly open door, it looks like its empty inside, just like the rest of the school grounds."
     "I step through feeling slightly relieved as I continue the search."
     "The hallway splits off into a few doorways with a staircase going upward at the end of it."
     "Judging from the noise levels, this place was probably an old classroom building, repurposed for some other use."
+    "Right now it doesn't seem like any classes are running here."
     "This place doesn't look like administration to me but it can't hurt to search around a little more, especially since it seems empty."
     "All the doors are open in the hallway except for the one that the end."
     "I peer through all the open doors, they're all empty."
@@ -268,31 +277,44 @@
     a”Sorry, I kind of don’t know where I’m going... I’m lost and I uh...”
     t”Are you Ichiro Takeru by any chance?”
     a”Huh? Yeah that’s me, how did you know?”
-    t”I was looking for you, you’re in class 2-B, come on let’s go!”
+    t”I was looking for you, you’re in class 2-B, come on this way, everyone's been waiting for you.”
     “Without even bothering to see what I do, he turns away and starts walking at a brisk pace.”
     “After a second of hesitation I quickly follow.”
 
     “I stop for a moment, attempting to mentally prepare myself. I’m probably going to have to introduce myself in just a few moments.”
     "I didn't expect this all to be done so rushed, that is to say, I'm not prepared at all."
-    “The entire class stares at me.”
+    "I can't mess this up... this'll be my first impression to the people I'll be spending the rest of the year with."
+    "My throat is dry already as I enter the classroom."
+    "The classroom has a decent amount of students, which makes it all the more worse."
+    "I turn to face them and try to prepare myself."
+    "They all seem fairly normal, like ordinary students. Though just at a glance. The unfamiliar setting and atmosphere of the classroom makes me feel uneasy."
+    t"Alright everyone, we have a new student we'll be welcoming today."
+    t"Please, make him feel welcome."
+    "The class collectively applauds my entrance in a warm welcome."
+    “As the noise level calms down, they all stare at me, waiting for my next move.”
     “God, it feels like Judgement Day.”
     “My mind goes blank.”
+    "My heart begins to beat, louder and faster."
     “What am I meant to say here?”
     “What do people usually say in these situations?”
+    a"..."
     t”Try your name first.”
     “The teacher mutters underneath his breath.”
     a”Uh, hi, I’m Ichiro Takeru.”
+    "I pause again, still lacking the ability to process thoughts into words."
     t”Tell them about a hobby of yours.”
     “This time the teacher spoke his suggestion, allowing everyone to hear.”
     a”I play base-“
-    “Crap.”
+    “Wait, no... Crap.”
     a”I-I uh… That is…”
     “I stumbled on my own words and I’m failing to think of any other options.”
-    “What other words start with base? Basement? That doesn’t make any sense. I can’t see any way out.”
+    “What other words start with base? Basement? That doesn’t make any sense, nobody plays basement... I can’t see any way out.”
     t”Sorry to cut you off there Ichiro but we’re running a little late, could you take a seat please?”
     a”Ah, sure...”
     “Somehow the teacher answers my prayers, for the second time today he seemingly read my mind, perhaps he’s just good at reading the situation.”
-    “I give him a grateful look as I move to the empty seat by the windowsill.”
+    "Well that went smoothly..."
+    "I can't help but feel a little defeated by my failure of an introduction."
+    “But still, I give him a grateful look as I move to the empty seat by the windowsill.”
     “Along the way I try to take in as much as I can about the room.”
     “There are five rows, with six seats in each,”
     “They’re all occupied except for one at the windowsill and another, empty seat beside it.”
@@ -305,7 +327,7 @@
     "I didn't manage to speak to anyone in these first two classes."
     "Luckily it wasn't my own fault, but rather due to the nature of the classes."
     "It was just book work on History and English, no group tasks required."
-    "I wonder if I can find anyone to sit...?"
+    "I wonder if I can find anyone to sit with...?"
     "I guess I could go find Kenta... though maybe that's not the best idea."
     “The bell rings, signaling the start of lunch.”
     ”That was fast.”
@@ -343,9 +365,14 @@
     "I finally escape the overly assertive girl, or... I guess I should call her Haruki."
     "I think I need somewhere quiet to escape from everyone, despite not being too involved I've felt like the centre of attention for the entire morning."
     "I still have no idea where anything is though."
-    k"Hey friend."
-    a"Hey Kenta, thanks for saving me back there."
+    "Not knowing where else to go, I follow Kenta down the hall."
+    a"Hey Kenta."
+    k"Woah when did you get here?!"
+    a"Didn't you notice me before..."
+    "I can't tell if this guy is being serious."
+    a"Anyway, thanks for saving me back there."
     k"Huh? I don't remember saving anyone."
+    "I think I should stop asking myself that question, whether I think it or not, Kenta is always serious."
     "I look over my shoulder to make sure she isn't following us."
     a"The girl from my class with red hair, I'm not really too sure about her..."
     k"I could help clear some things up if you'd like."
@@ -398,8 +425,8 @@
     "Her eyes widen upon meeting my gaze."
     "Her head turns to face the carpeted floor as she relocates her focus away from the problem, the elephant in the room."
     "That elephant being me."
-    "Despite her efforts to hide it, I can tell her face is covered in a bright shade of red."
-    "I can't help but feel a little bad, what do people usually do when someone acts like this just to a simple hello..."
+    "Despite her effort to hide it, I can tell her face is covered in a bright shade of red."
+    "I can't help but feel a little bad, what am I supposed do when someone reacts like this just to a simple hello..."
     "I want to apologise but I'm not exactly sure what makes me feel like I've done something wrong."
     a"Sorry, did I intrude at the wrong time? I'm new here so I wasn't too sure what this place was so-"
     "This time the girl actually jumped up out of her chair to stand."
@@ -408,7 +435,7 @@
     "Her stride across the room is hurried but graceful as she passes me."
     "I just manage to decipher he soft words but before I can say anything in response she has already escaped."
     "I let out a depressing soft chuckle as I realise I'm yet again alone, no doubt it probably had something to do with my actions."
-    "Feeling somewhat exhausted and guilty I pull out one of the chairs try to relax myself."
+    "Feeling somewhat exhausted and guilty I pull out one of the chairs to try and relax myself."
     "Across from me in the mostly empty room is a table and a large bookshelf going across the side wall, until now I hadn't noticed the large amount of books that lined the shelves due to the other girl's presence."
     "But now that she's gone I feel like I can finally take a look at the rest of the room."
     "All of her belongings are still beside the chair she had been sitting at."
@@ -416,10 +443,10 @@
     "But with her stuff all still here, I suppose this must mean she's coming back."
     "In any case I feel like I owe her an apology or at least a few words to clear up what just happened here, I have no where else to go for the rest of lunch anyway."
     "To pass the time I wonder over to the other side of the room, searching the line of books for a title that piques my interest."
-    "I scan each title, only giving each book the attention it takes to read their title, until I pull out one that looks interesting."
+    "I scan each title, only giving each book the attention it takes to read its title, until I pull out one that looks interesting."
     "As the minutes tick by I find my back slowly sinking into the chair as my eyes quickly scan each page."
     "While my mind is invested into the novel I can't help but wonder where that book-girl went, and whether she'll come back at all."
-    "Maybe this wasn't such a good idea, I suppose some people just like to read alone. I guess I should just leave now and not cause her any more trouble."
+    "Maybe this wasn't such a good idea, I suppose some people just like to read alone. I should just leave now and not cause her any more trouble."
     "I shift the paperback into its old position on the shelf and then move my body toward the doorway, ready to leave."
     "My hand envelopes the handle, but the door moves without the pull of my own arm."
     "A ghost? Or maybe just an automatic door..."
@@ -441,7 +468,7 @@
     m"I'll call you Takeru then if that's fine with you."
     a"Sure, go ahead."
     a"Sorry I caused this trouble, I'm new here and I'm not too sure what I'm supposed to be doing."
-    "She seems to be shivering a little as we walk, her hair is still wet and it's pretty cold right now."
+    "She seems to be shivering as we walk, her hair is still wet and it's pretty cold right now."
     a"Your hair, are you sure you don't want to stop and dry it. You look pretty cold."
     m"It's ok, I just came back from swimming. I usually dry off in the clubroom after practice."
     m"I need to find Hagami before that happens though."
@@ -509,7 +536,7 @@
     "Despite the distance she's keeping between us, Hagami actually answered my question."
     "She's been close to Mana's side this entire time so I didn't expect much of any response from her."
     a"The literature club?"
-    a"I suppose that explains the copious amounts of books in that small room."
+    a"That explains the copious amounts of books in that small room."
     m"I'm a member but really it's Hagami that loves to read a lot, she's the club president after all."
     m"You might've already figured this out but I'm also part of the swimming club too so I have to manage my time between both clubs."
     a"Wait, this school has club activities at lunch?"
@@ -521,7 +548,7 @@
     m"You won't even get a proper introduction tour of the literature club..."
     m"How about you come some other time and we'll show you around?"
     a"Sure, I'll come back soon."
-    m"Awesome, bye then."
+    m"We'll be looking forward to it, bye then."
     a"See ya."
     "Hagami also manages a goodbye wave."
     "Back to class again I guess."
@@ -562,14 +589,15 @@
     "I try to speak but end up needing to fill my lungs with air a lot more than I had anticipated."
     "In an instant of reaching a classroom door Haruki stops in front of it with barely a difference in her breath."
     "I have to slow down but I stop just past her."
-    "Barely any sweat, no difference in her breathing... compared to me... I'm astonished."
+    "Barely any sweat, no difference in her breathing, compared to my condition, I'm astonished."
     "How can she be like this after we just ran across half the school."
     "She must be some sort of incredible athlete if she can pull that off."
     n"You actually caught up to me... no, you beat me."
     a"It's not like it was a race."
     n"You're right, it wasn't, you were supposed to be following me."
-    n"You're pretty good at running, you know?"
-    a"Yeah, you too."
+    n"You're pretty good at running, aren't you?"
+    a"Not really, I haven't ran in a long time."
+    a"You seemed pretty good though."
     a"So anyway, what are we doing here?"
     n"Oh uh yeah that..."
     t"Hey you two! Running in the halls is against the rules!"
@@ -578,7 +606,7 @@
     "She rushes in right behind me to avoid the teacher."
     "Sure enough the classroom is full of our classmates, though it's actually one of the chemistry labs."
     "Nobody notices us entering, they're all too busy working on whatever experiment is going on right now."
-    "And our chemistry teacher is just sitting at the front of the room on his laptop. Judging from his involvement in the class he seems to be a pretty relaxed teacher."
+    "Our chemistry teacher is just sitting at the front of the room on his laptop. Judging from his involvement in the class he seems to be a pretty relaxed teacher."
     "Haruki tugs on my shirt sleeve and pulls me toward an empty table in the middle of the classroom."
     "The chemicals are already all set out in front of us."
     "I guess I'm her lab partner now?"
@@ -590,25 +618,37 @@
     "Natsumi whispers in my ear."
     n"That was the teacher who yelled for us to stop running."
     n"Nice work blending in."
+    "I'm a little thankful that this entire situation played out how it did."
+    "If it weren't for Haruki I probably would've stayed in the classroom for fifteen minutes until someone came to get me."
+    "Then I would've spent the remainder of the lesson alone... probably."
+    "The rest of the lesson is uneventful, though from what I can tell Haruki seems to be pretty good at chemistry. She knows exactly what's going on, I guess you could say I have a vague idea in comparison."
+    n"See ya Ichiro, I'm off to baseball practice!"
+    "So she belongs to the baseball club?"
+    "She leaves with a hurried step, similar to the way she got here."
+    "I suppose that's why she's so fast... her body is pretty athletically toned."
+    "There's no way she was even half trying when we ran through the halls."
+    "I won't be following her this time though."
+    "I have no club to go to."
+    "My only option is to return to the dormitories."
+    "I'm pretty exhausted from this first day anyway, an early night's sleep sounds refreshing."
+    "I keep an eye out for Kenta after school but don't see him anywhere."
+    "I'll be walking back alone."
 
-    "The rest of the lesson is uneventful, though from what I can tell Haruki seems to be pretty good at chemistry. She knew exactly what was going on, I guess you could say I had a vague idea in comparison."
-    
 
 
-
-    #Go to class, not much happens (unless it does) (it does _/)
-    #Go back home and wake up the following morning
-    #Go to school new student (Setsuko) arrives
+    # ✓ Go to class
+    # ✘ Go back home and wake up the following morning
+    # ✓  Go to school new student (Setsuko) arrives
     #Scene from old vn
-    #Be walking around school, bump into Meiko
-    #Recognise each other, she asks for your help in running an errand for her
-    #Get lost
-    #End up in Hikari's room again
+    # ✘ Be walking around school, bump into Meiko
+    # ✓ Recognise each other, she asks for your help in running an errand for her
+    # ✘ Get lost
+    # ✘ End up in Hikari's room again
     #Talk with her for a bit (She's surprised you can see her again, it's the first time anyone has seen her two times in a row as a ghost, though she doesn't tell you anything about herself being dead).
     #Leave, she tells you the way to the student council room
-    #Find student council room, Meiko is there, talk with her for a bit to catch up
-    #Ask about Hikari, she'll tell you about the story of the student who died in a fire last year in the school festival
+    # ✘ Find student council room, Meiko is there, talk with her for a bit to catch up
+    # ✓ Ask about Hikari, she'll tell you about the story of the student who died in a fire last year in the school festival
     #^Already written in old vn
-    #Something about Natsumi and baseball after school, still struggling around the specifics of why he'd be playing baseball with her
-    #Figure out a point of MC has fucking lost, meaning he hasn't gotten enough points from the decisions to get with any girls
+    # ✘ Something about Natsumi and baseball after school, still struggling around the specifics of why he'd be playing baseball with her
+    # ✘ Figure out a point of MC has fucking lost, meaning he hasn't gotten enough points from the decisions to get with any girls
     #This leaves him alone and hopeless with a shell of a life
