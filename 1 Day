@@ -18,6 +18,8 @@ image tired = "Tired.png"
 image Street = "Street.png"
 image School = "School.png"
 image Classroom = "Classroom.png"
+image Hallway = "Hallway.png"
+image Bedroom = "Bedroom.png"
 
 
 image Hagami = "Hagami.png"
@@ -102,6 +104,7 @@ label start:
     "Thump, thump, THUMP!"
     a"Ow ow oowwww Hey knock it off already!"
 
+    show Bedroom
     "I open my eyes completely, finding myself in an unfamiliar room with a throbbing forehead."
     "While I feel like I may just have got a concussion, I'm now fully awake."
     "I have to remind myself where I am."
@@ -187,7 +190,7 @@ label start:
     "Now that I think about it Kenta is actually pretty considerate, waking me up and waiting for me... he even organised my clothes for me, though not in the way I exactly wanted."
     "In any case his intentions have been good, I was having second thoughts this morning about having him as a roommate."
     "But I guess he’s not too bad."
-
+    hide Bedroom
 
     "The mountains ahead burst with light as the sun rises behind them."
     "The sight blinded me, I haven't seen the sun rising over mountains for a long time."
@@ -283,6 +286,8 @@ label start:
     "There's a smaller building connected to the large one but it's hard to tell whether it's an entrance hall or administration. It's worth a look in any case."
     "I need to be careful here, since I'm probably the only one out of class at them moment. I cautiously push the door forward, ready to pull back at any moment, just in case I'm not supposed to be here."
     "I take a peek through the slightly open door, it looks like its empty inside, just like the rest of the school grounds."
+
+    show Hallway
     "I step through feeling slightly relieved as I continue the search."
     "The hallway splits off into a few doorways with a staircase going upward at the end of it."
     "Judging from the noise levels, this place was probably an old classroom building, repurposed for some other use."
@@ -357,6 +362,8 @@ label start:
     "Has my eyesight degraded without me even noticing?"
     "No that can't be right, everything else is normal."
     "So why?"
+    hide Hallway
+    show School
 
     t"You there!"
     "Instantly, my mind snaps back to the present, as I notice the smiling man strolling towards me."
@@ -453,6 +460,7 @@ label start:
     #rofl what am I talking about he's with Kenta(DA BEST)
 
     hide Classroom
+    show Hallway
     "I finally escape the overly assertive girl, or... I guess I should call her Haruki."
     "I think I need somewhere quiet to escape from everyone, despite not being too involved I've felt like the centre of attention for the entire morning."
     "I still have no idea where anything is though."
@@ -644,6 +652,7 @@ label start:
     "Hagami also manages a goodbye wave."
     "Back to class again I guess."
 
+    show Classroom
     "I arrive at my classroom."
     "No one's here?"
     "Or maybe no one's here... yet?"
@@ -663,6 +672,8 @@ label start:
     "Before I can even stand from my table Haruki has already made a start toward our new location."
     "Damnit, she's pretty fast."
     "After exiting the classroom I turn to see the back of her head moving around the corner at the end of the corridor."
+    hide Classroom
+    show Hallway
     "I need to catch up or else I'll never find where I'm supposed to be."
     "I know I probably shouldn't run in these hallways but I doubt anyone will see me do it anyway."
     "And they'll get Haruki first if they do."
@@ -694,6 +705,8 @@ label start:
     t"Hey you two! Running in the halls is against the rules!"
     "I guess someone did hear us!"
     "Haruki quickly pulls the door open in throws me inside the classroom."
+    hide Hallway
+    show Classroom
     "She rushes in right behind me to avoid the teacher."
     "Sure enough the classroom is full of our classmates, though it's actually one of the chemistry labs."
     "Nobody notices us entering, they're all too busy working on whatever experiment is going on right now."
@@ -713,6 +726,7 @@ label start:
     "If it weren't for Haruki I probably would've stayed in the classroom for fifteen minutes until someone came to get me."
     "Then I would've spent the remainder of the lesson alone... probably."
     "The rest of the lesson is uneventful, though from what I can tell Haruki seems to be pretty good at chemistry. She knows exactly what's going on, I guess you could say I have a vague idea in comparison."
+    hide Classroom
     n"See ya Ichiro, I'm off to baseball practice!"
     "So she belongs to the baseball club?"
     "She leaves with a hurried step, similar to the way she got here."
@@ -725,6 +739,7 @@ label start:
     "I keep an eye out for Kenta after school but don't see him anywhere."
     "I'll be walking back alone."
 
+    show Bedroom
     "I have no trouble getting back to the dormitory from school."
     "I remember the route from this morning when I walked with Kenta."
     "Now that I'm at the dormitory I don't have much to do until school tomorrow."
@@ -745,6 +760,8 @@ label start:
     "I do grab a book out to pass the time, but I don't get much reading done."
     "Every line just feels like a mass of incomprehensible words as my mind wonders off away from the page."
     "Eventually, and perhaps luckily my tiredness gets the better of me as I drift away."
+    hide Bedroom
+    show void
     jump Day2
 
 
