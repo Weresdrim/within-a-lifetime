@@ -7,8 +7,8 @@ define h = Character('Hagami', show_two_window=True, color="#859ec1")
 define i = Character('Hikari', show_two_window=True, color="#dfdfdf")
 define k = Character('Kenta', show_two_window=True, color="#dfdfdf")
 define t = Character('Teacher', show_two_window=True, color="#dfdfdf")
-define sta = Character('Student 1', show_two_window=True, colour= "ff0000")
-define stb = Character('Student 2', show_two_window=True, colour= "ff0000")
+define sta = Character('Student 1', show_two_window=True, colour= "#ff0000")
+define stb = Character('Student 2', show_two_window=True, colour= "#ff0000")
 
 image sky = "#7ec0ee"
 image sun = "#ee742b"
@@ -30,6 +30,14 @@ image void = Animation("Void2.png", 0.25,
     "Void1.png", 0.25)
 
 label start:
+
+    $bpoints = 0
+    $cpoints = 0
+    $mpoints = 0
+    $npoints = 0
+    $hpoints = 0
+    $ipoints = 0
+
 # The game starts here.
     ############################################
     #--> First day
@@ -176,7 +184,7 @@ label start:
     "While the cold water is uncomfortable, it does do a great job at waking me up."
     "Luckily my forehead isn't bruised from the beating it took this morning, I don't know what I'd would've done if I had walked into class with a purple forehead."
     "My hair is disheveled, even after brushing it still doesn't sit right."
-    #(Sentences are hard)"It's never really sat well before anyway."
+    "It's never really sat well before anyway."
     "I guess this place doesn't have any heaters, unless Kenta is against having them on for whatever reason."
     "At this point I wouldn't be surprised."
     "Giving up on my hair's position, I just have to change into these clothes quickly before I freeze to death."
@@ -333,6 +341,18 @@ label start:
     a"Oh, you like being alone?"
     i"Yes."
     "She seems completely disinterested as she answers."
+    "I'm not sure..."
+
+menu:
+    "Ask her about her name.":
+        $ipoints =+ 1
+        jump askname
+
+    "Leave her be.":
+        jump leavebe
+
+label askname:
+
     a"Oh, uh, can I ask, what's your name?"
     "It may have been my imagination but it looked like her eyes flickered a little when I asked that, but it was gone before I could get a closer look."
     i"My name? I don't think anyone knows the answer to to that question. Not even I know anymore, but a long time ago others called me Hikari."
@@ -340,6 +360,13 @@ label start:
     a"Nice to meet you Hikari, I'm Takeru."
     "I inwardly groan as I say that, I have no idea how to act when paired with someone like this."
     "It feels like we're completely disconnected from each other."
+    jump lajoin
+
+label leavebe:
+    "I standby for a moment as the silence lingers, she obviously isn't too interested in me."
+    jump lajoin
+
+label lajoin:
     i"You’re new around here aren’t you?"
     a"Yeah I am, but how could you tell?"
     i"I haven’t seen you before today, but judging from your presence here I can only guess you must be lost."
@@ -557,6 +584,17 @@ label start:
     a"Sorry, I think I might know the person you're talking about."
     a"She ran off not long after I came here. I guess I must've said something wrong."
     m"No I doubt that was it. Just don't worry about it, I'll take care of things from here."
+
+menu:
+    "Go with her to find the girl.":
+        $mpoints =+ 1
+        $hpoints =+ 1
+        jump comehelp
+
+    "Leave it to her.":
+        jump leaveit
+
+label comehelp:
     a"Hold on, I want to apologise to her. You don't mind if I come along do you?"
     m"Not particularly no..."
     a"Thanks."
@@ -620,35 +658,56 @@ label start:
     "She's asking me if I'm alright?!"
     "I came all of this way to set things straight, I was afraid that I may have offended her, but it seems like she's more afraid of offending me."
     a"Yeah, I guess so."
-    h"Sorry I ran off like that...
+    h"Sorry I ran off like that..."
     "Her voice is soft, but carries her feelings well enough."
     h"I wasn't expecting you."
     h"W-we don't usually get many visitors, that's all."
     h"B-but thanks... for coming."
     "A shy, calm smile slowly appears on her face."
-    "I let out a an nonexistent sigh of relief as my worries are laid to rest."
+    "I let out a an inaudiable sigh of relief as my worries are laid to rest."
     "It seems she didn't need all that much convincing, or maybe Mana is just good at this sort of thing?"
     "Just from the way they act, I can tell their friendship is strong."
     "It sorta makes me a little envious in a way."
     m"How about we all head back to the clubroom?"
     a"Sure."
     "Hagami also agrees with a slight nod of the head."
+    jump eol1
+
+label leaveit:
+    "I'm not too interested in getting to far into that girl's personal life."
+    "Letting her handle things is probably for the best."
+    "Just reading here by myself is fine by me."
+    "The minutes of lunch pass by until two figures step through the doorway."
+    m"Oh you're still here?"
+    "Yeah, sorry, is that a problem?"
+    m"No no, not at all."
+    h"Sorry I ran off like that..."
+    "The black haired girl who ran off before speaks up this time."
+    h"I wasn't expecting you."
+    h"W-we don't usually get many visitors, that's all."
+    h"B-but thanks... for coming."
+    "A shy, calm smile slowly appears on her face."
+    "I let out a an inaudiable sigh of relief as my worries are laid to rest."
+    "From what it sounds like I didn't mess up too badly."
+    m"By the way, I'm Mana and this is Hagami."
+    a"I'm Takeru-"
+    jump eol1
+
+label eol1:
     a"Actually now is probably as good as any to ask... What exactly is the club you two belong to?"
     a"I still need to find one."
-    h"The literature club."
+    h"That's a little hard to say... I suppose you'd call it the supernatual studies club?"
     "Despite the distance she's keeping between us, Hagami actually answered my question."
     "She's been close to Mana's side this entire time so I didn't expect much of any response from her."
-    a"The literature club?"
+    a"Supernatual Studies?"
     a"That explains the copious amounts of books in that small room."
-    m"I'm a member but really it's Hagami that loves to read a lot, she's the club president after all."
+    m"I'm a member but really it's Hagami that love to investigate the mysteries around the school, she's the club president after all."
     m"You might've already figured this out but I'm also part of the swimming club too so I have to manage my time between both clubs."
     a"Wait, this school has club activities at lunch?"
     m"Well no, not technically... but nobody really minds since places like the pool and this room are always open."
     "The bell rings, signaling the end of lunch."
-    "We'd only just made it back to the entrance clubroom."
-    "Oh well."
     m"Shoot, lunch is over already?"
-    m"You won't even get a proper introduction tour of the literature club..."
+    m"You won't even get a proper introduction tour of the supernatural club..."
     m"How about you come some other time and we'll show you around?"
     a"Sure, I'll come back soon."
     m"We'll be looking forward to it, bye then."
@@ -679,9 +738,45 @@ label start:
     hide Classroom
     show Hallway
     "I need to catch up or else I'll never find where I'm supposed to be."
+
+    n"Keep up!"
+
+menu:
+    "Run":
+        $npoints =+ 1
+        jump run
+
+    "Walk":
+        jump walk
+
+label walk:
+    "There's no way I can just run through these halls with classes starting all around us."
+    "We'd get caught in an instant, and it's not like I can keep up with her anyway."
+    "I try to pick up the pace a little though, being late to class would be pretty bad too."
+    "Haruki stops when she realises I'm not running."
+    "Oh no, she's coming this way..."
+    "A determined stare is plastered across her face as she marches toward me."
+    "Her arm grabs my own as her winning smile spreads."
+    "I told you to keep up didn't I?"
+    "She tugs at my arm as she begins to sprint."
+    "From zero to one hundred in a split second."
+    "I have two options now."
+    "Either be dragged along the floor, or run with her."
+    "Rather, I have one option now."
+    "I feel like I could trip over my legs at any moment."
+    "Or worse I could trip her up."
+    "But right now I can only try to keep up."
+    "Otherwise this could end horribly, and I know Haruki won't stop until we've reached our destination."
+    "It takes a while for me to wind up but I'm matching her pace right now."
+    "Each leg springs forward, matching in perfect unison."
+    a"Hey... come-on... please... stop-now."
+    "I try to speak but end up needing to fill my lungs with air a lot more than I had anticipated."
+    "In an instant of reaching a classroom door Haruki stops in front of it with barely a difference in her breath."
+    jump runwalkjoin
+
+label run:
     "I know I probably shouldn't run in these hallways but I doubt anyone will see me do it anyway."
     "And they'll get Haruki first if they do."
-    n"Keep up!"
     "She shouts cheerfully through the hallway, she doesn't seem to care about much around her apart from the game of chase we're playing."
     "There's no doubt at least a few students heard her taunt from inside their classrooms."
     "Luckily no teachers leave their classes to stop us."
@@ -691,10 +786,15 @@ label start:
     "I push through the discomfort in my throat and gain speed."
     "The distant object of Haruki's body becomes larger and larger as she fills my field of vision."
     "I've caught up to her."
-    a"Hey... come-on... please... stop-now."
-    "I try to speak but end up needing to fill my lungs with air a lot more than I had anticipated."
-    "In an instant of reaching a classroom door Haruki stops in front of it with barely a difference in her breath."
+    "The air rushes through my hair against me."
+    "I can't lose now, this is my moment."
+    "I break past her, continuing to pick up speed as she wades behind."
+    "Soon after I pass her Haruki stops running."
     "I have to slow down but I stop just past her."
+    jump runwalkjoin
+
+label runwalkjoin:
+
     "Barely any sweat, no difference in her breathing, compared to my condition, I'm astonished."
     "How can she be like this after we just ran across half the school."
     "She must be some sort of incredible athlete if she can pull that off."
@@ -778,7 +878,7 @@ label start:
     # ✘ Be walking around school, bump into Meiko
     # ✓ Recognise each other, she asks for your help in running an errand for her
     # ✘ Get lost
-    # ✘ End up in Hikari's room again
+    # ✘ End up in Hikaris room again
     #Talk with her for a bit (She's surprised you can see her again, it's the first time anyone has seen her two times in a row as a ghost, though she doesn't tell you anything about herself being dead).
     #Leave, she tells you the way to the student council room
     # ✘ Find student council room, Meiko is there, talk with her for a bit to catch up

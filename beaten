@@ -40,18 +40,18 @@
     "My feet stumble forward from the impact as a searing pain shoots through my back."
     "What... did something hit-"
     "Another intense spot of pressure, this time on my arm."
-    "I quickly reach for the burning spot to ease any amount of pain."
+    "I quickly reach for the burning spot to ease the pure amount of pain."
     "I can't tell what's going on, it's too dark around me."
     "Another one, this time crushing my stomach."
     "I cough and splutter, this time falling to the ground as I gasp for air."
     "I'm winded, and feel like I'm about to throw up."
     "I can't feel anything but the three sources of seething pain."
-    "In my blurred vision I see a single baseball rolling away from my body."
+    "In my blurred vision I see a single baseball rolling away from my body on the floor."
     "Even in my beaten up state, I know what's going on now."
     "Revenge."
     "I try to pick myself back up but there's no away I can manage in this condition."
     "Each ball must've hit me at upwards of 140km/h."
-    "Each in a direct hit."
+    "Even now I can read the ball's speed in the air."
     "I'm only lucky that I haven't been hit in the head yet."
     "I can only guess who's come to claim their victory over me."
     "I move my legs across the floor in an attempt to crawl."
@@ -59,19 +59,22 @@
     j"There's no way we'd let that happen again."
     j"You've ran far enough."
     j"Now it's our turn."
+    "A sharp object breaks across my arm as I cry out in pain."
     "I notice the three figures standing above me. I hadn't anticipated these three."
     "I expected only one."
     "They pull the jacket off of me and throw it off the bridge."
     "Their faces are just a few of those spots of coloured sheets, now flowing down the river."
     "I don't know who's doing what anymore, all I feel is the weight of their boots digging into my sides."
     "There's nothing more for me to do."
-    "I can't fight them in my current condition, and it's 3v1 anyway."
+    "There's no way I can face them in this condition, and it's 3v1 anyway."
     "I cough up blood onto the sidewalk."
-    "Will I even get out of this alive?"
     "I'm just a rag doll now. Waiting for it to be over."
+    "Is this is?"
+    "Right now my fate is decided by when the beatings will stop."
     "Maybe this is just part of moving on."
     "Though it's more likely that my past has come back for me."
     "I want to escape."
+    "The beating continues as most of my skin turns from pink to a disgusting shade of dark purple-brown."
     "One final assault from all of them leaves me in agony lying on the cold concrete."
     j"Now maybe you can begin to realise what you've done to us."
     j"Goodbye Ichiro."
@@ -81,6 +84,7 @@
     "It hurts, though no more than the rest of my body."
     "The guys who beat me up... they're all gone."
     "I slump back down and try to relax."
+    "Eventually conceding to my body's desire to fall unconscious."
 
     "I open my eyes to an unfamiliar white room."
     "It's a place I've never been to before."
@@ -89,5 +93,21 @@
     "I'm relatively comfortable in the soft bed, though I can still feel my body aching."
     "It's hard to sit upright but I manage to move my back far enough to inspect the entire room."
 
+    if bpoints >= 3:
+        jump bhos
+    elif cpoints >= 3:
+        jump chos
+    elif mpoints >= 3:
+        jump mhos
+    elif npoints >= 3:
+        jump nhos
+    elif hpoints >= 3:
+        jump hhos
+    elif ipoints >= 3:
+        jump ihos
+
     #Highest point girl meets you here
     "INDIVIDUAL GIRLS HERE"
+    #She's worried about you, asks what happened
+    #Holds your hand, you get a glimpse of a strange scene, a scream
+    
