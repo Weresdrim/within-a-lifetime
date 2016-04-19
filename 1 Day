@@ -614,21 +614,16 @@ label start:
     "Mana sits next to Hagami as she talks to her directly in an attempt to take me out of the situation briefly."
     m"Trust me Hagami he's harmless. He's a nice guy. He came here to see you because he's afraid he's done something wrong to you."
     "She speaks softly but not quiet enough to stop me from hearing her words."
-    h"O-ok"
-    h"So-rry, I meant to say I'm alright."
-<<<<<<< HEAD
+
+    "After listening to Mana she tilts her head up to look at me."
+    h"Are... Are you alright?"
+    "She's asking me if I'm alright?!"
+    "I came all of this way to set things straight, I was afraid that I may have offended her, but it seems like she's more afraid of offending me."
+    a"Yeah, I guess so."
+    h"Sorry I ran off like that...
     "Her voice is soft, but carries her feelings well enough."
-    h"I'm just this w-way, because I didn't... I didn't expect you to come here..."
-    "RANDOM CRAP"
-    h"Or t-to the clubroom."
-=======
-    "Her voice is soft, but I can feel the raw emotion they hold."
     h"I wasn't expecting you."
     h"W-we don't usually get many visitors, that's all."
-    "I feel like there's something more that she isn't telling me."
-    "But I shouldn't push my luck here."
->>>>>>> origin/master
-    "I was afraid that I may have offended her but it seems like she's even more afraid of that than I am."
     h"B-but thanks... for coming."
     "A shy, calm smile slowly appears on her face."
     "I let out a an nonexistent sigh of relief as my worries are laid to rest."
