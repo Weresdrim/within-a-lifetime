@@ -1,0 +1,25 @@
+label Day1Sleep
+    show Bedroom
+    "I have no trouble getting back to the dormitory from school."
+    "I remember the route from this morning when I walked with Kenta."
+    "Now that I'm at the dormitory I don't have much to do until school tomorrow."
+    "I lie down on the bed, feeling both mentally and physically exhausted from the day."
+    "I'm still not too comfortable with this change, my daily routine has changed so fast."
+    "I have no idea what my future here might bring me, its uncertain and unpredictable."
+    "All of my stuff is already packed, from the great generosity of Kenta."
+    "And its not like I really have any friends to hang out with after school."
+    "I really do have to decide on a club soon."
+    "Mana talked about the swimming club, and the literature club."
+    "I'm not so sure how I feel about either of those just yet. I guess I like to read."
+    "Natsumi talked about the baseball club, but I can't join that."
+    "And that leaves me with... nothing."
+    "In the end the clubs I heard about today were just a drop in the puddle of school activities."
+    "I'm sure I'll figure something out, something will come up."
+    "I try to forget everything else as I eventually wait for night to fall."
+    "The long shadows of the sunset eventually disappear meaning night has finally begun."
+    "I do grab a book out to pass the time, but I don't get much reading done."
+    "Every line just feels like a mass of incomprehensible words as my mind wonders off away from the page."
+    "Eventually, and perhaps luckily my tiredness gets the better of me as I drift away."
+    hide Bedroom
+    show void
+    jump Day2

@@ -1,0 +1,129 @@
+label Day1Class2
+    show Classroom
+    "I arrive at my classroom."
+    "No one's here?"
+    "Or maybe no one's here... yet?"
+    "I didn't exactly get here early or anything."
+    "Surely some people would've stayed to eat lunch here."
+    "Whatever, it probably doesn't matter."
+    "I guess I should just head inside."
+    "It's been about two minutes and still no one is here."
+    "Maybe I'm not supposed to be--"
+    n"Hey Ichiro, what are you doing sitting around there?"
+    n"Seriously, you look like a dog who's lost their owner or something."
+    "It's Haruki, the girl who stopped me after class before."
+    a"Is this not our classroom...?"
+    n"You're pretty hopeless aren't you?"
+    n"Just come on, follow me I'll show you where you're meant to be."
+    n"But be quick, and remember I'm actually pretty late for class too."
+    "Before I can even stand from my table Haruki has already made a start toward our new location."
+    "Damnit, she's pretty fast."
+    "After exiting the classroom I turn to see the back of her head moving around the corner at the end of the corridor."
+    hide Classroom
+    show Hallway
+    "I need to catch up or else I'll never find where I'm supposed to be."
+
+    n"Keep up!"
+
+menu:
+    "Run":
+        $npoints =+ 1
+        jump run
+
+    "Walk":
+        jump walk
+
+label walk:
+    "There's no way I can just run through these halls with classes starting all around us."
+    "We'd get caught in an instant, and it's not like I can keep up with her anyway."
+    "I try to pick up the pace a little though, being late to class would be pretty bad too."
+    "Haruki stops when she realises I'm not running."
+    "Oh no, she's coming this way..."
+    "A determined stare is plastered across her face as she marches toward me."
+    "Her arm grabs my own as her winning smile spreads."
+    "I told you to keep up didn't I?"
+    "She tugs at my arm as she begins to sprint."
+    "From zero to one hundred in a split second."
+    "I have two options now."
+    "Either be dragged along the floor, or run with her."
+    "Rather, I have one option now."
+    "I feel like I could trip over my legs at any moment."
+    "Or worse I could trip her up."
+    "But right now I can only try to keep up."
+    "Otherwise this could end horribly, and I know Haruki won't stop until we've reached our destination."
+    "It takes a while for me to wind up but I'm matching her pace right now."
+    "Each leg springs forward, matching in perfect unison."
+    a"Hey... come-on... please... stop-now."
+    "I try to speak but end up needing to fill my lungs with air a lot more than I had anticipated."
+    "In an instant of reaching a classroom door Haruki stops in front of it with barely a difference in her breath."
+    jump runwalkjoin
+
+label run:
+    "I know I probably shouldn't run in these hallways but I doubt anyone will see me do it anyway."
+    "And they'll get Haruki first if they do."
+    "She shouts cheerfully through the hallway, she doesn't seem to care about much around her apart from the game of chase we're playing."
+    "There's no doubt at least a few students heard her taunt from inside their classrooms."
+    "Luckily no teachers leave their classes to stop us."
+    "Although somehow I wish they would, I'm starting to lose breath."
+    "I haven't ran like this in a few months, ever since I quit baseball and stopped training."
+    "But that doesn't stop me."
+    "I push through the discomfort in my throat and gain speed."
+    "The distant object of Haruki's body becomes larger and larger as she fills my field of vision."
+    "I've caught up to her."
+    "The air rushes through my hair against me."
+    "I can't lose now, this is my moment."
+    "I break past her, continuing to pick up speed as she wades behind."
+    "Soon after I pass her Haruki stops running."
+    "I have to slow down but I stop just past her."
+    jump runwalkjoin
+
+label runwalkjoin:
+
+    "Barely any sweat, no difference in her breathing, compared to my condition, I'm astonished."
+    "How can she be like this after we just ran across half the school."
+    "She must be some sort of incredible athlete if she can pull that off."
+    n"You actually caught up to me... no, you beat me."
+    a"It's not like it was a race."
+    n"You're right, it wasn't, you were supposed to be following me."
+    n"You're pretty good at running, aren't you?"
+    a"Not really, I haven't ran in a long time."
+    a"You seemed pretty good though."
+    a"So anyway, what are we doing here?"
+    n"Oh uh yeah that..."
+    t"Hey you two! Running in the halls is against the rules!"
+    "I guess someone did hear us!"
+    "Haruki quickly pulls the door open in throws me inside the classroom."
+    hide Hallway
+    show Classroom
+    "She rushes in right behind me to avoid the teacher."
+    "Sure enough the classroom is full of our classmates, though it's actually one of the chemistry labs."
+    "Nobody notices us entering, they're all too busy working on whatever experiment is going on right now."
+    "Our chemistry teacher is just sitting at the front of the room on his laptop. Judging from his involvement in the class he seems to be a pretty relaxed teacher."
+    "Haruki tugs on my shirt sleeve and pulls me toward an empty table in the middle of the classroom."
+    "The chemicals are already all set out in front of us."
+    "I guess I'm her lab partner now?"
+    "I don't really know how this happened."
+    "I suppose it had to be someone, considering all of the tables have at least two people on them."
+    "Maybe she felt sorry for me, seeing that I'd be alone otherwise."
+    "Just as we start setting up another teacher enters the classroom's doorway and scans the room with his eyes."
+    "But it's not long before he gives up, never finding what he was looking for."
+    "Natsumi whispers in my ear."
+    n"That was the teacher who yelled for us to stop running."
+    n"Nice work blending in."
+    "I'm a little thankful that this entire situation played out how it did."
+    "If it weren't for Haruki I probably would've stayed in the classroom for fifteen minutes until someone came to get me."
+    "Then I would've spent the remainder of the lesson alone... probably."
+    "The rest of the lesson is uneventful, though from what I can tell Haruki seems to be pretty good at chemistry. She knows exactly what's going on, I guess you could say I have a vague idea in comparison."
+    hide Classroom
+    n"See ya Ichiro, I'm off to baseball practice!"
+    "So she belongs to the baseball club?"
+    "She leaves with a hurried step, similar to the way she got here."
+    "I suppose that's why she's so fast... her body is pretty athletically toned."
+    "There's no way she was even half trying when we ran through the halls."
+    "I won't be following her this time though."
+    "I have no club to go to."
+    "My only option is to return to the dormitories."
+    "I'm pretty exhausted from this first day anyway, an early night's sleep sounds refreshing."
+    "I keep an eye out for Kenta after school but don't see him anywhere."
+    "I'll be walking back alone."
+    jump Day1Sleep

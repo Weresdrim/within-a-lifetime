@@ -1,6 +1,6 @@
 label TimeRealm1:
 
-    
+
     "I don't know how long it's been since that time Saya grabbed my arm."
     "All I know is she's not here right now."
     "Well, nobody is."
@@ -9,9 +9,9 @@ label TimeRealm1:
     "But in those instances I can see a way out."
     "Some sort of exit."
     "But I'm just floating in the void."
-    
+
     with dissolve
-    
+
     "All I can do here is think about what has happened."
     "Am I dead?"
     "Or did Saya send me here for some reason."
@@ -20,9 +20,9 @@ label TimeRealm1:
     "I wonder how everyone is doing at home without me."
     "I wish I could find a way out."
     "Someone save me."
-    
+
     with dissolve
-    
+
     "I haven't aged at all as far as I can tell, at least not physically."
     "And my body seems to be in working order."
     "But I can feel my mind becoming stagnant, nothing has happened in a long time."
@@ -33,18 +33,18 @@ label TimeRealm1:
     "But I can't move myself in this empty space."
     "But still the light was getting bigger, coming closer."
     "I reached the end, hoping that on the other side I might wake up from this terrible nightmare."
-    
+
     with dissolve
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "scifi.mp3"
-    
+
     "I met with a dark hooded figure in a metallic blue hallway."
     "It couldn't be? Could it?"
     "It was hard to tell but this person looked a lot like the one who killed Kunikada."
@@ -135,6 +135,6 @@ label TimeRealm1:
     "And I can see above me, what was once black."
     "Covered in red, torn in half, flying across the room."
     "It truly was a sacrifice, a fatal one."
-    
+
     with pixellate
     jump Day5m

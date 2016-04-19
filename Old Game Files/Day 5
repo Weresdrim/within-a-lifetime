@@ -3,19 +3,19 @@ label Day7:
     "I wonder how my request to Setsuko went last night?"
     "I'm like a child waking on Christmas morning."
     "I guss I'll calm myself down, it's still a school day so I can get ready for that first before leaving home with Setsuko."
-    
+
     with dissolve
-    
+
     "I wait just outside of Setsuko's door for her come out ready for school."
     "After a while longer than I'd hoped of waiting Setsuko arrives with her school uniform worn."
     "She comes out with every perfectly in place, from the ribbon below her neck to the hair trailing down her back."
-    
+
     a"So you're ready to go?"
     c"Oh, I didn't see you there!"
     a"Huh?"
     c"Oh it's just you usually wait at the bottom of the stairs."
     "She's right about that but I don't see the harm in coming to greet her in the morning."
-    
+
     a"Yeah you're right, but I wanted to talk to you as soon as I could."
     c"?"
     a"Have you asked your parents yet about Maeko?"
@@ -25,20 +25,20 @@ label Day7:
     c"So they agreed to let her use the spare room."
     c"However they were a little reluctant at letting a stranger becoming a pseudo-family member."
     c"So they said if Maeko did anything to harm my family or the house she would be kicked out immediately."
-    
+
     "Even after that condition I'm really excited for the sake of Maeko."
     a"That's great! I know Maeko won't screw up, she's not someone who would do something like that."
     c"That's good then, it looks like we've succeeded."
-    
+
     a"Let's head out now and tell Maeko before school starts!"
-    
+
     with dissolve
-    
-        
+
+
     ############################################
     #--> Literature Clubroom 1st time
     ############################################
-    
+
     "Hopefully Maeko made it to school today."
     "She's almost always early for school when she does come."
     "After walking for a small while in school Setsuko becomes confused."
@@ -53,11 +53,11 @@ label Day7:
     "This girl was obviously staring at me."
     "Setsuko must've noticed also, it was too hard not to notice."
     "We both felt the same way and kept walking, avoiding eye contact."
-    
+
     "Do I know her...? I don't think so."
     "Surely she wasn't someone I met in that time gap/skip that I have no memories of."
     "It's probably not important, and I already have something to do that is important."
-    
+
     "The literature club's activities are mostly carried out in this room, the Geography and History book storage room."
     "We've reached our destination."
     c"Is this it?"
@@ -71,10 +71,10 @@ label Day7:
     c"So who are they then, I don't really see Maeko talking to people much in class."
     a"That's because they're not in our class, or year even."
     a"I'm not sure what class they're in but I know they're both first years."
-    
+
     a"From what I remember from what Maeko has told me there used to be more members but they've all graduated now."
     a"The school's policy is once a club is formed with four people it can run for as long as it still has at least one member."
-    
+
     a"I think their names were... Chiyada and Na... natsuki? No that's not right... Natsugi?"
     k"You mean Natsumi."
     "Wait, that wasn't Setsuko who said that was it."
@@ -97,10 +97,10 @@ label Day7:
     "I'd been here before and from the looks of things not much had changed since I'd been here last."
     "Most of the room is just piles of old no longer in use books on shelves with the exception of the few changes the literature club had made to suit their needs as a club."
     "There was a table looking out onto the school field through a window along with a bookshelf specifically for literature club books."
-    
+
     "It felt strange to me but I'm sure it would've had a homely feel to it if you were a club member."
     "Speaking of which, Maeko was silently reading a book on the table by the window, staring intently as if she never noticed our arrival."
-    
+
     k"Hey Maeko, you're friends are here."
     "Natsumi put her hand in front of Maeko's face while moving it side to side to grab her attention away from the book."
     k"*Sigh* She always does this if she gets really into a story."
@@ -122,40 +122,40 @@ label Day7:
     b"Thank you so much Setsuko!"
     b"Thank you too Takeru!"
     "Maeko pulled us in together for a group hug, this isn't too normal for her but this moment has obviously lifted a huge burden off of her shoulders."
-    
+
     "While accepting Maeko's warm embrace and appreciation I notice out of the corner of my eye Natsumi is standing awkwardly to the side, looking at us but avoiding anyone's gaze."
     k"Well I hate to break this all up but I'm afraid class is about to start everyone."
     k"You better all head off now."
-    
+
     "You can easily tell that Maeko's eyes are wet with tears that she was attempting to hold back."
     "After hearing Natsumi's warning I loosen my embrace and step back a little."
     "Everyone else also releases their grip."
-    
+
     a"Yeah, Natsumi is right we better get going."
     b"Bye Natsumi!"
     k"Oh Maeko will you be coming here after school today?"
     b"No sorry, I've got to handle some things at home today."
     k"Ok then, see you tomorrow!"
-    
+
     "We head off to class together."
-    
+
     with dissolve
-    
-        
+
+
     ############################################
     #--> Maeko 1st Lunch with Take and Setsu
     ############################################
-    
+
     "Maeko seemed to be much happier this morning during class after the news we gave her. Although she still seemed anxious about something."
     "It's lunch now."
     "Most of the class is moving out to eat their lunch and Setsuko and I are one of those two."
     "Maeko also got up when we did."
     b"Hey Takeru, Setsuko, do you mind if I sit and eat lunch with you guys today? I need to ask you a few more things about me leaving my uncle and aunt's place."
-    
+
     "Setsuko looks to me as soon she heard Maeko's request."
 
     a "Yeah of course you can Maeko."
-    
+
     "We walked up that stairwell, this time as three to discuss our plans of Maeko's new home."
     "We all sit with our backs to the iron fence in the open sunlight."
     b"Do you two sit here every lunch?"
@@ -198,7 +198,7 @@ label Day7:
     "We talked for a little while longer but our lunchtime was soon over."
 
     with dissolve
-    
+
     "The school day was soon over and just as Setsuko and I were about to leave for home I got a message on my phone."
     "It couldn't be Maeko because I just said goodbye to her a minute ago."
     "It was from my mother."
@@ -219,12 +219,12 @@ label Day7:
     a"You can head back home while I go do it."
     c"No, it's alright, I want to come help, it'll be hard carrying all of the groceries yourself."
     "Setsuko's makes a good point, and I'm not apposed to her coming along anyway."
-    
-    
+
+
     ############################################
     #--> Grocery Store
     ############################################
-    
+
     with dissolve
     "We made it to the shopping district of Mirako city."
     "This was an area full of specialty shops just a few years ago."
@@ -232,17 +232,17 @@ label Day7:
     "There are still a few remaining; however larger, more generic supermarkets and retailers have become the main trend nowadays."
     "I don't go here often anymore, it's why I'm reminded of the older shops I used to visit that no longer exist."
     "Not that I'm too against the change, I just feel nostalgic."
-    
+
     c"So Takeru, where are we headed to first?"
     a"We don't have much to get so we'll head to the grocery store now and get the job done quickly."
     c"Sure."
-    
+
     "Despite Spring starting it's still cold."
-    "Which is why the luxurious action of walking into a heated building is not one I take for granted." 
+    "Which is why the luxurious action of walking into a heated building is not one I take for granted."
     "It seemed to inconvenience Setsuko somewhat as she took off her jacket upon entering the store."
     "Too warm."
     "For me it was a nice temperature."
-    
+
     a"Let's head to the vegetable section first."
     "Setsuko trails behind me as I head over."
     "I remember the first few things on the list my mother gave me, carrots, onions, potatoes..."
@@ -281,20 +281,20 @@ label Day7:
     m"Well I would like some but they're too expensive nowadays, don't worry about them."
     "Interesting, it doesn't seem like she ever planned to get them though."
     "Maybe I really was just imagining things."
-    
+
     "I still have $20 change and there are plenty of cafes around. But the $20 isn't really my money to be spending, maybe I should give it back to my mum."
-    
+
 menu:
     "Go to a cafe with Setsuko":
          jump setsucafe
 
     "Go back home now":
          jump setsuhome
-         
+
     ############################################
     #--> Go to Cafe with Setsuko
     ############################################
-    
+
 label setsucafe:
     "We have some time to kill and some money to spend."
     "It's pretty cold, maybe we can get something warm to drink somewhere."
@@ -304,9 +304,9 @@ label setsucafe:
     c"Oh alright, sounds good."
     "Luckily we didn't get any dairy products or cold food so the few bags of food we were carrying didn't bother us even if we spent an extra few minutes out."
     a"I know a good place, follow me."
-    
+
     with dissolve
-    
+
     "We sat down together in the cafe, it was one of the remaining more traditional places our town still had left."
     "I'd been here many times before."
     "The prices had risen a bit since I'd last been, probably as a response to the cheaper, lower quality cafe chains opening up."
@@ -314,7 +314,7 @@ label setsucafe:
     "It seems like a bad business move, making the prices higher when you're already losing customers."
     "But it's something they have to do to keep running."
     "Luckily $20 is still plenty enough for Setsuko and myself."
-    
+
     "Setsuko looked a little uncomfortable sitting in the seat opposite mine."
     a"Are you feeling alright?"
     c"Hm? Yeah, I'm ok... but why do you ask?"
@@ -347,13 +347,13 @@ label setsucafe:
     a"Sure then, it's ok with me if you want to head back now."
     "Although it was short, this afternoon was fun for me."
 
-jump setsuhome    
-                   
-    
+jump setsuhome
+
+
     ############################################
     #--> Don't go to Cafe with Setsuko
     ############################################
-    
+
 label setsuhome:
     "We arrived at our homes' building."
     "We walked up the stairs together."
@@ -373,11 +373,11 @@ label setsuhome:
     c"Hey come on, it's ok I want you to come, and plus you haven't even seen my place yet despite us living so close together."
     "I let out another sigh."
     a"Alright then, I'll come take a look."
-    
+
     ############################################
     #--> Forgotten key, in Setsuko Room
     ############################################
-    
+
     "I got up from the floor and stood by the door as Setsuko went to find her keycard."
     "I had a thought about who could be home, I know Setsuko has no siblings but that doesn't mean her parents might not be here."
     "Especially her Dad, who knows what might happen if I came stumbling in here."
@@ -417,13 +417,13 @@ label setsuhome:
     "And then."
     "A pain fills my entire head, it feels like a dull pain."
     "What could that be?"
-    "It quickly fades as I push down on the soap dispenser." 
+    "It quickly fades as I push down on the soap dispenser."
     "And then the sight of my hand."
-    
+
     ############################################
     #--> Loses finger randomly, freaks out
     ############################################
-    
+
     "I can't believe what I'm seeing."
     "My jaw dropped, my middle finger on my right hand was missing."
     "Completely gone."
@@ -448,14 +448,14 @@ label setsuhome:
     "It has to have something to do with time travel doesn't it?"
     "It's the only thing I know of that could explain something like this."
     "Although I didn't think time travel was possibly until this past week so it could be something entirely different that I'm still yet to be aware of."
-    
+
     "Then a thought hits me, one that could prove to be grim."
     "My hands are where my power concentrates whenever I travel through time."
     "If my middle finger is no longer there..."
     "It may mean my powers won't work, or will be even more unstable then before."
     "This means I will have to not use my powers again for at least a while."
     "Until I can figure out what's going on."
-    
+
     "But what would Setsuko think if I just came out with my middle finger missing?!"
     "In her eyes I went to the bathroom with my hands intact."
     "And will come out with one missing."
@@ -492,13 +492,13 @@ label setsuhome:
     "There's no way she could've missed it unless something is up."
     "My mind flashes back briefly to the scene of that man's disappearance after I shot the bullet."
     "Setsuko had no idea what was going on, like nothing had happened, maybe the same thing is happening right now."
-    
+
     with dissolve
     "We'd just finished cleaning up when a knock came from the front door."
     "I let Setsuko greet whoever it is, I'm not in a position to answer the door of someone elses home."
     "But as the door opened I heard a familiar friendly voice."
     "It was Maeko, she was here with a large jacket, her school bag and a bag she was carrying in her hand."
-    "I quickly glanced outside to the window, it was dark." 
+    "I quickly glanced outside to the window, it was dark."
     "Then I searched for a clock in the room, it was easy to find."
     "I hadn't noticed before but it was already 7:30pm"
     "Which meant that Maeko was walking alone in the cold night carrying these bags."
@@ -554,7 +554,7 @@ label setsuhome:
     "I drop my bag down in my room and prepare for bed."
     "Laying down in my bed I close my eyes, forgetting about the lost finger and everything else."
     with dissolve
-    
+
     "I woke up with cold sweat trailing down my back."
     "I'd heard something."
     "My heart begins to thump, louder and louder, faster and faster."
@@ -598,6 +598,6 @@ label setsuhome:
     "Then my head fell back onto my pillow."
     "All while hearing a faint, soft voice."
     d"Sorry, Takeru."
-    
+
     with dissolve
     jump TimeRealm1
