@@ -8,9 +8,9 @@ label Day1Walk:
     "I wipe my eyes and rub the sleep away while my eyes attempt to adjust to the brightness."
     "The fresh air is even colder outside, but it's refreshing to be breath in. It's different to the air I've become accustomed to."
     "Which way to school...? My memory struggles to remember where exactly I should be going."
-    "I'm sure it can't be far away considering I live at a dormitory but that doesn't help all that much."
-    "I'd ask one of the students there but it they've all already left without me."
-    "So all that leaves is Kenta, who is conveniently walking right next to me."
+    "I'm sure it can't be too far away considering I live at a dormitory but that doesn't help all that much."
+    "I'd ask one of the students there but they've all already left without me."
+    "So the only person that leaves is Kenta, who is conveniently walking right next to me."
     "I have a strange feeling that he might not be leading me to school, but I have no idea where else we could be going."
     "Despite my previous knowledge of this town's geography I have no idea where we are right now."
     "I suppose things change a lot in a year, and I never visited this area before that anyway."
@@ -21,10 +21,12 @@ label Day1Walk:
     a"Hmm? Why's that?"
     k"We're late."
     "He says it in such a carefree way that I can't help but feel a little mad about what's happened this morning."
-    "I suppose it is mostly my fault for not getting up early enough though."
-    k"If you don't want to be late again I'll wake you up early next time, if you'd like."
+    "Kenta must be someone who doesn't care an awful lot about their attendance record."
+    "Although I wouldn't necessarily say that I'm someone who does."
+    "I suppose it is mostly my fault for not getting up early enough."
+    k"If you don't want to be late again I'll wake you up earlier next time, if you'd like."
     "The picture of a bruised, purple forehead fills my mind."
-    a"No, no, no Kenta that's alright I'll just set my alarm a little earlier."
+    a"No, no, no Kenta that's alright I'll just set my alarm and everything will be fine."
     a"You shouldn't need to worry about waking me up."
     "Kenta just nods his head as we continue our steady pace through the empty street."
     "I’m reassured by his nod but I don’t entirely trust that he agrees with my request completely."
@@ -36,7 +38,6 @@ label Day1Walk:
     "I suppose the average person wouldn't notice but I'm different, I haven't been here in almost two years, so I can see clearly how everything is changing."
     "It's strange when I think about everything that's been built in that time."
     "It's like my entire model of what I thought this place was has been tossed out and remade, within a few seconds of coming back and seeing it all."
-    "Getting used to all of this isn't easy."
 
     with dissolve
     "My eyes are drawn to the only other person in the street apart from Kenta and I."
@@ -64,7 +65,7 @@ label Day1Walk:
     k"I'm not gonna lie, I really don't know all that much about a lot of the people at our school, I just happened to see that girl walking into the student council room recently."
     k"But apart from that I've got nothing else to tell you about her."
     "That doesn't help me at all, I still have no idea who she is."
-    "I guess her name will come to me eventually if I do know her."
+    "I guess her name will come to me eventually if I really do know her."
 
     hide Street
     jump Day1Hikari
