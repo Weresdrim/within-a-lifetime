@@ -7,6 +7,7 @@ define h = Character('Hagami', show_two_window=True, color="#859ec1")
 define i = Character('Hikari', show_two_window=True, color="#dfdfdf")
 define k = Character('Kenta', show_two_window=True, color="#dfdfdf")
 define t = Character('Teacher', show_two_window=True, color="#dfdfdf")
+define ab = Character('Both', show_two_window=True, color="#dfdfdf")
 define sta = Character('Student 1', show_two_window=True, colour= "#ff0000")
 define stb = Character('Student 2', show_two_window=True, colour= "#ff0000")
 
