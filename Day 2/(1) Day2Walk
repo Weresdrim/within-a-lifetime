@@ -1,0 +1,94 @@
+label Day2Walk:
+
+    "Thump!"
+    "I can feel it on my head again."
+    "It's the same as yesterday."
+    "Thump!"
+    "Alright, alright I'm up, stop that already!"
+    "I swing my body upright to make sure Kenta knows I'm definitely awake."
+    k"Good morning."
+    "I quickly glance at my bedside table just to realise I slept for way longer than I should've."
+    "I mentally kick myself for not remembering to set an alarm."
+    "In a drowsy half-slumber I get the sheets off of me so I can start getting ready."
+    "Just starting to feel conscious now I finally take in the entire room around me."
+    "It still doesn't feel like a home that I can call my own."
+    "But now that I think about it, it's not like there's a place like that for me anywhere."
+    "At least not anymore."
+    "I'll just have to accept this and move on, there's nothing else I can do."
+    "In a way it's the closest place I have to being a home at the moment."
+    "I live here and most of my close belongings are here too."
+    "I spend a few minutes getting dressed and packing my bag."
+    "I suppose I've still got plenty of time for breakfast so I won't skip it today."
+
+    "Again, Kenta and I walk together to school, though we aren't late like last time."
+
+    "As we walk I see a girl, just standing by herself in the middle of the street."
+    "It's hard to tell from this distance but it looks like she has a piece of paper out."
+    "And she's searching the surrounding area for something."
+    "Maybe it's a photo?"
+    "Actually, she's wearing our uniform too."
+    "I'm a little interested, I wonder what she's doing."
+    "I catch myself staring at her when I feel someone poking my shoulder."
+
+    a"Hmm?"
+    k"You seemed to have spaced out so I tried to push the un-space out button."
+    "He doesn't mean my shoulder does he?"
+    "..."
+    a"Kenta, do you see that girl just over there?"
+    with dissolve
+
+    k"Oh, she looks like someone from our school."
+    k"I don't recognise her."
+    k"She might be a second year?"
+    a"Yeah maybe, but she looks confused about something don't you think?"
+    k"Why don't you go over and help her?"
+    a"Huh? Oh me?"
+    k"Who else?"
+    a"I thought it'd be better if you went..."
+    "I hate to admit it but going up to a girl I don't know alone in the street isn't something I'm the most comfortable with."
+    "She might get the wrong idea."
+    "Though now that I think about it, it might be even worse with Kenta..."
+    k"Whatever, come on you have to man up."
+    k"I'll be right behind you if you're worried about looking like a creep."
+    a"Did you just call me a creep? Do I look like one?"
+
+    with dissolve
+
+    show KSReg at right
+    with dissolve
+
+    c"Excuse me, you look like you're in the same school as me..."
+    "Just as I was bickering with Kenta the strange girl initiates the conversation instead."
+    "We were so preoccupied we didn't even notice her coming toward us."
+    "The girl was obviously referring to the school emblem we both had on our uniform."
+    k"Oh. Yeah that's right we're wearing the same uniform."
+    a"Did you need something?"
+    c"Yeah I do actually. I'm new to the school, I've just transferred but I'm having trouble with finding it."
+    c"I've made it this far by reading this map."
+    c"But as you can probably tell I'm not too good at reading maps."
+    "She's definitely right, after checking her map she's not even on the route the map shows her to go."
+    "Both Kenta and I look over the map but neither of us respond to the girl for what has become an uncomfortable amount of time."
+    a"Don't worry about it, we're heading there right now so you can come with us."
+    "Even though I'm new, I still know enough of the way to school."
+    "Eventually I decide we should help her. I wish Kenta had spoken up sooner, but I guess this situation is up to me."
+    c"Thank you! I don't know what I would've done if you two hadn't come along!"
+    a"That's fine, it's not like you're putting us out of our way or anything."
+    c"Can I ask what your names' are? I'm Kunikada Setsuko."
+    a"Ichiro Takeru."
+    k"Satou Kenta."
+
+    "For the rest of the walk she trails slightly behind us without speaking, she doesn't seem all that shy though."
+    "It seems weird to me but it's not like a mind at all."
+
+    "As I notice a few students, though I recognise none, I remember the girl who I saw around here the other day."
+    "I still can't remember her name, or who she exactly is."
+    "She looked like a student from our school so I'm sure I'll see her again, at least once."
+    "In any case I don't end up seeing her this morning on the way to school."
+
+
+
+    "I get to class a little early today, trying to counteract my tardiness of yesterday."
+    "Natsumi walks in just as the bell rings and smiles at me as she sits at her desk."
+    "It's not long before homeroom starts as the teacher begins to prepare his morning announcements."
+    "The class rep, who I still don't know the name of, stands and addresses the class before the teacher begins."
+    jump SetsuInt

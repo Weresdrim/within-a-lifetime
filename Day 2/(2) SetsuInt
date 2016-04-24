@@ -1,0 +1,102 @@
+label SetsuInt
+
+    "The roll is called, meaning it's time to zone out for the rest of homeroom."
+    "These announcements are usually meaningless, or only important for a few students who are active in school activities."
+    "Not being one of those people yet, I sit here, just staring out the window."
+    "Wait, I can hear people muttering about something..."
+    "Did I miss something important?"
+    t"...we will be welcoming a new transfer student today so please make her feel at home."
+    stb"What? Another transfer student!"
+    sta"Two in a row?!"
+    stb"That's a little strange isn't it?"
+    "The class seems less interested in her and more interested in the timing of her transfer."
+    "There were discussions occurring everywhere in the class right now after hearing this news."
+    "Wait a moment, that girl I met this morning... didn't she say she was new?"
+    "It can't be... can it?"
+    t"Quieten down class, we need to give our new student a chance to introduce herself."
+    "And at that moment the new girl entered the classroom."
+    hide Classroom
+    show SetsukoGall1
+    with fade
+    "This girl has an average height, long flowing dark hair and blue eyes, she wears a purple ribbon on her uniform and in her hair. Her expression is content rather than fearful or embarrassed."
+    "A lot of the guys in the class are excited to see it's a girl transferring, probably because most of them would already have a certain reputation with the girls here."
+    "The girls are excited too but probably for more respectable reasons."
+    "After the class settles down the atmosphere is set for her to introduce herself, she doesn't seem afraid at all by the thirty or so students staring at her, waiting for her to speak."
+    "The strange girl stands still patiently awaiting the class, until taking a short breath in preparation to speak."
+    c"My name is Kunikada Setsuko."
+    "It was unmistakably her, the girl I met this morning."
+    "Her voice was soft, but not quiet, everyone heard her words."
+    "The class seemed a little surprised with such a blunt introduction, nothing more than her name"
+    "I can still say it was a step up from mine."
+    "Usually students would add a little more to their introduction when coming into a school for the first time."
+    t"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
+    "The teacher tries to help the girl out of this awkward situation just like he did for me."
+    c"I just moved here, my Dad's work brought him to this town and as a result brought me too, so I'm pleased to meet you all!"
+    "Luckily she handled the situation quite well in comparison to myself."
+    t"Alright class, make sure you make Kunikada feel welcome. You may take your seat now, Kunikada."
+
+    hide SetsukoGall1
+    show Classroom
+
+    "Kunikada searches for a moment for her seat, she finds the only seat left. The one next to mine."
+    "As she walks toward her desk I notice her face, it's quickly growing paler and paler."
+    "Then her eyelids, they're beginning to shut."
+    "Her hand reaches for the desk beside her."
+    "But her knees wobble as she takes the next step."
+    "Her body topples toward me."
+    "Times seems to slow down around me."
+    "Bracing for the impact with no time to think, I hold both arms out in an attempt to catch her."
+    "She gracefully lands unharmed within my arms."
+    "Her body is a lot softer and lighter than I had expected."
+    "The rest of the class turn their heads to see what the noise is in my corner of the classroom."
+    "And all they see is me, holding the transfer student half a metre from the ground."
+    a"Are you alright?"
+    "The girl infront of me gives a slight nod and tries to move her legs."
+    t"Ichiro, please take Kunikada to the infirmary immediately."
+    "I could feel my face growing red."
+    a"Can you stand?"
+    "Kunikada nods again and tries to move upright with my help."
+    hide Classroom
+    show white
+    show KSReg
+    "I grab her arm and put it around my neck to support her weight as we walk out of the classroom into the empty hall."
+    "As we walk it seems her condition is improving."
+    "She's slowly leaning on me less and less, trying to bear her own weight."
+    c"Sorry about this."
+    "She tries to speak, this time with a voice much softer than before."
+    c"It only happens every once and while."
+    c"I have a condition that sometimes makes me unexplainably feel nauseous for a few moments, usually I end up fainting and falling to the floor."
+    c"So thanks for catching me."
+    a"Don't worry about it, you were falling toward me anyway so it's not like I could just step out of your way."
+    c"You'd be surpised."
+    a"Surpised by what?"
+    c"This is the first time I've fallen, that hasn't resulted in a bruised or bleeding face."
+    c"So thanks for that."
+    "We reached the stairs, the infirmary is located on the 1st floor."
+    "We're currently on the third."
+    a"Do you think you can manage?"
+    c"Yeah, I think so."
+    "This time Kunikada holds me tightly as we descend the stairs."
+    "We stop to rest at the end of each set."
+    "She still seems so fragile and weak."
+    "Luckily we just need to get to the beds in the infirmary."
+    "And it was right infront of us, we'd reached the 1st floor."
+    c"It's ok, I know I seem pretty faint right now."
+    c"But I always get better within an hour or two."
+    c"I should be back by fourth period."
+    a"Sounds good. I'll see you then."
+
+    hide KSReg
+
+    show Classroom
+    "The rest of class is uneventful, the same as always."
+    "However halfway through fourth period Kunikada re-enters the classroom."
+    t"Welcome back Kunikada."
+    "Without instruction, Kunikada heads straight for her seat and sits down, trying to avoid any more attention from the other members of the class."
+
+    with dissolve
+
+    "I found myself constantly checking Kunikada throughout the class, I guess I'm still worried that she might drop out onto her desk at any moment."
+    "But she never does and soon enough the bell rings signaling the end of class."
+
+    jump MeikoBump
