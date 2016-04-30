@@ -10,4 +10,21 @@
 #Ask MC to join
 #Choice | Join the club | Help them find someone else, end up progressing through their route instead |
 #Later go with them to ask Kunikada to join the club, (partially to find out more about her, but mostly to get enough members to make a club.)
-#DANK MEMES XD
+label Day3:
+
+    "Beep Beep"
+    "I've never been so relieved to hear the sound of an alarm clock in my entire life."
+    "Last night I actually remembered to set it."
+    "Though when I look around the room I notice Kenta is already up."
+    "Whatever he does in the mornings still remains a mystery to me."
+    a"Good morning"
+    "I half yawn, half say my greeting."
+    k"You're up early today."
+
+    "This is the earliest I've made it to school."
+    "Kenta and I walked to school but we neither of us cared much to start up any conversation."
+    "As I enter the classroom I notice Haruki too, thinking back to yesterday afternoon's practice."
+    "But she doesn't bring anything up about it, maybe she didn't see me watching."
+    "The morning classes pass by quickly and I find myself yet again wondering where I should go for lunch."
+    "Well I got sidetracked yesterday, but originally I had planned to go sit with Hagami and Mana..."
+    "It's not too bad of an option, and besides, it's not like I have that many to choose from."
