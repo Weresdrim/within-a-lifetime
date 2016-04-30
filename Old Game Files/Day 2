@@ -37,10 +37,10 @@ label Day4:
     d"So come on then, you better get ready for school!"
     "Her tone was too cheerful for my view of this morning and I despised her because of it."
     "She left my room after that, finally."
-    
+
     hide Bedroom
     with dissolve
-    
+
     "Soon after that I left the house, stepping into the cold air once again."
     "However today was a new day."
     "I glanced at the mailbox as I walked by incase I'd gotten another letter."
@@ -48,7 +48,7 @@ label Day4:
     "On the way to school I had this strange habit in my head to be on the lookout for Maeko, not because I wanted to apologise but because I thought she'd come this way today."
     "Actually with that thought, I wonder if Kunikada already left before me? Maybe I should've walked with her today."
     "Although I admit I'd be a little scared to ask her, seems a little awkward."
-    
+
     "In anycase, today I was alone on my walk to school."
     "Without much motivation I slowly made my way there, while paying attention to the time on my watch."
     "I've seen a few people from my school that I know while walking but I dont attempt making any conversation with them."
@@ -72,15 +72,15 @@ menu:
 
     "Talk to Kunikada":
          jump kunin
-    
+
 label maekon:
-    
+
     ############################################
-    #--> Apologise to Maeko 
+    #--> Apologise to Maeko
     ############################################
-    
+
     "I've got to set things straight with Maeko."
-    
+
     "Maeko pushed her seat out behind her to get up the moment the bell sounded."
     "Damn it! She can't leave yet!"
     "I'd miss my opportunity so I move over to stop her from leaving."
@@ -123,17 +123,17 @@ label maekon:
     a"Oh. Ok then, see you later."
     "She rushed down the stairs ahead of me without saying another word."
     "There was nothing left to do, so I sat down and ate my lunch alone until the end of lunch."
-    
+
     with dissolve
-    
+
     "I wasn't late getting back to class however Kunikada was already in her seat."
     "Actually, I wonder if she had ever left it?"
     "Her face was one of melancholy."
-    
+
     "After I took my seat Maeko arrived from the student council meeting."
     "She seemed fine, certainly a lot better than before lunch."
     "I guess I cheered her up by clearing things up."
-    
+
     "During the remainder of classes before school ends, my mind goes astray from the lesson being taught."
     "I wonder what the potential of this power I have is?"
     "As far as I know it always takes me back to the morning, or maybe it always takes me back to that particular morning?"
@@ -150,15 +150,15 @@ label maekon:
     "Ok, I'll test it right after I get up tomorrow morning, if things do take me back to that day's morning I should just end up in bed a few minutes before."
     "And if not I'll just have to handle things from there."
     jump class2
-    
+
 label kunin:
-    
+
     ############################################
-    #--> Eat on rooftop with Kunikada 
+    #--> Eat on rooftop with Kunikada
     ############################################
-    
+
     "She's looking lonely, I told her I'd be her friend so I'm going to keep that promise."
-    
+
     "I approached Kunikada who hadn't moved from her seat yet."
     "She was taking the lunch out of her bag and looked like she was going to start eating soon."
     a"Hey Kunikada."
@@ -213,7 +213,7 @@ label kunin:
     c"With the travelling he's done my mum can't really hold down a job in one location for any extended period of time so she just gave up in the end."
     a"But you should be staying here now right, for a long while to come?"
     c"Yeah that's the plan so maybe she'll find a job soon."
-    c"It's not entirely necessary though, financially speaking that is." 
+    c"It's not entirely necessary though, financially speaking that is."
     a"Now that you say that I'm kinda jealous, it'd be cool to have at least one parent around most of the time."
     c"It's not as cool as you think, it can be pretty restrictive."
     a"Actually, I didn't think about that."
@@ -228,22 +228,22 @@ label kunin:
     c"Hey Ichiro, will you be sitting here tomorrow lunch too?"
     a"Sure, if you want."
     "She seemed happy but rushed down the stairs ahead of me without saying another word."
-    
-    
+
+
     "I wasn't late getting back to class however Kunikada was already in her seat."
     "Well she did leave before me in quite a hurry."
-    
+
     "After I took my seat Maeko arrived."
     "Her face was expressionless, she didn't look happy."
     "I don't know how I can cheer her up now, or if I even should."
     jump class2
-    
+
 label class2:
 
     ############################################
     #--> Wondering about time travel
     ############################################
-    
+
     "During the remainder of classes before school ends my mind goes astray from the lesson being taught."
     "I wonder what the potential of this power I have is?"
     "As far as I know it always takes me back to the morning, or maybe it always takes me back to that particular morning?"
@@ -260,10 +260,10 @@ label class2:
     "Ok, I'll test it right after I get up tomorrow morning, if things do take me back to that day's morning I should just end up in bed a few minutes before."
     "And if not I'll just have to handle things from there."
     "In any event this will be a journey of solitude, I'm prepared for that."
-    
+
     "Just as I was thinking that a friendly familiar smile popped into view, it was Kunikada's."
     "The bell must've rung without me noticing as everyone was leaving the classroom."
-    
+
     c"Come on Ichiro, I think I might still be a little hazy on the details for getting home."
     c"Do you think you'd be able to show me the way?"
     "She was obviously just playing around, she knew the way fine but this was her way of asking me to walk home with her."
@@ -273,5 +273,5 @@ label class2:
     "On the way home I made sure to be on the look out for the same shady figure. There's no telling when he might come back."
     "Luckily for us he didn't reappear that afternoon."
     "I said goodbye to Kunikada before entering my home."
-    
+
     jump Day6

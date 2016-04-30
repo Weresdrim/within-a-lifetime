@@ -2,37 +2,37 @@
     ############################################
     #--> 2nd Try of first day
     ############################################
-    
+
 label kunisetsu:
     scene black
     with pixellate
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "ambientdark1.mp3"
     "I'm not too sure where I am right now."
     "Somehow it feels so peaceful."
     "But there is nothing."
     "I can't tell how much time has passed."
     "But I feel guided by this light at what feels like the edge of the universe."
-      
-    
+
+
     scene white
     with pixellate
     show Bedroom
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "spiritbird.mp3"
     "I've awoke in my bedroom."
     "Was that really just a dream?"
@@ -45,7 +45,7 @@ label kunisetsu:
     "Hold on, how is this happening?"
     "I recall a voice last night, telling me I could change what had happened."
     "I'm not really sure what happened after that."
-    
+
     "I'm by no means a sci-fi fan but I do know a little about time travel."
     "Although as far as I knew all of that was fiction."
     "There are several theories regarding time travel and how it works."
@@ -76,11 +76,11 @@ label kunisetsu:
     a"So, where are you headed so early this morning?"
     b "Oh uhm... I'm just going for a bit of a longer walk before going to school... and I uhhh decided to go to the convenience store."
     a"Alright, I'll join you on your walk, if that's ok with you."
-   
+
     show MSHap at center
     b"Yeah, of course you can!"
     hide MSHap
-    
+
     show Convinience
     "We arrive at the convenience store, Maeko buys her melon bread."
     "My mind has been drifting from the conversation with Maeko quite a bit this morning, I'm too focused on how I can save Kunikada."
@@ -101,7 +101,7 @@ menu:
 
     "Ask Maeko if we can stay at her place.":
          jump maehome
-         
+
     "Don't decide yet.":
          jump undec
 
@@ -116,17 +116,17 @@ label maehome:
 label undec:
     a"I'll wait until I have a better idea."
     jump undec1
-    
+
 label kunihome1:
-    
+
     ############################################
     #--> Convince Kunikada to go home
     ############################################
     a "I'll tell Kunikada to go home."
-    
+
     "This could work, I'll just need to tell Maeko I'll be waiting for someone outside of the school gate."
     "We continue walking back to school, due to my fastened walking pace we got their a little earlier than last time."
-    
+
     "Out of the corner of her eye she saw me stop so she turned her head to inspect further."
     show MSReg at center
     b"Is something wrong? We should probably wait in class until school starts."
@@ -136,17 +136,17 @@ label kunihome1:
     "It seems in a way she both wanted and didn't want to know who I was waiting for."
     a"Yeah, see you there."
     hide MSReg
-    
+
     "After a few minutes of searching the crowds of students entering the school I spot the purple headed transfer student I'm looking for."
     "Now that the task is in front of me it's actually a little intimidating pulling out a random girl who doesn't know you from a crowd ."
     "Especially if it's to talk to them alone."
-    
+
     "Eventually I swallow my pride before it's too late and call out for her name while walking toward her in the midst of the scattered groups of students."
     "She looks around in a confused fashion, probably wondering who called out for her name and where they are."
     "And to her surprise she finds me looking for her."
-    
+
     show KSReg at center
-    
+
     c"Sorry if you know me from somewhere but I can't seem to recall ever seeing you before."
     c"I'm new to this school."
     "I just realised I may have made a mistake, should I have called out her name...? I shouldn't know it at this point in time."
@@ -167,11 +167,11 @@ label kunihome1:
     scene
 
 label maehome1:
-    
+
     ############################################
     #--> Bridge Walk
     ############################################
-    
+
     "This could work, I'll just need to ask Maeko about it."
     "We continue walking back to school, we got their a little earlier than last time due to me walking faster than usual."
     "Before Maeko gets the opportunity to tell me to meet her alone I quickly stop her to talk to her directly."
@@ -196,7 +196,7 @@ label maehome1:
     b"Just remember you owe me one!"
     a"Yeah of course, thank you so much!"
     scene
-    
+
     "Nice, I'm making progress, now I just have to convince Kunikada to come with me after school."
     show Classroom
     "I shuffle my feet into class 2-C with everyone else into homeroom. I'm awaiting the announcement about the new transfer student."
@@ -207,10 +207,10 @@ label maehome1:
     show SetsukoTop
     c"My name is Kunikada Setsuko."
     f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
-    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
+    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"
 
     f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
-    
+
     "This time I'm prepared to catch Kunikada."
     "I don't fell the necessity to change anything that happened here."
     "So I let Kunikada fall into my arms, I catch her again."
@@ -223,8 +223,8 @@ label maehome1:
     "The teacher once again asks for me to take Kunikada home today."
     "Today is different, I don't have a choice between Maeko or Kunikada."
     "Maeko might be important to me but Kunikada will die without my help, I'm sure of that."
-    
-    
+
+
     scene white
     with dissolve
     "The bell rings signalling the end of class, I walk with Kunikada to the front gate where Maeko is waiting."
@@ -241,15 +241,15 @@ label maehome1:
     scene
     "Success!"
     "There is a world where Kunikada lives!"
-    
-    
+
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "Sunshine2.mp3"
     "And just as our discussion ends we reach Maeko."
     show MSReg at center
@@ -258,7 +258,7 @@ label maehome1:
     "I'm a little embarrassed that I forgot such a basic thing"
     a"Maeko, this is Kunikada Setsuko."
     a"And Kunikada, this is Kotaru Maeko."
-    
+
     "They both smile at each other, a little awkward at first but Maeko breaks the silence quickly."
     b"Nice to meet you!"
     show KSReg at center
@@ -266,12 +266,12 @@ label maehome1:
     hide KSReg
     show MSReg at center
     b"Well then, shall we leave?"
-    
+
     "And with that, we make our first steps together as three from the school."
-    
+
     "It takes around the same time to get from school to Maeko's house as it does to mine if my memory serves correctly."
     "There is a bridge on that side however that is needed to be crossed to get to the other side of town."
-    
+
     show MSReg at center
     b"So Kunikada, did you enjoy your first day?"
     hide MSReg
@@ -285,7 +285,7 @@ label maehome1:
     show KSReg at center
     c"It's fun to walk with friends like this isn't it? I was a little scared to go with you guys, but I'm glad I did in the end."
     a"Don't you do this often?."
-    
+
     c"Well, I've never really had proper friends before..."
     a"Oh, I'm sorry"
     c"Don't be, you couldn't have known that"
@@ -299,7 +299,7 @@ label maehome1:
     show Bridge
 
     "I don't walk over this bridge too often, and it's been a while since I last did."
-    
+
     show MSReg at center
 
     b"We're lucky I didn't have a student council meeting today."
@@ -315,14 +315,14 @@ label maehome1:
     show KSReg
     c"Ah, I will"
     hide KSReg
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "isleofdoom.mp3"
     "Halfway through walking along the bridge I notice a strange figure approaching us, not making too much of an effort to conceal himself."
     "We start walking along the bridge."
@@ -383,11 +383,11 @@ label undec1:
     a"I'll wait until I have a better idea."
     "I don't think either of these ideas are too reliable so maybe I can try figuring something else later."
     jump undeccon
-    
+
     ############################################
     #--> Not sure
     ############################################
-    
+
 label undeccon:
     show Classroom
     "I shuffle my feet into class 2-C with everyone else into homeroom. I'm awaiting the announcement about the new transfer student."
@@ -398,10 +398,10 @@ label undeccon:
     show KSReg
     c"My name is Kunikada Setsuko."
     f"Kunikada, is there anything else you'd like to add? Such as your hobbies or where you came from?"
-    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"                                                                                                
+    c"I just moved here, my Dad's work brought him to this town so I'm pleased to meet you all!"
 
     f"Alright, class make sure you make Kunikada feel welcome. You may sit now Kunikada."
-    
+
     "This time I'm prepared to catch Kunikada."
     "I don't fell the necessity to change anything that happened here."
     "So I let Kunikada fall into my arms, I catch her again."
@@ -434,21 +434,21 @@ label undeccon:
     "I call the taxi company I looked up earlier and one arrives shortly."
     "I have enough money in my bag to pay but I'm still a little annoyed that I have to spend my money like this."
     "I suppose it's for Kunikada's life so I shouldn't be complaining."
-    
+
     "We both get in."
     t"So, where're you two headed off to?"
     a"We need to get home, it's not too far away so I'll just direct you where to go."
     t"Alright, sure thing."
     a"So just head down this lane... take a left here... go around the roundabout 2nd exit..."
     "After giving many more directions you could say things went in a bit of the wrong direction..."
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
+
     play music "isleofdoom.mp3"
     with hpunch
     "The glass of the windshield shattered, then the driver fell forward."

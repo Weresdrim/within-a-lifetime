@@ -4,23 +4,23 @@ label Day6:
     "It was now morning, time for my time test."
     "I just needed to focus how I usually do, focus on the energy through my hands..."
     with pixellate
-    
+
     ###########
     #         #
     #         #
     #         #
   ###       ###
   ###       ###
-    
-    play music "ambientdark1.mp3"    
+
+    play music "ambientdark1.mp3"
     "The void again."
     "I feel a sharp cold pain in my head."
     "Then warmth returning across my body."
-    
+
     ############################################
-    #--> Time travel, first name basis?! 
+    #--> Time travel, first name basis?!
     ############################################
-    
+
     show Bedroom
     with dissolve
     "I was back in my bed, underneath my covers."
@@ -37,14 +37,14 @@ label Day6:
     "However this doesn't affect anyone else but me."
     "Meaning I may have done something important yesterday I have no idea about currently."
     "There is also a fairly high chance nothing particularly important happened."
-    
+
     "I currently know my power can't be controlled past activation at the moment."
     "Meaning I could try to use it and go back to yesterday, or it could take me another day forward."
     "Or some time worse."
     "The safest option is to see what has happened up until this point, it may not be necessary to go back if nothing happened yesterday."
     "I can always time travel again anyway if something bad has happened."
-    
-    "I gather my things and get ready for school, as I'm leaving I check the mailbox again, nothing was inside." 
+
+    "I gather my things and get ready for school, as I'm leaving I check the mailbox again, nothing was inside."
     "Above me I hear a familiar voice calling out, it was Kunikada's, still in her pyjama's at the top of the staircase multiple floors above me."
     c"Hey! What are you doing leaving without me!"
     "Wait... did I promise to walk with her too school as well?"
@@ -56,11 +56,11 @@ label Day6:
     c"Geez, how could you forget so easily?"
     c"I'll be down soon so just hang on."
     with fade
-    
+
     "'Soon' turned out to be a lot longer than I had expected."
     "I usually like to leave a little earlier than usual if I can."
     "So basically Kunikada wasn't helping."
-    
+
     c"Ok I'm ready! Coming down now!"
     "I heard her voice and footsteps simulatenously going down the staircase."
     "She reached the bottom and seemed ready to go."
@@ -85,14 +85,14 @@ label Day6:
     "I don't even know what I said to her yesterday to even be having this conversation but I feel like saying something that will comfort her is the best course of action."
     c"Really?! Alright then!"
     a"Well we better head off then."
-    
+
     "There's no telling what happened yesterday, already things have turned different to how I expected."
     "If things get any worse than this it might be bad."
     "I wonder when I agreed to us calling each other by our first names."
     "I suppose it's not too weird... I mean Maeko and I do the same."
     "But Maeko is the only one outside of my family who does that."
     "Well, she's not the only one anymore."
-    
+
     c"You know Takeru, I've been thinking, what club do you think I should join at school."
     c"None of the existing clubs really interest me at the moment, and you're not involved in any of them are you?"
     a"That's right, I'm clubless."
@@ -106,7 +106,7 @@ label Day6:
     a"But I can't make the club for you."
     c"Ok, I'll try to think of something by myself."
     with fade
-    
+
     "We entered school and I prepared for whatever else had happened yesterday."
     "Walking into class nothing seemed too unusual, which was to be expected I guess, it'd only been a day."
     "Everyone else entered the classroom and homeroom started, the roll was called and everyone was present besides Maeko."
@@ -115,9 +115,9 @@ label Day6:
     "Unfortunately, or perhaps somewhat fortunately nobody had messaged me yesterday."
     "Again, it's probably nothing but something urges me to find out."
     "Despite that urge I have no way of finding out right now, not until lunch anyway."
-    
+
     with fade
-    
+
     "Without any verbal cue Kunikada, or Setsuko rather, left for the stairs to the roof."
     "I did the same."
     "I suppose yesterday must've made the idea that this was our normal place to eat lunch now."
@@ -128,13 +128,13 @@ label Day6:
     a"Do you have any idea on where Maeko is today?"
     c"No, sorry, I have no idea."
     "It was a long shot asking her about it anyway."
-    
+
     with fade
-    
+
     ############################################
     #--> Playful classmate
     ############################################
-    
+
     "Class resumed and one of my friends started talking to me."
     "His name is Uchida."
     g"Hey Ichiro, you've been acting quite friendly with Kunikada recently."
@@ -146,17 +146,17 @@ label Day6:
     a"Nope, we're just friends, we also live in the same building so it's just convenient for us to walk to and from school together."
     g"Wait what?! The rumours are true, you two actually do walk together?!"
     a"No I already told you! It's not like that!"
-    
+
     f"Quieten down you two, you're disrupting the class!"
     "I realised my voice had risen a little too loud after Uchida worked me up so much."
     "The discussion could go no further after that."
-    
+
     "Great, now people think we're going out."
     "Actually, how close are we? Do people usually get this close and then become boyfriend and girlfriend."
     "I guess Setsuko is kinda cute, but I've never really thought of her that way before, we're just friends right?"
     "If she said she liked me would I be opposed to becoming a couple?"
     "I'll cross that bridge when I get to it, no point worrying over fantasy."
-    
+
     with fade
     "Class continued until lunch where I was just about to leave to the roof with Setsuko until I overheard some girls talking about Maeko."
     e"Where's Maeko today anyway?"
@@ -174,9 +174,9 @@ label Day6:
     "Just like that time, all those years ago.."
     "My best friend was in trouble"
     "I thought about this while climbing up the stairs and found Setsuko cheerfully greeting me at the top, her sweet smile distracting me from my thoughts momentarily."
-    
+
     with fade
-    
+
     "I'd just made my way back from school, I have time to think about what my next move from here should be, as far as time is concerned."
     "Things happened yesterday, I don't know what, but it's worse than I'd hoped."
     "Something happened to Maeko that stopped her from coming to school."
@@ -203,14 +203,14 @@ label Day6:
     "I couldn't see a reason why she couldn't so I didn't bother arguing."
     a"Alright, if you want to, just make sure you're ready to leave at 6:30."
     c"Sure, I'll be ready."
-    
+
     show Bedroom
     with dissolve
-    
+
     ############################################
     #--> Finding Abused Maeko
     ############################################
-    
+
     "It was a morning like any other, somewhat out of habit I checked the date, it was as expected."
     "It was 6:00am at the moment so I only had half an hour to get ready, meaning I needed to get out of bed quickly."
     with fade
@@ -220,9 +220,9 @@ label Day6:
     c"Come on, you're late, hurry up."
     "I felt like she was almost mocking me for the other day."
     a"Yeah yeah, I'm coming down now."
-    
+
     with fade
-    
+
     show Bridge
     "We made our way over the bridge, the barrier between me and Setsuko's side of town and Maeko's side of town."
     "I'd always liked this bridge."
@@ -249,11 +249,11 @@ label Day6:
     b"*Sniff*....I'll tell you... *Sniff*... Just somewhere... *Sniff*... else... *Sniff*... please."
     "It's a rare occasion to see Maeko cry like this, she only ever cries if it's serious."
     "She's usually quite strong, or strong headed rather when it comes to crying."
-    
+
     "It was hard to hear her properly when she was crying like this but as long as she told me what was up I saw no harm in taking her somewhere away from here."
     "Setsuko, Maeko and I walked partway to school, Maeko didn't say a single word the whole way but did stop crying."
     "The words between Setsuko and myself were fairly limited due to the mood."
-    
+
     a"Okay, Maeko this is far enough."
     a"Now please, let me help you."
     a"Why is your face bruised?"
@@ -273,9 +273,9 @@ label Day6:
     a"But wouldn't that get your uncle in trouble? You could use that bruise as proof."
     b"Where would that get me? If my uncle were sent to jail chances are I'd either be sent to a foster home or I'd be homeless."
     b"And that's if anybody believed me. There's no way for me to prove it were him."
-    
+
     a"Maeko I hope you know this isn't ok, abusive home lives aren't healthy."
-    
+
     a"Let me see how badly you really are hurt."
     "Maeko withdraws when I reach out with my hand."
     a"Don't worry, I won't hurt you."
@@ -318,16 +318,16 @@ label Day6:
     b"I guess that wouldn't be too bad."
     a"Alright, I'll have to ask my parents about it though so no promises."
     a"Let's head off to school for now, and please tell me if you have anymore problems at home."
-    
+
     with dissolve
-    
+
     ############################################
     #--> Finding help for Maeko
     ############################################
-    
+
     "After school I walked back with Setsuko and entered my apartment after saying goodbye to her at the stairwell."
     "Asking my parents at Maeko staying over had been on my mind for a while now, I don't know how long Maeko would be staying for and I doubt that would be ok with them."
-    
+
     a"Mum I need to ask you about something!"
     m"What is it?"
     a"You remember Maeko right, we used to play a lot as kids."
@@ -348,11 +348,11 @@ label Day6:
     m"Having her run away won't help unless it's somewhere she can reliably stay at long term, we can't offer that."
     "My mother raised a good point, if Maeko has to go back home after running away things would only get worse for her."
     "I'll have to find some other way."
-    
+
     "I sent a text to Setsuko to come out on the balcony so I could talk to her."
     "I closed the glass window behind me so I could talk in private."
     "She came out shortly after I did."
-    
+
     c"What is it? Did you ask your parents about Maeko?"
     a"Yeah I did, that's what I came to talk to you about."
     a"My parents are opposed to having her stay here because we don't have the room and we don't know how long Maeko might be staying for."
@@ -366,14 +366,14 @@ label Day6:
     a"Wow really?! That would be a massive help!"
     c"Hey I didn't promise anything yet, I still have to ask my parents about it."
     "Things are looking good, Maeko might never have to deal with abuse in her life ever again."
-    
+
     c"My parents aren't actually back home yet so I'll tell you what their response is when we walk to school."
     a"Sounds good, goodnight Setsuko."
     c"Goodnight Takeru."
     "I'm a little worried with how Maeko is doing right now since she had to stay another night at her place, hopefully it's not to bad."
     "My worry continues as I close my eyes and find it hard to put my feelings at rest."
     "Tossing and turning in my bed until eventually my consciousness finds some peace."
-    
+
     with dissolve
-    
+
     jump Day7
