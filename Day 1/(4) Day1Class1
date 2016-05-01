@@ -18,7 +18,7 @@ label Day1Class1:
     show Classroom
     "The classroom has a decent amount of students, which makes it all the more worse."
     "I turn to face them and try to prepare myself."
-    "They all seem fairly normal, like ordinary students. Though just at a glance. The unfamiliar setting and atmosphere of the classroom makes me uneasy."
+    "At just a glance, they all seem fairly normal, like ordinary students. The unfamiliar setting and atmosphere of the classroom makes me uneasy."
     t"Alright everyone, we have a new student we'll be welcoming today."
     t"Please, make him feel welcome."
     "The class collectively applauds my entrance in a warm welcome."
@@ -44,7 +44,7 @@ label Day1Class1:
     "I can’t see any way out."
     t"Sorry to cut you off there Ichiro but we’re running a little late, could you take a seat please?"
     a"Ah, sure..."
-    "Somehow the teacher answers my prayers, for the second time today he seemingly read my mind, perhaps he’s just good at reading the situation."
+    "Somehow the teacher answers my prayers, for the second time today he seemingly read my mind. Perhaps he’s just good at reading the situation."
     "Well that went smoothly..."
     "I can't help but feel a little defeated by committing the travesty that was my failure of an introduction."
     "But still, I give him a grateful look as I move to the empty seat by the windowsill."
