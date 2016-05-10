@@ -44,6 +44,7 @@ label start:
     #--> First day
     ############################################
 
+    #THIS STUFF IS OUTDATED, SKIP TO KENTAWAKEUP
     show void
     play music "Ossuary.mp3"
     "I hate change."
