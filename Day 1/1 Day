@@ -21,6 +21,11 @@ image School = "School.png"
 image Classroom = "Classroom.png"
 image Hallway = "Hallway.png"
 image Bedroom = "Bedroom.png"
+image ManaN = "ManaN.png"
+image ManaE = "ManaE.png"
+image shade = "shade.png"
+
+image Hagami = "Hagami.png"
 
 
 image Hagami = "Hagami.png"

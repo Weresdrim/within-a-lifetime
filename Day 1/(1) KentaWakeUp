@@ -133,8 +133,10 @@ label KentaWakeUp:
     "Giving up on my hair's position, I just have to change into these clothes quickly before I freeze to death."
     "I grab the bottle of pills out of the cupboard I put them in last night."
     "I stare at the bottle for a short while. I'm still getting used to having to take daily medication."
+    show shade
     centered"{color=#f00}Don't take them.{/color}"
     centered"{color=#32CD32}I need to.{/color}"
+    hide shade
     "I down the two pills with the help of some water."
     "This routine reminds me of my time in the psychiatric ward, where they would bring in two pills each morning and ask me the same series of questions."
     "The one that resonated the most with me was: 'How do you think you are feeling?'."

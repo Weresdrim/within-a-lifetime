@@ -105,8 +105,8 @@ label Day1Lunch:
     "She speaks so softly I can barely hear her."
     "Her stride across the room is hurried but graceful as she passes me."
     "I just manage to decipher he soft words but before I can say anything in response she has already escaped."
-    "I let out a depressing soft chuckle as I realise I'm yet again alone, no doubt it probably had something to do with my actions."
-    "Feeling somewhat exhausted and guilty I pull out one of the chairs to try and relax myself."
+    "I let out a depressing soft chuckle as I realise I'm alone, yet again, no doubt it probably had something to do with my actions."
+    "Feeling somewhat exhausted and guilty I pull out one of the chairs to try and relax."
     "Across from me in the mostly empty room is a table and a large bookshelf going across the side wall, until now I hadn't noticed the large amount of books that lined the shelves due to the other girl's presence."
     "But now that she's gone I feel like I can finally take a look at the rest of the room."
     "All of her belongings are still beside the chair she had been sitting at."
@@ -117,8 +117,8 @@ label Day1Lunch:
     "Just from a quick look I can tell there are a lot of weird titles listed in these rows."
     "The Hidden Measurables, Pure Reason of the Divine, Arcane Paranormals... what are all of these?"
     "Most of the books here look pretty old, and most you wouldn't find at a library unless you were really trying to find them."
-    "Though amongst the odd amount of archives there still are quite a few that look fairly normal."
-    "I scan each title, only giving each book the attention it takes to read its title, until I pull out one that looks interesting."
+    "Though among the odd amount of books in this archive there are still quite a few that look fairly normal."
+    "I scan each title, only giving each book the attention it takes to read its title, until I eventually pull out one that looks interesting."
     "As the minutes tick by I find my back slowly sinking into the chair as my eyes quickly scan each page."
     "While my mind is invested into the novel I can't help but wonder where that book-girl went, and whether she'll come back at all."
     "Maybe this wasn't such a good idea, I suppose some people just like to read alone. I should just leave now and not cause her any more trouble."
@@ -133,8 +133,8 @@ label Day1Lunch:
     m"Oh hello, sorry for the intrusion, I just thought someone else might be here."
     a"Sorry, I think I might know the person you're talking about."
     a"She ran off not long after I came here. I guess I must've said something wrong."
-    m"No I doubt that was it. Just don't worry about it, I'll take care of things from here."
-
+    m"No, I doubt that was it. Just don't worry about it, I'll take care of things from here."
+    centered"{color=#f00}It's pointless, why would you try?{/color}"
 menu:
     "Go with her to find the girl.":
         $mpoints =+ 1
@@ -239,13 +239,22 @@ label leaveit:
     "A shy, calm smile slowly appears on her face."
     "I let out a an inaudiable sigh of relief as my worries are laid to rest."
     "From what it sounds like I didn't mess up too badly."
+    a"So you two usually stay here for lunch?"
+    m"Yup, we do."
     m"By the way, I'm Mana and this is Hagami."
     a"I'm Takeru-"
     jump eol1
 
 label eol1:
-    a"Actually now is probably as good as any to ask... What exactly is the club you two belong to?"
-    a"I still need to find one."
+    a"Actually now is probably as good as any to ask... What exactly is this place?"
+    a"Is it a club?"
+    centered"{color=#f00}Nobody wants you in their club.{/color}"
+    if mpoints >= 1:
+      centered"{color=#32CD32}But I'm interested...{/color}"
+      a"I still need to find one."
+    elif mpoints >= 0:
+       pass
+
     h"That's a little hard to say... I suppose you'd call it the literature club?"
     "Despite the distance she's keeping between us, Hagami actually answered my question."
     "She's been close to Mana's side this entire time so I didn't expect much of any response from her."
@@ -254,7 +263,7 @@ label eol1:
     m"I'm a member but really it's Hagami that love to investigate the mysteries around the school, she's the club president after all."
     m"You might've already figured this out but I'm also part of the swimming club too so I have to manage my time between both clubs."
     a"Wait, this school has club activities at lunch?"
-    m"Well no, not technically... but nobody really minds since places like the pool and this room are always open."
+    m"Well no, not technically... but nobody really minds since places like the pool and this room are always open in school hours."
     "The bell rings, signaling the end of lunch."
     m"Shoot, lunch is over already?"
     m"You won't even get a proper introduction tour..."
@@ -262,6 +271,6 @@ label eol1:
     a"Sure, I'll come back soon."
     m"We'll be looking forward to it, bye then."
     a"See ya."
-    "Hagami also manages a goodbye wave."
+    "Hagami also manages a quiet wave."
     "Back to class again I guess."
     jump Day1Class2
