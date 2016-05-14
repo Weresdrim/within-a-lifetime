@@ -74,8 +74,9 @@ label Day1Hikari:
     "I stop to think about it for a while, making sure I don't mistake her true meaning."
     "Again she falls back into her default position of disinterest."
     "Regardless of whether she cares about my answer or not, I think I've decided."
-    centered"{color=#f00}Does a home need to be liked to be a home?{/color}"
-
+    show shade
+    centered"{color=#f00}How would you know what a home is like?{/color}"
+    hide shade
 
 
 menu:
@@ -89,7 +90,7 @@ menu:
 label askname:
     a"I suppose not."
     a"But it'd certainly be a lot better for someone to like their home rather than dislike it."
-    "She listens to my response and just slightly nods her head twice in satisfaction."
+    "She listens to my response and slightly nods her head twice in satisfaction."
 
     jump lajoin
 
@@ -114,21 +115,21 @@ label lajoin:
     a"Yeah I am, but how could you tell?"
     i"I haven’t seen you before today, but judging from your presence here I can only guess you must be lost."
     "Wow, she guessed two from two without any hints..."
-    a"I’m amazed, you pretty much just summed up my little time at this school so far."
-    i"It wasn’t any magic. The only reason anyone would ever come here is if they didn’t know where they were going."
+    a"I’m amazed, you pretty much just summed up my little time here at this school so far."
+    i"It wasn’t anything special. The only reason anyone would ever come here is if they didn’t know where they were going."
     a"I see, you must get a lot of lost visitors then..."
-    i"——————"
+    i"..."
     a"Listen, I don’t want to be too much of a bother to you but I have no idea where to go next, could you help me out and tell me where the administration office is?"
     i"Go left, and it's the third building on your right."
-    "Her response was fast, calm, dull and calculated."
     a"Okay, thanks Hikari. I'll come back and visit later!"
-    "She doesn't react in any way as I rush out the door"
+    "She doesn't react in any way as I leave the room."
     "What a strange encounter."
     "I suppose there are people like that at this school."
     "But who exactly was that girl?"
     "Even though she was sitting right there, I didn't see her until I opened the curtains."
     "It's hard to tell, I might be hallucinating again."
-    "Oh well, I don't have time for that right now. I know how to get to the administration building thanks to her help."
+    "It'd be bad if that were the case but I can't do much about it at the moment."
+    "Anyway, I know how to get to the administration building thanks to her help."
     "Hopefully someone will be able to help me there."
     hide Hallway
     show School

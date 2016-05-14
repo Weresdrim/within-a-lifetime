@@ -32,16 +32,14 @@ label Day1Walk:
     "I’m reassured by his nod but I don’t entirely trust that he agrees with my request completely."
     "At least the walk gives me a chance to sort through my conflicting feelings."
     "I’m a little anxious about this new school and the students who attend it."
-    "I used to know a lot of people from this town well, but I haven’t really spoken to anyone from here in a while."
-    "Along the way I notice the construction workers demolishing an old traditional home."
-    "That seems to be the case around here nowadays. Lots and lots of new developments."
-    "I suppose the average person wouldn't notice, but I haven't been here in almost two years, so I can see clearly how everything is changing."
-    "It's strange when I think about everything that's been built in that time."
-    "It's like my entire model of what I thought this place was has been tossed out and remade, within a few seconds of coming back and seeing it all."
+    "There's no telling what they might be like."
+    "I'm sure they'll have to be some worse off and some better off than I am."
+    "But that doesn't give me any indication as to whether or not I'll enjoy my time there."
 
     with dissolve
     "My eyes are drawn to the only other person in the street apart from Kenta and I."
     "Across the road there's a girl in a school uniform."
+    centered"{color=#f00}You know her, don't you?{/color}"
     "She looks familiar. I'm sure I know her from somewhere."
     "Being this late, there shouldn't be many people around."
     "But despite that, she's standing there."
@@ -66,6 +64,11 @@ label Day1Walk:
     k"But apart from that, I've got nothing else to tell you about her."
     "That doesn't help me at all. I still have no idea who she is."
     "I guess her name will come to me eventually if I really do know her."
+    k"You should go talk to her if you want to find out."
+    show shade
+    centered"{color=#f00}That's a bad idea.{/color}"
+    hide shade
+    a"Uhh no that's alright, I'm probably just mistaking her for someone else."
 
     hide Street
     jump Day1Hikari
