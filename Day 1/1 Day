@@ -47,47 +47,47 @@ label start:
     #THIS STUFF IS OUTDATED, SKIP TO KENTAWAKEUP
     show void
     play music "Ossuary.mp3"
-    "I hate change."
+    centered"I hate change."
     pause 0.25
-    "But this world is full of it."
+    centered"But this world is full of it."
     pause 0.25
-    "In a stage of constant regression."
+    centered"In a stage of constant regression."
     pause 0.25
-    "Although not all change is bad."
+    centered"Although not all change is bad."
     pause 0.25
-    "The world isn't perfect as it is."
+    centered"The world isn't perfect as it is."
     pause 0.25
-    "But as for the things that are perfect."
+    centered"But as for the things that are perfect."
     pause 0.25
-    "They never stay that way."
+    centered"They never stay that way."
     pause 0.25
-    "If only we could hold onto that perfection."
+    centered"If only we could hold onto that perfection."
     pause 0.25
-    "But that's impossible."
+    centered"But that's impossible."
     pause 0.25
-    "Nobody knows what to anticipate next."
+    centered"Nobody knows what to anticipate next."
     pause 0.25
-    "Can anyone really prepare for the future?"
+    centered"Can anyone really prepare for the future?"
     pause 0.25
-    "I remember a time when things were better."
+    centered"I remember a time when things were better."
     pause 0.25
-    "But this town and the people within it."
+    centered"But this town and the people within it."
     pause 0.25
-    "They keep changing."
+    centered"They keep changing."
     pause 0.25
-    "Most of them don't even notice."
+    centered"Most of them don't even notice."
     pause 0.25
-    "I hate myself too, because I know I change just like them."
+    centered"I hate myself too, because I know I change just like them."
     pause 0.25
-    "Is that change worth it?"
+    centered"Is that change worth it?"
     pause 0.25
-    "Is it worth the potential risk, pain, stress, grief, loss."
+    centered"Is it worth the potential risk, pain, stress, grief, loss."
     pause 0.25
-    "Yet I long for perfection, the perfect life."
+    centered"Yet I long for perfection, the perfect life."
     pause 0.25
-    "The life I live right now isn't perfect."
+    centered"The life I live right now isn't perfect."
     pause 0.25
-    "Something has to change....."
+    centered"Something has to change....."
     pause 3
     scene
     jump KentaWakeUp

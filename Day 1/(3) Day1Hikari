@@ -6,16 +6,15 @@ label Day1Hikari:
     a"O-oh, bye."
     "I call out as he walks around the corner."
     "Damn it! I'm late and I have no idea where to go."
-    "Without many options open to me, I sprint off blindly, rapidly sorting through the buildings as I do so."
+    "Without many options open to me, I walk off blindly, sorting through the buildings as I do so."
     "They all look about the same."
     "That's the biggest problem. None of them seem to have been built recently but they don't look especially old either."
-    "I've only ever seen this school from afar when I was a child, since I'd sometimes walk past here during the day."
     "The inside is pretty different from what I expected though."
     "It feels lively, but also somewhat empty. It's a hard feeling to describe."
     "Eerie, maybe?"
     "It's also different from my old school. I can't decide whether it's better or worse just yet."
-    "Though despite being a hurry, I can already feel this place growing on me. Its familiar feel is comforting in a way."
-    "Whether it's comforting or not, this is my new life."
+    "Though despite being in a hurry, I can already feel this place growing on me. It doesn't look a psychiatric ward in any way, it's comforting."
+    "Although whether it's comforting or not, this is my new life."
     "I can't go back to where I came from."
     "I can't help being a little anxious when I'm surrounded by these thoughts of this new environment."
 
@@ -51,6 +50,7 @@ label Day1Hikari:
     "Her silver hair and violet eyes glisten in the sun's rays as she sits at the table diligently, she doesn't seem to be paying attention to anything."
     "I could've sworn there was no one in here before I opened these curtains."
     "Maybe it was a little too dark to see...."
+    "But she looks real."
     "It seems she missed my entrance the same way I didn’t see her here in the first place."
     a"Hello, excuse me, I'm sorry for intruding..."
     "I try to get her attention but the silver haired girl seems unimpressed. She turns her head toward me with a completely blank face, devoid of all expression."
@@ -74,7 +74,7 @@ label Day1Hikari:
     "I stop to think about it for a while, making sure I don't mistake her true meaning."
     "Again she falls back into her default position of disinterest."
     "Regardless of whether she cares about my answer or not, I think I've decided."
-    "Does a home need to be liked to be a home?"
+    centered"{color=#f00}Does a home need to be liked to be a home?{/color}"
 
 
 
@@ -124,8 +124,10 @@ label lajoin:
     a"Okay, thanks Hikari. I'll come back and visit later!"
     "She doesn't react in any way as I rush out the door"
     "What a strange encounter."
-    "Who exactly was that girl?"
+    "I suppose there are people like that at this school."
+    "But who exactly was that girl?"
     "Even though she was sitting right there, I didn't see her until I opened the curtains."
+    "It's hard to tell, I might be hallucinating again."
     "Oh well, I don't have time for that right now. I know how to get to the administration building thanks to her help."
     "Hopefully someone will be able to help me there."
     hide Hallway
