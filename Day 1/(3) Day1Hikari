@@ -128,8 +128,9 @@ label lajoin:
     "But who exactly was that girl?"
     "Even though she was sitting right there, I didn't see her until I opened the curtains."
     "It's hard to tell, I might be hallucinating again."
-    "It'd be bad if that were the case but I can't do much about it at the moment."
-    "Anyway, I know how to get to the administration building thanks to her help."
+    "It'd be a problem if I am hallucinating still, the medication I'm on is supposed to be working."
+    "Well, I can't do much about it at the moment."
+    "I know how to get to the administration building thanks to her help."
     "Hopefully someone will be able to help me there."
     hide Hallway
     show School
