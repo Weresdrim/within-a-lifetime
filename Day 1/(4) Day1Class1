@@ -7,6 +7,7 @@ label Day1Class1:
     t"Are you Ichiro Takeru by any chance?"
     a"Huh? Yeah that’s me, how did you know?"
     t"I was looking for you, you’re in class 3-C, come on this way, everyone's been waiting for you."
+    t"Try to prepare yourself for a short introduction of yourself."
     "Without even bothering to see what I do, he turns away and starts walking at a brisk pace."
     show shade
     centered"{color=#f00}You can't do it, nobody is going to welcome you. Why would they?{/color}"
@@ -33,7 +34,7 @@ label Day1Class1:
     "I turn to face them and try to prepare myself."
     "At just a glance, they all seem fairly normal, like ordinary students. Supposedly this school specialises in those with mental health problems but it also takes many local students too."
     "I can only guess this is to hide anyones insecurities."
-    "If every student was a mental patient I can only guess the first thing anyone would think upon meeting anyone would be: 'So what's broken inside of him?'"
+    "If every student was a mental patient I can only guess the first thing anyone would think upon meeting anyone would be: 'What's broken inside of him?'"
     "Luckily this isn't entirely the case, however that doesn't stop the unfamiliar setting and atmosphere of the classroom from making me feel uneasy.""
     "I'm sure at least someone is wondering whether I'm broken or not."
     t"Alright everyone, we have a new student we'll be welcoming today."
