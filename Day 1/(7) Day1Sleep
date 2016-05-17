@@ -22,4 +22,4 @@ label Day1Sleep
     "Eventually, and perhaps luckily my tiredness gets the better of me as I drift away."
     hide Bedroom
     show void
-    jump Day2
+    jump Day2Walk

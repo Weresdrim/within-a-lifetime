@@ -22,9 +22,12 @@ label Day1Class2
     hide Classroom
     show Hallway
     "I need to catch up or else I'll never find where I'm supposed to be."
-
+    "The distance between us grows longer and longer as the corridor lengthens."
+    "The glass around me begins to fog up."
     n"Keep up!"
-
+    "I swear her voice could be heard from the other side of the school."
+    "I can I reach her?"
+    centered"{color=#f00}Run.{/color}"
 menu:
     "Run":
         $npoints =+ 1
@@ -34,6 +37,7 @@ menu:
         jump walk
 
 label walk:
+    "No..."
     "There's no way I can just run through these halls with classes starting all around us."
     "We'd get caught in an instant, and it's not like I can keep up with her anyway."
     "I try to pick up the pace a little though, being late to class would be pretty bad too."
@@ -53,8 +57,8 @@ label walk:
     "Otherwise this could end horribly, and I know Haruki won't stop until we've reached our destination."
     "It takes a while for me to wind up but I'm matching her pace right now."
     "Each leg springs forward, matching in perfect unison."
-    a"Hey... come-on... please... stop-now."
-    "I try to speak but end up needing to fill my lungs with air a lot more than I had anticipated."
+    a"Hey... come-on... stop-now... please."
+    "I try to speak but end up choking on air as I realise my lungs still need a lot more than I had anticipated."
     "In an instant of reaching a classroom door Haruki stops in front of it with barely a difference in her breath."
     jump runwalkjoin
 
@@ -86,10 +90,9 @@ label runwalkjoin:
     a"It's not like it was a race."
     n"You're right, it wasn't, you were supposed to be following me."
     n"You're pretty good at running, aren't you?"
-    a"Not really, I haven't ran in a long time."
-    a"You seemed pretty good though."
-    a"So anyway, what are we doing here?"
-    n"Oh uh yeah that..."
+    a"No... Not really, I haven't ran like that in a long time."
+    n"You seemed pretty good though."
+    "I can hear angry footsteps coming from just around the corner."
     t"Hey you two! Running in the halls is against the rules!"
     "I guess someone did hear us!"
     "Haruki quickly pulls the door open in throws me inside the classroom."
@@ -97,7 +100,7 @@ label runwalkjoin:
     show Classroom
     "She rushes in right behind me to avoid the teacher."
     "Sure enough the classroom is full of our classmates, though it's actually one of the chemistry labs."
-    "Nobody notices us entering, they're all too busy working on whatever experiment is going on right now."
+    "Nobody notices us as we enter, they're all too busy working on whatever experiment is going on right now."
     "Our chemistry teacher is just sitting at the front of the room on his laptop. Judging from his involvement in the class he seems to be a pretty relaxed teacher."
     "Haruki tugs on my shirt sleeve and pulls me toward an empty table in the middle of the classroom."
     "The chemicals are already all set out in front of us."
@@ -107,18 +110,18 @@ label runwalkjoin:
     "Maybe she felt sorry for me, seeing that I'd be alone otherwise."
     "Just as we start setting up another teacher enters the classroom's doorway and scans the room with his eyes."
     "But it's not long before he gives up, never finding what he was looking for."
+    "Phew."
     "Natsumi whispers in my ear."
-    n"That was the teacher who yelled for us to stop running."
     n"Nice work blending in."
     "I'm a little thankful that this entire situation played out how it did."
-    "If it weren't for Haruki I probably would've stayed in the classroom for fifteen minutes until someone came to get me."
+    "If it weren't for Haruki I probably would've stayed in the classroom for at least a good fifteen minutes until someone came to get me."
     "Then I would've spent the remainder of the lesson alone... probably."
     "The rest of the lesson is uneventful, though from what I can tell Haruki seems to be pretty good at chemistry. She knows exactly what's going on, I guess you could say I have a vague idea in comparison."
     hide Classroom
     n"See ya Ichiro, I'm off to baseball practice!"
     "So she belongs to the baseball club?"
     "She leaves with a hurried step, similar to the way she got here."
-    "I suppose that's why she's so fast... her body is pretty athletically toned."
+    "I suppose that's why she's so fast... her body is pretty athletic."
     "There's no way she was even half trying when we ran through the halls."
     "I won't be following her this time though."
     "I have no club to go to."
