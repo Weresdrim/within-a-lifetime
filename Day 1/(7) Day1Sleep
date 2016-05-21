@@ -3,9 +3,10 @@ label Day1Sleep
     "I have no trouble getting back to the dormitory from school."
     "I remember the route from this morning when I walked with Kenta."
     "Now that I'm at the dormitory I don't have much to do until school tomorrow."
-    "I lie down on the bed, feeling both mentally and physically exhausted from the day."
-    "I'm still not too comfortable with this change, my daily routine has changed so fast."
-    "I have no idea what my future here might bring me, its uncertain and unpredictable."
+    "I lie down on the bed, finally being able to relax on my own."
+    "I'm still not too comfortable with all of this, my daily routine has changed so fast."
+    "And I have no idea what my future here might bring me, its uncertain and unpredictable."
+    "Sitting back up on my bed, I look around the room, searching for something to occupy my time."
     "All of my stuff is already packed, from the great generosity of Kenta."
     "And its not like I really have any friends to hang out with after school."
     "I really do have to decide on a club soon."
@@ -19,6 +20,9 @@ label Day1Sleep
     "The long shadows of the sunset eventually disappear meaning night has finally begun."
     "I do grab a book out to pass the time, but I don't get much reading done."
     "Every line just feels like a mass of incomprehensible words as my mind wonders off away from the page."
+    "The shadows grow deeper and longer in the room."
+    "It becomes far too dark too read, even with the lights on."
+    "But despite the shadows, my eyes never leave the page."
     "Eventually, and perhaps luckily my tiredness gets the better of me as I drift away."
     hide Bedroom
     show void
