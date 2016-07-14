@@ -536,6 +536,8 @@ label day01:
     MANA: "Swimming?"
     TAKERU: "Maybe."
     MANA: "Great! If you join the swimming team you'd still be in my club!"
+    TAKERU: "..."
+    MANA: "What's with that look?"
     TAKERU: "I'm not quite sure that's how it works."
     MANA: "Oh! Alright, I hadn't thought of that. Oh well."
     MANA: "But put some thought in! Mirako's a great place. Lots of good people are here."
@@ -546,6 +548,174 @@ label day01:
     TAKERU: "I think so."
     MANA: "Do you know how to get back? I can show you!"
     TAKERU: "Thanks. You know, maybe that's for the best."
+    
+    Classes are over sooner than I expected.
+    Before I really notice, everyone else has already packed their things and gone.
+    Does everyone really have somewhere else to be so urgently? Clubs didn't strike me as a big part of life here...
+    ...especially considering the sorry single-member state of the supernatural club.
+    The last to rise, I put together my things and prepare for the walk home.
+    As I pass through the doorway, I startle someone waiting right outside.
+    Is it her?
+    TAKERU: "Hey..."
+    But she's already turned and walking down the hall. It's not long before I lose track of her in the traffic.
+    Once again I'm left by myself outside the classroom, staring out the tall glass windows without any purpose at all.
+    Maybe a familiar face wouldn't be that bad.
+    Natsumi of course is off somewhere with her band of followers though.
+    No sign of Kenta either. Is that a good thing or bad?
+    Outside, the humidity is almost oppressive. Without anything else to do, I join the stream of students on the trek down the hill.
+    
+    I'm at the dorm well before sunset.
+    I drop my books on top of my dresser (well, on top of Kenta's coin collection) and collapse onto the bed.
+    For me there's no homework of course.
+    It reminds me of those rare days in my old life when by some miracle, there was no practice, no work, no game scheduled for the afternoon...
+    I used to relish those days, I think. But then I always had six or eight friends to pass the time with.
+    But as I sit and stare and the neatly arranged room, everything feels alone.
+    TAKERU: "Hello?"
+    ...who was I expecting to respond?
+    TAKERU: "I guess even Kenta's got somewhere to be."
+    Even someone like him has something to do?
+    I need to stop thinking like that. I'm "someone like him" now.
+    ...
+    The room is too large for two students, but I still feel cramped.
+    I try opening the curtains but it doesn't help.
+    On a whim, I open the drawer labeled "darks" on Kenta's dresser.
+    Shirts, folded and laundered. Pants tucked neatly into squared. Sure enough, there's my old clothes in there, all folded and pressed like the rest.
+    This is pointless. I shut the curtains again and flop on the bed.
+    TAKERU: "What on earth did I used to do all day?"
+    Should I be concerened I don't remember?
+    Is it that I can't remember or don't want to remember?
+    It feels like my thoughts are chasing each other in circles. I took my pills today, right?
+    KENTA: "Takeru?"
+    I jump up as the door opens.
+    TAKERU: "Oh, it's just you Kenta. You scared me."
+    KENTA: "Sorry. Who else did you think would come in here though? Oh, did you close the curtains? It's still light out."
+    TAKERU: "Hello to you too."
+    He pulls the drawstring and the slanting sunlight streams into the room.
+    KENTA: "Hello."
+    TAKERU: "Hello?"
+    KENTA: "You wanted me to say hello, right?"
+    TAKERU: "That's what you normally say when you see someone you know, yes. But I didn't mean you needed to say it."
+    KENTA: "Sorry."
+    TAKERU: "There's really no need to apologize."
+    KENTA: "Sorry."
+    TAKERU: "..."
+    TAKERU: "Is this some kind of comedy routine?"
+    KENTA: "Sorry, was that sarcasm?"
+    TAKERU: "What? No."
+    KENTA: "..."
+    Even bickering with Kenta is tiring me out, if you could call this bickering.
+    Talking to this guy just rapidly worsens my tangled thought process.
+    I sit on my bed with my arms on my legs and watch Kenta drop off his books.
+    He empties everything onto the desk at the far side of the room then hangs his back on a hook by the door.
+    ...And then he repeats the process with my bag, spilling my paltry two textbooks onto my desk.
+    TAKERU: "Thanks, I guess."
+    KENTA: "You're welcome."
+    He then sets about opening and closing every door in his dresser, the clang of coins filling the room.
+    Maybe it's just the humidity, but it's driving me nuts.
+    KENTA: "I went down to the hobby shop in Mirako today."
+    I didn't ask.
+    TAKERU: "Oh."
+    KENTA: "They close early on Mondays."
+    TAKERU: "Fascinating."
+    KENTA: "What do you think of Mirako? It isn't too bad here, right?"
+    What do I think? I can't honestly say. There's been too much to process today.
+    Kenta and all these other people I've met are very unlike anyone else I've had to deal with. I don't belong.
+    I belong in the sense that I, a psychiatric patient, belong at a school tailored to psychiatric patients, but I'm still hit with an odd sense of culture shock.
+    TAKERU: "I don't know."
+    KENTA: "People are always lying when they say that."
+    TAKERU: "You're very astute, Kenta."
+    KENTA: "Thank you."
+    TAKERU: "You're welcome?"
+    TAKERU: "I just feel out of sorts is all. Nobody knows me here. My old friends would laugh at me if they saw me sitting around before it was even dark out."
+    TAKERU: "It's like there's a big pin over my head labeled 'does not belong here.'"
+    Don't ask me why I'm telling Kenta all this. I can't tell if he's listening to me complain or just nodding at the coin he has up to his eye.
+    KENTA: "You don't have to worry about blending in. Plenty of students just live in town without any mental issues. You seem normal enough to me."
+    TAKERU: "Really? Well, I guess you would've had to know me before. Ever since - "
+    KENTA: "Since what?"
+    TAKERU: "It doesn't matter."
+    That's as much as I'm prepared to tell Kenta, of all people.
+    KENTA: "People say that a lot too when they're lying."
+    TAKERU: "..."
+    KENTA: "Or did you just not want to talk about it?"
+    When I don't respond, Kenta's interest drifts back to his coins.
+    Eventually he finishes shuffling the coins around and ends up back at his desk.
+    For some reason I start wondering what my old crowd would think of Kenta.
+    Probably nothing positive. He'd be some defective kid going to a school for defective people.
+    He's less defective than me I guess. After all, he's not the one who wound up in a psych ward for a month.
+    TAKERU: "Hey Kenta."
+    KENTA: "Hello."
+    A second ago I felt like apologizing to him, but now I forget why.
+    TAKERU: "Nothing, sorry."
+    KENTA: "You keep bringing up things you don't want to talk about. It's very odd."
+    TAKERU: "Oh yeah?"
+    KENTA: "It's something I don't understand about people, so it's a pet peeve of mine. Why bring it up if you don't want to talk?"
+    He doesn't continue, like he's waiting for a response.
+    TAKERU: "Am I supposed to answer?"
+    KENTA: "That's the only reason I would ask a question."
+    TAKERU: "If you say so."
+    He's still looking at me though
+    TAKERU: "Do you have a lot of friends, Kenta?"
+    KENTA: "I do alright on my own."
+    TAKERU: "Then you wouldn't really understand."
+    KENTA: "Understand what?"
+    TAKERU: "You remember those guys hanging out with Natusmi, right?"
+    KENTA: "Who's Natsumi?"
+    TAKERU: "That redhead outside class. You talked to her, genius."
+    KENTA: "Oh."
+    TAKERU: "Well, whatever. That used to be me. It was never just me, it was always me and my friends, me and the team..."
+    TAKERU: "Now I'm just stuck with you."
+    Kenta looks interested, but surprisingly not offended.
+    KENTA: "It could be worse, I guess. You could be stuck with no one."
+    TAKERU: "I guess."
+    KENTA: "I'm stuck with you and I don't think it's that bad."
+    TAKERU: "Kenta, it's been what, eight hours since we met? Or I guess since you started knocking on my forehead?"
+    I'm still pretty bitter about that, actually.
+    TAKERU: "For all you know I could be a terrible person."
+    KENTA: "It's not so bad. You're my only friend, you know."
+    What? The headache he caused this morning is back in full force."
+    TAKERU: "Thanks for showing me around and all Kenta, but I think I don't think I've said a single kind thing to you."
+    TAKERU: "How does that make me your friend?"
+    KENTA: "It's good enough for me. I bet that girl doesn't know the names of half the people following her around."
+    KENTA: "That's too many people to keep track."
+    TAKERU: "Bravo. I remember your name, so now we're friends."
+    But Kenta is already paging through a textbook, back to work.
+    I have a sudden impulse to open the finely coded dresser and throw our categorized clothing into a big pile on the floor and then roll in it for good measure.
+    
+    But before long, Kenta is at the other dresser. My dresser.
+    TAKERU: "What are you up to?"
+    KENTA: "Opening my coin collection."
+    TAKERU: "Well that's obvious. I was wondering why."
+    Instead of replying, he turns around and hands me something.
+    KENTA: "Here."
+    It's... copper? A coin?
+    TAKERU: "I don't get it. Is this a penny?"
+    KENTA: "It's a wheat penny, from the US."
+    TAKERU: "...Okay?"
+    KENTA: "It's the start of your coin collection."
+    TAKERU: "I have a coin collection now?"
+    KENTA: "Well, you'll have to find somewhere else to store it. This dresser has my collection and everything, but maybe if I reorganize I can clear the bottom drawer..."
+    TAKERU: "I'm still not getting it, Kenta."
+    KENTA: "It's sharing. We share a hobby, right? That should be good enough to make us friends."
+    My immediate impulse is to hand the penny back, but... instead I start laughing.
+    I feel like that anxious weight that dropped on me this morning is just a hair lighter.
+    It's like Mirako feels that much less unnatural. Just by a hair.
+    KENTA: "I don't see what's funny."
+    TAKERU: "I'm just happy is all, I guess. Don't ask me why. I could shake your hand right now."
+    KENTA: "I'd rather not. Sorry."
+    TAKERU: "Thanks for the penny. Don't worry about sorting the drawer, I'll just keep my coin collection in my pocket for now."
+    KENTA: "You're welcome."
+    And he's back at his desk, like nothing happened.
+    ...
+    TAKERU: "Hey Kenta."
+    KENTA: "Hello. You do have something to talk about this time right?"
+    TAKERU: "Yeah, don't worry. Are you going back to that hobby shop this week?"
+    KENTA: "Maybe."
+    TAKERU: "Feel free to find me. I'll come along."
+    KENTA: "Alright."
+    A shop for coin collectors sounds boring as hell and I'm sure I'll hate every second of it.
+    I'm smiling anyway.
+    
+    
     
     
     
