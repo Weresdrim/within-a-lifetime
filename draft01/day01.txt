@@ -45,14 +45,14 @@ label day01:
     
     Two cards lie on the plastic table in the center of the room.
     The first is a form letter from Tohoku High School.
-    \"We're sorry to hear about your injury. Best wishes and here's to a full recovery. We know you'll be back on the field soon!\"
-    \" - Your friends at Tohoku\"
+    "We're sorry to hear about your injury. Best wishes and here's to a full recovery. We know you'll be back on the field soon!"
+    " - Your friends at Tohoku"
     It's form letter garbage. Sports injuries are common at any athletics-focused high school, enough that they have this glossy letter from the office ready to go.
     There's a picture of a sunset over the school baseball field on one side, and a smiling guy in a sling on the other.
     Unfortunately breaking my brain isn't quite on the same scale as a broken arm.
     I won't be back on the field any time soon. And that's the problem.
     With the massive mess I made on the way out, no doubt everyone there will have a completely different perception of me.
-    Truth is, I've seen this form card from \"Your friends at Tohoku\" lying on hospital tables before.
+    Truth is, I've seen this form card from "Your friends at Tohoku" lying on hospital tables before.
     But when I visited my classmates for torn rotators or other mundane injuries, it was always under a stack of letters of encouragement from real friends, just like the patient was always surrounded by friends.
     No one's sent me anything and no one's come to visit. I know what it'll be like if I ever go back, so...
     I have a choice.
@@ -62,15 +62,15 @@ label day01:
     It feels like I've been hit in the gut. There's no going back.
     
     I pick up the other card.
-    \"Welcome to Mirako High School - A Sanctuary from the World\"...
+    "Welcome to Mirako High School - A Sanctuary from the World"...
     There's a winding road pictured. That's right, it's in the countryside somewhere. I think up north.
     Greenery lines the guardrail, and above on a hill, a school of glass and white walls.
     I wonder if that was intentional. The polished look almost reminds me of the sterile interior of my current room, this holding cell where I'm confined.
-    \"Dear prospective student, we know you must have many questions before deciding to transfer to Mirako. As you discuss Mirako with your psychiatrist, here's some things to...\"
+    "Dear prospective student, we know you must have many questions before deciding to transfer to Mirako. As you discuss Mirako with your psychiatrist, here's some things to..."
     But I've read this paragraph so many times I could recite it verbatim if Meadow asked me if I'd read it again.
     Mirako High School isn't just a school for the locals of Mirako, but a school for mental patients as well.
     Or, not mental patients per se, but people with mental illness? Psychiatric issues?
-    I can't find a good term, even if I'm \"one of them\" now.
+    I can't find a good term, even if I'm "one of them" now.
     But bottom line: it's a new beginning. A new beginning where I'll have absolutely no foothold, no special talents, no friends or (thankfully) no ex-friends turned enemies.
     The anxiety that's been hovering around me since Meadow left is starting to lift. I don't feel lethargic any more, just very very uneasy.
     I put the card down. It seems I've come to a decision.
@@ -170,7 +170,7 @@ label day01:
     All of a sudden I can't maintain eye contact with the mirror before and I go back to brushing my teeth. I'm the same person as before, schizophrenia diagnosis or not, so I'm not sure why I've let this first morning rattle me so much.
     A new part of my morning: I find my pills are still where I left them in the medicine cabinet at least.
     As I measure out the dosage and swallow, I narrow my eyes at the label on the bottle.
-    \"Take once daily. Purpose: antipsychotic.\"
+    "Take once daily. Purpose: antipsychotic."
     It sounds threatening, almost.
     I guess you could consider this medication to be something like caffeine. Or maybe the opposite of a sleeping pill.
     In theory it's supposed to make me feel like the real me. Not like someone who's having thoughts inserted or removed from their mind at random. Someone who know's what's happening in reality around them.
