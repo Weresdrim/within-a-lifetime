@@ -1,0 +1,179 @@
+label day02:
+
+    Shining, plastic light...
+    That sterile smell, still somehow offensive...
+    Where am I?
+    Oh. This is back at the ward again.
+    I'm not alone this time.
+    There are voices all around me.
+    My friends from Tohoku. They're all here, laughing, joking with each other. None of them look at me.
+    They can see me.
+    It's like I'm lying on the ground, looking up at a ceiling that keeps rising away.
+    Or maybe it's me that's falling down.
+    
+    I wake up with a start.
+    Above me the whitewashed ceiling of the ward gives way to the dull sandy texture of my Mirako dorm.
+    Right now even rubbing my eyes feels like it'd be too much effort.
+    TAKERU: "Ah!"
+    Only by reflex do I manage to avoid the incoming blow. I sit straight up on the bed.
+    Kenta towers above me, fully dressed and brandishing his knuckles.
+    TAKERU: "I'm awake, Kenta! I'm awake, so calm down."
+    KENTA: "You need to set an alarm."
+    TAKERU: "My alarm's set for an hour or now. If we left for school now I'm pretty sure it'd still be locked."
+    KENTA: "It's not good to be late."
+    TAKERU: "This is going to be a long year."
+    I can't be too mad though. He did wake me up from that unnerving dream.
+    KENTA: "You're not going back to sleep, are you?"
+    TAKERU: "No, no, just give me a minute to get up. You don't need to shepherd me around."
+    TAKERU: "And please, for all that's good, don't get me up this early tomorrow."
+    I consider myself a morning person, but if this continues, I'm going to cry.
+    
+    When we pass through the gates of Mirako, it's quite a different scene from yesterday.
+    The humidity is gone this early in the morning, replaced by a sort of mountain mist.
+    Contrary to my prediction, the school building is indeed unlocked, but hardly anyone is here. Aren't there any morning practices or things like that?
+    KENTA: "I'm headed to class. Goodbye."
+    TAKERU: "Goodbye? That sounds a little formal."
+    KENTA: "Goodbye."
+    TAKERU: "Right, see you later Kenta."
+    I'm left with a morning to my own in front of the Mirako doors. Not that I have anything in particular on my agenda.
+    This time I at least manage to find my way to the right classroom.
+    It's completely empty, of course. The lights aren't even on. I have nothing else to do, but sitting alone in an unlit room would just be sad.
+    Although, that reminds me... That rundown tearoom and its rundown inhabitant come to mind.
+    I'm a little more confident in my ability to keep my sense of direction in that wing of the school now, so I can't think of anything better to do than find that room again.
+    It doesn't take long to find that forgotten Eastern-style corridor on the first floor, but to my surprise, this time I find the room I'm looking for right away.
+    As the door slides open I cough a bit at the stirred dust.
+    TAKERU: "Hello?"
+    Well, of course nobody replies. That girl would have to be twice as weird as I thought to not only sit in this room but also show up to school this early.
+    I make my way around the table this time, navigating by the filtered light.
+    As I throw open the curtains, I'm finally able to get a decent view of the room.
+    Bookcases and shelves line one wall, stacked with teacups, chess sets, calligraphy equipment, and books almost as varied as the old library one floor above.
+    The low table that tripped me yesterday is positioned in the middle of the room, but wait, seated at it, there's...
+    TAKERU: "When did you get here?"
+    GIRL: "I've always been here."
+    TAKERU: "Well, sorry for barging in I guess, I just figured this place was empty all the time."
+    GIRL: "It usually is."
+    TAKERU: "You were here yesterday morning too though right?"
+    GIRL: "I..."
+    GIRL: "Yesterday?"
+    What little color there was in her face has now completely vanished.
+    TAKERU: "That was you, right?"
+    GIRL: "You remembered."
+    TAKERU: "It'd be a little hard to forget."
+    GIRL: "It's just... You should forget I said that."
+    GIRL: "Do you remember my name?"
+    TAKERU: "You never gave it."
+    GIRL: "It's... Hikari."
+    TAKERU: "I'm Takeru."
+    HIKARI: "Yes, I already knew that."
+    TAKERU: "Well it'd feel weird to not say anything after you introduced yourself."
+    HIKARI: "You could say 'nice to meet you.'"
+    TAKERU: "Nice to meet you."
+    HIKARI: "Now why don't you take a seat?"
+    She seems about twice as lively as yesterday. It's like some circuit finally connected and her voice gained a small bit of color from that toneless speech she used before.
+    TAKERU: "You're a student here, right?"
+    HIKARI: "The uniform didn't tip you off?"
+    TAKERU: "Well you didn't seem very concerned about classes yesterday morning."
+    HIKARI: "Mirako's a school for very different people. Some of us are afforded different allowances."
+    TAKERU: "What's that supposed to mean?"
+    HIKARI: "It means you shouldn't trouble yourself whether I'm in class or not."
+    TAKERU: "Huh... even the superstar seniors back at Tohoku would get in trouble for skipping like that."
+    HIKARI: "I'm a third year student as well, but it's really not related to that."
+    TAKERU: "I'm in 3B. You're not my classmate, are you?"
+    She laughs. It's a soft murmur, and almost unsettling.
+    HIKARI: "Afraid not."
+    HIKARI: "I know it's a little taboo to ask, but what brings you to Mirako? You said you were a transfer, right?"
+    TAKERU: "Yeah, I transfered in for health reasons, but..."
+    HIKARI: "It's alright if you don't want to talk about it.
+    I don't know why I'm so self-conscious about my schizophrenia. As long as I take those pills once a day, it's supposed to be a small part of my life.
+    But every once in a while I start to see the corners fray.
+    That dream this morning for instance. Or those times I'm left alone and my thoughts get wrapped into some tangled mobius.
+    Years of polite and impolite society have trained me to not show that weakness. I'm not sure what's normal at Mirako, but in any case, I'm still partially on guard with this Hikari.
+    TAKERU: "Sorry."
+    HIKARI: "Oh, no, you don't have to apologize. I'm really quite glad you're here, so I didn't mean to offend. I only thought there was some reason..."
+    HIKARI: "You should forget I said that."
+    She has a funny way of speaking, sometimes flat, sometimes bright.
+    Curious as I am, I think it'd be rude to ask her what exactly gives her free reign around here, seeing as how I just dodged that question myself.
+    TAKERU: "You're down here often, then?"
+    HIKARI: "Mhm. It's a good place, quiet and familiar."
+    TAKERU: "Seems a little too dark and dusty for me."
+    HIKARI: "It's quite rare to see anyone besides myself down here, though, or even in this wing of the school."
+    TAKERU: "I saw one or two students around yesterday morning. Plus that other girl and her club. Mana, I think her name was."
+    Hikari raises an eyebrow. It's a funny gesture, and her face twitches into shape as if she'd forgotten how to use it.
+    HIKARI: "A friend of yours?"
+    TAKERU: "Maybe not. Well, as much as I have any friends around here, really."
+    HIKARI: "..."
+    I stare back.
+    HIKARI: "..."
+    TAKERU: "You know her?"
+    HIKARI: "No."
+    HIKARI: "Really, just forget I said anything."
+    TAKERU: "My memory isn't that slippery, you know."
+    HIKARI: "Forgetting seems so easy for everyone else..."
+    She's staring again, but this time, not at me, more... through me.
+    TAKERU: "Sorry I mentioned it."
+    HIKARI: "..."
+    I swear everyone in this school is impossible to deal with.
+    TAKERU: "I should probably be getting to class."
+    I'm on my feet and at the door before she shows any signs of registering my words.
+    HIKARI: "Wait! You'll be back, right?"
+    TAKERU: "Back?"
+    While I guess I find Hikari... curious, I'm not sure I'm prepared to deal with her confusing speech in that dreary room on a regular basis, especially not this early.
+    TAKERU: "We're in the same year. I'm sure we'll run into each other."
+    That doesn't seem to satisfy her.
+    HIKARI: "Then have a good day."
+    HIKARI: "...do you still remember my name?"
+    TAKERU: "Hikari."
+    Hikari smirks at her own name.
+    HIKARI: "Thanks. See you around then."
+    TAKERU: "Yeah."
+    
+    I retrace my steps from yesterday morning back up the stairs to the modern half of Mirako.
+    It's not quite as late as I thought. Students are still wandering outside and the halls are only starting to fill up. That old room must've thrown off my sense of time.
+    One unfamiliar face goes by, then another...
+    It's not like there are any familiar faces here anyway.
+    Well, there are one or two, I guess. I finger Kenta's penny in my pocket and internally roll my eyes. Better than nothing.
+    As I take my time traversing the hall, I start to pay more attention to the unfamiliar faces.
+    They seem normal to me.
+    More normal than I seem to myself, anyway.
+    When I first read that pamphlet on Mirako, back in my bed at the ward, I imagined it as being more like the hospital in some ways.
+    Back there, everyone was visibly damaged. Sure, sometimes they were like me and could carry on a conversation for a while, assuming the doctors got the balance of meds right that day.
+    And you could chat with one or two about a good movie or sports or something for a bit, but then there were always the scars. Or just that look in their eyes.
+    And then there were others. The woman across the hall. The night she couldn't stop screaming.
+    ...
+    Everyone here is fine. Unfamiliar, but fine.
+    Then why should one strange student in the old wing throw me off so much? I need to shake it off and start thinking like a normal person again.
+    
+    I think I've sufficiently recovered from that runin in the old wing to get back to the real world and back to class.
+    But as I round the corner, just outside the classroom, there's one familiar face.
+    There's no mistaking her this time. Almost as tall as I am, eyes truly turquoise, not just green...
+    Meiko.
+    And she's right in front of me. No half glances or hesitation today. Almost as if she's on guard, and on guard for me.
+    MEIKO: "Takeru! There you are. You didn't say anything yesterday, and it's been so long!"
+    TAKERU: "Kotaru Meiko. It really is you. I almost didn't recognize you."
+    How could anyone not recognize her, even after five years? It's more like I recognized her but didn't want to believe.
+    MEIKO: "How could you not recognize your best friend?"
+    TAKERU: "Er, it really has been a long time. It's good to see you."
+    MEIKO: "You too. I'm really thrilled."
+    Meiko offers a full smile, but I can only meekly grin in return.
+    MEIKO: "You'll have to let me show you around Mirako. It's just too wonderful that you're back. I thought the next time I'd see you, it'd be a headline photo in the daily sports section."
+    TAKERU: "Er, well..."
+    No no no I am not prepared for this.
+    TAKERU: "It'd be nice to have someone in class to help me get settled, I guess, if it's not too much trouble."
+    MEIKO: "Too much trouble? There's no way I wouldn't help someone out."
+    MEIKO: "Don't hesitate to think of me as your friend, even if it has been five years."
+    It's not just time that's between us Meiko. Why do you keep pretending that?
+    TAKERU: "Right, well... You'll have to let me know what you've been up to in the meantime."
+    Something in the corner of Meiko's eye looks off-character, just for a moment.
+    MEIKO: "Of course. And you too! We'll have to sit and have a long chat some time, but for now I've got to get my notes together for this morning."
+    Notes?"
+    MEIKO: "Don't hesitate to ask if you need anything, anything at all."
+    
+    I take my seat.
+    
+    
+    
+    
+    
+    
+    
+    

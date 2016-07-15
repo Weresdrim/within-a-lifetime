@@ -715,7 +715,5 @@ label day01:
     A shop for coin collectors sounds boring as hell and I'm sure I'll hate every second of it.
     I'm smiling anyway.
     
-    
-    
-    
+    jump day02
     
