@@ -165,13 +165,191 @@ label day02:
     TAKERU: "Right, well... You'll have to let me know what you've been up to in the meantime."
     Something in the corner of Meiko's eye looks off-character, just for a moment.
     MEIKO: "Of course. And you too! We'll have to sit and have a long chat some time, but for now I've got to get my notes together for this morning."
-    Notes?"
+    Notes?
     MEIKO: "Don't hesitate to ask if you need anything, anything at all."
     
-    I take my seat.
+    I find my desk.
+    I thought it'd be around a hundred years before I saw her again. Instead, it's only been five.
+    In all those five years, I think I've thought of her maybe twice. Maybe? More than that, at the beginning.
+    It's all very foggy.
+    Were we best friends? Maybe. Although to me now she seems unforgettable, five years ago, I was in a very different place.
+    To my confusion (and slight relief) she doesn't follow my back to the third row of desks.
+    Instead she's... standing at the lectern?
+    MEIKO: "Good morning everyone. I hope you're all well. There's nothing much new today, but please remember the deadline for any student submissions to the annual festival are due to the end of the week."
+    MEIKO: "You can hand them in to me or any other student council members, and I can fill in some of the details if there's any confusion."
+    MEIKO: "But get everything in on time. We're not taking anything late and tardiness will not be tolerated."
+    MEIKO: "Have a good day."
+    So I guess she's a student council member. And the class rep. It's really not what I would've expected from her at all.
+    Meiko retakes her seat only one desk away from mine. The desk between us, where Natsumi was sitting yesterday, is empty. Meiko takes advantage.
+    MEIKO: "So you're here, Takeru. Are you living in Mirako?"
+    TAKERU: "No, I'm in the dorms."
+    MEIKO: "Oh, that's great. I'm in a dorm as well but I've lived here for over two years now so I'm pretty familiar with Mirako."
+    MEIKO: "Are you doing anything after school today? We could grab coffee or something and catch up."
+    TAKERU: "Er, maybe. I might've had plans with my roommate. I'm not sure."
+    I can't relax around her, that's true. But I don't know what compelled me to dodge this specific invite.
+    MEIKO: "Wow, you're already busy. I'm glad you're adjusting well."
+    Her smile looks genuine enough.
+    TAKERU: "Er, thanks."
+    MEIKO: "How about tomorrow then? I think it's the least I can do to welcome you to a new school."
+    TAKERU: "Right. That sounds good. Don't feel obligated to do anything for me, though. I know we didn't well, when..."
+    She only laughs in return. Am I the only one that finds this at all uncomfortable?
+    Luckily I'm saved by the arrival of Natsumi.
+    NATSUMI: "'Morning Takeru. Hey Meiko."
+    MEIKO: "Good morning. Don't you think it's a little late?"
+    NATSUMI: "If the teacher's not here yet, I can't be late, can I?"
+    MEIKO: "Please, if you missed be speak you should definitely be here earlier."
+    NATSUMI: "Sorry, sorry! I'd rather listen to you then the homeroom teacher anyway."
+    MEIKO: "Anyway, but what I was saying, Takeru..."
+    I guess I'm not saved after all. Well it's not like I can run away from her forever, with her sitting right there and all.
+    MEIKO: "It's really a beautiful town. Plenty of students hardly ever leave the hill, but the countryside is really amazing."
+    MEIKO: "It's nostalgic. You remember that big hill we used to climb all the time? That road to the cemetary, with all the switchbacks?"
+    TAKERU: "I remember."
+    For the Meiko I remember though, these would not be happy memories.
+    TAKERU: "I'll look forward to grabbing coffee and catching up, then."
+    NATSUMI: "Oh? You guys know each other?"
+    TAKERU: "Er, yes, but it's a little..."
+    MEIKO: "We were best friends growing up. Inseperable. Takeru lived right down the road from me before we went to different high schools."
+    MEIKO: "We'd do everything together. Takeru's a very kind person. He'd play catch with me, help me study for tests in middle school..."
+    NATSUMI: "Like you'd ever need help on a test..."
+    MEIKO: "It wasn't always so easy, haha."
+    NATSUMI: "And you're going out later? I'm jealous..."
+    MEIKO: "We've got a lot of catching up to do. Isn't that right, Takeru?"
+    TAKERU: "Right."
+    And with that our teacher arrives.
     
+    Morning classes grind by.
+    I'm thankfully excused from a history quiz that covered last week's material, so I'm left with nothing to do but stare at my hands.
+    I really need to pick up a hobby. Reading or something.
+    Next to me, Natsumi grunts in frustration, bent over her paper.
+    I think I catch a smirk on Meiko's face at next desk over. She's sitting up straight and dignified, apparently already done?
+    It feels wrong.
+    Meiko, my childhood friend, was troubled.
+    She tried at school, sure, but she was always stressed or there was always something going on at home holding her back.
+    She tried making friends, but I don't remember more than a few... or anyone really. I don't want to dwell on this.
+    Finally, time's up.
+    Natsumi catches me looking her way and gives an exasperated shake of her head.
+    ...
+    I'm still trying to get used to the way things are done here so the rather bland lesson manages to hold my attention through until lunch, unheard of at Tohoku.
+    Lunch, however, I definitely don't quite have a routine yet.
+    I figure it's worth seeing if I can find Kenta or even that girl I met yesterday, Mana, although she said she's always in that library.
+    Instead, no sooner am I out the classroom door than I'm ambushed.
+    NATSUMI: "Heya Takeru."
+    TAKERU: "Oh, it's only you. Hello Natsumi."
+    NATSUMI: "Only me? I'm plenty good."
+    I more meant that crowd that seems to follow her around has mostly dispersed.
+    ...and that I prefer talking to this easygoing girl than another tense encounter with Meiko.
+    NATSUMI: "That's so funny you know Meiko."
+    TAKERU: "I guess. I almost didn't recognize her yesterday."
+    NATSUMI: "You were best friends in middle school though! I bet you two were really cute."
+    TAKERU: "It's definitely been a while. I guess you know her too?"
+    Well that's a dumb question, they literally sit next to each other. Not that I have anything better to add to this conversation.
+    NATSUMI: "Oh, I know everyone here pretty much, but Meiko's great. Always working so hard on the student council, aceing every test... She's pretty much my hero."
+    MEIKO: "I can hear you, you know. You give me grief all the time."
+    Where'd she come from?
+    NATSUMI: "Sorry, sorry, we can't all be as perfect as you Meiko."
+    MEIKO: "You're practically the school idol anyway, so I'm sure you could find a better hero."
+    NATSUMI: "Mmm, that won't really matter if I graduate like this, though. But you're set for life, aren't you? What are you going to be again?"
+    MEIKO: "Lawyer."
+    NATSUMI: "That's too stuffy."
+    Luckily enough, I spot Kenta coming our way.
+    TAKERU: "Hi Kenta. Over here!"
+    KENTA: "Hello Takeru."
+    NATSUMI: "Well if it isn't Kenta!"
+    KENTA: "Do I know you?"
+    MEIKO: "It's Natsumi. You have to remember by now, right Kenta?"
+    KENTA: "Sorry. Hello Meiko."
+    MEIKO: "It's good to see you Kenta."
+    NATSUMI: "I'm hurt... But hey! Meiko, did you know these guys are roommates?"
+    MEIKO: "That's great. Kenta's a good guy. You're in good hands, Takeru."
+    Does she mean that he's going to be the one looking after me?
+    I'm at least a little reassured that everyone here seems to know each other. There's no reason it can't be the same for me.
+    NATSUMI: "Practice calls! See ya later!"
+    MEIKO: "I'm eating with the student council today. We have a bunch of applications to go through and if I'm not there I'm sure the work will be sloppy."
+    MEIKO: "Enjoy your meal."
+    I'm left with just Kenta.
+    KENTA: "Goodbye."
+    And now I'm left with just myself.
+    Did Kenta not even bother with an excuse? Maybe Meiko was right, I really have been relying on him a bit more than I realized, or at least more than I expected to.
     
+    I reenter the classroom, but I really have no desire to eat here. I still know pretty much no one aside from Natsumi and Meiko.
+    I exit again.
+    Staring out the glass of the school's front, I see students moving down below on the main path.
+    Maybe I should go outside just to have somewhere to go. Being indoors all day feels unnatural, like being stuck at the ward again.
+    But as I turn around...
+    MANA: "Woah!"
+    A sharp pain to the elbow.
+    I turn around to none other than Mana, spinning off balance. She'll topple over any second. I immediately catch her shoulders.
+    TAKERU: "I'm so sorry. I must've turned around and clipped you."
+    MANA: "Everything is spinning..."
+    TAKERU: "Are you alright?"
+    MANA: "Just dizzy..."
+    TAKERU: "Do you need me to walk you to the nurse or something? I mean not that I know where the nurse's office is, but..."
+    MANA: "Oh, that's right! It's you, Takeru!"
+    Mana shakes her head back and forth a few times. Did she snap out of it?
+    MANA: "Sorry sorry sorry, it's my fault, I was running because I didn't want to hold up Hagami, and I was going to study with the swim team today, and..."
+    TAKERU: "I was just wandering around. I won't hold you up then if you're in a rush."
+    MANA: "Oh no no no it's nothing like that. You were just wandering around?"
+    TAKERU: "Er..."
+    I don't want to have to explain to this younger girl that I really have nowhere to go.
+    MANA: "Oh right! You're a transfer so you probably don't have anyone to eat with."
+    Looks like she guessed it anyway.
+    MANA: "Why don't you come on up to the old library again? It really is the best. And wasn't it fun, yesterday?"
+    TAKERU: "Yeah, I guess it wasn't so bad."
+    MANA: "And it'll be a little less lonely than eating by yourself. Come on!"
+    She practically pulls me ahead through the busy hall. I dodge a few students coming the opposite direction and we finally arrive at the staircase up to the top floor.
+    MANA: "Have you been up on the roof before?"
+    TAKERU: "No, not really."
+    MANA: "Here we are!"
+    The stairs open out onto the top of Mirako High School.
+    The humidity is back at full blast and there's not a single spot on Mirako's white cement roof that isn't touched by the overhead sun.
+    We cross by a few tables and students settling down to the stairs on the other half of the building, the old wing.
+    The contrast is immediate. Everything inside seems pale and unhealthy. But the girl next to me saunters through it just the same.
     
+    Finally we come to the library door with its solitary window. But Mana stops dead.
+    MANA: "Oh! That's right. You haven't met Hagami."
+    She shakes her head a bit, turns to me and gives a vigurous nod, then opens the door with a brandish.
+    MANA: "There's nothing for it, I'll just do the introductions. After you!"
+    The library's mostly what I remember from yesterday. Books on the walls, books on the table, and the single light a poor imitation of the sun outside.
+    But seated at the table is someone I don't recognize.
+    Long dark hair, dark eyes... Is this Hagami?
+    TAKERU: "Hello, I'm..."
+    She's staring right at me. But it's less a stare and more... It's like she's looking straight through. There's no eye contact.
+    MANA: "Woah!"
+    ...and then of course Mana bumps into me from behind, knocking me through the doorway.
+    MANA: "Sorry! I thought you were already in!"
+    TAKERU: "Er, no worries..."
+    MANA: "Hi Hagami!"
+    HAGAMI: "Hey."
+    It takes her a few seconds to say even that single syllable. Mana makes some pained expression.
+    MANA: "I know I probably should've checked ahead with you, but this is Takeru. He's a new student so he's going to be our guest today."
+    TAKERU: "It's nice to meet you."
+    HAGAMI: "..."
+    MANA: "And this is Hagami. She's the other half of the supernatural club and an all-round decent person!"
+    HAGAMI: "Hello."
+    Still no eye contact.
+    MANA: "You can be an honorary supernatural club member for this lunchtime. How's that sound, Takeru?"
+    TAKERU: "Better than nothing."
+    MANA: "Hagami, Takeru's not such a bad guy. He's a transfer. I ran into him yesterday in the old wing. We'll have to explain the back entrance, and maybe the secret passage, and..."
+    HAGAMI: "...I haven't met him yet."
+    MANA: "Mmm let's see."
+    Mana squints at me, then draws closer and closes one eye. As soon as she gets so close that I start feeling uncomfortable, she withdraws.
+    MANA: "Looks healthy to me."
+    TAKERU: "Are you a physician or something?"
+    MANA: "Nope! But I think he's a decent guy, Hagami. That's just my feeling. Now why don't we eat?"
+    I push the old radio to the other end of the table as I take the seat opposite Hagami.
+    Next to me, Mana pulls out a box lunch and paperbook book, as if there weren't enough books on the table already.
+    For her part, Hagami remains motionless.
+    MANA: "Hagami, did you already eat?"
+    HAGAMI: "...My apetite is funny."
+    I notice her food is laid out in front of her. But it's untouched.
+    I try my best to eat in this uncomfortable atmosphere. Maybe I should find the cafeteria tomorrow.
+    Mana doesn't seem to notice, or maybe she just doesn't mind. I can't tell which she's doing faster, flipping pages or eating.
+    I risk a glance at Hagami. She's still there, staring. Not at me, just through me. She looks away.
+    MANA: "Oh shoot!"
+    She jumps out of her chair, performing some sort of miraculous triple take in the process. Her lunch almost ends up in my lap.
+    MANA: "I was supposed to review those notes with Yumi today! And if she fails that test I'm gonna get kicked off the swim team for sure! Shoot!"
+    I look on in bewilderment as Mana shovels half her food into her mouth and the other half into her bookbag.
+    Across from me, Hagami looks just as incredulous.
     
     
     

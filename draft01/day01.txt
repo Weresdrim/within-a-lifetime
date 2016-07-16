@@ -345,7 +345,7 @@ label day01:
     Why do I need an introduction? (And why can't I seem to remember how to introduce myself?)
     Mirako is a school specializing in mental illness and other psychiatric conditions.
     No doubt that's all they see now. Who's the new guy? He seemed weird, maybe a mute?
-    Mm probably not. Maybe he has anxiety attacks? Or one of those new seizure conditions?
+    Hm probably not. Maybe he has anxiety attacks? Or one of those new seizure conditions?
     Is this the reputation I want?
     TEACHER: "You could start with your name."
     TAKERU: "Right. I'm Ichiro Takeru, but I guess you all already knew that. Takeru is fine. It's nice to meet - "
@@ -413,10 +413,10 @@ label day01:
     I was planning on maybe eating with him, at least to ease myself into daily life here, but Kenta stands there, almost at attention, waiting for the next question.
     TAKERU: "Hey, Kenta..."
     KENTA: "Hello."
-    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? She wouldn't look out of place at a lawyer's office or maybe a girls' school instructor somewhere."
-    KENTA: "A green-eyed girl that looks like a lawyer?"
+    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? She wouldn't look out of place at a doctor's office or maybe a girls' school instructor somewhere."
+    KENTA: "A green-eyed girl that looks like a doctor?"
     TAKERU: "That was a dumb description, I just mean she just... looks like she has everything together is all."
-    KENTA: "Sorry, I don't know anyone like that. Or any lawyers."
+    KENTA: "Sorry, I don't know anyone like that. Or any student doctors."
     We walk down the hall at a slow pace. I'm headed nowhere in particular at least.
     TAKERU: "Okay, different question. How about a red-haired girl with an athletic build. Everyone seems to know her."
     KENTA: "Sorry."
@@ -476,8 +476,11 @@ label day01:
     She lends me a hand.
     TAKERU: "Thanks. My name's Ichiro Takeru. I'm sorry if I got in your way, I was looking for..."
     MANA: "Hashimoto Mana here! What did you say you were doing down here?"
-    TAKERU: "I have no idea. Honestly, this is my first day here, and I keep getting dragged into the weirdest stuff."
-    MANA: "A new student, huh? Well you probably don't know this is the old wing then."
+    TAKERU: "I have no idea. Honestly, I'm a new student here, and I keep getting dragged into the weirdest stuff."
+    MANA: "Oh neat! A transfer huh? What class?"
+    TAKERU: "I'm in 3B, but it's only my second day."
+    MANA: "That makes you my upperclassman I guess! I'm in 2A. Oh well!"
+    MANA: "But let's see, if you're new... Well you probably don't know this is the old wing then."
     TAKERU: "Old wing?"
     She's talking and picking up her papers at the same time, making it hard to hear.
     I move to help her out. All the sheets of notebook paper are filled with sketches ofdoe-eyed girls and slightly misproportioned drawings of thin sparkly guys.
