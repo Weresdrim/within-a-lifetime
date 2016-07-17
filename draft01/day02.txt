@@ -340,7 +340,7 @@ label day02:
     Next to me, Mana pulls out a box lunch and paperbook book, as if there weren't enough books on the table already.
     For her part, Hagami remains motionless.
     MANA: "Hagami, did you already eat?"
-    HAGAMI: "...My apetite is funny."
+    HAGAMI: "...My appetite is funny."
     I notice her food is laid out in front of her. But it's untouched.
     I try my best to eat in this uncomfortable atmosphere. Maybe I should find the cafeteria tomorrow.
     Mana doesn't seem to notice, or maybe she just doesn't mind. I can't tell which she's doing faster, flipping pages or eating.
@@ -350,8 +350,175 @@ label day02:
     MANA: "I was supposed to review those notes with Yumi today! And if she fails that test I'm gonna get kicked off the swim team for sure! Shoot!"
     I look on in bewilderment as Mana shovels half her food into her mouth and the other half into her bookbag.
     Across from me, Hagami looks just as incredulous.
+    MANA: "I'll be right back, Hagami, I swear!"
+    The door closes with a slam and Hagami and I are left looking each other.
+    Well, I guess I'm looking at her. She's starting right through me.
+    She looks away.
+    The only noise I detect is a faint hum, almost static. The antique radio must be on.
+    I continue eating in silence. Hagami continues to not eat. In silence.
+    TAKERU: "Right... Well, how do you know Mana?"
+    HAGAMI: "School."
+    TAKERU: "Great. I just met her in the old wing yesterday. I guess Mana already told you I'm a new transfer, so..."
+    TAKERU: "You guys must be in the same class then?"
+    HAGAMI: "No."
+    TAKERU: "You do look older, I guess. Are you in my year?"
+    A nod is all I get.
+    TAKERU: "Er, Mana should be back soon, right?"
+    I have no energy for smalltalk. This much has exhausted me already and it's like talking to a monosyllabic sockpuppet.
+    Does Mana seriously eat up here with her every day? Do they talk to each other? Do they sit in silence and read? I don't get it.
+    Or maybe Mana just makes it a habit of befriending the weirdest people she literally runs into.
+    Whatever the case, I'm not welcome here.
+    TAKERU: "Sorry if I'm making you uncomfortable."
+    HAGAMI: "...It's fine."
+    TAKERU: "I mean, you can go ahead and eat if you want. I'd hate for you to miss out on lunch because I showed up."
+    HAGAMI: "..."
+    In lieu of a reply, she repackages the containers arranged in front of her and returns them to her bag. Good going, me.
+    Hagami rises from the table and pushes in her chair. For a moment I think I've offended her to the point where she's just going to walk out.
+    Instead, she returns with one of the books from the wall, as if there weren't enough piled on the table already.
+    This one's a green, leather-bound monstrosity that's about the size of the radio. Probably heavier, too.
+    She sets in down at her place on the table with a wham that scatters dust from the surface.
+    TAKERU: "Ah! What is that? Some sort of textbook? It's huge."
+    TAKERU: "Well, either a textbook or some sort of collection of the Russian masters."
+    My lousy attempt at humor succeeds in getting some emotion out of Hagami for once.
+    Except it's only a mixed look of pity and expasperation.
+    She gestures at the front cover.
+    TAKERU: "It's... 'A Brief History of Eidolon Theory (and other post-Hume metaphysics)'."
+    TAKERU: "Oh."
+    I repress the urge to gag.
+    TAKERU: "Is it some kind of gag book that you hide a key in or something?"
+    HAGAMI: "No."
+    This time I wasn't even joking.
+    Hagami props the book up on the table so I'm left to stare at the spine.
+    I take a glance at my watch. Fifteen minutes until classes start...
+    Would it be rude of me to leave?
+    TAKERU: "Didn't Mana say she'd only be gone a minute or two? I don't think she's coming back, so..."
+    HAGAMI: "Mana always keeps her word."
+    HAGAMI: "She'll be back."
+    She doesn't bother looking over the edge of her book to pronounce, she just states it as fact.
+    TAKERU: "Alright."
+    TAKERU: "I guess it would be impolite to leave before she got back... And she left her book here anyway, so I guess she's coming."
+    There's nothing I can do about it, really.
+    My eyes wander around the confines of the library once again. There's nothing in here I'd read once in a million years. Are these girls actually into this stuff?
+    I don't dare trying to strike up any more conversation with Hagami. Obviously her post-Humian whatevers are more interesting that whatever drivel's on my mind.
+    But the longer I sit here, the more antsy I get.
+    That strange hum isn't helping. For a moment there it almost sounded like a human voice.
+    Actually... that's the radio. Someone must've left it on.
+    After another thirty seconds of humming shaves off a sliver of my sanity, I reach for the knob and shut off the radio.
+    Almost immediately, a hand shoots out from beyond the Brief History and turns it back on.
+    TAKERU: "Sorry. I didn't know you were listening to that. Isn't that just static?"
+    HAGAMI: "Listen closer."
+    If I lean closer to the radio, I can just make out the music.
+    TAKERU: "Oh, it's an orchestra. Okay."
+    HAGAMI "...You know the piece?"
+    TAKERU: "No."
+    HAGAMI: "Oh well..."
+    TAKERU: "You sound disappointed. Sorry."
+    HAGAMI: "If it bothers you, you can turn it off. Sorry."
+    TAKERU: "That's alright."
+    I wish Hagami would actually look up at me from behind that tome when she's talking. That book practically muffles her already low reply.
+    TAKERU: "..."
+    She turns a knob and the volume rises, slightly.
+    I think that was supposed to be for me, but I don't see what it accomplishes. Now my waiting just has some tinny background music. Great.
+    Without anything better to do, I shuffle around the books that take up most of the tablespace.
+    They're all pretty heavy. Nothing as dense as what Hagami hauled over from the shelf, but still... I spot an English typewriting manual and some treatise on ancient Chinese philosophy.
+    The only interesting one of the bunch is the book Mana left behind. There's no title on the front, just an illustration of a boy staring up at a starry sky.
+    I open to the bookmark. It's... well... some kind of cloying teen romance. Apparently I flipped to the protagonist's first kiss.
+    I raise an eyebrow and replace the bookmark.
+    When I look up again, Hagami is staring at me. She also has one eyebrow raised.
+    TAKERU: "I was just bored, okay?"
+    In response, she rises and walks to the shelf walls. In ten seconds, she's back with a book roughly the shape and density of a concrete brick.
+    TAKERU: "Is this for me?"
+    Wordlessly she places it in front of me and flips it open.
+    I'm supposed to be reading "A Deconstructive Analysis of the Babylonian Funeral Dirge."
+    Have mercy on me...
+    HAGAMI: "You'll enjoy it more than that romance novel."
+    TAKERU: "Hagami, I have trouble getting through the stuff we read for class, let alone..."
+    Wait.
+    While Hagami isn't smiling, her head's to one side. I've been had.
+    TAKERU: "Very funny."
+    HAGAMI: "...Sorry for the poor joke."
+    TAKERU: "Ah. Well you had me fooled."
+    HAGAMI: "It was rude of me."
+    And she withdraws back into that green leather beast.
+    Without a moment's notice, Mana tumbles through the door.
+    MANA: "Sorry I'm late, I got held by the teacher, and then I forgot and went to my next class, and then..."
+    She stumbles into the seat next to me.
+    HAGAMI: "Welcome back."
+    MANA: "Takeru, you were reading that thing?"
+    TAKERU: "Er.."
+    She's spotted the brick in front of me.
+    MANA: "That's so cool! I thought only Hagami was into this stuff! You guys will have to show me what's good one of these days. Did you guys talk about old books and stuff while I was gone?"
+    TAKERU: "Not quite..."
+    Hagami has a tortured face on and I think the responsiblity to explain might fall on me.
+    But as I do so, it's painful to watch the enthusiasm drain out of Mana.
+    She's still bright as ever when we part ways outside the old library, but it's clear she was very excited to think Hagami had made an inroad with her hobby.
+    Maybe there's a reason the supernatural club only has two members.
+    TAKERU: "See you later, Mana."
+    MANA: "Bye Takeru! You'll be back tomorrow, right?"
+    TAKERU: "Er, I don't know, but we'll see."
+    We'll see indeed.
     
+    Back at class, it looks like I left the library a little later than I should have.
+    NATSUMI: "Well looks who decided to show up."
+    TAKERU: "I guess I was the last back..."
+    NATSUMI: "Yeah, you make me look good. I told Meiko I might have had to send out a rescue party."
+    I look over Natsumi's desk to Meiko, but she's deep in concentration reviewing a sheaf of copy paper.
+    Natsumi notices the direction of my attention.
+    NATSUMI: "It must be that festival stuff. Meiko's gonna work herself to death one of these days."
+    TAKERU: "Festival, huh..."
+    NATSUMI: "Yep, world-famous. Well maybe not quite but hey I'm looking forward to it."
+    NATSUMI: "But I'm more busy with the tournament earlier that week though... Can't be worrying about fun and games until after that!"
+    TAKERU: "Tournament? Are you in like a debate league or something?"
+    NATSUMI: "Debate? As if!"
+    She openly laughs.
+    NATSUMI: "I play baseball."
+    TAKERU: "Ah."
+    NATSUMI: "I practically live for baseball. When I retire, I mean, graduate, they could practically name Mirako's field after me!"
+    TAKERU: "That's... really interesting."
+    I hope she can't see I'm sweating.
+    NATSUMI: "What's wrong? Are you not big into girls in sports? One of those weird athlete guys with something to prove? You did look kind of look like you had some muscle tone to you..."
+    TAKERU: "Oh quit staring at me, I'll get self-conscious. It was just a surprise is all."
+    MEIKO: "She's the captain, too."
+    Meiko was apparently paying attention.
+    TAKERU: "No kidding."
+    NATSUMI: "Hey, I told you I was serious. I'm pretty good too. Did you know we got a shot at regionals this year? A country school like Mirako."
+    NATSUMI: "Since I took over as captain it's been nothing but success."
+    MEIKO: "Overconfidence is unbecoming."
+    NATSUMI: "Oh let me have my fun."
+    NATSUMI: "We play pretty well."
+    TAKERU: "I can imagine."
+    NATSUMI: "Come on out to practice sometime."
+    TAKERU: "Maybe I will."
+    I definitely won't.
+    At least this explains why everyone seems to follow her around. Maybe they're her players, or maybe they're just adoring fans.
+    As class begins I'm struck with just a bit of jealousy.
+    That's what unsettled me before when I saw those guys trailing her. It felt like me. I saw me in her.
+    Or at least old me.
+    Is that some sort of curse? Every day I'm to sit next to some half rate imitation of myself that I can never be again.
+    Captain of a country school baseball team... I bet they hardly have bleachers.
+    Why am I jealous? Aren't I better than that? Well, no, I'm worse than that. I'm beneath her.
+    I need to snap out of it. Everything seems to be running away again.
     
-    
-    
+    On the way out of class, I manage to dodge both Meiko and Natsumi for once.
+    I find Kenta on the road home.
+    KENTA: "Hello."
+    TAKERU: "Hey Kenta. That's another day down I guess."
+    KENTA: "Correct. Luckily we have many left."
+    Was that supposed to sound so philosophical?
+    KENTA: "What do you think of Mirako? Now that you're through with another day."
+    I'm about to deflect when I remember his annoyance yesterday.
+    TAKERU: "It's alright. Still not familiar, but... we'll see."
+    KENTA: "Good."
+    We reach a turn on the hill road. Left to town, right to the dorms.
+    TAKERU: "Oh... that's right. You're not going to that coin shop today, are you?"
+    KENTA: "Coin shop?"
+    TAKERU: "It was closed yesterday."
+    KENTA: "No. Coins are rather uninteresting."
+    TAKERU: "Er... Alright then."
+    I'm worried if I probe any further I'll end up behind a ramshackle counter somewhere where a man with a goatee explains the finer points of a Roman denarius.
+    TAKERU: "Back to the dorm it is then."
+    KENTA: "Yes. There's lots of work to get done tonight."
+    TAKERU: "My homework looks pretty okay..."
+    KENTA: "Good. You can help me resort the dresser. I have a good color scheme in mind. Lights and darks is too narrowminded. I'm sure you'll agree this new plan is..."
+    Damn it. I should've gone to the hobby shop.
     
