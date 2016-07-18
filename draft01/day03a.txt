@@ -96,6 +96,93 @@ label day03a:
     MEIKO: "Sorry, it'd be rude to not eat with them and I didn't want to head out early. I should've had half a meal here and half there I guess. Sorry Takeru."
     TAKERU: "Don't worry about it. Showing me around Mirako is well, more than I deserve already."
     Meiko mostly talks about the town while I eat. 
+    It'll take some getting used to. A commute by train is more what I'm used to, but a town in the country has its own charm, I guess.
+    It seems like most of the Mirako students stick to their dorms and the few movie theaters and other entertainment spots that cater to students.
+    Is there much of a divide between the native Mirako students and those who moved here specifically for the school's specialty?
+    When I'm done, Meiko gets a strange look on her face and asks a question I knew would come eventually.
+    MEIKO: "How was Tohoku then? You were the star of course, right?"
+    TAKERU: "Er..."
+    TAKERU: "Yeah. It was a dream come true, really."
+    TAKERU: "When I graduated from junior high, I was on the starting rotation right away."
+    TAKERU: "I guess the scouts were right. I just did my thing, and I gave even the players at the very top a run for their money. I was one of the guys pretty fast."
+    TAKERU: "Most of my classmates were pretty impressed. Pretty much everyone at school knew me, even if I didn't know them."
+    TAKERU: "There's even a good chance I would've been the starter at the championship series."
+    TAKERU: "It's funny, wasn't that I was always talking about? I was dreaming about that since I was kid."
+    It's the truth. I don't even flatter myself. I was world class, and it was the time of my life. Only in retrospect is it something I can't feel quite right about.
+    MEIKO: "I knew you had it in you. Even in middle school I could tell you were gifted."
+    TAKERU: "Thanks..."
+    MEIKO: "I'm sorry if it's personal, but, then why are you here?"
+    Time for a total fabrication. Sorry Meiko. Five years ago I could never lie to you but things are different. We're older.
+    TAKERU: "Er, I just sort of petered out. I lost a few games, and you know..."
+    MEIKO: "What?"
+    TAKERU: "They didn't want to renew my scholarship, and some other stuff came up. I sure couldn't afford that place if I wasn't on the baseball team, and the doctors and everyone sort of recommended Mirako, and..."
+    TAKERU: "Well, here I am."
+    MEIKO: "..."
+    TAKERU: "I guess it was a waste of five years, huh?"
+    MEIKO: "I wouldn't say that. You went after your dream right?"
+    TAKERU: "I guess."
+    It's painful to keep lying to her but less painful than the alternative.
+    MEIKO: "I'm glad then."
+    TAKERU: "Glad?"
+    MEIKO: "That's what I resolved to do as well."
+    Meiko keeps biting her lip. Her coffee is empty.
+    MEIKO: "You remember when I lost my parents, right?"
+    TAKERU: "We were what, nine years old? Traffic accident. I'd never forget that."
+    MEIKO: "No, you're a good person. You wouldn't."
+    MEIKO: "How did I seem then, those couple of years?"
+    TAKERU: "I guess... Lost. You wouldn't go anywhere. I had to drag you out of your aunt and uncle's hosue to even get you to study. I thought you'd get held back."
+    MEIKO: "Haha... Was I really that bad? You know you were really the only one pushing me back then."
+    MEIKO: "I didn't know what to do. I'm not a baseball star. My life was inside out and I didn't have any big dream like that. I was..."
+    TAKERU: "Aimless."
+    Current me can sympathize. Past me really didn't.
+    This whole conversation I feel like I've walked off a cliff and this is freefall. I don't want to remember this. Until now I've done a good job at locking it away.
+    MEIKO: "Right. It's only since I've come to Mirako that I've found anything like your dream."
+    MEIKO: "I'll get top marks, I'll get to a good college. From there, law school. I'm not sure if it's politics or academics after that, but..."
+    She laughs.
+    MEIKO: "I know I can do it. It's expected of me."
+    TAKERU: "You did seem really unfamiliar at first. It was a different you."
+    MEIKO: "Was it that noticeable?"
+    Like night and day.
+    MEIKO: "Maybe Mirako will help you out like that too. You can find a new dream."
+    TAKERU: "Maybe..."
+    MEIKO: "You know, you've seemed strange to me as well. Takeru, when we were kids, you were so open with me. I remember you as a very heartfelt person."
+    MEIKO: "But you're always so uneasy."
+    Was it that noticeable?
+    TAKERU: "It's..."
+    TAKERU: "Were you really okay when I left for Tohoku?"
+    She looks away, just for a second.
+    MEIKO: "What do you mean?"
+    TAKERU: "Looks, I know we were good friends..."
+    MEIKO: "Of course. You got me through those really difficult years. You meant the world to me."
+    TAKERU: "Meiko when I got that scholarship I left without a trace. Did I even say goodbye?"
+    MEIKO: "...I don't remember."
+    TAKERU: "I got your letters."
+    MEIKO: "I wondered about that."
+    I want to say I felt guilty back then. But I didn't. There were more pressing things. It's only now that I regret anything at all.
+    TAKERU: "I'm sorry. I was practicing every day, and there were a million people who all wanted to hang out, and I could never find time."
+    MEIKO: "It's alright. You were chasing what you'd always wanted."
+    MEIKO: "I knew you got that scholarship. If I held you back, that'd make me a terrible person."
+    TAKERU: "I could've at least not just vanished."
+    MEIKO: "To tell the truth I was..."
+    She stops for a moment. Her expression freezes. I was always garbage at reading people. What's going through her mind right now?
+    As for me, I'm just... anxious. She should be offended I even have the nerve to look at her straight.
+    MEIKO: "Glad. Sure I missed you. But I didn't want to stand in your way and if staying in touch or saying your goodbyes would've made it harder for you... Then I can't hold it against you."
+    TAKERU: "No way."
+    MEIKO: "Who knows? If you hadn't left for Tohoku, maybe I'd still be wandering around that little town looking for something to do."
+    MEIKO: "But instead I'm at Mirako, and I have a pretty good plan. That's right. A bachelor's degree from a good college, then a master's in law. No broken promises. I can do it."
+    TAKERU: "Sounds like you've made the best of things."
+    MEIKO: "That's right. In ten years I won't remember middle school or my aunt and uncle or any of that, so what does the past matter?"
+    TAKERU: "Is that really it?"
+    MEIKO: "That's it. Takeru, you don't need to feel guilty at all. I'm almost grateful. And I forgave you a long time ago."
+    I feel like I can finally breathe again.
+    TAKERU: "You don't know how much that means to me."
+    Meiko just laughs. Almost forlorn.
+    TAKERU: "I'll do my best to make it up to you."
+    MEIKO: "There's nothing to make up. Just worry about getting yourself situated at Mirako. I know it can't be easy."
+    TAKERU: "Thank you, Meiko."
+    I can say her name without wincing.
+    MEIKO: "Come on, let's head back to Mirako."
+    
     
     
     
