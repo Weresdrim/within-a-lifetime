@@ -184,15 +184,19 @@ label day02:
     MEIKO: "So you're here, Takeru. Are you living in Mirako?"
     TAKERU: "No, I'm in the dorms."
     MEIKO: "Oh, that's great. I'm in a dorm as well but I've lived here for over two years now so I'm pretty familiar with Mirako."
-    MEIKO: "Are you doing anything after school today? We could grab coffee or something and catch up."
+    MEIKO: "Are you doing anything after school today? We could grab coffee or something and catch up. I think it's the least I can do to welcome you to a new school."
     TAKERU: "Er, maybe. I might've had plans with my roommate. I'm not sure."
     I can't relax around her, that's true. But I don't know what compelled me to dodge this specific invite.
     MEIKO: "Wow, you're already busy. I'm glad you're adjusting well."
     Her smile looks genuine enough.
     TAKERU: "Er, thanks."
-    MEIKO: "How about tomorrow then? I think it's the least I can do to welcome you to a new school."
-    TAKERU: "Right. That sounds good. Don't feel obligated to do anything for me, though. I know we didn't well, when..."
+    MEIKO: "How about tomorrow then? There aren't any classes but I'll need to come in to school for the student council meeting. I should be free afterwards though. How about it?
+    TAKERU: "That sounds fine. Don't feel obligated to do anything for me, though. I know we didn't well, when..."
     She only laughs in return. Am I the only one that finds this at all uncomfortable?
+    MEIKO: "You worry too much. How about I meet you at Mirako after lunch and we'll walk to town?"
+    TAKERU: "Right. Sounds good."
+    MEIKO: "So what are you plans today? You said something about your roommate?"
+    TAKERU: "Er..."
     Luckily I'm saved by the arrival of Natsumi.
     NATSUMI: "'Morning Takeru. Hey Meiko."
     MEIKO: "Good morning. Don't you think it's a little late?"
@@ -499,8 +503,8 @@ label day02:
     Why am I jealous? Aren't I better than that? Well, no, I'm worse than that. I'm beneath her.
     I need to snap out of it. Everything seems to be running away again.
     
-    On the way out of class, I manage to dodge both Meiko and Natsumi for once.
-    I find Kenta on the road home.
+    Not a moment too soon, the last class of the day comes to a close.
+    On my way out, I find Kenta standing by the gate and we both turn to walk down the hill.
     KENTA: "Hello."
     TAKERU: "Hey Kenta. That's another day down I guess."
     KENTA: "Correct. Luckily we have many left."
@@ -509,6 +513,14 @@ label day02:
     I'm about to deflect when I remember his annoyance yesterday.
     TAKERU: "It's alright. Still not familiar, but... we'll see."
     KENTA: "Good."
+    KENTA: "I think someone's waving to you Takeru."
+    TAKERU: "What?"
+    Sure enough, back at the top of the hill, there's a silhouette.
+    MEIKO: "Have a good evening, Takeru! And you won't forget about tomorrow, right?"
+    TAKERU: "Nope. I'll see you at lunch. Bye."
+    KENTA: "She's an unusualy one."
+    TAKERU: "Meiko? When I described her yesterday you said you didn't know her."
+    KENTA: "Sorry."
     We reach a turn on the hill road. Left to town, right to the dorms.
     TAKERU: "Oh... that's right. You're not going to that coin shop today, are you?"
     KENTA: "Coin shop?"

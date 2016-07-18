@@ -1,0 +1,103 @@
+label day03a:
+
+    Morning in our room is a nightmare.
+    For once I was allowed to sleep in, but as soon as I wake up I realize at what cost.
+    TAKERU: "Kenta."
+    KENTA: "Good morning Takeru."
+    TAKERU: "What is this?"
+    KENTA: "What is what? And you're supposed to say 'good morning.'"
+    TAKERU: "Good morning Kenta."
+    KENTA: "Good morning Takeru."
+    TAKERU: "Now what is... this?"
+    I gesture at the carnage at the foot of my bed.
+    TAKERU: "Why are there coins all over the floor? Why are there clothes all over the dressers? Where are the dresser drawers?"
+    KENTA: "I'm categorizing the coins for storage. They're kind of taking up a lot of space."
+    TAKERU: "Well I'm glad you've wised up about that one. Does this mean I get my dresser back?"
+    KENTA: "Your dresser? I thought we shared a dresser."
+    TAKERU: "Er, yeah, but I didn't exactly... Let me just get my clothes."
+    No sooner do I step out of bed then Kenta leaps up in terror.
+    KENTA: "Hey! Watch out!"
+    TAKERU: "What?"
+    KENTA: "Your foot! You're standing in the Americas collection. That's sorted by date you know."
+    I look down. It's all coins to me.
+    Actually, I'm pretty much trapped by coins. Surrounded. 
+    KENTA: "If you need to get up, we can move some of the collections."
+    TAKERU: "I'm sorry Kenta, I need to get up to Mirako for lunch. Can you just throw me my clothes or something?"
+    KENTA: "Are you looking for a patterned shirt today or color? The socks are coded by their matches as well, one per shirt. You'll find I have a good eye for men's fashion as well."
+    TAKERU: "Can you even say that with a straight face? Your shirt's on backwards again."
+    KENTA: "Oh. So it is."
+    TAKERU: "Just tell me where I can find some pants."
+    Kenta points at the top of what should by all rights be my dresser. A stack of tightly folded clothes lie on top, but the dresser itself is surrounded by a minefield of coins.
+    KENTA: "Semi-formal and formal are over there. Casual clothes I've temporarily relocated to the bathroom."
+    TAKERU: "You know what, I'm just going back to bed."
+    Just as I was starting to think I could find some sense of normalcy here. Oh well.
+    It takes me twice as long as it should to traverse the dorm via a tiptoe and jumps, and not without a few nervous admonishments from Kenta.
+    
+    By the time I find myself outside it's already noon. My only consolation is that when I return, I might actually have some private space in my own room.
+    Well, or I could have a dresser full of trifolded socks, but I need to think positive ahead of my meeting with Meiko.
+    Meeting sounds too formal. It certainly isn't a date. I don't know how she so nonchalantly managed to ask me to catch up over coffee.
+    She doesn't feel awkward about our parting at all? Even so, it's just the way things go that opposite sex friendships fall apart towards middle school.
+    For her to be so self-assured seems like she's got everything figured out already.
+    And it's also not what I would've expected of her.
+    While I'm not feeling nervous, I'm more... incredulous? Or ashamed I can't greet my friend with a clean conscience? Again, there's no good word for it. 
+    ...
+    It's no use worrying now. I need to pick up my pace if I want to get up this hill at a reasonable hour.
+    
+    I arrive at the gate sweating a bit from extertion. Mirako still seems so hot this late in the summer.
+    Where was I supposed to meet Meiko again? She said she had business with the student council or something?
+    In the distance I here a dull clang.
+    An aluminum bat meeting a ball.
+    What should be nostalgic instead sets me on edge. I'll wait inside.
+    MEIKO: "Takeru! You made it."
+    TAKERU: "Ah! Hi. I didn't see you, sorry."
+    It's like she was lying in ambush at the school doors.
+    MEIKO: "I was waiting outside but the sun started to get to me."
+    TAKERU: "Sorry for keeping you, I ran into some... issues at my dorm."
+    MEIKO: "Haha, you'll have to tell me about. You room with Kenta, right?"
+    TAKERU: "Yeah."
+    MEIKO: "Well first why don't we figure out where we're going?"
+    TAKERU: "I'm sorry if I'm not much help deciding."
+    MEIKO: "Don't worry about that. There's a good cafe in town I know. Let's start walking now though, it'd be a shame to get there and it turns out they've stopped serving lunch.
+    We head back the way I came.
+    The conversation isn't as bad as I'd expect. Meiko seems to know all about the acquaintances I left behind at the old middle school we used to attend together. She remembers a lot more of them than I do.
+    But I notice she confines herself to those short years between when I left and when she must've come to Mirako.
+    I wonder...
+    We both grew up a long ways from here. What prompted her move.
+    I do my best to ask about those half-friends I haven't thought of in years, but I'm still uneasy. Meiko's laugh seems so natural.
+    Finally we reach the base of the hill and the town of Mirako proper.
+    TAKERU: "This is the second time walking that road this morning... Why'd they go and build a school on top of a hill?"
+    MEIKO: "You have to admit it's quite the view, though."
+    TAKERU: "True."
+    To tell the truth I've more been concentrating on avoiding any bombshells in the conversation than on admiring the scenery.
+    TAKERU: "Where's this coffee shop?"
+    MEIKO: "Just down the main road a ways."
+    MEIKO: "Mirako's a great town. You can find whatever you need if you know where to looks. Bookstores, fast food, a movie theater, good restaurants... not that I can really afford the restaurants, haha."
+    MEIKO: "It's just all a little more spread out than a big city. Do you have a bike?"
+    TAKERU: "No. I think I'd die on that road up to school."
+    She laughs again.
+    MEIKO: "Maybe, maybe. I haven't invested in one myself. Again, a little short on funds..."
+    MEIKO: "I honestly don't come into town too often. There's always so much work to do at school."
+    TAKERU: "You seem to have your fingers in a lot of pots."
+    MEIKO: "Hmm, it does look that way, doesn't it?"
+    MEIKO: "But I guess it's nice to be appreciate as a class rep, and for what I get done with the council and the other boards... You can't let anyone down."
+    She looks away. At first I wonder if she's trying to hide her expression, but instead she points out a building on the corner.
+    MEIKO: "That's the place."
+    
+    It's called the "Cat's Corner Cafe." The interior is small.
+    I almost expected Meiko's favorite place to be little more upscale, but I guess that'd be difficult to afford on a student's budget.
+    Business seems slow, too. A few old men reading newspapers, a young man with a laptop, a middle-aged couple grabbing a late lunch...
+    It still doesn't feel at all like a place that'd be frequented by high school students.
+    TAKERU: "I have no idea what to order at a place like this."
+    MEIKO: "The sandwiches are pretty good. A turkey melt maybe?"
+    TAKERU: "What are you getting."
+    MEIKO: "Just a small coffee. I actually brought lunch and ate with the student council members up at Mirako..."
+    TAKERU: "Huh."
+    She blushes.
+    MEIKO: "Sorry, it'd be rude to not eat with them and I didn't want to head out early. I should've had half a meal here and half there I guess. Sorry Takeru."
+    TAKERU: "Don't worry about it. Showing me around Mirako is well, more than I deserve already."
+    Meiko mostly talks about the town while I eat. 
+    
+    
+    
+    
+    
