@@ -350,7 +350,8 @@ label day01:
     TEACHER: "You could start with your name."
     TAKERU: "Right. I'm Ichiro Takeru, but I guess you all already knew that. Takeru is fine. It's nice to meet - "
     Almost as soon as I remember how to talk like a human, I see one face in the sea of many.
-    Turquoise eyes. Shoulder-length brown hair. I know her. At least I knew her a long time ago, or someone like her.
+    Turquoise eyes. Shoulder-length brown hair. A hairclip, dark pink or purple.
+    I know her. At least I knew her a long time ago, or someone like her.
     It can't be her, can it?
     And just like that I'm struck dumb again. I'm saved by the teacher.
     TEACHER: "Where did you transfer from? Any hobbies?"
@@ -413,7 +414,8 @@ label day01:
     I was planning on maybe eating with him, at least to ease myself into daily life here, but Kenta stands there, almost at attention, waiting for the next question.
     TAKERU: "Hey, Kenta..."
     KENTA: "Hello."
-    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? She wouldn't look out of place at a doctor's office or maybe a girls' school instructor somewhere."
+    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? Purple ribbon in her hair?
+    TAKERU: "She wouldn't look out of place as a doctor or maybe as a girls' school instructor somewhere."
     KENTA: "A green-eyed girl that looks like a doctor?"
     TAKERU: "That was a dumb description, I just mean she just... looks like she has everything together is all."
     KENTA: "Sorry, I don't know anyone like that. Or any student doctors."

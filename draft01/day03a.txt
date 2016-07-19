@@ -64,6 +64,7 @@ label day03a:
     I wonder...
     We both grew up a long ways from here. What prompted her move.
     I do my best to ask about those half-friends I haven't thought of in years, but I'm still uneasy. Meiko's laugh seems so natural.
+    The fierce wind is welcome in the face of the midday heat. Only that purple ribbon clip of Meiko's stays fixed as her hair billows in the breeze.
     Finally we reach the base of the hill and the town of Mirako proper.
     TAKERU: "This is the second time walking that road this morning... Why'd they go and build a school on top of a hill?"
     MEIKO: "You have to admit it's quite the view, though."
@@ -183,8 +184,194 @@ label day03a:
     I can say her name without wincing.
     MEIKO: "Come on, let's head back to Mirako."
     
+    We set off for the Mirako on a different path that wraps around the other side of the hill.
+    Supposedly this is to give me a chance to appreciate the scenery of the countryside.
+    Mostly though, I can't focus on the scenery over this headache. It's not quite the same sensation as knuckles rapping against my skull, but more like against my brain.
+    There's something concussive about it.
+    Meiko and I weren't inseperable when we were growing up. We were friends, maybe even best friends, but I always had the other boys at school.
+    It's all very dim. Did she know anyone else, really? After the accident it seemed like her aunt and uncle never really liked her out of the house much.
+    Her version of our shared childhood sounds more than what I remember. It feels like my memories are being messed with and my beating head is my mental alarms going off.
+    Or I'm overthinking things again. Why would she hate me for leaving? I had a scholarship from one of the most prestigious high schools in the country. Who could blame me?
+    Shouldn't I just accept her forgiveness and move on? Why is there part of me that pushes back?
+    Even with the sun lowered in the sky, the heat hasn't receded and the humidity isn't helping me make sense of things.
+    MEIKO: "Here we are."
+    TAKERU: "What?"
+    She calls me over to a guardrail on the side of the road where the vegetation fades away.
+    MEIKO: "Beautiful, isn't it?"
+    TAKERU: "I... right, that sure is something."
+    Below the rail, the hill drops out into a cliff. We're at a higher elevation than I thought and I take a step back at the vertigo.
+    We're facing away from the town. Instead, there are only hills, farms, and scattered trees to the mountains in the distance.
+    Caught up in my own problems as I am, it's hard to not to appreciate the view.
+    MEIKO: "Pretty impressive, isn't it?"
+    TAKERU: "A little overwhelming actually."
+    MEIKO: "Haha, overwhelming?"
+    TAKREU: "It's been a long time since I've really been outside I guess."
+    MEIKO: "I'm sorry, that's right. I won't pry. Everyone's here for some reason I guess..."
+    Meiko frowns hard enough to scare me, but she keeps talking as if I should forget she said anything.
+    MEIKO: "But I used to be out here all the time my first year here. Just wandering around?"
+    That sounds more like the Meiko I remember.
+    MEIKO: "I'd take the long road home or just come out whenever I felt like it to catch the sunset."
+    MEIKO: "Want to stick around and watch?"
+    TAKERU: "The sunset?"
+    For today and for her absolution, I figure I owe it to her.
+    TAKERU: "Sure. I guess it shouldn't be long, right?"
+    MEIKO: "The days are getting shorter now, probably not."
+    Somewhere out in the fields a cuckoo calls.
+    MEIKO: "It almost reminds of that time we got lost on the train, remember? And we got to the park late?"
+    TAKERU: "...Not really."
+    ...
+    TAKERU: "My memory's shaky, sorry. We've got some time, so why don't you tell me?
+    MEIKO: "Alright. It was a pretty important day for me after all."
     
+    VOICE: "We were both twelve. It was about a month after the accident. Mom and Dad were resting with my dad's side of the family, the rich ones."
+    VOICE: "They were maybe four hours away by train. Auntie sure wasn't going to take me up there. On my own I don't think I would've made the trip."
+    I vaguely remember that. There was a park she wanted to visit, desperately. Up north somewhere. It was supposed to be a mountain covered in cedars.
+    Around that time there was very little else she wanted to do.
+    VOICE: "I don't know how I got you onto that train haha. I'm sorry if I was a little pushy."
+    ...
+    A moment of clarity in the fog.
     
+    TAKERU: "Sorry. I've got a ball game tomorrow. Shun's coming back from vacation and he hasn't played pickup in ages!"
+    MEIKO: "...oh."
+    MEIKO: "Then... are you doing anything today? This afternoon?"
+    TAKERU: "Dunno. Let me see. Mooooom!"
+    ...
+    We arrive at the train station soon after. My parents were a little trepidatious about the whole thing, but they knew Meiko's circumstances.
+    They even gave us money for the train.
+    I'm distracted, as usual.
+    Meiko probably wasn't thinking right.
+    TAKERU: "Did you see that man on the station? With the cane?"
+    MEIKO: "Sorry, I didn't."
+    TAKERU: "He was holding up the line trying to order tickets. Wonder what the cane was for? He looked like he could walk fine."
+    MEIKO: "I wonder."
+    TAKERU: "I hope I never get hurt that bad where I can't walk."
+    MEIKO: "No more baseball?"
+    TAKERU: "Exactly! And carrying a cane everywhere looks like a pain."
+    She laughs, quietly. I don't understand.
+    But as the train slows down, her expression changes.
+    MEIKO: "Takeru! We're on the wrong train! We're going backwards. What do we do?"
+    TAKERU: "We get off and turn around, silly. Come on!"
+    Before I can finish speaking, the doors slide open.
+    Is this a popular stop? I have to practically haul Meiko out before the doors close again.
+    MEIKO: "Phew!"
+    TAKERU: "Let's go! We gotta find another train or it'll be too late to do anything when we get there."
+    MEIKO: "Coming!"
+    ...
+    This far north, this hour of day, this time of the year... It's chilly outside the station.
+    The road isn't long. It's some suburb.
+    There are a few houses here that are absolutely huge. Not mansions, per se, just the ostentatiously large variety of home that the rich-but-not-mega-rich use to flaunt their wealth.
+    I gaze up at a third floor bedroom, framed against the overcast sky.
+    MEIKO: "C'mon, Takeru. What'll we do if it gets dark?"
+    TAKERU: "We're fine."
+    But I follow in silence as we come up to this park of Meiko's.
+    We pass over a foothill and the road inclines. The houses are now smaller and sparse.
+    The very last building is a shop. It doesn't look quite like junk, or even an antique store. Souveneirs maybe?
+    There's a curve ahead.
+    TAKERU: "Just up the steps, right?"
+    MEIKO: "Yeah?"
+    It's a series of paved stairs under a sign advertising the entrance. Cedar Park and Cemetary.
+    I take the steps two at a time. Meiko trails behind.
+    At the top, the stairs open out onto a fenced terrace. Benches line a circular path in front of a grove. Beyond, just the first row of grave markers is visible.
+    I turn around. Meiko is still on her way up... I guess there were more stairs than I thought if even I'm out of breath.
+    But beyond her, the terrace overlooks the road and part of the town. It's captivating.
+    MEIKO: "I'll keep on going, I guess."
+    TAKERU: "Ah! Don't sneak up behind me."
+    MEIKO: "Sorry."
+    TAKERU: "You don't want to check out the view first? I think I can see that four story house from here."
+    Her back is already turned. There's a slump to her shoulders.
+    It would probably rude of me to follow her back to her parents' grave.
+    The benches aren't very comfortable for my wait, unfortunately.
+    Back at the fence, I think I can spot the train station from this height. And if I lean way over, I can just see the roof of the shop at the foot of the path.
+    I have nothing better to do. I take the stairs down three at a time.
+    The shop looks much less inviting from this angle. Three vintage dresses sit on display in the window.
+    I enter anyway.
+    WOMAN: "Good afternoon."
+    TAKERU: "Hi."
+    After greeting the cashier, I poke around, but as I suspected, there's nothing of interest. It's mostly clothes, used books, and the odd antique piece of carpentry or farming equipment.
+    WOMAN: "Can I help you with anything?"
+    TAKERU: "Nothing, thanks. Just looking. Actually..."
+    A hatbox on the counter catches my interest. It's filled with hairclips, each adorned with a different bow.
+    TAKERU: "Could I buy one of those?"
+    WOMAN: "Sure. Which color?"
+    TAKERU: "Doesn't matter."
+    She seems happy for the business, and at least now I have something for Meiko.
+    As the door closes behind me, I feel the oddest sensation.
+    It's like an out of body experience.
+    ...
+    VOICE: "I cried my eyes out, of course."
+    VOICE: "And then you weren't there when I came back. I panicked for a second, but then I heard the bell on the shop door and I ran over to the fence."
+    VOICE: "You were running up the stairs of course. Two at a time."
+    I hear the jingle and the slam of the door.
+    From the top of the terrace I watch myself start up the stairs.
+    ...
+    This is going to be a cold walk back to the station. The wind is bad enough up here as is.
+    When I reach the top of steps, my breath is ragged. I almost don't notice Meiko at the top,
+    gazing over the fence into the clouds.
+    In the direction of her gaze...
+    There's a streak of violet in the sky as the sun goes down.
+    TAKERU: "Are you all set?"
+    MEIKO: "...I think so. Thanks for coming Takeru."
+    She sniffs.
+    TAKERU: "I got this for you. It's not much, but..."
+    I pull the clip out of the bag.
+    MEIKO: "Takeru, you shouldn't... That's too... Thanks."
+    She immediately fixes it in her hair.
+    MEIKO: "How's it look?"
+    TAKERU: "Just right."
+    It fits her like the last puzzle piece. The color suits her perfectly. It's...
     
+    menu:
+        "Turquoise, just a shade lighter than her eyes"
+        
+        "Pearl gray, a match to the clouds behind her"
     
+    MEIKO: "Thank you so much."
+    TAKERU: "It's just a small thing..."
+    MEIKO: "I'll treasure it."
+    TAKERU: "Right. Aren't you cold?"
+    MEIKO: "Oh... I hadn't notcied."
+    With the arrival of sundown, the purle in the sky is gone. It's just.. gray.
+    TAKERU: "Come on, let's head back to the station. We got here way too late."
+    MEIKO: "Sorry, I should've paid more attention to the train, then we'd have more time..."
+    TAKERU: "Don't worry about it. It's a story to tell right?"
+    MEIKO: "Haha."
+    Down the stairs, we walk side by side
+    ...
     
+    MEIKO: "If I remember your parents gave you an earful for that one."
+    TAKERU: "What?"
+    MEIKO: "Are you okay Takeru? You look dizzy?"
+    Do I feel dizzy? I take a step and almost fall over the rail.
+    MEIKO: "Takeru! You're not hurt are you?"
+    TAKERU: "Sorry."
+    I stand up straight.
+    TAKERU: "It's just bad deja vu is all."
+    Like a waking dream.
+    MEIKO: "Deja vu, huh... Haha, well maybe that's because the sunset's here."
+    TAKERU: "Right."
+    It's striking. The countryside bathed in warm red radiance...
+    I shield my eyes. Meiko stands in front of me. And I stagger again.
+    The color.
+    Wasn't it...?
+    It was purple. That's how I recognized her two days ago. That pinkish color looks so out of place on her.
+    I gave it to her when we were kids. Of course I remember it.
+    Then why is it...?
+    TAKERU: "We should probably head back."
+    MEIKO: "It's probably been a long day for you."
+    Not in the traditional sense. Did I misremember that one little detail? Do I have some false memory of the past three days?
+    Schizophrenia.
+    It has to be one of those two options.
+    Either the past wasn't real or the future is fake.
+    I took my pills this morning, right?
+    MEIKO: "You're looking really pale. You're not in great shape, are you?"
+    TAKERU: "Not really."
+    TAKERU: "Sorry if I'm being ungrateful, Meiko. It's great to see you again and I'm glad we can put what's past behind us."
+    MEIKO: "Same here. I wonder what I did to deserve this."
+    Her smile is wide.
+    We walk the rest of the length in silence.
+    Meiko seems pleased, mostly. I'm just confused.
+    Probably all that happened was I experienced too many swings today and something just... snapped. Could that be it?
+    Should I talk to Dr. Meadow? I've been discharged. Maybe one of Mirako's specialists?
+    What would I say? My mind's playing tricks on me? Isn't that to be expected?
+    Not too much longer to the dorms now, and I can lie down and try to clear my head.
+    Although I doubt how much it'll help.
