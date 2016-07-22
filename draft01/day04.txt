@@ -1,0 +1,114 @@
+label day04:
+
+    I wake up to a sharp rap on the forehead.
+    KENTA: "Hello. We're behind schedule."
+    TAKERU: "I'm awake, I'm awake!"
+    Beats waking up to spiders, I guess.
+    I navigate Kenta's organizational systems and, prep for school, and fly through the morning routine. Almost out the door, and - 
+    TAKERU: "Wait a second."
+    KENTA: "We'll be late."
+    TAKERU: "Kenta, hold on, we've got plenty of time."
+    I almost forgot my pills.
+    Two every morning. It's a small price to pay for "never again."
+    Granted on Sunday they didn't exactly do their job. At least I don't think.
+    But I'll be far worse without them. I remember a few of those nights in the ward.
+    Kenta is waiting outside, his eyes fixed on his wrist where a watch would go.
+    KENTA: "Are you ready to go?"
+    TAKERU: "Yeah, let's head out."
+    
+    The beginning of the day passes as usual.
+    Natsumi arrives in the nick of time. Meiko has some remarks for the class (does she seriously do this every day?)
+    Only after the end of the first class does it feel like things ever slow down this morning.
+    MEIKO: "Natsumi, wake up. If you zone out during class I'm not giving you my notes."
+    NATSUMI: "Yeah you will... You're too nice."
+    MEIKO: "I can be strict if I want. Why are you so tired anyway?"
+    NATSUMI: "Regionals are coming up. I run practices a bit longer before big tournaments."
+    TAKERU: "Sounds rough."
+    MEIKO: "What, Takeru, isn't that normal? I remember you always wearing out your arm before a big game."
+    NATSUMI: "Oh yeah, you play baseball after all?"
+    I try to signal to Meiko. I think she catches what I mean by the look in my eye, but...
+    MEIKO: "Takeru is quite talented. His pitching even got him a scholar - "
+    TAKERU: "No, I don't play baseball."
+    Natsumi looks more confused than Meiko. Can I really hide this any longer? Is it worth trying? This can only open up awkward questions that I'm in no shape to answer.
+    MEIKO: "Takeru, don't you - "
+    TAKERU: "I don't play any more."
+    NATSUMI: "Wait."
+    An insidious smile takes over Natsumi's face and she jabs a finger at my chest.
+    NATSUMI: "You said you transferred from Tohoku, right?"
+    TAKERU: "I don't remember saying that..."
+    MEIKO: "He did."
+    NATSUMI: "You're telling me you got scouted by Tohoku? And they offered to have you come play?"
+    TAKERU: "They were optimistic. I got there and I played like garbage."
+    MEIKO: "Oh..."
+    TAKERU: "Why else would I be here and not there?"
+    NATSUMI: "Dunno. I kind of assumed you had, y'know..."
+    TAKERU: "Mental problems? Thanks."
+    NATSUMI: "Not that there's anything wrong with that! Mirako's a great place, you know."
+    NATSUMI: "You were what, a pitcher? What's your top MPH?"
+    TAKERU: "Zero MPH."
+    NATSUMI: "Oh come on... This could be a big thing."
+    I would've thought she'd be able to figure out by now I'm not comfortable with this. For her part, Meiko just watches.
+    Slowly though, Natsumi slides back in her chair.
+    NATSUMI: "Fine, fine..."
+    She's still giving me a look though. Sort of a side-eye stare.
+    MEIKO: "I take you haven't joined the baseball team then."
+    TAKERU: "No. I'm retired. I'd rather not bring it up."
+    MEIKO: "Sorry if I inconvenienced you."
+    TAKERU: "No, no, I shouldn't be so touchy about it. You were just trying to be helpful."
+    NATSUMI: "..."
+    Please stop looking at me like that Natsumi.
+    TAKERU: "I haven't joined anything yet and I probably won't for a while."
+    MEIKO: "That's a shame. Why not?"
+    TAKERU: "I'm still just trying to get used to Mirako. I don't think I need any other distractions."
+    MEIKO: "Sometimes distractions are all we've got."
+    TAKERU: "Not ones with bad associations."
+    MEIKO: "Bad associations..."
+    MEIKO: "Well, you adapt however you need to, and let me know if I can help. Just remember I've always got your back, Takeru."
+    Meiko beams.
+    NATSUMI: "Cuuute."
+    TAKERU: "Oh be quiet."
+    I get the feeling there's a conspiracy here, and I'm not really looking forward to where it leads.
+    But maybe Meiko is right and what I need is a distraction.
+    
+    That's still what's on my mind as I leave the classroom for lunch.
+    Should I head up to the old library? Probably not. After that awkward exit yesterday my bet is Hagami would prefer if I weren't constantly hanging around. Probably Mana too.
+    KENTA: "Hello Takeru."
+    TAKERU: "Ah, hey Kenta. Are you headed somewhere for lunch?"
+    KENTA: "Possibly."
+    I still haven't actually grabbed lunch with this guy.
+    TAKERU: "Maybe we could..."
+    KENTA: "...Could what? It's rude to end your sentences in the middle you know. It can make people very confused."
+    There's someone over his shoulder. Staring at me.
+    HAGAMI: "..."
+    TAKERU: "Hi Hagami?"
+    KENTA: "Are you talking to me? Did you call me something? You're very strange today."
+    I gesture for him to turn around.
+    KENTA: "Oh, it's you. Hello. I forget your name again. Sorry. I'm Kenta."
+    HAGAMI: "..."
+    KENTA: "That's very rude, you know. I'm introducing myself. I think you reply with your name."
+    HAGAMI: "..."
+    Hagami looks like she's concentrating. Her gaze narrows into a glare. Is she sweating? Should I interrupt?
+    HAGAMI: "...Hagami."
+    KENTA: "Could you speak up?"
+    TAKERU: "She said her name's Hagami."
+    KENTA: "Takeru it's impolite to speak for other people. Why doesn't she talk? Did I snub her or something?"
+    TAKERU: "Leave her alone Kenta. Hagami, is there something you needed?"
+    Hagami looks at me, then at Kenta. She's not glaring any more. Actually, as I watch, her eyes open in... fear?
+    She turns around and walks down the hall.
+    KENTA: "She's always like that."
+    TAKERU: "You know her?"
+    KENTA: "She's in my class. Not that she ever talks to me, or to half of the teachers. Some people just have very poor manners."
+    KENTA: "I've heard her speak though, so I don't understand why she can't give me the same courtesy."
+    TAKERU: "I guess..."
+    KENTA: "Goodbye."
+    TAKERU: "That was abrupt. Is there somewhere you need to..."
+    But then I see the reason why.
+    NATSUMI: "Heya."
+    TAKERU: "Oh. Hey. Sorry if I snapped at you in class. I didn't mean to... I guess it was just sudden. But I'm not up for talking baseball."
+    NATSUMI: "No worries."
+    She's got that smile again though.
+    NATSUMI: "I heard from a certain someone you're staying late to study for chem, right?"
+    
+    
+    
+    
