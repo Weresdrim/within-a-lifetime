@@ -192,7 +192,7 @@ label day03b:
     MANA: "Fine, fine... Hagami, do you have any book recommendations?"
     TAKERU: "Oh, no, no thank you, I'm fine for a while thanks!"
     MANA: "Huh?"
-    I catch Hagami smirking.
+    Hagami crosses her arms.
     MANA: "Oh well, I guess you don't have to join..."
     MANA: "Four members is the minimum size for a club anyway, at least if it wants any sort of recognition. I think at two members we might get shut down..."
     MANA: "Not that we really had much for the festival anyway. Hagami, you weren't going to - "
@@ -350,6 +350,77 @@ label day03b:
     TAKERU: "That isn't a problem, is it?"
     HIKARI: "D-do you mind... telling me how things are?"
     TAKERU: "What do you mean?"
-    HIKARI: "Just what you think of Mirako. How are classes? You know lots of people, right?"
-    TAKERU: "Sorry, I've only been here, what, four days now?"
+    HIKARI: "Just... What's going on? What are classes like? You know lots of people, right?"
+    TAKERU: "Sorry, I've only been here a couple days now."
+    HIKARI: "Oh..."
+    In that moment she seems very distant.
+    TAKERU: "I mean... I guess it's a productive atmosphere? I don't know. I can't really read the mood of the whole school. Everyone's looking forward to the festival I guess."
+    TAKERU: "Apart from that, you probably know better than me. You've been here... at least since the beginning of the year, right?"
+    Hikari is silent again.
+    HIKARI: "This will be my third year here."
+    TAKERU: "Ah, so you're the same year as me."
+    HIKARI: "...I just don't know many people."
+    I look around this cluttered room. I can imagine. Anyone spending time down here would be considered a recluse.
+    HIKARI: "Have you ever had something happen to you, something so significant, that afterwards, you just couldn't connect with people the same way as before?"
+    TAKERU: "That's a pretty good summary of my life at this point."
+    HIKARI: "Maybe you can relate then, but..."
+    HIKARI: "I'm sorry, this is all very abrupt and you hardly know me. I'm sure this is a little creepy."
+    I honestly find her strange manners more creepy than what she's saying. Her hands remain in her lap and her gaze seems to be fixed straight ahead, somewhere behind me.
+    TAKERU: "No, I'm not weirded out, if that's what you're asking."
+    HIKARI: "If you're a transfer I guess that means you weren't here last year."
+    TAKERU: "Right."
+    HIKARI: "..."
+    She's now staring at my untouched tea again, on the table in front of her.
+    TAKERU: "Help yourself if you want. It's probably cooled off by now."
+    HIKARI: "...What? Oh. Was I that obvious?"
+    TAKERU: "Well you've either been staring at the tea or out the window for the past half hour."
+    HIKARI: "Sorry, I must seem terribly odd."
+    TAKERU: "Trust me I've met stranger people the past few days."
+    Hikari seems to be alright with that answer. She remains seated with that awkward posture though.
+    I read a page or two from the textbook but it's hard to concentrate with her in the room, sitting there motionless.
+    It's hard to tell if she's intruding in my space or I've wandered into hers. Probably the latter.
+    TAKERU: "What exactly do you do in here?"
+    HIKARI: "I read sometimes. I enjoy chess. Tea is nice. And when I can manage it, the window is..."
+    She trails off. That's an odd collection of hobbies.
+    TAKERU: "Oh. Well, I didn't mean to spook you by wandering in here. I was honestly just looking for the library."
+    HIKARI: "It's just upstairs."
+    TAKERU: "Isn't that the old library though?"
+    HIKARI: "...I guess."
+    HIKARI: "The real library would be, let's see..."
+    She describes how to get there, but I realize I've actually walked past it several times already.
+    What's stranger is watching her how to describe how to get somewhere without using any hand gestures. She uses no body language.
+    TAKERU: "Thanks... I should get going then."
+    HIKARI: "Really?"
+    TAKERU: "This is obviously your space, so..."
+    HIKARI: "What's my name?"
+    TAKERU: "Hikari. What?"
+    HIKARI: "That must've seemed very strange. Forget I said that. It wasn't anything."
+    TAKERU: "Right?"
+    HIKARI: "You should stay, Takeru. You haven't finished your tea."
+    TAKERU: "I don't know why I made that. It's pretty much still summer out there."
+    HIKARI: "The smell of tea is invigorating. It's a memory aid and it should help you study better."
+    HIKARI: "...I can help you study, you know."
+    TAKERU: "Oh yeah? You're a chemistry expert?"
+    HIKARI: "Here. Let me see the book."
+    TAKERU: "It's all yours."
+    I push it over to her and take my tea in return. Hikari makes no effort to reposition the book and simply stares down at it.
+    HIKARI: "I'll read the chemical symbol. You answer. I'll tell you if you're wrong."
+    TAKERU: "A quiz already...? Right, okay. What's first?"
+    My performance is pretty poor, considering I never went over this stuff in the first place and my studying here amounted to all of five minutes.
+    In all likelihood it would be more effective for me to just read the book myself instead of having Hikari practically read it out loud to me.
+    Her face and her steady voice don't betray any hint that she's getting anything out of this, but I must imagine she takes some pride in it if she's willing to keep it up.
+    All in all, I guess it's better than nothing.
+    TAKERU: "Thanks Hikari, that was helpful."
+    At the mention or her name she turns her head a bit.
+    HIKARI: "My pleasure. But you're going to need to work a bit harder if you want to pass this class."
+    TAKERU: "Isn't that why I'm studying? Right, I'll keep it up though."
+    TAKERU: "See you later."
+    HIKARI: "Goodbye."
+    She stands in the doorway and offers an awkward wave.
+    Mirako has its share of odd people.
+    At least everyone's friendly enough.
+    I was suspecting revulsion or suspicion. At least from the average kids from town. Maybe my particular quirks aren't showing as strong as I think.
+    But then again, maybe revulsion and suspicion is more what I expected from myself. If you had shown me these people six months ago, or even introduced me to myself...
+    I wonder if I would be so sympathetic?
+    And so I find it difficult to judge anyone too harshly.
     
