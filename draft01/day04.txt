@@ -104,11 +104,178 @@ label day04:
     TAKERU: "That was abrupt. Is there somewhere you need to..."
     But then I see the reason why.
     NATSUMI: "Heya."
+    Natsumi has wandered over. Some of her usual group of friends is wandering around as well.
+    I almost feel like I've been cornered by a gang and about to be mugged.
     TAKERU: "Oh. Hey. Sorry if I snapped at you in class. I didn't mean to... I guess it was just sudden. But I'm not up for talking baseball."
     NATSUMI: "No worries."
     She's got that smile again though.
     NATSUMI: "I heard from a certain someone you're staying late to study for chem, right?"
-    
+    TAKERU: "Maybe."
+    NATSUMI: "We're study buddies. I'm calling it now."
+    TAKERU: "What's that supposed to mean?"
+    NATSUMI: "It means you better know your chemistry, Takeru."
+    TAKERU: "Wait, I wasn't even in class when you covered half this stuff, how am I supposed to - "
+    NATSUMI: "See ya!"
+    She waves and walks down the hall to rejoin her group. That guy in the baseball cap gives me a wave.
+    TAKERU: "...You're a strange one."
+    Now just to figure out what I'm going to do for lunch...
+    If Hagami and Natsumi hadn't scared off Kenta, maybe I'd still be able to find him. What's his deal with Natusmi anyway?
+    I start down the hall in the vague direction Kenta went. Even if I don't run into anybody, it beats eating lunch at my desk.
+    There's Kenta. His height makes him easy to spot at a distance. Is he... arguing with someone?
+    He seems to be cowering from whoever's talking at him. They're a good head shorter than him, whoever they are. Wait, is that...?
+    MANA: "I don't care what's polite or not! You can't just say that to people! Do you know how she felt? Why don't you try walking in her shoes for a second?"
+    KENTA: "How would I know how she felt? I'm not psychic. Who are you, anyway?"
+    TAKERU: "Hi Mana, Kenta. What on earth is going on?"
+    MANA: "You know this jerk?"
+    TAKERU: "That jerk's my roommate."
+    KENTA: "I still don't understand why I'm a jerk here. Takeru, I'm not that bad, am I?"
+    TAKERU: "Someone please just explain to me what's going on."
+    MANA: "This guy was mean to Hikari! He started bullying her when she wouldn't speak up."
+    KENTA: "I don't understand. I'll go apologize to her now, if that's what you want."
+    MANA: "No no no! Don't go find her, that'll make things worse!"
+    KENTA: "Then what do you want from me?"
+    MANA: "Just apologize to me!"
+    KENTA: "I don't know your name, how am I supposed to do that?"
+    TAKERU: "Alright, okay, I think I get this."
+    KENTA: "Then can you explain to me what exactly - "
+    TAKERU: "I've got it from here Kenta. Let's go, Mana."
+    KENTA: "Goodbye."
+    Kenta just stands there in the middle of the hall as I escort up Mana up the stairs. Dumbstruck?
+    She keeps waving her hands around all over the place as we walk.
+    MANA: "...and how do you even stand rooming with him? Boneheads like that are why Hagami feels that way in the first place! I swear if I could..."
+    We arrive at the roof.
+    Mana finally exhausts herself. She flops on the railing and we watch the students milling about down below.
+    MANA: "Phew."
+    TAKERU: "This is about earlier during lunch, right? I was with Kenta and Hagami showed up. I didn't know what she wanted."
+    MANA: "Yeah. Well... Okay, this is complicated."
+    TAKERU: "Kenta's not so bad. I think he's legitimately confused."
+    MANA: "No one should get angry just because Hagami won't speak up! This is Mirako! People are supposed to be accepting of one another. Doesn't he get that?"
+    TAKERU: "He thinks everyone should speak their mind and that should be that."
+    MANA: "Then why did he get so upset when I spoke my mind? Ugh... My head hurts. I'm too hungry for this."
+    MANA: "You'll join us for lunch then, right?"
+    I'm in this one for the duration, I guess. Although considering Kenta's choices in hobbies I'm not sure how much effort I'll expend backing him up...
+    He's lucky I don't have a spider phobia.
+    The old library isn't far off. Mana announces our arrival.
+    MANA: "Hagami! You're back, right?"
+    HAGAMI: "Yeah, I was waiting. You didn't - "
+    Her mouth clamps shut when she sees me.
+    TAKERU: "...Hi."
+    I feel terrible being dragged into this situation constantly. It's clear Hagami prefers I weren't around but is Mana just oblivious?
+    She seems pretty in tune with her friend's feelings, so then why do I always end up here?
+    HAGAMI: "...Hello."
+    MANA: "Good work Hagami."
+    Mana pats Hagami on the back.
+    MANA: "Takeru, aren't you going to sit down?"
+    TAKERU: "Oh. I guess."
+    I take a seat next to Mana.
+    MANA: "I gave that guy the treatment. The full works. When anyone ever acts like that, you come to me, okay?"
+    HAGAMI: "I..."
+    HAGAMI: "Doesn't..."
+    Hagami pulls her gaze away from me and onto Mana.
+    HAGAMI: "Doesn't that defeat the point?"
+    MANA: "Well... Maybe? I don't know. I'm sorry Hagami, I'm just trying to help."
+    TAKERU: "Sorry if I shouldn't ask, but, the point of what?"
+    It was a question directed at Hagami, really, but I'm not surprised when Mana answers.
+    MANA: "Hagami and I are trying some things out. We've been best friends ever since I started here, but she's graduating soon, and for the festival, it's..."
+    She trails off when Hagami starts whispering in her ear.
+    MANA: "Alright. Alright. Hagami says that it's nothing important. But Hagami is going to try to express herself a little bit more."
+    Hagami elbows Mana. Somehow I imagine that's not exactly what she said.
+    TAKERU: "I guess I should apologize for Kenta. He's a good guy, I think. He's my roommate, actually, Hagami, if you didn't know."
+    HAGAMI: "...No."
+    TAKERU: "I think he's pretty considerate. Well, maybe not considerate, but he doesn't mean any harm. And he was just trying to be helpful. He was just encouraging you to speak up."
+    HAGAMI: "...I know."
+    TAKERU: "Then why did Mana - "
+    MANA: "Sorry, Hagami, I'm really sorry, it's just reflex by now, I'm sure you didn't want me to..."
+    MANA: "Takeru, I know you haven't known us very long but I think we owe you an explanation anyway."
+    MANA: "It's not that Hagami's that shy or anything, and she's not a mute, she just - "
+    Mana takes another elbow in the gut from Hagami. Then the whispers begin.
+    MANA: "Hagami is... Um... Hagami is a hundred percent normal, and uh... Wait. Well if you want to do it then just do it! Uh... No, well, yeah I was trying to help you out, but... Yeah..."
+    HAGAMI: "It's... a phobia."
+    TAKERU: "What?"
+    HAGAMI: "Men. I cannot deal with men. It.. I... It's irrational, I know, but..."
+    HAGAMI: "Go ahead, Mana."
+    MANA: "Takeru, do you know what androphobia is?"
+    TAKERU: "Sounds Latin."
+    MANA: "It's fear of men. It means - "
+    Hagami practically has her face buried in her hands now. Mana takes notice.
+    MANA: "Look, I don't know what you want me to say, Hagami. Isn't this what you wanted?"
+    Hagami looks back up. Her face is burning, but she looks straight at me this time. It's the only time I can recall her looking me in the eyes.
+    MANA: "Hagami wants to improve. Not being able to talk to half of everyone isn't just inconvenient, it means she... She has to rely on me."
+    MANA: "We're gonna be split up next year, so... Hagami wants to face her fears."
+    HAGAMI: "Mana, that's... please, less melodrama."
+    HAGAMI: "Takeru, sorry to pull you into this mess. I..."
+    Her face contorts. She keeps mouthing words, but then gives in and talks into Mana's ear.
+    MANA: "Hagami went downstairs to find you and see if you wanted to eat up here with us."
+    MANA: "I know we must seem like the two weirdest people in the school right now, but..."
+    MANA: "Look, Hagami's the most talented person I know! The smartest, too! She's my best friend and I wouldn't trade anything for that. So you've got to help her out, okay?"
+    TAKERU: "Er, I'll try, but, what do you mean?"
+    Hagami's blush shows no signs of fading as Mana continues on.
+    MANA: "Just stick with us. Be patient and don't run away or harass Hagami for being quiet or anything. I don't know if there's anything I could do in return, but this means a lot to Hagami, so it means a lot to me."
+    HAGAMI: "Mana, please..."
+    To me she looks more embarassed than fearful.
+    MANA: "It's a lot to ask, I know, and you probably want to go have lunch with normal people or spend time with that Meiko girl or people, but..."
+    MANA: "W-why are you laughing?"
+    Am I? I guess I am. Is this like the insanity defense?
+    TAKERU: "That's not... You're asking me to eat lunch like it's some favor."
+    TAKERU: "Look Mana, I don't mind coming up here every day. It's not like anyone else is begging to spend lunch period with me. I'm pretty much friendless."
+    TAKERU: "I was mostly worried I was intruding."
+    MANA: "Intrude? You could never intrude! Didn't I invite you to come any time?"
+    TAKERU: "I guess, but I mean... Hagami it was pretty clear you didn't want me around."
+    Hagmai glares at me. Well, she glares at somewhere over my shoulder.
+    TAKERU: "Not like it's anything against you, I was just..."
+    HAGAMI: "Uncomfortable."
+    TAKERU: "Right."
+    HAGAMI: "That... That makes two of us."
+    MANA: "Great!"
+    TAKERU: "How is that great?"
+    MANA: "Uhhh..."
+    For a moment, no one speaks. We all look anywhere but each other.
+    TAKERU: "I'll try and show up here for lunch most days, okay?"
+    TAKERU: "Let's just... talk about something else."
+    Hagami's face drops one intensity of red. I guess she agrees.
+    MANA: "Hmm, let's see..."
+    MANA: "Oh! Hey! Takeru, you wouldn't know anything about ghost-hunting would you?"
+    TAKERU: "Ghost hunting? Like with a vacuum cleaner or something?"
+    MANA: "Yeah! Or with an oujia board!"
+    Hagami immediately leans in to whisper in Mana's ear.
+    MANA: "..."
+    MANA: "I'm told you're supposed to use salt."
+    MANA: "Hagami that's a lot less interesting."
+    Hagami crosses her arms.
+    TAKERU: "What are you talking about again though? A ghost hunt?"
+    HAGAMI: "It's not... a hunt. It's..."
+    MANA: "We're gonna try out some of the Rosicruciwhatsit from Hagami's books. Maybe we'll find some ghosts. Maybe we won't. Maybe ghosts will send us some messages from beyond! Wouldn't that be fun?"
+    TAKERU: "Messages from beyond... Like angels?"
+    HAGAMI: "Those aren't real."
+    Okay, but ghosts are?"
+    MANA: "I'm not sure I really get most of this stuff, but Hagami said it shouldn't be too hard. We just need some candles, at least a bit of silver to use with the runes, and uh... What else?"
+    TAKERU: "I might be in a bit over my head here. I wasn't really expecting to have to deal with runes during lunch break."
+    HAGAMI: "This..."
+    She whispers to Mana, but Mana just frowns.
+    MANA: "You tell him that then."
+    HAGAMI: "This..."
+    HAGAMI: "It'll take a bit. A few days."
+    TAKERU: "Oh."
+    MANA: "I'm kind of disappointed as well. I was really looking forward to contacting some ghosts!"
+    I notice she's looking down at that paperback she's always carrying around. Hagami laughs. Did she notice the same thing?
+    HAGAMI: "Stop reading those ghost boyfriend books."
+    MANA: "Oh shut up."
+    MANA: "Takeru, we're probably going to get started tonight. You're in, right?"
+    TAKERU: "Sorry, I've got a test coming up. I wasn't around last week so I'm meeting some classmates to study tonight."
+    MANA: "Oh..."
+    MANA: "Maybe tomorrow afternoon?"
+    HAGAMI: "It's not... It's not that important."
+    TAKERU: "Er, maybe, I guess."
+    MANA: "You're not a member of the supernatural club, that's right after all. We're a pretty strange club anyway!"
+    I won't argue that one.
+    MANA: "You'll still show up for lunch right?"
+    TAKERU: "Yeah. Thanks for having me."
+    MANA: "Any time! I know it's rough not knowing anyone."
+    Hagami nods.
+    TAKERU: "I guess it's almost time for class... I should get going."
+    MANA: "Me too! Alright, have a good day Takeru. See you tomorrow!"
+    HAGAMI: "...See you."
+    After some hesitation, Hagami waves as I walk out the door. Mana laughs beside her.
     
     
     
