@@ -476,6 +476,79 @@ label day04:
     TAKERU: "Just a headache."
     NATSUMI: "Maybe we should call it a night. I'm not getting anywhere."
     TAKERU: "Me neither. Head back to the library?"
-    
-    
+    NATSUMI: "Yeah."
+    She strikes up a conversation as we cross the empty halls.
+    NATSUMI: "Between you and this dumb chemistry stuff..."
+    NATSUMI: "Man, I haven't gotten anything done today. And it feels so weird not having at least some sort of practice."
+    TAKERU: "So you guys are out there every day?"
+    NATSUMI: "Mostly. I run a tough crew, you know? We're not the best there is but there's no other way to get better, right? You know that."
+    TAKERU: "..."
+    For one thing, I'd rather not be having this conversation.
+    For another, most of what I had at one point is talent. Sure, talent is nothing without the drive to really turn it into something, but...
+    Is Natsumi really driving the baseball team of this little school just as hard as the aspiring pros at Tohoku?
+    NATSUMI: "Oh, that's right, you don't play any more or something Booor-innng."
+    TAKERU: "Can't help it."
+    NATSUMI: "Ah, whatever. Everyone's got their secrets, right?"
+    TAKERU: "Er..."
+    She winks at me.
+    NATSUMI: "That's what makes me different I guess."
+    TAKERU: "You're saying you don't?"
+    NATSUMI: "Life's a lot easier when you're open with everyone."
+    TAKERU: "Maybe."
+    Isn't that what Meiko said too? I would've never had the nerve to come out and say what she said, so...
+    I guess I'll just have to deal with the fact that I'll never be able to some things.
+    TAKERU: "I'm a bit of a coward I guess."
+    NATSUMI: "Heh. Hey, is everyone packing up?"
+    TAKERU: "Looks like it."
+    We're finally outside the library. Everyone's on their way out, except for a lone girl in the study room.
+    A few of my classmates give me the odd greeting on the way out the door. All of them say hello to Natsumi, of course.
+    Opening the double doors, I step inside. I need to grab the rest of my things, after all.
+    It looks like the last to leave is... Meiko.
+    In fact, she's still sitting.
+    MEIKO: "Hi, Takeru. Are you just here to grab your bag?"
+    TAKERU: "Yeah. Thanks again for putting this together."
+    I can't say it was overly useful, but, still.
+    MEIKO: "It was my pleasure."
+    TAKERU: "You sound pretty tired."
+    MEIKO: "Do I? That's unusual. This is what I live for, after all."
+    TAKERU: "Really? Well, don't push yourself too hard."
+    MEIKO: "..."
+    MEIKO: "I have a right to do what I like, alright?"
+    TAKERU: "Er, sorry."
+    MEIKO: "Ahh, that probably sounded harsh. Sorry Takeru, I must be more tired than I thought."
+    And she's right back to her normal self.
+    TAKERU: "Yeah. Get some rest."
+    TAKERU: "Actually... I asked yesterday if there was anything I could do to help out with the festival work. You said you needed some help."
+    MEIKO: "Ah right... Help... Can't stand asking for help."
+    MEIKO: "You... I wouldn't want to..."
+    Something glimmers in her eyes. When did I lose the ability to read her emotions? Could I ever?
+    MEIKO: "Thank you Takeru. It'd be impolite of me to decline, and I could certainly use the help."
+    MEIKO: "I'm actually in the middle of reviewing some of the paperwork now."
+    TAKERU: "Oh. Is that what all those papers are?"
+    MEIKO: "That's correct. All these need to be formatted and summarized before we can put them in the program. And approving them all is another headache..."
+    TAKERU: "So I need to rewrite these?"
+    MEIKO: "Essentially. Here's our formatting guidlines."
+    She hands me a few pages stapled together. It looks... quite comprehensive. Of course Meiko wrote this.
+    MEIKO: "There's a few samples in there as well. You'll need to read each of these and then summarize over here."
+    TAKERU: "Right. I guess I can do that. You'll check them at the end, right?"
+    MEIKO: "Of course."
+    MEIKO: "Here, I'll handle this half and you can deal with these."
+    She hands me a stack of the applications in front of her. It's uncomfortably big.
+    TAKERU: "So... Is this all going to be paperwork?"
+    MEIKO: "Hahaha, no, don't worry. Where I'll really need help is in moving things in from the town and setting things up closer to the festival. I'll let you know."
+    TAKERU: "Right. This looks like it should be enough to keep me busy for a while."
+    Meiko's smile widens.
+    MEIKO: "Let me know if there's any trouble, okay? I wouldn't want to get in your way."
+    TAKERU: "No, it's nothing like that. I owe you a lot so this is the least I can do."
+    MEIKO: "If you say so. Then have a good evening, Takeru."
+    TAKERU: "Yeah. You too."
+    I close the glass door to the study room and head out down to the main hall.
+    This looks like it's going to be quite the workload...
+    It's the least I can do to help out Meiko. While I guess I don't technically owe her a favor anything... it's more like penance.
+    She's forgiven me but I need to do this to forgive myself.
+    It seems I forgot to ask her how soon she needed this done? Tomorrow? What prevents me from turning around to go ask her?
+    I'm not sure.
+    I'll go home. There's no point working here if I always get distracted.
+    I flip through page after page of applications...
+    This promises to be a long night.
     
