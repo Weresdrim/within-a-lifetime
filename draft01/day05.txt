@@ -1,0 +1,104 @@
+label day05:
+    
+    I have a terrible feeling.
+    Is this a dream? Of course not. It would be the first one in a long long time.
+    But that sense of dread...
+    All of my internal alarms are firing. Danger. Danger. Danger.
+    There's a thump in my chest as I feel the adrenaline.
+    Fight or flight?
+    Flight.
+    I roll just in time. Kenta's fist swishes through the air.
+    TAKERU: "I'm awake! Are you trying to kill me or something?"
+    KENTA: "Good morning Takeru."
+    TAKERU: "Can't you just say that instead of hitting me in the face?"
+    KENTA: "Good morning Takeru."
+    TAKERU: "Good morning Kenta. Thank you for the wakeup call. How late was I up?"
+    KENTA: "No idea. I'm not sure you quite finished whatever it was you were doing."
+    TAKERU: "Wait... Where are all my papers? Where are those applications? Meiko's going to kill me if I lose any of those..."
+    KENTA: "I would've thought you would take more care of them then."
+    TAKERU: "What do you mean?"
+    KENTA: "Well when I woke up you were covered with them."
+    TAKERU: "Covered... with what, now?"
+    I stand. Somewhere below a few pens and pencils clatter to the floor.
+    After I finished studying, I started in on those festival forms. Kenta was already asleep so I thought I'd work in bed a bit but...
+    TAKERU: "Don't tell me..."
+    KENTA: "Here."
+    TAKERU: "Is this...?"
+    He hands me a stack of papers, complete with binder clip.
+    TAKERU: "Thanks Kenta, you're a life saver."
+    KENTA: "Sorry if I intruded."
+    TAKERU: "Oh, don't worry about it. If I cared about that I would've already murdered you for replacing my clothing with stinging insects."
+    KENTA: "Hm?"
+    I point at the dresser.
+    KENTA: "I have never understood why you keep insisting on trying to put laundry in my display case."
+    TAKERU: "Alright, let's just agree to disagree on this one. Thanks for saving the papers."
+    Luckily nothing seems to be bent or torn. Who knows what would've happened if I had rolled onto these while getting up?
+    ...Then again, without Kenta I wouldn't need to dodge punches every morning.
+    TAKERU: "I think I finished all of these, at least..."
+    KENTA: "You better hurry up."
+    TAKERU: "Got it, got it."
+    
+    The morning is cool, but the still air and mugginess promise another grueling day.
+    It's a real shame only Mirako's library is air conditioned. I'd think that with those renovations so recently they could've done the students a favor considering the climate...
+    Kenta and I part ways at the entrance with a brief (but Kenta levels of formal) goodbye.
+    Of course, when I finally arrive at the classroom, there's plenty of time to spare. At least having Kenta as a roommate will keep me punctual.
+    I take my seat.
+    To my surprise, Natsumi is already at her desk. Is this the first time she's been early?
+    TAKERU: "Good morning. I wasn't expecting you for another hour or two."
+    NATSUMI: "Har har. I've decided I need to be a model student now if I've gotta pull my hopeless study buddy through all his classes."
+    TAKERU: "Never again."
+    NATSUMI: Aw you're no fun."
+    She tosses a pencil at me. I bat it away.
+    NATSUMI: "Aha! So you are left-handed. I thought so."
+    TAKERU: "I'm ambidextrous, actually."
+    NATSUMI: "Aha! I tricked you into revealing your true power."
+    TAKERU: "That's not really a trick. And it's not really a power either."
+    NATSUMI: "But your throwing arm's your left."
+    TAKERU: "Yeah, but - Wait, what are you getting at? No."
+    NASTUMI: "Then your throwing arm's your right."
+    TAKERU: "How is this at all relevant?"
+    NATSUMI: "Oh, you never know. It's the little things."
+    TAKERU: "Or maybe Hikari was right and you are an irrelvant person. Or at least a person who gets hung up on irrelevant things."
+    NATSUMI: "Who?"
+    TAKERU: "Hikari. You met her yesterday, remember?"
+    NATSUMI: "Oh? Some friend of yours? Are you two-timing on Meiko?"
+    TAKERU: "Okay, for one..."
+    Where do I even start with this girl?'
+    TAKERU: "Right, let's pretend I didn't hear that second part. I was waiting outside class and you came out and I was talking with her. That's Hikari."
+    NATSUMI: "Talking..."
+    TAKERU: "Don't play mind games."
+    NATSUMI: "Sorry Takeru. You must be thinking of someone else."
+    TAKERU: "Someone else? Who else could I have been talking to?"
+    I hope that quiver of fear didn't manifest itself in my voice. My eyesight seems to tilt to one side.
+    NATSUMI: "I don't remember any talking."
+    TAKERU: "Well, to be fair, she didn't talk much, but..."
+    TAKERU: "Right, so what do you remember about yesterday?"
+    NATSUMI: "We teamed up as study buddies, and you proved you can't balance a reaction or throw a backback."
+    TAKERU: "Okay I'm ignoring that too. Back up a bit though. It was before that."
+    NATSUMI: "Uhhh... Let's see. There was no practice so I hung around in class a bit before we were set to meet in the library, and then..."
+    NATSUMI: "Then I came out and found you just staring out the window."
+    TAKERU: "S-staring..."
+    ...
+    NATSUMI: "You alright? You don't look too great Takeru."
+    TAKERU: "I'm fine."
+    It's that feeling again. Hikari was there. Natsumi was there. Next day. Hikari wasn't there. Natsumi is here. One thought after the other. In a circle.
+    One idea stood up like a domino. Set up in a circle, one falling to the next, until each connects with the next.
+    But then which domino fell first? It's a paradox. There's no circle. It's just a massive piled jumble.
+    NATSUMI: "Takeru?"
+    Today I woke up. Kenta gave me the papers. Kenta told me to get moving. I grabbed my clothes. I took my pills. Good!
+    TAKERU: "I was just trying to... Never mind, it was nothing important."
+    NATSUMI: "Ahhh you looked like you were thinking about something pretty hard. If only you'd put that sort of effort into our study sessions..."
+    TAKERU: "Sorry."
+    NATSUMI: "Hey I was only joking. Don't get so sincere on me or you'll make me feel bad."
+    TAKERU: "You're pretty shameless so I doubt it would have any effect anyway."
+    NATSUMI: "That's a little better. You still look a bit pale though. If you're under the weather I can show you to the nurse's office if you like."
+    NATSUMI: "Seems like a shame to spoil the only time I came in early though, I was hopping Meiko would notice..."
+    TAKERU: "No, don't worry about it. We wouldn't want Meiko to miss this."
+    NATSUMI: "Okay! But take care of yourself, alright? You'll be no good to anyone if you collapse in a heap somewhere."
+    To be honest, I'm still not recovered. I doubt I will be until I figure out what actually happened.
+    Either my memory's spotty or Natsumi's memory is just as bad as mine. Unless...
+    This is the same thing 
+    
+    
+    
+    
