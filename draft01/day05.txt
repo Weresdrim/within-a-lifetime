@@ -264,7 +264,185 @@ label day05:
     HAGAMI: "It's mine."
     TAKERU: "All of this stuff?"
     MANA: "I supplied the salt!"
+    TAKERU: "What on earth were you guys doing?"
+    MANA: "A ghost hunt, of course! Didn't I invite you?"
+    Yes, you did. I think I made the right decision to decline.
+    TAKERU: "I didn't realize you were serious. This looks like heavy-duty stuff. Don't you need a vacuum cleaner or something?"
+    HAGAMI: "No."
+    MANA: "It's such a shame, we never got to use any of it either... I was looking forward to lighting up some candles!"
+    HAGAMI: "Those are for circles?"
+    MANA: "Magic circles?"
+    HAGAMI: "Circles."
+    TAKERU: "Right, can someone fill me in on what exactly a ghost hunt involves?"
+    MANA: "We're hunting down the supernatural! We'll summon ghosts from the next plane and live happily ever after..."
+    Hagami snickers.
+    TAKERU: "Ah... maybe a few more details? You guys find anything?"
+    MANA: "No, I was kind of confused actually. I got all of Hagami's old equipment out but..."
+    MANA: "We just went to the historical society in Mirako. Hagami went through old town documents all night."
+    MANA: "Don't ask me what you can find in all those deed and family records and stuff. That's not very ghostly at all."
+    HAGAMI: "Research."
+    MANA: "Down there they don't even let you in with candles!"
+    TAKERU: "How about with salt?"
+    HAGAMI: "Of course."
+    MANA: "Not that we caught any ghosts with it. Or summoned any ghosts. Wait, would summoning a ghost be like killing someone?"
+    Hagami starts up a stream of whispers.
+    MANA: "Okay... You can't? Then what...?"
+    MANA: "Okay. But yeah, Takeru, we didn't find any ghosts."
+    TAKERU: "Too bad."
+    MANA: "You don't sound very surprised..."
+    Mana pouts.
+    MANA: "Hagami, I want to go on an actual ghost hunt again. Remember last year when you would light all the candles, and then read from that book, and then we'd wear the - "
+    If I thought I'd seen Hagami blush before, it's nothing compared to what's happening now.
+    MANA: "Hagami, speak up! What? ...okay. No. I won't. Sorry! How was I supposed to know? ...okay. I won't bring it up again."
+    MANA: "Sorry Takeru, I was going to invite you a real deal ghost hunt but..."
+    HAGAMI: "..."
+    MANA: "Okay, I was going to invite you on a 'field expedition' because apparently ghost hunts are not a thing. Also Hagami has never done one before."
+    Mana is straightfaced but Hagami looks like she'd rather be dead than sitting here.
+    TAKERU: "Er..."
+    HAGAMI: "Change the subject."
+    Generally doesn't one just change the subject instead of asking someone else?
+    Well, it is Hagami after all.
+    TAKERU: "Actually... I was wondering if you know someone."
+    MANA: "Me? Or Hagami?"
+    TAKERU: "Either, really. She's just someone I ran into. She said her name was Hikari. Long white-silver hair, kind of a strange walk."
+    Mana doesn't blink but Hagami leans in. For once she makes eye contact.
+    TAKERU: "If it helps, she always sounds kind of bitter."
+    Hagami looks away.
+    TAKERU: "You know her?"
+    Hagami tries to speak for a few moments, but she's not getting anywhere without Mana as an interpretor.
+    MANA: "Okay... Hagami says... She doesn't know anyone like that. She knows a Hikari but that sounds completely different."
+    TAKERU: "I guess you don't know her either? How exactly does someone go to school here without anybody knowing them..."
+    MANA: "Maybe she doesn't have any friends. That sounds lonely."
+    TAKERU: "Yeah..."
+    Although I hadn't really considered it, she might just study here in name only. Private classes, nobody to talk to...
+    MANA: "I'd like to meet her!"
+    TAKERU: "I'll have to introduce you. Maybe I'll meet up with her today, she's always downstairs in that old tea room."
+    MANA: "One of Mirako's mysteries, I guess!"
+    MANA: "Actually speaking of Mirako's mysteries... You know what you reminded me of?"
+    TAKERU: "No."
+    MANA: "The haunting of Mirako High School!"
+    Hagami puts her face in her hands.
+    MANA: "They say the old wing is haunted by malevolent spirits... Books appearing out of nowhere... The smell of green tea drifting down the hall... Spirits that stalk the halls at nights and chase down the students!"
+    TAKERU: "Oh yeah? What's with the spirits?"
+    MANA: "When they built the new half of the school, they built it on the site of an ancient Shinto shrine that used to stand on this hill, hundreds of years ago."
+    MANA: "Now the patron god sends spirits to avenge itself on the populace."
+    TAKERU: "That sounds a little, er..."
+    HAGAMI: "Far-fetched."
+    MANA: "Is not! Once last year I took a chess set from the old wing and and brought it up here to the library. But..."
+    MANA: "At midnight, the chess set suddenly vanished! And the next day I found it again, right where I'd left it!"
+    TAKERU: "Vanished at midnight?"
+    MANA: "When Hagami and I came in the next day, it was gone. It can only be vanishment at midnight!"
+    Hagami is still stuck covering her face and shaking her head.
+    TAKERU: "Mysterious."
+    MANA: "And I've smelled the tea!"
+    TAKERU: "I'm pretty sure I know who brewed it..."
+    MANA: "You know a vengeful spirit?"
+    TAKERU: "I would more her at a depressing student, but..."
+    MANA: "And once I even saw one!"
+    TAKERU: "A spirit?"
+    MANA: "A lone figure, standing in the hall... Pure white. She turned around, and then - "
+    Mana claps her hands.
+    TAKERU: "Yeah?"
+    MANA: "Uh, my memory gets kind of fuzzy, but... She was gone! Vanished in to thin air."
+    TAKERU: "Weird..."
+    MANA: "Thanks for reminding me of all this Takeru. Hey, Hagami?"
+    Hagami finally turns with an eye roll to face Mana.
+    MANA: "This gives me a great idea."
+    HAGAMI: "..."
+    MANA: "Why don't we have a ghost hunt - uh, er, field expedition - in Mirako?"
+    MANA: "We'll check out the old wing for any spirits or ghosts, and I'll have the candles and the censer, you can take your salt, and then maybe Takeru can carry the big books while you read from - "
+    HAGAMI: "No."
+    It's the strongest denial I've heard from her. Something more than a flat refusal...
+    MANA: "Uh, sorry? I don't understand."
+    HAGAMI: "That's just... Crass."
+    MANA: "I don't..."
+    MANA: "Sorry if I said something strange Hagami, I know I must be embarassing you!"
+    HAGAMI: "It's not... It's not that bad. I guess."
+    MANA: "Then you'll really come on a ghost hunt?"
+    HAGAMI: "Not... Yeah. I will."
+    MANA: "Takeru?"
+    TAKERU: "What?"
+    TAKERU: "You'll come too right? As an honorary member of the supernatural club?"
+    I'm not sure what's with Hikari's sudden refusal and then acceptance, and I'm pretty sure Mana's imagination is a little overactive.
+    While wandering around Mirako carrying around a spellbook or swinging a censer or whatever Mana has in mind doesn't sound like much fun...
+    I guess it doesn't sound unfun either though. Books, no, censer, yes.
+    TAKERU: "I guess I'll show up. I want to see you make use of all this stuff."
+    MANA: "This isn't even half of it! Hagami used to - "
+    HAGAMI: "We'll be happy to have you."
+    TAKERU: "Ah, thanks."
+    She almost said that naturally.
+    MANA: "How does Sunday evening sound?"
+    TAKERU: "It's not like I have other plans, I guess... Should I bring anything?"
+    MANA: "A flashlight, for sure! The school should be unlocked I hope... Hm... Definitely some gloves!"
+    Is this a ghost hunt or a jewel heist?
+    MANA: "...and garlic might not go wrong, just in case. Do you have anything that's been blessed by a priest? Christian or Shinto is fine, depending on what we run into, but..."
+    HAGAMI: "Just bring salt."
+    TAKERU: "Got it."
     
+    When I get back to class, I can't bear to look Meiko in the eye.
+    From chemistry and then into math, she doesn't pay any attention.
+    For her part, she doesn't appear to be judging me particularly harshly. She sits as usual, perfect posture.
+    Instead, I'm distracted by the girl sitting between us. Natsumi is bouncing a tennis ball on her desk.
+    TAKERU: "What's with that? Are you picking up tennis now?"
+    NATSUMI: "It's a bit late for a career change."
+    TAKERU: "Can't have too many hobbies though."
+    NATSUMI: "Nope. No tennis for me. This is just..."
+    NATSUMI: "Exposition."
+    TAKERU: "What?"
+    NATSUMI: "Foreshadowing."
+    TAKERU: "Not getting it."
+    NATSUMI: "Some day soon, when things are really weird, you'll look back on this and it'll all make sense."
+    TAKERU: "Honestly things are already pretty weird."
+    Natsumi smirks and stuffs the tennis ball into her bag.
+    NATSUMI: "Just keep it in mind is all I'm saying."
+    TAKERU: "Whatever."
+    Class finally rolls to a close.
+    Natsumi stretches and yawns and I notice Meiko stirring across from her.
+    Do I want to talk to her? Probably not. I try to make my way to the door as inconspicuously as possible, but...
+    MEIKO: "Hi Takeru."
+    TAKERU: "...Hi, Meiko."
+    It's hard to resist her smile. Nothing really seems to hurt her too much.
+    TAKERU: "Hey, I wanted to apologize about those papers. I wasn't sure when you wanted them done, so..."
+    MEIKO: "Oh don't apologize. I should be thanking you. You've saved me a lot of time."
+    Somehow I doubt it. Why do I feel like dirt?
+    TAKERU: "I might have some time the next couple days to revise them if you want."
+    MEIKO: "Maybe it's best if I do them. I'm probably a little picky, haha."
+    TAKERU: "Maybe..."
+    MEIKO: "Thanks for helping me out."
+    TAKERU: "Wait, you said there was more to it, right? Something about setting up? Moving some things up from town?"
+    I still need to make things right with her. And lifting heavy objects is at least something I can't screw up too badly.
+    MEIKO: "You've done so much already..."
+    TAKERU: "I really haven't."
+    MEIKO: "Well, if you say so... I'll know more after the next council meeting, okay? Soon we'll probably need to pick up items the folks who volunteer it in Mirako."
+    TAKERU: "I can do that. Let me know whenever you need me."
+    MEIKO: "Thanks Takeru. I can always count on you."
+    She's so sincerely forgiven me already. Why did I ever doubt her?
+    TAKERU: "See you tomorrow."
+    MEIKO: "Take care."
+    Without Meiko to worry about, there's no rush to leave.
+    Kenta's not exactly in the habit of waiting up for me. Come to think of it, nobody is, really. If I wanted to get some work done I could try the library.
+    Or I could find that room downstairs.
+    The one where I can always find Hikari.
+    On some level I realize that she's dangerous. There's just something about her that causes my head to spin.
+    But... I have to confirm that she's there. She met Natsumi yesterday, right? I'm not misremembering?
+    I don't want to know the answer.
+    Then if I don't want to know, why do I find myself in the old wing?
+    This time of day, no one's down here. Just me, searching for this hall's single residence...
+    I slide open the door to the tea room.
+    TAKERU: "Hikari? Are you there?"
+    The curtains are drawn. Then again, it's always been dark when she's shown up here. On instinct I turn around.
+    TAKERU: "Hikari! Where did you come from?"
+    HIKARI: "Ah, it's still you, Takeru. I'm glad."
+    HIKARI: "I followed you here. I was wondering where you were heading."
+    That's plenty creepy.
+    TAKERU: "You scared me... I'm opening the curtains. For some reason I thought you were always in this room or something."
+    HIKARI: "Really?"
+    TAKERU: "Well... Yeah, I guess you just sort of pop up."
+    HIKARI: "That would be one way to put it."
+    HIKARI: "Would... Would you like some tea? I know it might seem like an odd request..."
+    TAKERU: "No, I guess that makes sense. This is a tea room, after all, right? Then again, I've never seen a tea room with all these books and boxes and junk packed in..."
+    HIKARI: "No, the strange request, I mean..."
+    HIKARI: "Will you make me some tea? Please?"
     
     
     
