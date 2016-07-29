@@ -518,9 +518,137 @@ label day05:
     HIKARI: "This year it's felt like I've lost my mind a thousand times. Everyone in this place seems to be part of a grand conspiracy to blot me out of existence."
     HIKARI: "Everyone but you."
     TAKERU: "Me?"
-    HIKARI: "
-    
-    
-    
-    
-    
+    HIKARI: "Maybe it's because last year you didn't know me... Or maybe because we share that vague feeling."
+    HIKARI: "Either way, no matter how much I talk to someone or follow them around, the next day it's like I was never there."
+    TAKERU: "Are... Are you sure you actually did talk to those people?"
+    TAKERU: "That's what it was like for me. I could've sworn I'd said one thing when I'd said another, or that things played out one way when everyone knew it was wrong."
+    HIKARI: "You even introduced me to Natsumi, didn't you?"
+    TAKERU: "...I guess."
+    The small rush from being honest about my condition for once is fading into more general confusion. I mentally check if I took my meds to day. Yes.
+    TAKERU: "I still can't shake that. I feel like that whole thing could be all in my head."
+    HIKARI: "A figment of the imagination..."
+    TAKERU: "Right."
+    HIKARI: "I'm not a figment of your imagination. I'm right here."
+    TAKERU: "You're right there. And somehow I'm the only one that can remember you."
+    Hikari laughs again, more natural this time.
+    HIKARI: "It's a twisted symbiosis, isn't it?"
+    TAKERU: "What's that supposed to mean?"
+    HIKARI: "I anchor you, you anchor me. You're proof that I'm not slowly going crazy. And me for you. Whenever you doubt something, I know the truth. I'll be there."
+    TAKERU: "Er..."
+    I feel like I'm supposed to say something in turn but I'm still not sure exactly what she's getting at.
+    TAKERU: "You're a very abstract person."
+    HIKARI: "That's an odd choice of word."
+    TAKERU: "Er, sorry, I don't even know what I mean half the time. I'm not the best with words and my head is going kind of nuts right now."
+    HIKARI: "Tea helps."
+    I finish my cup. She still hasn't touched hers.
+    HIKARI: "I'm sorry if I said anything strange. You should just forget about it."
+    TAKERU: "It's fine."
+    HIKARI: "It's been too long since I've really talked with someone like I meant it. Usually it's irrelevant."
+    HIKARI: "So I probably sound a bit out there."
+    TAKERU: "I'm sure I look like that all the time."
+    HIKARI: "No. You seem bright. Or at least like you can think straight."
+    TAKERU: "Yeah, I wonder about that..."
+    HIKARI: "Maybe... Do you play chess?"
+    TAKERU: "I know the rules, but that's about it."
+    HIKARI: "You'll be fine. It's been so long since I've played... The board's on the shelf over there."
+    TAKERU: "What?"
+    Oh right. I'd probably better go get it myself.
+    HIKARI: "Sorry. You're probably not interested. Just - "
+    TAKERU: "No, that sounds fun. It's not like I've got anything else to do right now."
+    Luckily. Around this time yesterday I'd be slogging through chemistry or Meiko's awful paperwork.
+    TAKERU: "This is it, right?"
+    HIKARI: "The pieces are in the box right next it."
+    I begin to set up the board. Hikari has her hands in her lap again. That tea must be cold.
+    Hopefully the setup is right. I'd rather not embarass myself even more today.
+    TAKERU: "Are these actual wooden pieces?"
+    HIKARI: "Yes."
+    TAKERU: "Funny. They almost look hand made."
+    HIKARI: "You have a good eye."
+    TAKERU: "They are?"
+    She smiles, weakly.
+    HIKARI: "Once upon a time I made them myself."
+    TAKERU: "Wait..."
+    TAKERU: "Did this set go missing at one point?"
+    HIKARI: "Someone stole it a few months ago. It took me almost all day to find..."
+    TAKERU: "Let me guess, it was in the old library?"
+    HIKARI: "The... That's uncanny."
+    I think Mana would more find you uncanny.
+    TAKERU: "Ah, not really. I know who took it. You could've left a note or something saying why you took it back."
+    HIKARI: "What's the point when everyone would just pretend they never saw it?"
+    TAKERU: "Have you ever thought maybe that's why everyone acts the way they do?"
+    HIKARI: "...No, I hadn't."
+    TAKERU: "Er, sorry, I didn't mean to say that, really."
+    HIKARI: "That's fine. I didn't used to be so blunt, I swear. Only I've learned that past a certain point everyone just acts the same regardless of how you treat them."
+    TAKERU: "That's a bit grim."
+    HIKARI: "Forget it then. Let's just play."
+    TAKERU: "Right."
+    The board set up, I advance a pawn. At least I think this is a common move, right?
+    HIKARI: "..."
+    Maybe not.
+    HIKARI: "E5."
+    TAKERU: "Er..."
+    HIKARI: "The pawn."
+    TAKERU: "I'm still not understanding."
+    Hikari extends her hand, shaking.
+    Right. She wouldn't be able to actually move the pieces properly.
+    TAKERU: "Er, you want me to play your moves?"
+    HIKARI: "That... That would be the idea. It's inconvenient. Sorry. Let's just pretend I didn't bring this up. I was hoping..."
+    I advance her pawn two squares.
+    ...That is what she said, right?
+    HIKARI: "..."
+    HIKARI: "Thank you for working with me."
+    TAKERU: "It's really not something I mind."
+    I move my own piece. Hikari responds without hesitation.
+    HIKARI: "Knight, E6."
+    TAKERU: "The numbers count up from white's side, right?"
+    HIKARI: "...Yes. Hm, you might be in trouble."
+    I don't think most people would know that.
+    I deliberate a second, then respond. Hikari calls her next move.
+    It's theorertically a simple game, right?
+    But before too long, Hikari's prediction comes true. My embarassment grows as I continually play into Hikari's hands, like stepping on a dozen rakes.
+    I'm obviously outmatched and easily checkmated.
+    TAKERU: "That... That was sure something. You're really good at this."
+    HIKARI: "I'm very rusty. I haven't played anyone in over a year..."
+    TAKERU: "Really? That doesn't seem fair."
+    HIKARI: "You're just not all that good."
+    TAKERU: "Thanks."
+    HIKARI: "I have confidence that you can learn. What do you say we play again and this time I teach you?"
+    TAKERU: "I don't know, learning is not exactly my strongest suit, but I'll do my best."
+    HIKARI: "Reset the board then. I'll do what I can."
+    My best is not enough for Hikari. Maybe it would've been better if someone a little better at boardgames had stumbled into her instead of me.
+    I don't think I make a single play that she can't respond to, or that she doesn't have a better alternative.
+    She's also very generous to point them out.
+    HIKARI: "You had the opportunity to pin there. Did you not see it? Try the bishop instead."
+    TAKERU: "Hikari, I think you're calling moves for both of us and I'm just moving the pieces for both of us."
+    HIKARI: "You'll get the hang of it, I'm sure."
+    TAKERU: "Let me try just one move on my own."
+    ...
+    I think my play has improved in the past hour or two, let's see if you've got an answer to this, Hikari!
+    HIKARI: "Rook to H6."
+    TAKERU: "..."
+    HIKARI: "Checkmate."
+    TAKERU: "You could've at least had a bit of mercy. Thanks for trying to teach me Hikari but I'm afraid I'm terminal."
+    HIKARI: "Thanks for humoring me, Takeru. I'm sure you've got talent."
+    HIKARI: "Somewhere."
+    TAKERU: "Thanks."
+    She at least appears happy. Some time ago emotion slipped into her voice that I haven't heard before.
+    HIKARI: "If you come back I can teach you some opening plays."
+    TAKERU: "Maybe I'll stop by then."
+    HIKARI: "...I guess you know where to find me."
+    TAKERU: "Yeah."
+    TAKERU: "You're sure you don't want to find someplace else though? I could introduce you to Mana, I'm sure she'd love to know what happened with that chess set. And Hagami's probably better at this than me."
+    But Hikari looks tired again, and pale. She doesn't respond.
+    TAKERU: "Right. For now, I'll know where to find you."
+    HIKARI: "Thank you."
+    TAKERU: "Where do you live? The dorms? I'm headed there now."
+    HIKARI: "I'll... I'll be along, I suppose. Don't wait up."
+    HIKARI: "Goodbye."
+    I leave her in peace.
+    Earlier I thought I might be making progress in coaxing her out, but I guess she really does believe every other student in this school is part of some conspiracy against her.
+    Is it paranoia? But even Natsumi forgot...
+    And she sure was strange when I brought it up with Meiko.
+    Again, I feel like there's something obvious I've missed, some important message pinned to the back of my shirt and everyone can read it but me.
+    Is it the same for her?
+    I walk home alone, under the setting sun.
+    No matter how many times I run back the events of the past few days, there has to be an inconsistency somewhere.
+    Somewhere, I lost my grip.
