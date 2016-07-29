@@ -443,6 +443,84 @@ label day05:
     TAKERU: "No, I guess that makes sense. This is a tea room, after all, right? Then again, I've never seen a tea room with all these books and boxes and junk packed in..."
     HIKARI: "No, the strange request, I mean..."
     HIKARI: "Will you make me some tea? Please?"
+    TAKERU: "Er..."
+    She spends so much time in her I guess I just thought of her as the hostess. Does she not know how to make tea?"
+    TAKERU: "Can't you do it yourself?"
+    HIKARI: "..."
+    TAKERU: "Er, I wasn't trying to be rude, I'll start preparing it now, I was just wondering if there was some reason you couldn't..."
+    HIKARI: "I'm... very clumsy."
+    HIKARI: "Some things are hard. I used to be able to do so much, and now even the simplest things give me a headache."
+    HIKARI: "So much concentration, just to open a book or a door, it..."
+    She trips over her words as she keeps rambling on in that monotone of hers. I'd interrupt but I'm at a loss for words.
+    HIKARI: "It's all so difficult. That's why... sometimes the easiest thing to do is just sit there."
+    HIKARI: "Do you realize each day how much you rely on your hands to accomplish anything? Just a voice is pointless."
+    TAKERU: "I..."
+    She raises one of her hands in front of her in that jerky rhythm that's become familiar.
+    HIKARI: "Even if they can hear you, if you can't do anything with your own two hands, they just all start to forget you're there..."
+    TAKERU: "What... Is this why you're here at Mirako?"
+    Hikari laughs, small and tinny.
+    HIKARI: "That's not quite a mental disorder, is it?"
+    TAKERU: "Dumb question, sorry."
+    HIKARI: "No, I used to have problems with my mood. You know, I'd be down for no reason. This is something else. If I were to give up now, no one would blame me. I'd have a reason."
+    HIKARI: "It was never anything severe. I fit right in Mirako though. While I never had many friends, there were always certain people I could count own."
+    HIKARI: "I doubt she remembers me now. Let alone misses me."
+    HIKARI: "Sorry, it's thoughtless of me to go on about all my silly problems... Forget I said any of that."
+    It's painful to hear her speak like this without any inflection. Does it not bother her?
+    Should I comfort her?
+    In a way I hardly know her. But then again, it seems like no one really knows her. I'm not the best she's got, am I? Nobody deserves that.
+    I'm at a loss.
+    TAKERU: "...Here's your tea."
+    HIKARI: "Thank you. I shouldn't have asked."
+    TAKERU: "Oh, I don't mind."
+    HIKARI: "Something like this might take hours of focus... I had given it up."
+    HIKARI: "It's such a simple thing. I don't know why I..."
+    A smile comes over her face. A small one, but I think I catch a look in her eye of something like... wonder?
+    TAKERU: "You're alright drinking that? I wouldn't want you to scald yourself or anything like that."
+    HIKARI: "Oh? You don't have to worry."
+    Hikari doesn't make any effort to drink the tea. Instead, she puts up her two hands like she's warming them at a campfire and inhales deeply.
+    HIKARI: "Green tea... Oh how I've missed you."
+    TAKERU: "Does no one use this room down here any more? I always thought of it as a tea room I guess."
+    HIKARI: "Maybe it was at one point. But there's no one down here in general. They might as well have demolished this half of the school with the rest."
+    TAKERU: "You used to make tea though?"
+    HIKARI: "I tried at first, but it's frustrating. It should take fives minutes and... I'm embarassed to say what it cost me."
+    TAKERU: "Well at least this explains Mana's ghost tea thing..."
+    HIKARI: "Hm?"
+    TAKERU: "Nothing."
+    I take a sip of tea.
+    TAKERU: "It does remind me though...
+    TAKERU: "Do you know anyone named Natsumi?"
+    HIKARI: "No."
+    The first ping of panic hits.
+    TAKERU: "Really? I introduced you yesterday. Then again, you didn't seem very interested in her name..."
+    TAKERU: "We met in that hallway outside the classrooms, remember? You remember meeting me there yesterday right?"
+    HIKARI: "Oh..."
+    HIKARI: "I guess I did meet her. She's irrelevant."
+    That's a relief. I'm not going crazy. Well, I'm not actively going crazier I guess.
+    TAKERU: "She's not irrelevant to me, so it'd be nice if you could at least learn her name. You almost gave me a heart attack there."
+    HIKARI: "No doubt she had no interest in my name..."
+    TAKERU: "Wait. That's right, if you remember Natsumi, why doesn't she remember you? I thought I was just misremembering things, or I was confused or..."
+    HIKARI: "People would rather not acknowledge someone like me exists."
+    HIKARI: "But what about you? You're in the habit of seeing things? Things that aren't really there?"
+    TAKERU: "Er..."
+    It's not something I'm comfortable discussing with anyone, but...
+    Damn, why aren't I comfortable with this? Hikari just pretty much laid bare a bunch of her little insecurities, so...
+    TAKERU: "I'm a diagnosed schizophrenic."
+    HIKARI: "Then... isn't that hearing voices?"
+    TAKERU: "No, not really. It's a new thing for me. Six months ago even I just thought I had a bad memory or that people were playing practical jokes on me."
+    TAKERU: "But it just felt like my perceptiong of the world was always... off. Just barely parallel to what was actually going on."
+    TAKERU: "And then every once in a while, things diverged."
+    TAKERU: "That was before I was on any anti-psychotics though or anything like that. So far I've been normal, mostly, I think."
+    TAKERU: "Or maybe not. I've started to feel I'm missing small things, or else people are noticing things that I'm not."
+    TAKERU: "You seem to bring that out especially."
+    Hikari stares into her tea.
+    HIKARI: "Like everyone knows something you don't. And it feels like your deficiencies are so obvious to them..."
+    TAKERU: "That's it."
+    HIKARI: "This year it's felt like I've lost my mind a thousand times. Everyone in this place seems to be part of a grand conspiracy to blot me out of existence."
+    HIKARI: "Everyone but you."
+    TAKERU: "Me?"
+    HIKARI: "
+    
+    
     
     
     
