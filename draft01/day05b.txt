@@ -1,0 +1,191 @@
+label day05b:
+    
+    My second week at Mirako draws to a close before I know it.
+    While I doubt I've really accomplished anything notable, but that day I got lost in the old wing seems distant now.
+    The road to and from the dorm is second nature. I haven't missed a lunch in the old library. Although I still haven't so much as drawn a game of chess against Hikari...
+    As for Kenta...
+    TAKERU: "You're back early."
+    KENTA: "Good afternoon Takeru."
+    TAKERU: "Fine, good afternoon Kenta. You're back - "
+    KENTA: "Good afternoon Takeru."
+    TAKERU: "Never mind."
+    KENTA: "It's rude to start a thought without finishing it."
+    TAKERU: "It's rude to cut someone off."
+    KENTA: "I was being polite by cutting you off. I am not a rude person."
+    TAKERU: "Right, whatever."
+    TAKERU: "When I woke up I assumed you went up to Mirako to spend Sunday studying or something, but, er..."
+    TAKERU: "I'm guessing you didn't get that stuff from school. Unless you robbed the janitor."
+    Kenta shuts the door and puts his cargo down on my dresser. Or rather, puts it down on his insect display case.
+    He's come back with a few smaller packages and two or three jugs of what look like cleaning fluid. White plastic, transparent liquid, a hundred health warnings...
+    TAKERU: "What is that? Embalming fluid? Ammonia? Are you going to douse the room in bleach or something?"
+    KENTA: "This is methyl alcohol. But it does seem to have gotten dirtier in here since you moved in, the bleach thing isn't a bad suggestion..."
+    TAKERU: "No, no, sorry I said anything. What for?"
+    KENTA: "My passion."
+    TAKERU: "Er, right, just don't drink any of that stuff okay?"
+    I'm not sure whether it's more or less dangerous to get involved. Probably my embalming fluid guess wasn't too far off...
+    TAKERU: "Have fun with that."
+    TAKERU: "Hey, do you happen to have a flashlight? I'm also looking for work gloves."
+    KENTA: "A flashlight? What for?"
+    TAKERU: "Oh, nothing. I might be going out tonight."
+    KENTA: "What, to vandalize something? What do you need a flashlight for? Mirako might not be a big city but we at least have streetlights."
+    TAKERU: "Why would I need a flashlight to - "
+    TAKERU: "Never mind. I might go on a, er, field expedition tonight. So I might as well get ready now."
+    KENTA: "Flashlights are in the emergency supply, third shelf, arranged by battery power left to right. Gloves are probably..."
+    KENTA: "Are you wearing a specific jacket? You'll probably want gloves to match that."
+    TAKERU: "I'm not trying to make a fashion statement here."
+    KENTA: "Third drawer down, in the pockets of the coats on the right half."
+    TAKERU: "How do you keep this stuff straight?"
+    KENTA: "You're a very hard to understand person. I don't know why you keep getting this mixed up."
+    I'm about to complain, but then again, it is his stuff he's lending out.
+    TAKERU: "You're the best, Kenta."
+    KENTA: "If you end up vandalizing something I'm still telling the police."
+    TAKERU: "I'm not vandalizing anything!"
+    Then again, I'm not sure how quick I should be to dismiss Kenta's concern. Who knows what Mana and Hagami have planned for tonight.
+    If Mana opens a door too quickly or knocks over a few desks or something, I better not end up facing charges.
+    KENTA: "Maybe I'll save some of this work for when you're out then..."
+    TAKERU: "I'm not going to ask. I'm probably not going to head out until it gets dark though."
+    KENTA: "That's fine. I need to study for a chemistry test anyway."
+    TAKERU: "Oh, I almost forgot about that. Mind if I join you?"
+    KENTA: "You're more than welcome."
+    TAKERU: "I've sat down to study for this thing at least three times now and every time it seems something else just gets in the way..."
+    KENTA: "You need a routine. Discipline is the only way to get anything done."
+    TAKERU: "Right. Teach me your ways, Kenta."
+    Kenta actually isn't that bad.
+    He doesn't throw books at me, unlike Natsumi. He actually knows the material more than I do, unlike Hikari. And unlike Meiko, I don't feel the need to repent any time we talk face to face.
+    I could've done much worse for roommates. Not failing out of Mirako is worth whatever dresser organizational scheme I'll have to deal with next week.
+    And there are worse ways to spend a Sunday.
+    
+    Dusk.
+    While Kenta wasn't lying when he said there were still streetlights around here, the road up to the school isn't particularly well-lit.
+    I turn on the borrowed flashlight. The road might be familiar by day, but with the setting of the sun, I lose sight of the usual landmarks.
+    At the overpass, I can make out the lights in the windows down in Mirako below. The entire town lies before me.
+    With the flashlight on I just feel silly. It's not even dark out yet. In fact this whole thing is silly.
+    I can't remember why I agreed to this. The more I feel self-conscious, the more I wonder why I was interested in seeing Hagami recite Latin or whatever I was expecting.
+    We obviously don't know each other very well and it's clear to me she's uncomfortable with me around. All the same it seems we share something, even if she's not able to express it.
+    Or maybe Mana just bullied me into this.
+    Just as it's becoming difficult to see, the Mirako gates come into view.
+    There's not going to be anyone else here this time of night on a Sunday, of course. One of the classroom lights is on, visible through the school's glass exterior. Is someone staying late?
+    I must be early. There's no sign of anyone at the tables in the courtyard, much less Mana or Hagami. The only thing more embarassing than showing up for a ghost hunt in the first place would be getting stood up at a ghost hunt.
+    I take a seat at a table.
+    Just as I'm starting to worry, there's a thump at the opposite corner.
+    TAKERU: "Who's there? Ow!"
+    I turn on Kenta's flashlight but only manage to blind myself with it.
+    HAGAMI: "..."
+    TAKERU: "Well?"
+    I rub my eyes. The low chuckle across the table only confirms that the person sitting opposite me is Hagami.
+    I'm more worried about permanent cornea damage at this point than I am worried about embarassing myself, so I ignore her for now and concentrate on my burning eyes.
+    When I finally manage to see anything, Hagami has one of her usual books out on the table. The thing resembles a cinderblock.
+    TAKERU: "Good to see you. I guess Mana's not here yet?"
+    HAGAMI: "...No."
+    TAKERU: "I was worried I'd gotten the date wrong."
+    HAGAMI: "No. ...Unfortunately."
+    TAKERU: "Sorry. I know you're generally happier when I'm not around. I just showed up because, well..."
+    I have no idea why.
+    HAGAMI: "I mean..."
+    HAGAMI: "Unfortunate for you."
+    She keeps her gaze on her light reading as we talk. 
+    TAKERU: "I was kind of afraid of that. I should've known if Mana was involved it'd be something I... Is that for me?"
+    Hagami isn't looking at me, but she has her arms outstretched offering me what appears to be...
+    TAKERU: "Is that a sack or something?"
+    HAGAMI: "...For you."
+    TAKERU: "What?"
+    HAGAMI: "..."
+    I have no choice but to take whatever she's holding out for me. What I thought was a burlap sack is actually some sort of brown garment, folded over itself. I stand up and unfurl it in front of me.
+    TAKERU: "Don't tell me... This is a robe. Am I supposed to wear this? It even has a hood. I'd look like a monk or something."
+    HAGAMI: "For you."
+    TAKERU: "You don't have a robe on. Why am I supposed to wear this thing? Where did you even get this? Are you sure this is necessary?"
+    HAGAMI: "..."
+    It's clear there are certain expectations of me.
+    The longer I protest in front of Hagami the sillier I'm going to look. She flips a page, completely ignoring my protest.
+    It's not like anyone will see me like this, right? And surely Hagami has a wizard hat or something she'll put on, if Mana's right about her owning all of those candles and other junk...
+    Okay. It could be worse. I take a deep breath and don the robe.
+    Scratchy. A bit misshapen.
+    Under normal circumstances I'd never be caught dead in this, but Hagami's brand of silent persuasion...
+    MANA: "Ahhhh! Takeru! You came! And you look amazing!"
+    Oh great.
+    TAKERU: "...Hi, Mana."
+    MANA: "I love the robe! It matches mine completely! I'm so happy you're into this!"
+    Mana has arrived.
+    She's clothed almost identically to me in some sort of dull sack turned into a garment, except she also has what looks like a dozen pieces of costume jewelry strung around her neck.
+    Her backpack looks to be full to bursting too, and a book even bulkier than Hikari's rests under her arm.
+    TAKERU: "Thanks. I mean, uh..."
+    Thankfully the light's too dim for either of them to notice me flushing red.
+    Hagami has her face screwed up, not looking at me, but clearly trying to hide her laughter.
+    TAKERU: "I've been set up. Thanks a ton."
+    MANA: "Huh?"
+    MANA: "Anyway, I hope I didn't keep you guys waiting for long. I almost forgot the red candles! That would've been bad, right Hikari? What would we have done with just the white ones?"
+    MANA: "Actually, Hikari, where's your robe?"
+    HAGAMI: "Forgot."
+    Hagami shrugs. It's the least convincing thing I've ever seen.
+    TAKERU: "You can't pretend that you didn't..."
+    She flips another page.
+    TAKERU: "Never mind. Fine. I'm taking this thing off."
+    MANA: "What? Why? I was so happy you showed up with your own gear... I was really counting on you Takeru."
+    TAKERU: "I don't believe this."
+    MANA: "Are we gonna get started or what? Hagami?"
+    Hagami slams her book shut with a snap and gives Mana some kind of salute.
+    MANA: "Roger! Should we assign duties first? This is gonna be so much easier with Takeru around! Thanks for coming, Takeru. But should we figure that out now? Or go somewhere first?"
+    HAGAMI: "...The library?"
+    MANA: "The old library? Alright. I guess we need to pick up the censer after all. Takeru, you've got censer duties, right?"
+    TAKERU: "Censor what? I was kind of just planning to watch. I'm not a full member, so -"
+    MANA: "Oh don't be silly! You've got the initiate's robe on, so I hereby dub you an apprentice member of the Mirako Society of Supernatural - "
+    TAKERU: "Nope, sorry. Not joining just yet."
+    MANA: "Awww..."
+    TAKERU: "I'm not forgiving you for this, Hagami."
+    MANA: "Huh?"
+    HAGAMI: "...Dunno."
+    TAKERU: "Yeah, thanks. Right, let's just go to the library then and I can get this ridiculous thing off."
+    The school is thankfully unlocked. I think back to that one light on through the glass. Is some administrator staying late? Or are things always left wide open like this?
+    If I end up suspended for trespassing my second week here, while wearing a potato sack nonetheless...
+    Still, I follow after the energetic Mana and the stoic Hikari.
+    In the modern half of Mirako, lights flicker on and off as we traverse the hallway. No doubt there's some sort of motion detector installation.
+    But as we cross into the older half, the light fades. Mana clicks on her flashlight, but instead of shining it ahead of us, she holds it under her chin and turns around to face Hikari and me.
+    MANA: "Members, and uh, apprentice, of the Mirako supernatural club, are you ready for the greatest ghost hunt of the year?"
+    HAGAMI: "Field expedition."
+    MANA: "Fine. Master Hagami, are you prepared?"
+    I catch Hagami cringing next to me. I have no pity. You're as much responsible as me for this Hagami."
+    HAGAMI: "...Yes."
+    MANA: "And initiate of the supernatural club, Takeru. Are you ready for your induction?"
+    TAKERU: "Induction? I'm not that good with physics. Or do you mean..."
+    MANA: "Then it's settled! Tonight we journey to the heart of darkness. To the forbidden reaches of the most mysterious of schools... Mirako High!"
+    TAKERU: "What?"
+    HAGAMI: "Hooray."
+    MANA: "Master Hagami, light the candle!"
+    Mana extinguishes her flashlight.
+    HAGAMI: "Matches. The matches are..."
+    MANA: "Oh. Right. They're in the sanctuary?"
+    TAKERU: "Wait, hang on, what - "
+    HAGAMI: "The library."
+    Mana's flashlight clicks on again, further scarring my pupils.
+    MANA: "Onwards!"
+    I follow Mana's lead through the lowest floor of the old wing. Hagami's light footsteps nevertheless echo behind me. We pass Hikari's team room.
+    While on the one hand, I feel stupid as anything trapsing through the hall of my highschool in some knockoff monk's robe following this wannabe-cultist with a flashlight...
+    ...But the old wing is unsettling enough in the daytime. I remember those times Hikari managed to sneak up on me. I glance behind my back, but the only one there is Hikari... staring down at her book as we walk.
+    Some things never change.
+    Nevertheless, I try to control my heartrate. I finger the switch of the flashlight in my jacket pocket.
+    When we reach the old library though, Hagami flicks on the lights.
+    Even during the day this place never received any natural light, so now in the evening it looks no different. Encyclopedias, novels, and textbooks alike litter the table. Dust rises as Hagami pulls out a chair.
+    TAKERU: "Hagami, do you really have to turn on the radio?"
+    For her this looks no different than a weekday lunch. Hagami fiddles with the radio dial, and the usual low hum of the orchestra comes into tune.
+    HAGAMI: "Have fun."
+    She deploys the oversized book she's been carrying through the halls and kicks back. Mana and I are left looking at each other in our matching "robes."
+    TAKERU: "Mana, where did you even get these things anyway? Did you rob a sack race or something?"
+    MANA: "Huh?"
+    TAKERU: "Oh never mind. What exactly are we doing here?"
+    Mana remains silent, but Hagami doesn't bother to glance up from whatever book is open in front of her. I swear the language reads from left to right.
+    MANA: "Matches! They're around here somewhere, right?"
+    HAGAMI: "Don't know."
+    MANA: "Initiate Takeru."
+    ...
+    TAKERU: "Are you talking to me?"
+    MANA: "You're the only initiate and the only Takeru, right?"
+    MANA: "Initiate Takeru, your job is to locate the matches. When you find them, bring them to Master Hagami for the traditional lighting of the ghost-hunting candles."
+    HAGAMI: "..."
+    MANA: "Uhhh, the lighting of the field expedition candles."
+    HAGAMI: "..."
+    MANA: "Uhhh, return them to Master Mana. I'll help you look."
+    
+    
+    
+    
+    
