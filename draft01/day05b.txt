@@ -121,6 +121,8 @@ label day05b:
     She flips another page.
     TAKERU: "Never mind. Fine. I'm taking this thing off."
     MANA: "What? Why? I was so happy you showed up with your own gear... I was really counting on you Takeru."
+    MANA: "Hagami, what happened to your robe?"
+    HAGAMI: "...Forgot."
     TAKERU: "I don't believe this."
     MANA: "Are we gonna get started or what? Hagami?"
     Hagami slams her book shut with a snap and gives Mana some kind of salute.
@@ -183,8 +185,182 @@ label day05b:
     HAGAMI: "..."
     MANA: "Uhhh, the lighting of the field expedition candles."
     HAGAMI: "..."
-    MANA: "Uhhh, return them to Master Mana. I'll help you look."
+    MANA: "Uhhh, bring the candles to Master Mana then I guess. I'll help you look."
+    Mana starts searching through every cabinet and shelf of the library. I'm left to poke around and the pile of supplies at the table where Hagami sits reading.
+    And the radio's even on... It's as if this is just another lunch break for her.
+    TAKERU: "This was very devious."
+    HAGAMI: "..."
+    Mana runs over holding up something in her hand.
+    MANA: "Found them. Hagami, here."
+    A few specks of dust rise as the matchbook lands between Hagami and whatever it is she's reading. I'm not very surprised when she pretends not to notice.
+    MANA: "Hagami?"
+    MANA: "Oh, right. Takeru, want to do the honors? I got these candles just for tonight!"
+    TAKERU: "You seem, er, really into this, so I'll leave it to you."
+    MANA: "Thanks Takeru! Hagami, can you pass me those? Thanks. Now, let's see... gotta be careful, don't want to light the robe on fire..."
+    I wouldn't particularly mind lighting my robe on fire once this is all over.
+    MANA: "Alright, if I've got the candle, then Takeru that leaves you with..."
+    TAKERU: "Hang on, what's this thing again?"
+    Mana's trying to hand me what looks like a bronze rabbit on a chain. I take it, thinking things would be so much easier if I could just pretend to ignore things like Hagami.
+    MANA: "It's a censer!"
+    TAKERU: "Oh, right. I didn't recognize this one. Aren't they usually shaped like, I don't know, balls with holes in them?"
+    MANA: "Any shape works. Hagami always wants to use that other one with runes carved into it and says it has stronger ties to the netherworld..."
+    HAGAMI: "It's true."
+    MANA: "But this one's tons cuter. We'll attract cuter ghosts like this, I'm sure."
+    I'm not so sure, but I unscrew the bottom as Mana strikes a match.
+    Before long, a noxious, leafy smell infiltrates the library. It has the distinct flavor of overstewed vegetables. Hagami coughs.
+    TAKERU: "This... I'd be really suspicious of any ghost that was attracted to this."
+    MANA: "It's Hagami's special incense."
+    HAGAMI: "Nope."
+    MANA: "You specifically made this last year! I got you the mint sprig and everything, and we made sure to grind it on the full moon, but you said that - "
+    HAGAMI: "Nope."
+    She's once again refusing to make eye contact over the edge of the book.
+    TAKERU: "Do I just swing this back and forth, or what?"
+    MANA: "Yep! That's it."
+    TAKERU: "Maybe we should go outside or something. Wouldn't want to suffocate in here."
+    Already it looks to me like Hagami's trying to suppress a coughing fit behind that tome of hers.
+    MANA: "Alright!"
+    She heads out the door, but Hagami remains lost in her reading.
+    TAKERU: "Hagami, you're not coming?"
+    She looks up, but makes no sign of moving. Instead she flashes me a thumbs up.
+    Thanks Hagami.
     
+    The school roof is quite different by night.
+    By now the sun is truly down, but night hasn't fully settled. The moon shines white against the gray sky.
+    The street lamps on the outside road throw shadows into the courtyard. Somewhere downstairs, that one light remains on.
+    Mana stands silent by my side.
+    I try to think of something to say, open my mouth, and inhale a healthy dose of Hagami's special full moon incense.
+    MANA: "Are you okay?"
+    TAKERU: "Ah..."
+    Finally my coughing subsides.
+    TAKERU: "Er, just swallowed funny I guess. At least it's cooler out here than in that library you guys are always at. This robe is pretty thick."
+    MANA: "Yeah."
+    TAKERU: "So what's next? How does one hunt for ghosts?"
+    MANA: "I'm not really sure. Hagami's the expert. I was kind of hoping she'd be more into it... She's kind of why I set this whole thing up."
+    TAKERU: "Wait, really?"
+    MANA: "Mhm."
+    MANA: "It's a lot of fun! Like a camping trip. In the heat of that ghost-hunting spirit... You really get to know each other!"
+    TAKERU: "I hope she's not sitting this out because I'm here."
+    MANA: "Nahh, she's pretty much used to you I think. Maybe? Dunno. She's hard to read."
+    TAKERU: "Well you're her best friend right?"
+    MANA: "Everyone's got their secrets."
+    And everyone keeps saying that.
+    MANA: "It's such a romantic idea though, isn't it?"
+    TAKERU: "Romantic?"
+    MANA: "Stillness. Murky perfume. Darkness... And then. Your eyes meet. And for the first time... You truly see each other..."
+    She's gazing off into space.
+    This is awkward. I have no idea if this "eyes meeting" business is talking about herself and me, me and Hagami, or herself and some supernatural sweetheart that we're hunting for.
+    TAKERU: "Er..."
+    MANA: "Never mind, never mind."
+    MANA: "Don't get me wrong, I still want to find some ghosts! We'll just have to improvise instead."
+    TAKERU: "After you."
+    Mana pushes open the door to the stairs and we walk downwards to the old wing. I do my best not to trip over the chain of the rabbit censer.
+    We finally come to that familiar corridor. I think at this point I could count the doors to Hikari's tea room even by the feeble candlelight.
+    MANA: "Slow down."
+    She starts to pause a second or two before each step, right after left. Am I supposed to keep time like a marching band or something? I almost trip over the hem of the robe dragging behind her.
+    MANA: "Follow my lead."
+    MANA: "...Kind of tough to see."
+    She holds the candle over head. I raise my hand with the censer chain to match before realized that this accomplishes nothing except to make me look even dumber.
+    Mana's candle flickers. The only noise is the rattle of the rabbit censer as it swings back and forth. I take another step behind Mana.
+    MANA: "This is the part where Hagami's book would come in handy. Those Rosicrucians had some good ghost chants. Too bad that couldn't save their civilization though, huh?"
+    TAKERU: "Er, I'm not sure - "
+    MANA: "Hey Takeru! Quiet a sec!"
+    Mana waves behind her to shush me, but try as I can, I can't hear anything.
+    MANA: "You heard that right?"
+    TAKERU: "Nothing."
+    MANA: "It was like... a footstep!"
+    MANA: "I think we flushed one out! What do you think? Should we check the rooms?"
+    TAKERU: "It couldn't be... Right, let's see if anyone's here."
+    She moves off the check a room at random, but I know just where I'm headed.
+    My hand rests on the tea room door. There's no way, right?
+    It slides open. Armed with perfume instead of a candle, I can't see a thing.
+    TAKERU: "..."
+    TAKERU: "Hikari? You're not there, are you?"
+    ...
+    MANA: "Takeru! Did you find something? I heard you talking."
+    TAKERU: "Just muttering to myself. Looks like the room's empty."
+    MANA: "Ohhh, right, this is the old tea room. Let's check it out!"
+    TAKERU: "Careful not to trip over the table."
+    I can just see her burning down the school.
+    MANA: "Nope. Nobody home. No ghosts..."
+    TAKERU: "Let's regroup in the hall."
+    Mana follows me out the door.
+    MANA: "Any other ideas?"
+    TAKERU: "Er, I'm honestly not sure what else there is to do. Are there haunted places on Mirako grounds or something? You mentioned some sort of shrine?"
+    MANA: "Well they built the school on top of it, you see, so it's not around any more."
+    MANA: "Let's just head up to the library. Even if we didn't find anything, we can at least get some reading in!"
+    TAKERU: "I didn't bring any textbooks."
+    MANA: "We can find something for you."
+    TAKERU: "As long as it's you picking and not Hagami."
+    I lead the way back down the hall to the stairwell.
+    Our pace is a lot faster without whatever Mana was doing on the way here, and I no longer feel compelled to swing my rabbit around.
+    But...
+    MANA: "Ow! Takeru, don't just stop dead in the middle of the hall like that! You can't blame me when I..."
+    It's just like Mana described.
+    Darkness.
+    In the stillness...
+    ...there's something ahead.
+    Eyes.
+    Eyes staring.
+    Eyes staring at me.
+    Someone, no, something, is standing in front of me.
+    HIKARI: "Takeru?"
+    The censer hits the ground with a clang.
+    HIKARI: "Takeru, that is you. What are you doing around here so late?"
+    TAKERU: "W-w-what are..."
+    TAKERU: "Hikari you scared the hell out of me! What are you doing here?"
+    HIKARI: "Didn't I ask you that?"
+    MANA: "Wow..."
+    MANA: "You must be..."
+    HIKARI: "Can you get that candle out of my face?"
+    MANA: "A ghost..."
+    HIKARI: "No."
+    TAKERU: "I'm sorry, Mana, this is my friend Hikari. She spends a lot of time down here during the day. And apparently at night too."
+    TAKERU: "Hikari, this is Mana, she - "
+    HIKARI: "I'm not all that interested."
+    MANA: "A ghost... Hm, less cute than I thought... And I was so sure the rabbit censer would do the trick..."
+    HIKARI: "Wait. Takeru, what are you doing with that? Doesn't that belong in the tea room?"
+    TAKERU: "Does it?"
+    MANA: "I moved it up to the library a couple weeks ago. It's not like anyone uses any of the rooms down here."
+    HIKARI: "I do."
+    MANA: "Well of course! But you use it in the afterlife, right?"
+    HIKARI: "Again, I am not a ghost."
+    TAKERU: "Oh, Mana, I forgot to mention. I figured out what happened with that chess set..."
+    HIKARI: "Are you the thief that keeps taking things from my room?"
+    MANA: "Sorry! If I'd had known there was a vengeful ghost - "
+    HIKARI: "Vengeful human. Please don't take others' belongings without asking. That set is handmade, you know."
+    MANA: "Sorry sorry sorry! I didn't mean any harm!"
+    HIKARI: "Anyway, I came to pick up my books. I accidentally left them down here yesterday afternoon."
+    TAKERU: "Do you want to borrow a candle or something."
+    HIKARI: "I think I'll be fine."
+    Hikari shields her eyes from the candle Mana still holds only a foot or so from her face.
+    TAKERU: "Are you sure? We can come with you."
+    HIKARI: "I don't know what you're doing wandering around here dressed like the inquisition but I'd rather not have any part in it."
+    Oh, right. I'm still in this ridiculous getup. Hopefully it's too dark for Hikari to notice my blushing.
+    TAKERU: "Er, right. We were uh..."
+    MANA: "Field expedition. Very serious stuff."
+    HIKARI: "You two have fun with that. I'll see you Monday, Takeru, hopefully dressed normally."
+    TAKERU: "For sure. Sorry about this whole thing."
+    HIKARI: "Your hobbies are your own business, I don't mind. Bye."
+    She vanishes off behind us as quickly as she came, footsteps not so much as echoing in the hall.
+    This... has pretty much been a disaster.
+    MANA: "I'm almost giddy. I've just seen my first ghost."
+    TAKERU: "Oh knock it off."
+    MANA: "Sorry. What did you say her name was again?"
+    TAKERU: "Hikari. She's a bit of an odd one. She might seem a bit prickly, and she spends all her time cooped up down here, but..."
+    I'm not sure where I'm going with this.
+    MANA: "Maybe I'll Hagami we found a ghost, anyway. That'll make her jealous. Then next full moon, for sure, she can do those chants, and I'll have my pick of ghosts, and they'll be so much more polite..."
+    TAKERU: "That's right, don't get discouraged. There's a ghost out there that's waiting for you."
+    MANA: "Thanks Takeru!"
+    
+    Hagami is waiting for our return.
+    I leave Mana to recount the night's encounter and instead busy myself with removing my robe as quickly as possible.
+    Both the girls look like they've decided to settle in for an evening of reading in the old library, and without a book in hand, I'd rather not risk hanging around before I get another manual of metaphysics thrust at me.
+    TAKERU: "I'm headed out. It was nice ghost-hunting with you."
+    MANA: "You too Takeru! Thanks for being a good sport! Hope we didn't embarass you too much in front of your friend!"
+    TAKERU: "Thanks. And Hagami you don't have to hide, I can tell you're laughing over there."
+    She turns away from me instead.
+    HAGAMI: "Good night."
+    TAKERU: "You too."
     
     
     
