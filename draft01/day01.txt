@@ -316,18 +316,18 @@ label day01:
     GIRL: "Any time."
     Zero enthusiasm.
     TAKERU: "I'll have to return the favor later, but er, I didn't catch your name."
-    GIRL: "Even if I told you, you wouldn't remember tomorrow."
+    GIRL: "Even if I told you, it wouldn't matter."
     TAKERU: "What?"
     GIRL: "Goodbye."
-    I want to ask more but I'm clearly being ushered out. I'm no sooner out the door than it closes behind me.
+    I want to ask more but I'm clearly being ushered out.
     TAKERU: "Shouldn't you be getting to class as well?"
-    But I more mutter it to the wall than to the strange girl behind it.
+    But I more mutter it to the hallway's wall than to the strange girl behind it.
     Is this par for the course at Mirako?
     Everything's been too fast so far.
     As I climb the stairs I just hope my grip on reality isn't starting to slip. But I took my meds this morning, I'm sure she was actually there the whole time.
-    She's probably just some shutin student.
+    She's probably just some shutin student, and I'm sure she won't be the weirdest person I meet here.
     
-    And finally I'm outside 3B.
+    Finally I'm outside 3B.
     Of course, between wandering around those unused classrooms and that terse encounter with the dusty girl, I'm well past fashionably late.
     Inside, everyone is seated and I can hear the teacher addressing the class.
     TEACHER: "...so please keep the application deadlines in mind when thinking ahead to the festival this year."
@@ -338,7 +338,7 @@ label day01:
     Everyone's eyes are on me now.
     TEACHER: "Ahh, you must be Ichiro Takeru."
     TAKERU: "Right."
-    TEACHER: "How about you introduce yourself then?"
+    TEACHER: "Right on time, how about you introduce yourself then?"
     TAKERU: "E-er... Hello."
     I can only stare back at these faces. I'll be spending the rest of the year with these people.
     When was the last time I talked to a big group like this that didn't already know be as the one and only Ichiro Takeru?
@@ -350,7 +350,7 @@ label day01:
     TEACHER: "You could start with your name."
     TAKERU: "Right. I'm Ichiro Takeru, but I guess you all already knew that. Takeru is fine. It's nice to meet - "
     Almost as soon as I remember how to talk like a human, I see one face in the sea of many.
-    Turquoise eyes. Shoulder-length brown hair. A hairclip, dark pink or purple.
+    Turquoise eyes. Shoulder-length brown hair. 
     I know her. At least I knew her a long time ago, or someone like her.
     It can't be her, can it?
     And just like that I'm struck dumb again. I'm saved by the teacher.
@@ -480,12 +480,12 @@ label day01:
     MANA: "Hashimoto Mana here! What did you say you were doing down here?"
     TAKERU: "I have no idea. Honestly, I'm a new student here, and I keep getting dragged into the weirdest stuff."
     MANA: "Oh neat! A transfer huh? What class?"
-    TAKERU: "I'm in 3B, but it's only my second day."
+    TAKERU: "I'm in 3B, but it's only my first day."
     MANA: "That makes you my upperclassman I guess! I'm in 2A. Oh well!"
     MANA: "But let's see, if you're new... Well you probably don't know this is the old wing then."
     TAKERU: "Old wing?"
     She's talking and picking up her papers at the same time, making it hard to hear.
-    I move to help her out. All the sheets of notebook paper are filled with sketches ofdoe-eyed girls and slightly misproportioned drawings of thin sparkly guys.
+    I move to help her out. All the sheets of notebook paper are filled with sketches of doe-eyed girls and slightly misproportioned drawings of thin sparkly guys.
     MANA: "Yep! The old wing. It's actually not that old! There were classes down here as late as last year but then they put in the glass and top floor after the fire."
     TAKERU: "I guess that explains all the dust."
     MANA: "Mhm."
