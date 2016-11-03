@@ -357,11 +357,10 @@ label day05b:
     Both the girls look like they've decided to settle in for an evening of reading in the old library, and without a book in hand, I'd rather not risk hanging around before I get another manual of metaphysics thrust at me.
     TAKERU: "I'm headed out. It was nice ghost-hunting with you."
     MANA: "You too Takeru! Thanks for being a good sport! Hope we didn't embarass you too much in front of your friend!"
-    TAKERU: "Thanks. And Hagami you don't have to hide, I can tell you're laughing over there."
-    She turns away from me instead.
-    HAGAMI: "Good night."
+    I have no idea how I'm going to spin this one tomorrow.
+    TAKERU: "Yeah, thanks a million. And Hagami, you don't have to hide. I can tell you're laughing over there."
+    She turns away from me instead, then turns back stonefaced.
+    HAGAMI: "Have a good evening, high spirit inquisitor Takeru."
+    MANA: "Good night, Takeru!"
     TAKERU: "You too."
-    
-    
-    
     
