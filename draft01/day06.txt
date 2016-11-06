@@ -337,5 +337,148 @@ label day06:
     ...she pulls her hand away.
     HIKARI: "You really don't have much faith, do you?"
     TAKERU: "Hey. You offered."
+    HIKARI: "It's fine. It's the usual."
+    TAKERU: "I don't think that really makes things better."
+    Hikari exhales. Her face draws up in frustration.
+    Finally shegestures at the chessboard. I take the cue and start setting up for a new game.
+    TAKERU: "Is this set really handmade?"
+    HIKARI: "Carved it myself."
+    TAKERU: "I didn't know you were into crafts."
+    HIKARI: "It was a long time ago. I wasn't that good, but..."
+    TAKERU: "They don't look so bad to me."
+    Each piece is made from smaller wooden parts, each sanded and painted either orange or green. The knights have a tapered cylinder for a snout and black flecks painted on the back.
+    HIKARI: "I put in the time and practice. Anything worth doing takes time and attention to detail."
+    TAKERU: "It's a shame about the missing knight then."
+    HIKARI: "We make do."
+    She doesn't look at it, but instead gestures at the thimble currently substituting for my kingside knight.
+    HIKARI: "Let's see if you have any basic openings down."
+    I take my first move, and play progresses in Hikari's curious style. She never deigns to actually touch the board and just calls her moves as I defeat myself.
+    TAKERU: "Hikari, I didn't mean it earlier. I know everyone at Mirako must..."
+    HIKARI: "Bishop A4."
+    TAKERU: "I know everyone has something against you. I'm just trying to make sure I'm not..."
+    HIKARI: "We need to start playing with a timer."
+    I pause and play into what's probably a trap.
+    TAKERU: "Sometimes it's hard for me to keep track of memory. Or even what's going on right now. It's part of why I'm at Mirako."
+    TAKERU: "So when Mana and Natsumi can introduce themselves then casually deny meeting you a day later..."
+    TAKERU: "I've started wondering if I should head back to the clinic for a while."
+    HIKARI: "..."
+    She's frustrated again. She takes her attention off the board and onto me.
+    HIKARI: "Okay, imagine this, Takeru. Something... happened. Something unpleasant happened in your past not too long ago."
+    TAKERU: "I get it."
+    HIKARI: "Something unpleasant for you, but unpleasant for everyone else involved. And there are a lot of other people involved, in their own ways. Everything's detailed."
+    My teammates could testify. I'm sure none of them would want to see me around again.
+    HIKARI: "But you're stuck. You made a bad decision. You can't just disappear, you have to talk to these people, see these people, and they have to see you over and over again forever. They just want to move on."
+    Is that how I'm remembered at Tohoku? Unremembered?
+    HIKARI: "So when someone stumbles over a name... It means it's more painful for them to remember than it is to me that they forget. I forgive them."
+    TAKERU: "That..."
+    I always had a choice like that, right? I didn't have to come to Mirako. I could be at Tohoku right now. My classmates wouldn't hate me. They'd be polite, but... they'd just pretend I didn't exist.
+    TAKERU: "I think I understand you a little better."
+    HIKARI: "That's... a little reassuring."
+    HIKARI: "Maybe if you spend a little time down here, you'll learn."
+    TAKERU: "No, I think I get it. I'm learning you're not so - "
+    HIKARI: "You'll learn not to walk into obvious traps. Your queen is pinned by the bishop now. I can mate in two."
+    I groan and look down at the board.
+    HIKARI: "If you want to take that move back, we can walk through this again tomorrow. You just need to pay more attention."
+    Half of her smiles.
+    TAKERU: "Right. Let's try that. See your tomorrow."
+    HIKARI: "So long, Takeru."
+    Hikari goes back to brooding over her untouched tea while I gather my things and head out into the hall.
     
+    There are still a few students filtering through the school at this point, most headed out after study or club activities.
+    I'm about to be free of this day's weirdness when I hear two voices from around the corner.
+    NATSUMI: "Well look who it is!"
+    And I'd almost escaped. Meiko and Natsumi come down the hall, Natsumi tossing a baseball up and down in one hand.
+    TAKERU: "Hi Natsumi, Meiko."
+    NATSUMI: "You stood me up, you dope."
+    MEIKO: "What?"
+    TAKERU: "I forgot, honest. I would've come if I'd remembered."
+    NATSUMI: "Hmmm..."
+    NATSUMI: "Well I guess we'll just have to try again later."
+    Meiko raises and eyebrow.
+    NATSUMI: "Takeru, you're on your way back to the dorms?"
+    TAKERU: "Yeah."
+    NATSUMI: "Oh, you should come with us, then. I've got a report to finish up so I'm in a bit of a rush."
+    MEIKO: "It can't wait? I've got some papers I need to pick up from the staff office."
+    NATSUMI: "You guys have fun. See you later then. And next time you won't be able to escape, Takeru."
+    She turns a corner and hopefully fades from earshot.
+    TAKERU: "That was ominous."
+    MEIKO: "What were you supposed to do today?"
+    TAKERU: "I'm... not sure."
+    Although I have a pretty good idea.
+    TAKERU: "Meiko, a quick question..."
+    MEIKO: "I do have to pick up those papers. Why don't you come?"
+    TAKERU: "Alright, so..."
+    She starts off down to the administrative offices.
+    TAKERU: "You haven't gone around telling people I used to play ba - "
+    TAKERU: "Er, I mean, you haven't told people I had that sports scholarship, right?"
+    MEIKO: "No."
+    She says that but she blushes.
+    MEIKO: "That'd be a little rude of me. Natsumi is just a curious judge of character."
+    TAKERU: "I guess."
+    MEIKO: "The Mirako baseball team has a big tournament in a week or so, so she might be a little on edge."
+    TAKERU: "Oh right, I almost forgot."
+    MEIKO: "That seems to happen often."
+    I can't tell if there's malice behind her words.
+    MEIKO: "You said you'd have time to help with the festival tomorrow?"
+    TAKERU: "Probably, yeah."
+    MEIKO: "That's what I'm picking up now, actually. There are a bunch of clubs that need to be contacted for displays and problems with their applications and things like that?"
+    TAKERU: "I guess that sounds like something I could do."
+    MEIKO: "Excellent. Wait here. This should only take a minute."
+    She gestures at the door to the staff office. I lean on the wall while she enters.
+    The only window in this hall is a small one in the corner. The hill outside is covered in loose foliage that drifts in the breeze.
+    Somewhere down there is the town proper.
+    And past that?
+    But I start paying attention to the room behind me again when I start hearing voices.
+    MEIKO: "Thanks, ma'am... We should be able to handle it."
+    STAFF: "I'm glad the council has been so on top of things. We've really left it up to you this year."
+    MEIKO: "Well, the festival is a student celebration, right?"
+    STAFF: "But you should keep Mirako's traditions in mind too."
+    MEIKO: "Considering the circumstances..."
+    STAFF: "You're really sure about skipping the fireworks this year?"
+    MEIKO: "I know it's important to Mirako but it'd be, well..."
+    STAFF: "No, I understand. It's your call to make."
+    Wait, hang on? Whose call to make?
+    STAFF: "We'll respect your decision."
+    MEIKO: "Thanks for your confidence. We'll put on a good festival this year with or without fireworks. And I'll take care of this paperwork."
+    STAFF: "Thank you again Meiko."
+    The girl in question emerges from the staff room, the same ineffable smile on her face.
+    I join her and we walk back towards the school gates.
+    MEIKO: "Sorry to keep you waiting."
+    TAKERU: "No problem."
+    She's shuffling through the forms in her hands and eventually hands off half to me.
+    MEIKO: "You're still fine with helping? I can handle this myself, probaly, if you..."
+    TAKERU: "I've got a debt to make up here."
+    MEIKO: "I beg to differ, but, thanks. Anyway, you can see those are either budget requests or else display applications. We've tried to circle what's wrong, and there's a person you should be able to get in touch with up top..."
+    But I find it hard to focus on her explanations with another question on my mind.
+    Finally, when we pass off of school grounds and start on the road home, I work up the nerve to ask it.
+    TAKERU: "Hey Meiko..."
+    MEIKO: "What's on your mind?"
+    TAKERU: "Fireworks."
+    She misses a step.
+    MEIKO: "What about them?"
+    TAKERU: "I thought I heard there was some something the administration said that meant no fireworks this year. After a fire last year or something they put their foot down."
+    MEIKO: "That's right."
+    TAKERU: "..."
+    MEIKO: "...You must've overheard. Didn't you?"
+    TAKERU: "I probably just didn't remember what Natsumi said. That's been happening. It's up to the staff, right?"
+    MEIKO: "...I find it very difficult to lie."
+    She stops completely this time to sit on a guardrail.
+    MEIKO: "It's my decision."
+    TAKERU: "What?"
+    MEIKO: "You know the Mirako main school building caught fire last year, right? On the night of the festival."
+    TAKERU: "I'd heard something like that. So they remodeled."
+    MEIKO: "It wasn't related to fireworks, really. It was a lantern fire, really. It was..."
+    There's something in her face I'd only seen glimpses of before. Anger? Something ugly.
+    MEIKO: "How are we supposed to celebrate with fireworks? No one wants to talk about it, but..."
+    MEIKO: "There were two students caught in that fire. It wasn't anything too serious in the ends, but, after smoke inhalation, complications..."
+    MEIKO: "We lost someone last year. They died."
+    There's something in my throat.
+    Meiko doesn't want to make eye contact and she doesn't seem to know what to say, but she keeps looking around like she isn't finished.
+    Finally she rises. We rejoin the road.
+    MEIKO: "It feels wrong. Just going on same as last year. What's so great about this place anyway that we should..."
+    TAKERU: "What was their name?"
+    MEIKO: "Who?"
+    TAKERU: "They died after getting caught up in the fire."
+    Meiko shudders. In a way I already know what she'll say.
+    MEIKO: "Her name was Hikari."
     

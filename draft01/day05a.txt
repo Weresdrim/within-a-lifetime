@@ -64,7 +64,7 @@ label day05:
     NATSUMI: "Oh? Some friend of yours? Are you two-timing on Meiko?"
     TAKERU: "Okay, for one..."
     Where do I even start with this girl?'
-    TAKERU: "Right, let's pretend I didn't hear that second part. I was waiting outside class and you came out and I was talking with her. That's Hikari."
+    TAKERU: "Let's pretend I didn't hear that second part. I was waiting outside class and you came out and I was talking with her. That's Hikari."
     NATSUMI: "Talking..."
     TAKERU: "Don't play mind games."
     NATSUMI: "Sorry Takeru. You must be thinking of someone else."
@@ -72,7 +72,7 @@ label day05:
     I hope that quiver of fear didn't manifest itself in my voice. My eyesight seems to tilt to one side.
     NATSUMI: "I don't remember any talking."
     TAKERU: "Well, to be fair, she didn't talk much, but..."
-    TAKERU: "Right, so what do you remember about yesterday?"
+    TAKERU: "So what do you remember about yesterday?"
     NATSUMI: "We teamed up as study buddies, and you proved you can't balance a reaction or throw a backback."
     TAKERU: "Okay I'm ignoring that too. Back up a bit though. It was before that."
     NATSUMI: "Uhhh... Let's see. There was no practice so I hung around in class a bit before we were set to meet in the library, and then..."
