@@ -393,13 +393,13 @@ label day06:
     MEIKO: "What?"
     TAKERU: "I forgot, honest. I would've come if I'd remembered."
     NATSUMI: "Hmmm..."
-    NATSUMI: "Well I guess we'll just have to try again later."
+    NATSUMI: "Well I guess we'll just have to try again later. There's been a change of plans so I've got to speed things up."
     Meiko raises and eyebrow.
     NATSUMI: "Takeru, you're on your way back to the dorms?"
     TAKERU: "Yeah."
-    NATSUMI: "Oh, you should come with us, then. I've got a report to finish up so I'm in a bit of a rush."
-    MEIKO: "It can't wait? I've got some papers I need to pick up from the staff office."
-    NATSUMI: "You guys have fun. See you later then. And next time you won't be able to escape, Takeru."
+    NATSUMI: "Oh, you should come with us, then. I need to grab some things then I might have to head to the hospital. One of my guys might be injured."
+    MEIKO: "Are you in a rush? I've got some papers I need to pick up from the staff office."
+    NATSUMI: "I guess I'll duck out then. You guys have fun... But next time you won't be able to escape, Takeru."
     She turns a corner and hopefully fades from earshot.
     TAKERU: "That was ominous."
     MEIKO: "What were you supposed to do today?"
