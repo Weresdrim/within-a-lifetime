@@ -1,0 +1,96 @@
+label day08:
+
+    I arrive at Mirako early again today, this time with Kenta in tow.
+    It's a crisp day. In a few weeks it'll probably be too cold to hang around outside in the morning like this. Today, though, it's pleasant break form the humidity of yesterday.
+    Traffic along the road up the hill starts to pick up. The familiar chatter of students on their commute doesn't work to take my mind off anything, though.
+    Maybe work will. Armed with my list of students and half-complete forms, I'll try to contact at least a few people before classes start.
+    TAKERU: "Hey Kenta. This guy's in 3A. Do you know him? He didn't put in any details for his budget request. Name's Suzuki."
+    KENTA: "Never heard of him."
+    TAKERU: "Alright... Do you know who the class rep is for 3A?"
+    KENTA: "I've never needed to know that."
+    TAKERU: "I was afraid of this..."
+    We're seated at one of the picnic tables out front of Mirako. Kenta is paging through a math textbook while I scribble next to the names on my contact list and wonder if I could've chosen a less helpful partner for this job.
+    TAKERU: "Do you really know nobody at this school?"
+    KENTA: "I know everyone I need to know."
+    TAKERU: "Wish I could say that."
+    TAKERU: "Plus half the people I know I almost wish I didn't."
+    Here's to you, Natsumi.
+    KENTA: "See? Being well-connected isn't everything. My frogs are only there when I want them to be, and they talk me into... What exactly is it you're doing anyway?"
+    TAKERU: "Stuff for the festival. And don't get me started about your frogs."
+    I came home yesterday afternoon to no less than five assorted amphibians in jars on my dresser. Plus one snake.
+    I'm not even sure if Kenta is the one embalming them at this point or he just has a source for dubious pickled animals. And I'm not really tempted to ask him about it.
+    MEIKO: "Good morning. You two are here early."
+    TAKERU: "Ah, hey Meiko."
+    I shuffle the papers in front of me into a pile under the list, for whatever reason.
+    KENTA: "Good morning, Meiko."
+    MEIKO: "How are things going with your lab partner?"
+    KENTA: "No. I don't understand what's so hard about just getting your own work done and talking to someone about it."
+    MEIKO: "Well if you can point her out, maybe I can help."
+    MEIKO: "Hm, seems it's almost time for class, isn't it?"
+    Kenta checks his watch.
+    KENTA: "Close enough."
+    KENTA: "Good luck on your people thing, or whatever it is, Takeru."
+    His things packed, Kenta strides off towards Mirako. Meiko waits beside me as I put the pile of forms into my bag.
+    MEIKO: "Oh, you're working on those festival application? Thank you Takeru. I appreciate it."
+    MEIKO: "Is that why you showed up early?"
+    TAKERU: "Er..."
+    For some reason I don't like that smile. She seems more cheery that I'm here at school well before I'd need to be rather than the fact that I'm trying to help her with all this paperwork.
+    TAKERU: "Pretty much. I don't know how you deal with all this."
+    MEIKO: "It's tough sometimes. But that's what I've got you for, right?"
+    TAKERU: "I guess."
+    MEIKO: "I'll count on you then. It's definitely a lot to get done, so let me know if you need any help."
+    TAKERU: "I can handle it."
+    Although this sort of thing is almost certainly better suited to her. Meiko seems to know everyone where I can barely name even my own classmates.
+    Nevertheless... I did sign up for this, right?
+    
+    I follow Meiko to homeroom.
+    Despite all my agonizing over my really simple job, I've still only managed to cross a single name off the list. Hopefully Meiko doesn't ask about it.
+    To my relief she doesn't.
+    MEIKO: "Maybe I didn't mention it when you first came to Mirako, Takeru, but Kenta's a good roommmate for you."
+    TAKERU: "Who do you even live with, anyway? Probably someone that doesn't plant dead animals in your room while you're out."
+    MEIKO: "What?"
+    TAKERU: "Nothing. I've got frog problems is all."
+    MEIKO: "You're still an entertaining person, Takeru. You know, I missed you after all these years."
+    I don't respond. Meiko throws a glance my way, not smiling.
+    TAKERU: "Er... It's been nice having you around too."
+    TAKERU: "Seems like you've changed a lot more than me though."
+    Meiko beams.
+    MEIKO: "That's for the best."
+    We enter the classroom, where, in a return to normalcy, Natsumi hasn't arrived yet.
+    Meiko takes out a page of notes as she sits down. It looks like a bunch of bullet points? Does she really have her daily talks to the class planned to that level of detail?
+    Meanwhile after two days I've managed to talk to one person out of maybe twelve that I've been assigned.
+    Almost as soon as Meiko gets up to address the class, Natsumi slips in and into the desk next to mine.
+    NATSUMI: "Morning, Takeru."
+    TAKERU: "Oh. Hi."
+    NATSUMI: "You look kind of grim. Not enough sleep last night?"
+    TAKERU: "I slept fine, thanks."
+    She pokes me in the shoulder.
+    NATSUMI: "So. Any status updates?"
+    TAKERU: "No."
+    NATSUMI: "Hmm..."
+    Natsumi gives me a sly grin as Meiko says something about exam results at the front of the room.
+    NATSUMI: "I know. You must've been tossing and turning all night thinking about my offer, right?"
+    TAKERU: "No."
+    Truth be told I didn't sleep great. Better than last night, when Hikari's question kept me up, but it seems things keep piling on day after day.
+    And Natsumi isn't exactly helping.
+    NATSUMI: "Too bad, too bad."
+    NATSUMI: "Y'know, I spent a lot of time scouting you. From day one."
+    TAKERU: "What? Scouting? Doesn't that involve... Actually watching someone play b-baseball?"
+    NATSUMI: "Aha. That's where you're wrong!"
+    I've definitely walked into a trap. I shouldn't have engaged. Now all that's left is to listen to Natsumi whispering as she leans across her desk.
+    NATSUMI: "Mirako's never had that great a team. I pretty much had to recruit everyone myself this year. Anyone with experience, I found them."
+    NATSUMI: "I heard you that first day you showed up in class, you know. You said you were into baseball in between all that mumbling. I had no idea you were that good though. That I figured out on my own."
+    Maybe if I keep staring straight ahead she'll stop talking.
+    NATSUMI: "It takes a lot of dedication, but I figured it out."
+    NATSUMI: "Why did you never say you went to Tohoku. Legendary Tohoku High. And an ace pitcher too. You're not just gonna let that go are you?"
+    TAKERU: "What? So you only got to know me so if you could figure out if I was any good?"
+    NATSUMI: "But from what I can see you are pretty good, aren't you? So it's not that bad, right?"
+    I won't dignify that with a response.
+    Did she seriously introduce herself and dog me around for a few weeks so she could get a handle on my baseball potential?
+    Here I thought I actually had a friend in her.
+    Meiko finally finishes addressing the class and arrives in my defense.
+    As she sits down, it looks like she already has stock of the situation.
+    
+    
+    
+    
