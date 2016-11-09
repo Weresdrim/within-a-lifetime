@@ -113,8 +113,8 @@ label day05b:
     Hagami has her face screwed up, not looking at me, but clearly trying to hide her laughter.
     TAKERU: "I've been set up. Thanks a ton."
     MANA: "Huh?"
-    MANA: "Anyway, I hope I didn't keep you guys waiting for long. I almost forgot the red candles! That would've been bad, right Hikari? What would we have done with just the white ones?"
-    MANA: "Actually, Hikari, where's your robe?"
+    MANA: "Anyway, I hope I didn't keep you guys waiting for long. I almost forgot the red candles! That would've been bad, right Hagami? What would we have done with just the white ones?"
+    MANA: "Actually, Hagami, where's your robe?"
     HAGAMI: "Forgot."
     Hagami shrugs. It's the least convincing thing I've ever seen.
     TAKERU: "You can't pretend that you didn't..."
@@ -139,9 +139,9 @@ label day05b:
     TAKERU: "Yeah, thanks. Right, let's just go to the library then and I can get this ridiculous thing off."
     The school is thankfully unlocked. I think back to that one light on through the glass. Is some administrator staying late? Or are things always left wide open like this?
     If I end up suspended for trespassing my second week here, while wearing a potato sack nonetheless...
-    Still, I follow after the energetic Mana and the stoic Hikari.
+    Still, I follow after the energetic Mana and the stoic Hagami.
     In the modern half of Mirako, lights flicker on and off as we traverse the hallway. No doubt there's some sort of motion detector installation.
-    But as we cross into the older half, the light fades. Mana clicks on her flashlight, but instead of shining it ahead of us, she holds it under her chin and turns around to face Hikari and me.
+    But as we cross into the older half, the light fades. Mana clicks on her flashlight, but instead of shining it ahead of us, she holds it under her chin and turns around to face Hagami and me.
     MANA: "Members, and uh, apprentice, of the Mirako supernatural club, are you ready for the greatest ghost hunt of the year?"
     HAGAMI: "Field expedition."
     MANA: "Fine. Master Hagami, are you prepared?"
@@ -160,9 +160,9 @@ label day05b:
     HAGAMI: "The library."
     Mana's flashlight clicks on again, further scarring my pupils.
     MANA: "Onwards!"
-    I follow Mana's lead through the lowest floor of the old wing. Hagami's light footsteps nevertheless echo behind me. We pass Hikari's team room.
+    I follow Mana's lead through the lowest floor of the old wing. Hagami's light footsteps nevertheless echo behind me. We pass Hikari's tea room.
     While on the one hand, I feel stupid as anything trapsing through the hall of my highschool in some knockoff monk's robe following this wannabe-cultist with a flashlight...
-    ...But the old wing is unsettling enough in the daytime. I remember those times Hikari managed to sneak up on me. I glance behind my back, but the only one there is Hikari... staring down at her book as we walk.
+    ...But the old wing is unsettling enough in the daytime. I remember those times Hikari managed to sneak up on me. I glance behind my back, but the only one there is Hagami... staring down at her book as we walk.
     Some things never change.
     Nevertheless, I try to control my heartrate. I finger the switch of the flashlight in my jacket pocket.
     When we reach the old library though, Hagami flicks on the lights.
