@@ -363,4 +363,3 @@ label day05b:
     HAGAMI: "Have a good evening, high spirit inquisitor Takeru."
     MANA: "Good night, Takeru!"
     TAKERU: "You too."
-    
