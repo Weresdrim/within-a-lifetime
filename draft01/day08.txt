@@ -390,7 +390,71 @@ label day08:
     HIKARI: "I try not to hold it against anyone, but seeing life just go on without you is a disheartening."
     TAKERU: "I sort of understand."
     HIKARI: "I doubt it."
-    
-    
-    
+    Hikari's teeth are ever so slightly bared as she glowers at her teacup. I only have a chance to register her expression before her face softens.
+    HIKARI: "How is everyone, then? What's the mood at Mirako?"
+    TAKERU: "The mood? Kind of hard to say. I'm still just a transfer student so I don't know what ordinary life really looks like. I guess the festival's coming up again, right?"
+    TAKERU: "Oh, and a baseball tournament too. I don't know how many people care about, that captain keeps pestering me to join up. I think you met her. Natsumi."
+    I do my best to explain the situation. It's the first time I've ever actually laid this out for someone I think.
+    Meiko would probably seem like someone I could trust with this, but she feels too involved. They always seemed like friends, so I don't know what happened this afternoon
+    And I don't know how Natsumi found that Tohoku stats book, either.
+    HIKARI: "I guess you only have to deal with this for another week or two until the tournament. I'm sure that's small comfort though."
+    TAKERU: "Yeah. I should probably stop complaining."
+    HIKARI: "Well... Don't let anyone push you around."
+    She seems more distracted then normal focused self.
+    HIKARI: "You probably don't know, but... Who's organizing the festvial this year? The student council?"
+    TAKERU: "Yep. Or at least Meiko is. It's complicated but I knew her going. It seems like she's got evertything under control."
+    There's a faraway look on Hikari's face. She seems even less cheery than usual.
+    HIKARI: "...She's doing alright for herself then?"
+    TAKERU: "Meiko? You know her then?"
+    HIKARI: "Like you said, it's complicated. Everything Meiko is complicated."
+    She talks to no one in particular.
+    HIKARI: "What's she been up to this past year then?"
+    TAKERU: "Planning the festival, but apart from that... I only know her from years ago. We pretty much grew up together. We used to be good friends."
+    HIKARI: "Then that's what I want to hear about. Do you mind telling me about it? If it's not too unpleasant."
+    TAKERU: "Not at all."
+    It is a bit of an uncomfortable story for me though, in that anyone who hears it will probably come to the conclusion that I'm a heartless bastard.
+    We knew each other at first. Then she lost her parents and moved in with her aunt's family, just down the road.
+    I spent time with her, but I spent time with the guys I played baseball with too. And then when the scout from Tohoku showed up, I bit at the opportunity.
+    I could've said goodbye, but... it wouldn't have changed the fact that I was always going to leave.
+    Hikari just brews over her tea while I explain this. Don't ask me why I'm fine with telling her all this. She's always seemed to be disconnected and impartial that it just feels right. Maybe not right, but at least comfortable.
+    It takes Hikari a few moments to reply. She stands up, shakily, and walks over the cabinets. She's looking right at the carved chess set.
+    HIKARI: "I think I understand her a little better now."
+    TAKERU: "Meiko?"
+    HIKARI: "Meiko."
+    HIKARI: "When I knew her, I always had questions, but, knowing where she came from."
+    HIKARI: "I said it was complicated."
+    I keep waiting for her to elaborate, but it never comes. Instead...
+    HIKARI: "What... What was your name?"
+    TAKERU: "Er, are you... I'm Takeru. Hikari, are you alright?"
+    HIKARI: "I don't recall..."
+    I'm trying to figure out what I can even do to help her. I look from the door, to the shelves, the windows, the counter... There's got to be something around here. I don't even know what's going on.
+    TAKERU: "Hikari, what - "
+    But when I turn back to her, she's gone.
+    HIKARI: "You said something?"
+    TAKERU: "Ah!"
+    She's sitting at the table. In just the spot she was when I entered.
+    TAKERU: "When did you - "
+    HIKARI: "Oh. You're still here, Takeru."
+    TAKERU: "What just happened?"
+    HIKARI: "I don't think anything happened."
+    TAKERU: "You... asked me my name?"
+    HIKARI: "I don't remember that."
+    She just looks confused.
+    HIKARI: "Do you need to sit down?"
+    TAKERU: "I think so."
+    TAKERU: "It must just be my mind playing tricks on me. I could've sworn you said something and then..."
+    HIKARI: "Maybe not."
+    HIKARI: "Do you ever have those dreams, like where everything is plausible and familiar, and then, you spot a detail? Just a speck out of place, and you realize, 'this must be a dream?'"
+    TAKERU: "Not for a long time, but, I think I know what you're talking about."
+    HIKARI: "And then everything in the dream world falls apart. Then you wake up."
+    HIKARI: "I felt like I was nodding off and just woke up."
+    There's nothing I can do but nod. I don't get it at all. It was probably another slipup in my dysfunctinoal brain.
+    HIKARI: "Thanks for the tea."
+    It's untouched, of course, but I can tell I'm being dismissed.
+    TAKERU: "Right. I guess I'd better head home. Thanks for listening to me go on about my dumb problems for a bit."
+    HIKARI: "It was the most, well, real thing I've heard in a while. See you later."
+    TAKERU: "Bye."
+    I leave the door half-closed behind me and take a few trepidatious steps down the hall.
+    Knowing Hikari's secret, I had thought these little slipups in memory would be slowing down. But there's still something not quite right, for at least one of us.
+    Maybe I still don't know the full truth.
     
