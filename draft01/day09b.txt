@@ -93,14 +93,17 @@ label day09b:
     MEIKO: "Is your sandwich alright?"
     TAKERU: "Yeah, it's good, if you want some. I feel kind of guilty eating it though if you don't have anything."
     MEIKO: "Really, enjoy. Don't worry about me."
-    TAKERU: "Right, I guess that's pointless. You keep proving you can take care of yourself."
+    TAKERU: "Right, I guess that's pointless. You've pretty much shown you can take care of yourself."
     She laughs.
     There's a spiced smell in the air, almost like a cidre. Must be some seasonal drink they have in stock. It mixes with the fumes from Meiko's coffee.
-    TAKERU: "I guess I really should thank you."
+    TAKERU: "I guess I really should be thanking you instead of worrying about you."
     MEIKO: "Hm?"
     TAKERU: "For worrying about me. I'm trying to think where I'd be without you."
     MEIKO: "Without me?"
-    TAKERU: "At Mirako, I mean. If I didn't run into you I'd probably be out, I don't know, catching frogs with Kenta today. Or locked up in my room feeling sorry for myself."
+    TAKERU: "At Mirako, I mean. 
+    TAKERU: "I didn't know anyone. Coming from Tohoku, it was... I couldn't tell anyone about that, so, just having someone around that understood that..."
+    TAKERU: "I'm not sure where I'm going with this, but, I was just entirely lost for a while, especially before I came to Mirako."
+    TAKERU: "If I didn't run into you I'd probably be out, I don't know, catching frogs with Kenta today. Or locked up in my room feeling sorry for myself."
     TAKERU: "To tell the truth I avoided you those first couple days. I was worried you'd hate me."
     MEIKO: "What a funny thing to think."
     MEIKO: "Takeru, the only person pulling you out of Tohoku and into Mirako is yourself. If you're used to it here, the credit is yours."
@@ -222,6 +225,54 @@ label day09b:
     MEIKO: "I can't deal with you, and Natsumi, and the festival, and... her."
     MEIKO: "I knew I couldn't pretend forever and now I'm stuck. Valedictorian, good school, the law degree, academics..."
     MEIKO: "There was never a plan. It's just a dead end."
+    And Meiko sits there, staring. She's challenging me to respond.
+    But I'm at a loss for words. It's not that I'm totally taken by surprise. There was always something just slightly off about Meiko, just off enough that I thought I could ignore it.
+    It's not that I'm at a loss for words, but I think that anything I could say wouldn't properly communicate how I feel or what I want to do.
+    I want to apologize but it'd just sound hollow. I want to forgive her for setting Natsumi on me, but I'm the one who should be asking forgiveness. I want to tell her to hang in there, but the last thing she wants is my pity.
+    And I don't pity her. Is this... empathy? Is that why I could see what she was describing so clearly? Or did I remember that scene? For a moment was I back home, back then?
+    No. I've always been sitting here in a cafe in Mirako. And now I need to figure out how to deal with this.
+    TAKERU: "Where's that place we're supposed to pick up the rental equipment? And when do we have to be there?"
+    Meiko snorts and pushes away her empty coffee.
+    MEIKO: "Haha, Takeru, you don't have to keep playing along. Go home. I'll work it out at the office and someone on the staff can rent a truck and come down to pick it up."
+    TAKERU: "I'm serious. We're already in town, so let's just get it done. Don't think I'm helping you out of guilt or debt, or... whatever."
+    MEIKO: "Well then?"
+    TAKERU: "It sounds like you actually could use the help."
+    She hesitates, as if to refuse, then takes a few breaths.
+    MEIKO: "Fine. It's not like I can avoid you forever anyway. There's always school tomorrow."
+    TAKERU: "Don't remind me."
+    MEIKO: "The rental place is maybe five minutes away. Let me just grab a sandwich to eat on the way there."
+    She smiles. It's grim, but it's something.
+    
+    The equipment in question is a massive barbecue grill and a pushcart to go with it.
+    I can see why Meiko talked about getting a truck. This thing would definitely not fit in a car, and it's a two person job to cart it up the road to Mirako.
+    There's a level patch of dirt by the guardrail. We guide the cart and grill over and take a moment to cool off.
+    Meiko catches her breath. I'm pretty sure I'm sweating through my shirt.
+    TAKERU: "Having someone pick this up with a truck isn't sounding so bad... How on earth did you move this last year?"
+    MEIKO: "Natsumi and I did it. Can you believe?"
+    TAKERU: "Actually yes. Well, no. I have no idea how you conned her into doing actual work."
+    MEIKO: "Haha, Natsumi is easy. You just have no idea how to deal with her."
+    TAKERU: "We'll be lucky if this only takes another hour."
+    I'm about ready to start pushing that terrible cart again, but Meiko's looking out over the guardrail. Instead of calling, I walk over.
+    It's the same spot we stopped at a month ago now. Instead of the usual Mirako shallow hill, the ground falls away into a cliff. There aren't any buildings out that way. Just fields, farms, meadows.. and mountains.
+    MEIKO: "..."
+    TAKERU: "..."
+    There's that deja vu again.
+    MEIKO: "Ready to go?"
+    TAKERU: "Yeah."
+    She keeps looking at me though. There's no animosity, there, just... caution? Confusion?
+    I'm sure to her I look the same way.
+    If before I was uneasy, now this is uncharted territory. I'm not sure where I stand with her. I'm not sure what I think of her.
+    But I think we both feel that way. We both know each others' past, at least, for better or for worse.
+    So it seems we're united in our unease. So even though now I'm even less sure what exactly we are to each other, it feels closer.
+    I sigh and we take our places at the cart, never quite looking at each other, and we get back to work moving the grill.
+    I might complain, but I don't regret it.
+    
+    By the time I'm almost back to the dorm, the sun is low in the sky.
+    Meiko and I really didn't have much to say other than goodbyes after finishing the job, and I'm sure it's going to take another day or two to process everything.
+    I open to the door to my room. My plan is to take a nap, then if there's still time left, head - 
+    WHACK.
+    I walk face first into a wooden beam.
+    TAKERU: "Kenta, what the hell?"
     
     
     
