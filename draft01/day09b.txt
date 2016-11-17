@@ -273,7 +273,83 @@ label day09b:
     WHACK.
     I walk face first into a wooden beam.
     TAKERU: "Kenta, what the hell?"
+    KENTA: "Good afternoon, Takeru."
+    TAKERU: "I left this morning and it was a zoo in here, now I come back and it's a lumberyard, and you - "
+    KENTA: "Good afternoon, Takeru."
+    TAKERU: "Good afternoon, Kenta. Now why is there wood all over the place?"
+    KENTA: "I'd think it's obvious. Didn't we go over this?"
+    He gestures at the assorted planks and boards scattered around the room. A few are attached to each other at 90 degree angles and standing up from the floor, including the beam I just walked into, which is effectively barring the door at face-level.
+    Actually, maybe it's lucky for Kenta that there's a two by four preventing me from getting at him.
+    TAKERU: "How did we 'go over' this? Are you making a barricade? Are you you expecting me to storm the room or something?"
+    KENTA: "You told me to do this."
+    TAKERU: "Right. Okay. Just explain what you're doing. Simply."
+    KENTA: "I'm building a cabinet. We're out of display space."
+    TAKERU: "Oh."
+    TAKERU: "There's not enough room on my dresser for frogs so you're building a cabinet."
+    KENTA: "Yes."
+    TAKERU: "..."
+    TAKERU: "You know it's possible to just buy these things, right? How did you even get this stuff up to..."
+    I duck under the board that hit me in the face and pick up a ten page multilingual instruction booklet off the floor.
+    TAKERU: "What step are we on? The sooner I have my dresser back, the better."
+    KENTA: "You don't keep any clothes in it, so I wouldn't call it your dresser, precisely. We have a good system going so let's not spoil things by getting possessive."
+    TAKERU: "Just me know what I need to do before I lose my patience again."
+    KENTA: "Hold this steady."
+    TAKERU: "That things six feet long."
+    KENTA: "Yes, it is. I need to screw this bracket on."
+    KENTA: "..."
+    KENTA: "Can you please stop that wobbling? Thank you."
+    TAKERU: "This was not a great idea..."
+    Not a great idea, but not a terrible way to spend the afternoon and evening either. I'd almost enjoy it if I wasn't already sore from pushing that grill all the way to school.
+    When Meiko and I parted ways, we didn't have much to say to each other. While I'm less uneasy now, there still feels like a huge gap between us. I'm more concerned with what I'll have to say when I see her tomorrow.
+    Luckily Kenta's exercise in cabinetry is a distraction. And when we finish, we have something to show for it.
+    KENTA: "Not bad."
+    TAKERU: "Not bad for something that was a pile of junk a few hours ago."
+    KENTA: "And useful too."
+    KENTA: "Takeru, you have a black eye. Were you in a fight?"
+    TAKERU: "The only fight I was in was with your new furniture. It'll all be worth it if don't have to look through frog jars every morning though."
+    KENTA: "I'll need a while to come up with a good plan for organizing everything though. This isn't something we'd want to rush."
+    TAKERU: "Does this mean that I get my dresser - "
+    But Kenta's already busy shuffling around his insects, preserved amphibians, and stacks of clothing from one dresser, to the other, to the newly constructed cabinet.
+    It looks like the top shelf is reserved for dragonflies. The cabinet drawer is for socks. One giant moth sits alone on the cabinet top.
+    I sit back and watch the whirlwind. But when things finally settle, my dresser is still occupied.
+    TAKERU: "Hello old friend."
+    KENTA: "Are you talking to that lizard?"
+    TAKERU: "He's staring at me. Again."
+    KENTA: "Takeru, I'm worried about your health. You've been acting very strangely lately."
+    TAKERU: "I'm not actually talking to the lizard, you know."
+    KENTA: "Then who are you talking to?"
+    TAKERU: "You can be impossible sometimes, Kenta. Thanks for getting some extra storage space, I guess."
+    KENTA: "You helped put it together, but, you're welcome."
+    He checks his watch.
+    KENTA: "But now it's time to eat."
     
-    
-    
-    
+    Kenta falls asleep immediately after dinner.
+    Actually, he looked exhausted. Who knows how long he was struggling to put all those shelves together before I showed up?
+    I should probably turn in as well.
+    But, for some reason, I can't sleep.
+    What exactly is holding me up? There's no huge problem I'm going to have to deal with any time soon. I figured out what was up with Meiko, right?
+    TAKERU: "..."
+    I sit up in bed.
+    If I had to describe my mood, it'd be somewhere between confusion and guilt. I honestly thought Meiko had forgiven me, and now it turns out she despises me.
+    But she felt so guilty about that that she decided to be honest, so... Did I lose a friend or gain one?
+    Lifting myself out of bed, I open the top drawer of what was once my dresser. I expected shirts but I got dried beetles.
+    Next drawer down is the emergency supplies. I guess the flashlight won't hurt if I don't want to wake Kenta up.
+    The rest of the drawers hold more shirts, dull brown chemical bottles, and an exhaustive set of differently size tweezers.
+    Taking care not to make any noise opening anything, I start searching the new cabinet.
+    Found it.
+    It's an cardboard box, not taped shut, but closed with each tab folded under the other. Looks like I really haven't touched this stuff since Tohoku.
+    There's some old clothes. Mostly uniforms, but my baseball jersies are tucked in there too, both home and away. Plus my glove. I try not to look at those.
+    The other half holds papers. There are some brochures in there, plus some scorecards I filled out from a few college games I used to go to. I rifle through old tests and a scouting report.
+    At the very bottom are the envelopes. There's maybe 30 in total, all addressed to me, signed, and postmarked. All of them are sealed, too.
+    She said if I'd replied, even once, to one of these letters, she wouldn't be at Mirako.
+    Why is she here in the first place?
+    I flip one of the envelopes around, back to front, then hold it to the flashlight. It looks like lined paper in there, maybe two pages.
+    I can't remember why I never even opened them. There were a few friends from back home I called once or twice, but, at the time, it seemed utterly irrelevant. There were plenty of people, dozens of people, all around me that wanted to know me.
+    And they were all like me. Either baseball players, or at the Tohoku feeder school, baseball nerds at minimum. Of course they wanted to call me their friend. I was a top prospect.
+    I keep turning the letter over and over in my hand.
+    What good what it do to open it now? It seems like picking a scab. It seems like the letters should be burned or buried, or just stuffed in a box and never looked at again, like the rest of my relics from Tohoku.
+    Reading them now changes nothing.
+    That confusion steadily gives away to the guilt, then just to an oppressive regret.
+    If I could redo things, I would've made a different choice.
+    Would I have even gone to Tohoku? If I knew how it'd end? With a total waste of talent, the burning of all my bridges, and a psychosis diagnosis to cap it off?
+    If I had the chance, I'd do it differently. I'd fix things. Who knows if they can even be fixed now?
