@@ -1,0 +1,106 @@
+label day10:
+
+    I'm up almost before the sun.
+    Last night I set the alarm for almost an hour earlier than normal, but I'm awake even before that. Guess a little paranoia never hurt.
+    In that aftermath of yesterday's disaster there are a few things I want to get done this morning.
+    That box with all my Tohoku memorabilia is still out in the open. I'm tempted to burn it or else dig a hole and bury it out back, but I settle for wrapping the whole thing in duct take and shoving it back in the cabinet. Lighting it on fire would probably wake Kenta up.
+    It can't be healthy wondering what's inside those letters from Meiko. I can imagine. I'm pretty sure I did imagine yesterday.
+    But isn't this running away? Would finally reading them get me to stop worrying about them for once? No. No of course not. That's what the duct tape's for.
+    With that taken care of, I'm almost ready to go, when, of course, Kenta stumbles out of bed, punctuating his speech with yawns.
+    KENTA: "Good... Good morning, Takeru."
+    TAKERU: "Yeah, good morning. I was about to leave a note, but I'm headed to Mirako. See you."
+    KENTA: "You... what? Did you take your - "
+    TAKERU: "It's been less than a day. Do you really think I'm going to forget that easily?"
+    KENTA: "No, but, well, you did have a long phone call with that doctor yesterday, so, maybe something had changed."
+    TAKERU: "Same old stuff. They want me to go in to the clinic for a few days for observation, but, I think I'm doing alright here. I just can't forget again."
+    To be honest though, I'm playing it down. Dr. Meadow wanted me back for a "few weeks" and the call was only that long because the last thing I want to do is have to start back at Mirako all over again. Instead, I'll fix this myself.
+    Which is why I need to leave early.
+    TAKERU: "See you later then, Kenta."
+    KENTA: "Have... Have a good morning."
+    
+    It's cooler than I'd like on the road up to Mirako. Cool enough where I should probably invest in a coat, because I'm pretty sure I just sealed my only overcoat (maroon with the Tohoku seal) into a cardboard box.
+    When I get to the Mirako gate, I miss a step and almost fall over.
+    I regain my balance and hesitate, looking up at Mirako's glass windows shimmering in the rising sun.
+    Idiotic. Why am I hesitating now? I worked out a plan last night, I knew how to fix this, and now I'm stuck before I even set a foot in the doors.
+    Dr. Meadow's recommendation was that I stay in my room today, then come in for observation tomorrow, and we'd reconsider Mirako next semester because somewhere someone had underestimated the extent of my illness.
+    Remembering the circumstances of my first admission, I really don't see how any could've "underestimated" it. This was nowhere near as bad as that first time and I'll be damned if I just run away from all of it again.
+    I took my pills today, so things should be fine. Just start walking again, get through that gate, get through that door, and go find -
+    HIKARI: "Takeru. A little early isn't it?"
+    ...Hikari.
+    TAKERU: "H-hello Hikari. You're..."
+    HIKARI: "You didn't expect to see me?"
+    TAKERU: "No, not really. I was just going to find you. I thought you'd be, well..."
+    HIKARI: "In an abandoned tea room somewhere, sulking?"
+    TAKERU: "Basically."
+    I'll leave out that I had no idea if she'd be pleased to see me or not. Yesterday... Maybe it was just me, but when she appeared in class she was nothing but pure malice.
+    The Hikari next to me doesn't seem concerned about that. She seems more concerned about me.
+    HIKARI: "I've been trying to push things. I never really knew what I could, or what I couldn't do. There never seemed to be a point to wandering around, so I stuck to where I was comfortable."
+    HIKARI: "Do you always come before classes and just stand here?"
+    TAKERU: "...No."
+    HIKARI: "Then why - "
+    TAKERU: "Yesterday was a bit interesting. Alright, it was a disaster, so I'm trying to..."
+    HIKARI: "Waiting here doesn't exactly solve anything does it? Let's get some tea. I'm interested to hear about it."
+    TAKERU: "Thanks. Okay, you're right."
+    I follow her down the pathway and into Mirako proper.
+    With nobody in the halls, we head for the old wing.
+    TAKERU: "This sounds like a stupid question, and it's been bothering me, but..."
+    HIKARI: "If it's bothering you, it's by definition important."
+    TAKERU: "Did we talk at all yesterday?"
+    HIKARI: "No."
+    TAKERU: "Really?"
+    HIKARI: "I went to your class in the afternoon to try and find you, but no luck."
+    TAKERU: "You're telling the truth?"
+    HIKARI: "The truth as I know it. Memory can be a funny thing."
+    TAKERU: "..."
+    We arrive at the tea room. I don't bother trying to figure out the implications of what Hikari's trying to say, and instead just concentrate on making tea.
+    HIKARI: "Why don't you try explaining exactly what happened?"
+    TAKERU: "I lost it. Remember I said I felt like some edges didn't quite match up? Like people forgetting who you were, saying they'd never met you."
+    HIKARI: "...I remember."
+    TAKERU: "It was sort of like that, but everywhere. I forgot to take my pills, and then..."
+    TAKERU: "Do you know shizophrenia?"
+    HIKARI: "In an abstract way. The details..."
+    TAKERU: "Well, somewhere, what I saw happening stopped being at all related to what was actually happening."
+    TAKERU: "I... saw you in class. And at lunch."
+    HIKARI: "I was never there. My own memory's been losing its... Well, that's not the relevant. No, I definitely wasn't there."
+    TAKERU: "...And probably I didn't see you at lunch, either."
+    HIKARI: "No."
+    TAKERU: "..."
+    HIKARI: "You're seeing me know, if that's what you're wondering. I'm really here. You didn't just invent me out of nothing."
+    TAKERU: "Right. Okay. There's a ton happening, but here's a place to start."
+    TAKERU: "I told you about Meiko? How I let her down?"
+    HIKARI: "I heard the basics."
+    TAKERU: "I was totally wrong about her.
+    Hikari has both hands out over her cup of tea. I wonder if that actually warms her up? Nevertheless, she's hanging on every word, so I might as well take this opportunity to put everything together.
+    TAKERU: "She never really forgave me."
+    HIKARI: "...What?"
+    TAKERU: "She said... it was an act, mostly. She just wanted to prove she didn't need me, so she was acting all gracious and composed. I think she still hates me."
+    TAKERU: "Guess she just wanted to show she could shrug people off as easily as I could back then."
+    HIKARI: "I don't believe it."
+    TAKERU: "That's what she - "
+    But Hikari doesn't seem to be in disbelief, just upset.
+    HIKARI: "Not Meiko. No."
+    TAKERU: "You know her? Or... knew her, I guess?"
+    HIKARI: "Yes, but... I haven't seen in her in almost a year now. I think you're wrong about her, but, it's not important. Keep going."
+    TAKERU: "I hadn't talked to Meiko since she came out with that, and then..."
+    TAKERU: "It must not have actually happened, but I heard her... It wasn't an accusation, but, more..."
+    TAKERU: "More terrible. It couldn't have been real. I don't know where that voice came from. She told me I'm a coward because I keep running away from remotely unpleasant without worrying about what it'll do to other people."
+    TAKERU: "Whether it was her or not, it was pretty spot on."
+    HIKARI: "Not really."
+    HIKARI: "You're here, talking to me, a person who probably couldn't be called a person any more, even after you found that out. You're still at Mirako, even after what sounds like a nightmare yesterday."
+    TAKERU: "I up and left Meiko once. No idea how I'm supposed to talk to her now... And after things went wrong at Tohoku I escaped out to Mirako."
+    TAKERU: "And I don't even know why I why I'm here talking to you. I guess I'm just trying to figure out if I hurt anyone. If that happened again I'd probably prove Meiko right and go back to the clinic."
+    TAKERU: "I don't want that happening again. Ever."
+    HIKARI: "Takeru..."
+    HIKARI: "You never did tell me what happened at Tohoku."
+    TAKERU: "It's..."
+    In a moment I'll probably be lying to her, so I try to avoid looking her in the eye.
+    HIKARI: "I know you're hiding it. Or at least avoiding it. I think... if you brought everything in the open, it might help."
+    TAKERU: "It's not a very pleasant story. And I end up looking worse than dirt."
+    HIKARI: "I don't judge. You can trust me."
+    I remember that hand she held out, the hand I tried to grasp but couldn't. She trusted me then, that I wouldn't run away screaming.
+    Right. I'll try you, Hikari. Don't abandon me for this.
+    
+    
+    
+    
+    
