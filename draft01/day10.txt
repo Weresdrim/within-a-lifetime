@@ -98,7 +98,52 @@ label day10:
     TAKERU: "It's not a very pleasant story. And I end up looking worse than dirt."
     HIKARI: "I don't judge. You can trust me."
     I remember that hand she held out, the hand I tried to grasp but couldn't. She trusted me then, that I wouldn't run away screaming.
-    Right. I'll try you, Hikari. Don't abandon me for this.
+    Right. I'll try it, Hikari.
+    TAKERU: "I think it wasn't even a month into my second season, er, second year at Tohoku High. I hadn't been feeling great for a while but I put it down to nerves. I never really got nervous before, but..."
+    TAKERU: "I was supposed to be the top of the rotation pitcher for one of the top national teams. So when little details didn't add up, or I heard the wrong person say something, or it turned out nobody said it... I thought it was just stress or something."
+    Hikari nods. I figure she can relate.
+    TAKERU: "The team captain, Yoshida, was probably the only guy with a bigger profile than me, but that's mostly because he was mean as hell. We let him get away with pushing us around because, well, we won games, and he usually saved the worst of it for the other team."
+    TAKERU: "It must've been Sunday practice, but I was pitching to him. We had an argument, and er, the specifics aren't important I guess..."
+    HIKARI: "I don't mind."
+    TAKERU: "No, really, they aren't. I don't even remember. From what I saw, he called time. Walked out of the batter's box. Then he sort of... called for the ball? For me throw it to him?"
+    TAKERU: "I'm told that didn't happen."
+    Hikari still has her attention focused on the cup of tea. When I don't continue, she looks up, but doesn't interrupt.
+    TAKERU: "I hit him with a fastball in the jaw, broke it in two places."
+    TAKERU: "I don't know what happened to him after that. I doubt he ever came back that season."
+    TAKERU: "Everyone was livid, they thought I'd just hit him because of some dumb argument. They all thought I was just lying. So they dragged a sports psychologist in, then the real psychologist, then a psychiatrist, then a psychologist again..."
+    TAKERU: "So now I'm here at Mirako. And I never want to touch a baseball again, let alone get into this weird... state. People just wind up hurt and I don't even recognize it."
+    HIKARI: "Physically, or...?"
+    TAKERU: "No one's giving me a driver's license or issuing permits to operate heavy machinery to an idiot like me, so at this point I'm less worried about physically injuring anyone..."
+    TAKERU: "But Meiko proved her point. I don't need help from a mental illness to injure people."
+    HIKARI: "Thanks for explaining."
+    TAKERU: "Thank you for listening to my stupid story where I break my captain's jaw and then shoot my career in the foot before it ever begins. You can feel free to leave now."
+    HIKARI: "At least appreciate it when I'm trying to be sincere. I'm not going anywhere. You understand you're my only real link to Mirako now, right? Stories like that are all I've got."
+    TAKERU: "...I guess. It's a lousy story."
+    HIKARI: "It's the human condition. All stories are lousy."
+    TAKERU: "I don't need to hear anything from you about the 'human condition.'"
+    HIKARI: "Very funny."
+    TAKERU: "Look, I get this is just a spectator sport for you but I'm trying to figure out what exactly I screwed up yesterday and how to fix it."
+    HIKARI: "Then, to start..."
+    HIKARI: "I think you're wrong about Meiko."
+    TAKERU: "How? About what?"
+    Hikari closes her eyes for a few moments.
+    HIKARI: "She's not a malicious person. She could never carry a grudge for years and then... She can't hold it against you now, no way. She's more fiery than she looks on the surface, but..."
+    TAKERU: "None of that happened with Meiko yesterday, right, but on Sunday she was pretty clear."
+    HIKARI: "Then she's..."
+    HIKARI: "I didn't want Meiko to have changed. Maybe what happened last year cut deeper than I thought."
+    Hikari looks like she's concentrating, but she doesn't speak. Finally she lets out a forlorn sigh.
+    TAKERU: "You really did know her, didn't you?"
+    HIKARI: "...Don't classes start soon?"
+    TAKERU: "Er, right, I almost lost track of time. Thanks for hearing me out and not up and leaving on me."
+    ...and don't think I didn't notice that change of subject.
+    HIKARI: "I hope you can work things out, Takeru. I don't think it's all as bad as you think it is."
+    HIKARI: "Look out for Meiko if you can."
+    TAKERU: "It's a bit late, but I'll do my best."
+    Hikari stands in the doorway of the tearoom as I leave.
+    She watches after me, but doesn't return my goodbye. There's that same look of frustration on her face.
+    Yoshida's injury and my humiliating departure from Tohoku aren't exactly things I like to dwell on, but looks like something equally painful came up for her.
+    I wish I could take the time to figure it out, but I have my own agenda to get through today. I head for homeroom.
+    
     
     
     
