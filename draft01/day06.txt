@@ -381,7 +381,7 @@ label day06:
     HIKARI: "If you want to take that move back, we can walk through this again tomorrow. You just need to pay more attention."
     Half of her smiles.
     TAKERU: "Right. Let's try that. See your tomorrow."
-    HIKARI: "So long, Takeru."
+    HIKARI: "Bye, Takeru."
     Hikari goes back to brooding over her untouched tea while I gather my things and head out into the hall.
     
     There are still a few students filtering through the school at this point, most headed out after study or club activities.
