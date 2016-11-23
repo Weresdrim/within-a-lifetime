@@ -97,7 +97,7 @@ label day09a:
     It's that same decades-old recording from yesterday. I catch maybe five seconds of piano before the sound vanishes. It's Hagami's doing again, but this time she's at attention. She looks at Mana, but Mana is still happily involved in a paperback.
     MANA: "Gonna leave the radio off today?"
     HAGAMI: "...It's more peaceful."
-    I notice she ejects the disc before going back to her book, brow furrowed. Today's tome looks like it's a side by side translation of something in Russian. I'm pretty sure it's the CD that has her unnerved though, right.
+    I notice she ejects the disc before going back to her book, brow furrowed. The title's printed twice, first in Russian, then "Berezhnoy's Account of the Spirits of the Silver Bridge." I'm pretty sure it's the CD that has her unnerved though, right.
     Oh well. There's something else I need to bring up before I forget.
     TAKERU: "So... This is the supernatural club right?"
     MANA: "Don't worry, it was Hagami that shut the radio off, not a poltergeist. Although there is a poltergeist around here somewhere! Once, I - "
@@ -110,7 +110,7 @@ label day09a:
     MANA: "We already have three. But it's not like we were planning on registering, anyway. What's the point?"
     TAKERU: "For one, I'm not a member. For another, the festival..."
     MANA: "Huh?"
-    Hagami looks up from the Russian translation again. Right. I wasn't supposed to bring this up.
+    Hagami looks up from the Russian bridge spirits again. Right. I wasn't supposed to bring this up.
     Wait, then how am I supposed to let Hagami know her budget application failed? And that there's an outside chance they might get run out of their library?
     There might not be anything for it but to find Hagami alone later.
     TAKERU: "Never mind."
