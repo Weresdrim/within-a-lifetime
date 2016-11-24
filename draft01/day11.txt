@@ -213,7 +213,70 @@ label day11:
     TAKERU: "Either way, she needs help. She doesn't know what's going on with her forgetfulness, and my guess is it's not exactly natural. Seeing as how she's dead and all. Er, not dead, but..."
     HAGAMI: "..."
     HAGAMI: "Is there a punchline?"
-    TAKERU: "What? 
+    TAKERU: "What? I'm not joking here."
+    HAGAMI: "Good. If you were joking, I'd be unhappy."
+    HAGAMI: "...I never considered any of this would be useful."
+    TAKERU: "The supernatural books? I honestly have no idea what you believe in or not, but Hikari's real, and she could use some help."
+    HAGAMI: "I can try."
+    TAKERU: "Thanks Hagami. You're the best."
+    Her smile's weak, but it's there. I guess she's not over looking for literal ghosts after all.
+    HAGAMI: "I'll do what I can. I guess.. I won't be all that busy anyways."
+    TAKERU: "Is this about your festival performance?"
+    HAGAMI: "Performance?"
+    Hagami blushes in moments.
+    TAKERU: "Er, festival application or display or budget or whatever it was."
+    HAGAMI: "You didn't look?"
+    TAKERU: "No. But I got an update from Meiko. We should still be able to pull this off."
+    TAKERU: "Hikari's joining the supernatural club."
+    HAGAMI: "Hikari? Have I met... Oh."
+    Not that I've talked to Hikari about this. I'm sure she'll be willing to sign her name on the club registration form when she hears everyone here is working to help her out. At least she better be.
+    TAKERU: "Just in name only of course. I think that should work."
+    HAGAMI: "That's three members."
+    TAKERU: "I'm formally joining the supernatural club. That should put us over the top. Even if joining involves robes, weird hazing rituals, whatever."
+    MANA: "Takeru! You're back? And you're joining the club? That's amazing! I'm not sure which is better."
+    MANA: "And you want to do the initiation rite as well? That's even better! I'm not sure when the next full moon is, but we've got enough incense left, and - "
+    At the worst possible moment, Mana bursts into the room. No sniffles, no coughing. Just an unbridled enthusiasm for making me embarass myself.
+    TAKERU: "Hi, Mana. I thought you were still out sick."
+    MANA: "I was back yesterday. I just had to help the swim team with festival setup for most of lunch. I'm famished."
+    She seats herself (knocking over my neatly piled ghost novels) and gets out her lunch, only to continue talking.
+    MANA: "Hagami said you were at the hospital? Are you alright?"
+    TAKERU: "Just the clinic. I'm fine now."
+    MANA: "And what's been happening this week? I feel like I've missed a lot."
+    TAKERU: "Yeah, maybe..."
+    Specifically she missed my explanation of Hikari's unique condition. I'm not even sure I want to explain that to her. Didn't Hikari make that sour face when she thought of meeting Mana again?
+    But something's going to have to give here, or else it's going to look like I decided to join up specifically for prancing under the full moon or whatever nightmare's in store for me.
+    HAGAMI: "I want to register the club."
+    MANA: "You mean with the student council? You think they'll have a problem with the initiation? We took out the blood from the - "
+    HAGAMI: "No. We're fine. But that's why Takeru's joining."
+    MANA: "Okay. I'm fine with registering. That means we won't get kicked out of our room, right?"
+    TAKERU: "I doubt Meiko would pull something like that, but yes, no getting kicked out."
+    MANA: "Cool! Then... who's the fourth member? It's four to a club, right?"
+    TAKERU: "Er..."
+    Take the lead Hagami. I have no idea how to handle this.
+    Hagami seems prepared. She lays her arms on the table and arches her fingers, looking like a fortuneteller... Or maybe an evil mastermind.
+    HAGAMI: "Mana. Tomorrow night. Dusk. We meet here."
+    MANA: "What's going on?"
+    HAGAMI: "We will be holding a seance. A ghost will join our ranks."
+    MANA: "No way..."
+    MANA: "Hagami! You mean you're going back to..."
+    HAGAMI: "You will address me as High Priestess Hagami."
+    MANA: "Amazing! This is fantastic! You'll be there too, right Takeru? Or do we have to do the initiation first? Hmmm..."
+    Kill me now. I'm sure I'm doing a terrible job at hiding my look of dread. Clearly Hagami has betrayed me. When I turn to Hagami, she still has that faint, unperturbed smile.
+    Looks like this will be the price of her help.
+    
+    As expected, classes are a mess today. I've gone from behind to hopelessly behind. Before the festival it looks like I'll have to hand in makeup work for pretty much every class.
+    Normally I'd bother Meiko to help me through some of the harder problems, but of course she'll be tied up all week. I'm on my own.
+    Plus I have my own festival task from Meiko to take care of. And now a midnight meeting of the supernatural club because Hagami has a twisted sense of humor.
+    With all that in mind I do my best to actually do my classwork. Although I keep an eye out for Hikari appearing in some empty desk, she never surfaces.
+    Finally, the last bell sounds.
+    MEIKO: "I've got to run, Takeru. They need to someone to oversee setup back by the field."
+    MEIKO: "What we talked about this morning... I can count on you, right?"
+    TAKERU: "Right. I'll head down to the gym."
+    MEIKO: "Thank you. I still hate relying on anyone to - "
+    MEIKO: "Never mind. Thanks. See you later."
+    TAKERU: "Bye."
+    Looks like Natsumi already ran off somewhere too. I want to find Hikari sometime today, but for now, I should probably figure out what to do about the fireworks shipment that wound up in the Mirako gym.
+    The gym itself is buzzing. Half of the room is separated into aisles and squares marked by strips of painter's tape on the floor, and in the center someone's left numbered pieces of paper. There are way more students who want to show off their art or club or whatever else than I expected.
     
     
     
