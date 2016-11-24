@@ -126,7 +126,7 @@ label day11:
     MEIKO: "Thankfully."
     MEIKO: "Alright, can you deal with this bad shipment we got this morning? The last council president ordered the fireworks months ago, last school year, and nobody cancelled the order after, well..."
     MEIKO: "Nobody cancelled it. We're getting billed for it and there's a crate and equipment sitting in the gym."
-    MEIKO: "Just get rid of it. Get us a refund, fine, but..."
+    MEIKO: "Just get rid of it. Get us a refund if you can, but..."
     Meiko shudders.
     MEIKO: "I don't want them in the festival. Get all of it out of Mirako."
     TAKERU: "Roger."
@@ -134,5 +134,86 @@ label day11:
     MEIKO: "Alright. I'm in control. I've got this. Four days to go. I've got to be in the council meeting room in a few minutes, so I'll see you this afternoon."
     MEIKO: "Bye Takeru."
     TAKERU: "See you."
+    
+    The old wing seems stranger than usual.
+    Is it the quiet? The rest of the school is almost buzzing.
+    When I arrive at the old library, it's just as silent. Oh well. Guess either no one's here, or Mana's still not better.
+    Sure enough, when I push open the door, the lights are out.
+    The table's still littered with hardcover books, ghost manga, and that one decades-old newsletter from the Showa College of Music.
+    It's been ten minutes now since the start of lunch. Is Hagami out too? While I was out, did they decide to pick some other meeting place to get rid of me for once and for all?
+    Putting my paranoia aside, I start clearing a place on the table. A few serial novels I stack by volume, and I'd stack the hardcovers if I had the energy to actually lift them.
+    I'm not sure what to do with the newsletter though. It seems like an antique. Where was that box Hagami had this in?
+    Easily enough, I find it in the back. Are these sorted at all? I'd feel bad messing up the order. Taking a few out to check, they all have varied dates, stretching ten or twenty years, but I notice they all have something in common.
+    "Inori Naomi debuts new piano sonata..."
+    "Showa alums Inori Keiji and Naomi to perform at anniversary celebration in the UK..."
+    Then...
+    There's no Inori in the headlines on this one. On the side profile, though...
+    "Famed graduate Inori Naomi's daughter to attend Showa affiliate high school."
+    Sure enough, there's Hagami staring back at me from the inset photo. She's a few years younger, but that half smile's the same as ever.
+    HAGAMI: "Takeru?"
+    I didn't even hear the door. I drop the papers into the box and push it into the corner, trying to stand in front of it.
+    TAKERU: "Hey Hagami. Good to see you again."
+    HAGAMI: "Hey."
+    She sits down. Hopefully she didn't notice anything.
+    I join her.
+    TAKERU: "I was wondering where you were."
+    HAGAMI: "Downstairs. I just came back up to see if you were back yet."
+    TAKERU: "Yep. I escaped the clinc, finally."
+    TAKERU: "What do you mean 'downstairs?'"
+    Hagami doesn't respond and instead arms herself with one of the larger books still on the table. I suppose the wall will be going up any second now.
+    Today's reading material is titled "The Japanese Existential Phantom: A Case Study of Pragmatic Disambiguation." Sounds like someone crossed one of Mana's novels with a thesis in semiotics.
+    What I really need to do though, is figure out how to bring up Hikari without looking like I'm having another schizophrenia-induced episode. Easier said then done.
+    But to my surprise Hagami speaks up.
+    HAGAMI: "Then you're staying at Mirako?"
+    TAKERU: "Yeah. I'm not going anywhere, for better or for worse."
+    HAGAMI: "Sometimes they can be difficult. The doctors."
+    TAKERU: "Dr. Meadow's alright. Kind of condescending but I guess if he's talking to me I can't blame him."
+    TAKERU: "Although I guess you wouldn't be too torn up if I transferred and let you read here in peace."
+    HAGAMI: "Hm... I've kind of gotten over it."
+    TAKERU: "Over it?"
+    Although she seems a little more of what I remember, before I flipped out about secret voice recordings in front of her. Her book's flat on the table today instead of propped in my face.
+    HAGAMI: "You really don't..."
+    HAGAMI: "You don't remember, do you?"
+    TAKERU: "I'm still confused. Sorry."
+    HAGAMI: "That's alright."
+    TAKERU: "Never mind. I sort of had a question."
+    HAGAMI: "...?"
+    TAKERU: "Let's say, if I were a ghost, and I, er..."
+    TAKERU: "Let's say I have a friend who's a ghost. Well not really a ghost, er, more like no one else can see them. Or remember them, I guess. And they died, I think. That is a ghost, right?"
+    TAKERU: "Whatever, okay, so my friend who is probably a ghost, sometimes they have a problem with memory. Er, their own memory. Everyone else has memory problems with them, but she, I mean they, keeps forgetting little stuff."
+    TAKERU: "She keeps saying everything's blurry, like it happened a long time ago, and there are blips where she doesn't remember anything."
+    TAKERU: "Er, is there... anything in the literature about that?"
+    Yeah mission failed, I sounded totally unhinged. Hagami's one eyebrow looks like it's about to pop off her head.
+    Instead of saying anything, she slowly rotates the book on the table and pushes it towards me.
+    HAGAMI: "Next time you can just ask what I'm reading if you like."
+    TAKERU: "What? Oh. That's your idea of a joke."
+    HAGAMI: "...You started it."
+    TAKERU: "I was serious. Er, I said it terribly, but I wasn't kidding around. Somewhere you must've read about the horrors of paranormal amnesia or something like that. Right?"
+    Hagami just keeps staring at me.
+    HAGAMI: "Okay."
+    HAGAMI: "How much do you remember? Last week. Monday. You had your..."
+    TAKERU: "Oh I remember what I saw happen, just what I saw didn't actually happen. It's kind of an ongoing problem."
+    TAKERU: "If you're wondering, no, I'm not in some dissociative state. I took my meds yesterday and I'm all sober. I'm trying to ask your help, here, and not seem crazy at the same time."
+    HAGAMI: "Okay."
+    HAGAMI: "You said something about ghosts last week, and I..."
+    TAKERU: "Ignore that. I didn't do anything too terrible, did I?"
+    HAGAMI: "..."
+    TAKERU: "Right. Sorry, what did I - "
+    HAGAMI: "I don't know anything about memory loss in the supernatural. You said this was for a friend?"
+    TAKERU: "Yeah. Actually, no, ignore that too, forget I said anything about a friend. The important part is the amnesia. The rest isn't important. Er, she is important, but..."
+    TAKERU: "I'm really trying not to sound like a lunatic."
+    HAGAMI: "Just explain."
+    HAGAMI: "...I believe you."
+    I'll trust Hagami then. If this backfires I'm not sure how I'll explain myself to Hikari.
+    TAKERU: "Her name's Hikari. Do you remember last year's festival?"
+    HAGAMI: "No... I transferred."
+    TAKERU: "Right. Huh. Anyway, something happened last year, and now it's like nobody even remembers her. You'll probably forget about her as well. It's happened to everyone else so far. You probably think I'm nuts."
+    HAGAMI: "..."
+    HAGAMI: "I don't know."
+    TAKERU: "Either way, she needs help. She doesn't know what's going on with her forgetfulness, and my guess is it's not exactly natural. Seeing as how she's dead and all. Er, not dead, but..."
+    HAGAMI: "..."
+    HAGAMI: "Is there a punchline?"
+    TAKERU: "What? 
+    
     
     
