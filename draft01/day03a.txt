@@ -227,7 +227,7 @@ label day03a:
     VOICE: "They were maybe four hours away by train. Auntie sure wasn't going to take me up there. On my own I don't think I would've made the trip."
     I vaguely remember that. There was a park she wanted to visit, desperately. Up north somewhere. It was supposed to be a mountain covered in cedars.
     Around that time there was very little else she wanted to do.
-    VOICE: "I don't know how I got you onto that train haha. I'm sorry if I was a little pushy."
+    VOICE: "I don't know how I got you onto that train, haha. I'm sorry if I was a little pushy."
     ...
     A moment of clarity in the fog.
     

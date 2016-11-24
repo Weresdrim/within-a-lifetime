@@ -1,0 +1,440 @@
+label day10:
+
+    I'm up almost before the sun.
+    Last night I set the alarm for almost an hour earlier than normal, but I'm awake even before that. Guess a little paranoia never hurt.
+    In that aftermath of yesterday's disaster there are a few things I want to get done this morning.
+    That box with all my Tohoku memorabilia is still out in the open. I'm tempted to burn it or else dig a hole and bury it out back, but I settle for wrapping the whole thing in duct take and shoving it back in the cabinet. Lighting it on fire would probably wake Kenta up.
+    It can't be healthy wondering what's inside those letters from Meiko. I can imagine. I'm pretty sure I did imagine yesterday.
+    But isn't this running away? Would finally reading them get me to stop worrying about them for once? No. No of course not. That's what the duct tape's for.
+    With that taken care of, I'm almost ready to go, when, of course, Kenta stumbles out of bed, punctuating his speech with yawns.
+    KENTA: "Good... Good morning, Takeru."
+    TAKERU: "Yeah, good morning. I was about to leave a note, but I'm headed to Mirako. See you."
+    KENTA: "You... what? Did you take your - "
+    TAKERU: "It's been less than a day. Do you really think I'm going to forget that easily?"
+    KENTA: "No, but, well, you did have a long phone call with that doctor yesterday, so, maybe something had changed."
+    TAKERU: "Same old stuff. They want me to go in to the clinic for a few days for observation, but, I think I'm doing alright here. I just can't forget again."
+    To be honest though, I'm playing it down. Dr. Meadow wanted me back for a "few weeks" and the call was only that long because the last thing I want to do is have to start back at Mirako all over again. Instead, I'll fix this myself.
+    Which is why I need to leave early.
+    TAKERU: "See you later then, Kenta."
+    KENTA: "Have... Have a good morning."
+    
+    It's cooler than I'd like on the road up to Mirako. Cool enough where I should probably invest in a coat, because I'm pretty sure I just sealed my only overcoat (maroon with the Tohoku seal) into a cardboard box.
+    When I get to the Mirako gate, I miss a step and almost fall over.
+    I regain my balance and hesitate, looking up at Mirako's glass windows shimmering in the rising sun.
+    Idiotic. Why am I hesitating now? I worked out a plan last night, I knew how to fix this, and now I'm stuck before I even set a foot in the doors.
+    Dr. Meadow's recommendation was that I stay in my room today, then come in for observation tomorrow, and we'd reconsider Mirako next semester because somewhere someone had underestimated the extent of my illness.
+    Remembering the circumstances of my first admission, I really don't see how any could've "underestimated" it. This was nowhere near as bad as that first time and I'll be damned if I just run away from all of it again.
+    I took my pills today, so things should be fine. Just start walking again, get through that gate, get through that door, and go find -
+    HIKARI: "Takeru. A little early isn't it?"
+    ...Hikari.
+    TAKERU: "H-hello Hikari. You're..."
+    HIKARI: "You didn't expect to see me?"
+    TAKERU: "No, not really. I was just going to find you. I thought you'd be, well..."
+    HIKARI: "In an abandoned tea room somewhere, sulking?"
+    TAKERU: "Basically."
+    I'll leave out that I had no idea if she'd be pleased to see me or not. Yesterday... Maybe it was just me, but when she appeared in class she was nothing but pure malice.
+    The Hikari next to me doesn't seem concerned about that. She seems more concerned about me.
+    HIKARI: "I've been trying to push things. I never really knew what I could, or what I couldn't do. There never seemed to be a point to wandering around, so I stuck to where I was comfortable."
+    HIKARI: "Do you always come before classes and just stand here?"
+    TAKERU: "...No."
+    HIKARI: "Then why - "
+    TAKERU: "Yesterday was a bit interesting. Alright, it was a disaster, so I'm trying to..."
+    HIKARI: "Waiting here doesn't exactly solve anything does it? Let's get some tea. I'm interested to hear about it."
+    TAKERU: "Thanks. Okay, you're right."
+    I follow her down the pathway and into Mirako proper.
+    With nobody in the halls, we head for the old wing.
+    TAKERU: "This sounds like a stupid question, and it's been bothering me, but..."
+    HIKARI: "If it's bothering you, it's by definition important."
+    TAKERU: "Did we talk at all yesterday?"
+    HIKARI: "No."
+    TAKERU: "Really?"
+    HIKARI: "I went to your class in the afternoon to try and find you, but no luck."
+    TAKERU: "You're telling the truth?"
+    HIKARI: "The truth as I know it. Memory can be a funny thing."
+    TAKERU: "..."
+    We arrive at the tea room. I don't bother trying to figure out the implications of what Hikari's trying to say, and instead just concentrate on making tea.
+    HIKARI: "Why don't you try explaining exactly what happened?"
+    TAKERU: "I lost it. Remember I said I felt like some edges didn't quite match up? Like people forgetting who you were, saying they'd never met you."
+    HIKARI: "...I remember."
+    TAKERU: "It was sort of like that, but everywhere. I forgot to take my pills, and then..."
+    TAKERU: "Do you know shizophrenia?"
+    HIKARI: "In an abstract way. The details..."
+    TAKERU: "Well, somewhere, what I saw happening stopped being at all related to what was actually happening."
+    TAKERU: "I... saw you in class. And at lunch."
+    HIKARI: "I was never there. My own memory's been losing its... Well, that's not the relevant. No, I definitely wasn't there."
+    TAKERU: "...And probably I didn't see you at lunch, either."
+    HIKARI: "No."
+    TAKERU: "..."
+    HIKARI: "You're seeing me know, if that's what you're wondering. I'm really here. You didn't just invent me out of nothing."
+    TAKERU: "Right. Okay. There's a ton happening, but here's a place to start."
+    TAKERU: "I told you about Meiko? How I let her down?"
+    HIKARI: "I heard the basics."
+    TAKERU: "I was totally wrong about her.
+    Hikari has both hands out over her cup of tea. I wonder if that actually warms her up? Nevertheless, she's hanging on every word, so I might as well take this opportunity to put everything together.
+    TAKERU: "She never really forgave me."
+    HIKARI: "...What?"
+    TAKERU: "She said... it was an act, mostly. She just wanted to prove she didn't need me, so she was acting all gracious and composed. I think she still hates me."
+    TAKERU: "Guess she just wanted to show she could shrug people off as easily as I could back then."
+    HIKARI: "I don't believe it."
+    TAKERU: "That's what she - "
+    But Hikari doesn't seem to be in disbelief, just upset.
+    HIKARI: "Not Meiko. No."
+    TAKERU: "You know her? Or... knew her, I guess?"
+    HIKARI: "Yes, but... I haven't seen in her in almost a year now. I think you're wrong about her, but, it's not important. Keep going."
+    TAKERU: "I hadn't talked to Meiko since she came out with that, and then..."
+    TAKERU: "It must not have actually happened, but I heard her... It wasn't an accusation, but, more..."
+    TAKERU: "More terrible. It couldn't have been real. I don't know where that voice came from. She told me I'm a coward because I keep running away from remotely unpleasant without worrying about what it'll do to other people."
+    TAKERU: "Whether it was her or not, it was pretty spot on."
+    HIKARI: "Not really."
+    HIKARI: "You're here, talking to me, a person who probably couldn't be called a person any more, even after you found that out. You're still at Mirako, even after what sounds like a nightmare yesterday."
+    TAKERU: "I up and left Meiko once. No idea how I'm supposed to talk to her now... And after things went wrong at Tohoku I escaped out to Mirako."
+    TAKERU: "And I don't even know why I why I'm here talking to you. I guess I'm just trying to figure out if I hurt anyone. If that happened again I'd probably prove Meiko right and go back to the clinic."
+    TAKERU: "I don't want that happening again. Ever."
+    HIKARI: "Takeru..."
+    HIKARI: "You never did tell me what happened at Tohoku."
+    TAKERU: "It's..."
+    In a moment I'll probably be lying to her, so I try to avoid looking her in the eye.
+    HIKARI: "I know you're hiding it. Or at least avoiding it. I think... if you brought everything in the open, it might help."
+    TAKERU: "It's not a very pleasant story. And I end up looking worse than dirt."
+    HIKARI: "I don't judge. You can trust me."
+    I remember that hand she held out, the hand I tried to grasp but couldn't. She trusted me then, that I wouldn't run away screaming.
+    Right. I'll try it, Hikari.
+    TAKERU: "I think it wasn't even a month into my second season, er, second year at Tohoku High. I hadn't been feeling great for a while but I put it down to nerves. I never really got nervous before, but..."
+    TAKERU: "I was supposed to be the top of the rotation pitcher for one of the top national teams. So when little details didn't add up, or I heard the wrong person say something, or it turned out nobody said it... I thought it was just stress or something."
+    Hikari nods. I figure she can relate.
+    TAKERU: "The team captain, Yoshida, was probably the only guy with a bigger profile than me, but that's mostly because he was mean as hell. We let him get away with pushing us around because, well, we won games, and he usually saved the worst of it for the other team."
+    TAKERU: "It must've been Sunday practice, but I was pitching to him. We had an argument, and er, the specifics aren't important I guess..."
+    HIKARI: "I don't mind."
+    TAKERU: "No, really, they aren't. I don't even remember. From what I saw, he called time. Walked out of the batter's box. Then he sort of... called for the ball? For me throw it to him?"
+    TAKERU: "I'm told that didn't happen."
+    Hikari still has her attention focused on the cup of tea. When I don't continue, she looks up, but doesn't interrupt.
+    TAKERU: "I hit him with a fastball in the jaw, broke it in two places."
+    TAKERU: "I don't know what happened to him after that. I doubt he ever came back that season."
+    TAKERU: "Everyone was livid, they thought I'd just hit him because of some dumb argument. They all thought I was just lying. So they dragged a sports psychologist in, then the real psychologist, then a psychiatrist, then a psychologist again..."
+    TAKERU: "So now I'm here at Mirako. And I never want to touch a baseball again, let alone get into this weird... state. People just wind up hurt and I don't even recognize it."
+    HIKARI: "Physically, or...?"
+    TAKERU: "No one's giving me a driver's license or issuing permits to operate heavy machinery to an idiot like me, so at this point I'm less worried about physically injuring anyone..."
+    TAKERU: "But Meiko proved her point. I don't need help from a mental illness to injure people."
+    HIKARI: "Thanks for explaining."
+    TAKERU: "Thank you for listening to my stupid story where I break my captain's jaw and then shoot my career in the foot before it ever begins. You can feel free to leave now."
+    HIKARI: "At least appreciate it when I'm trying to be sincere. I'm not going anywhere. You understand you're my only real link to Mirako now, right? Stories like that are all I've got."
+    TAKERU: "...I guess. It's a lousy story."
+    HIKARI: "It's the human condition. All stories are lousy."
+    TAKERU: "I don't need to hear anything from you about the 'human condition.'"
+    HIKARI: "Very funny."
+    TAKERU: "Look, I get this is just a spectator sport for you but I'm trying to figure out what exactly I screwed up yesterday and how to fix it."
+    HIKARI: "Then, to start..."
+    HIKARI: "I think you're wrong about Meiko."
+    TAKERU: "How? About what?"
+    Hikari closes her eyes for a few moments.
+    HIKARI: "She's not a malicious person. She could never carry a grudge for years and then... She can't hold it against you now, no way. She's more fiery than she looks on the surface, but..."
+    TAKERU: "None of that happened with Meiko yesterday, right, but on Sunday she was pretty clear."
+    HIKARI: "Then she's..."
+    HIKARI: "I didn't want Meiko to have changed. Maybe what happened last year cut deeper than I thought."
+    Hikari looks like she's concentrating, but she doesn't speak. Finally she lets out a forlorn sigh.
+    TAKERU: "You really did know her, didn't you?"
+    HIKARI: "...Don't classes start soon?"
+    TAKERU: "Er, right, I almost lost track of time. Thanks for hearing me out and not up and leaving on me."
+    ...and don't think I didn't notice that change of subject.
+    HIKARI: "I hope you can work things out, Takeru. I don't think it's all as bad as you think it is."
+    HIKARI: "Look out for Meiko if you can."
+    TAKERU: "It's a bit late, but I'll do my best."
+    Hikari stands in the doorway of the tearoom as I leave.
+    She watches after me, but doesn't return my goodbye. There's that same look of frustration on her face.
+    Yoshida's injury and my humiliating departure from Tohoku aren't exactly things I like to dwell on, but looks like something equally painful came up for her.
+    I wish I could take the time to figure it out, but I have my own agenda to get through today. I head for homeroom.
+    
+    It's later than I thought actually. I take my seat next to Natsumi as Meiko wraps up her talk.
+    MEIKO: "...So I know even with the festival coming up a few days, please pay attention to um..."
+    MEIKO: "Please pay attention to classes. But if you have any paperwork you should come see me, and I can help get it in. But as a class we should, ehm..."
+    NATSUMI: "Psst. Heya Takeru."
+    TAKERU: "What do you want?"
+    NATSUMI: "Rude. You're getting very impolite these days. I'm a very dignified person you know, so - "
+    TAKERU: "Is it just me or is Meiko kind of talking in circles?"
+    NATSUMI: "Huh? I don't usually pay much attention, but... I guess? Maybe she's run out of material."
+    TAKERU: "This isn't exactly a standup routine."
+    NATSUMI: Whatever."
+    NATSUMI: "Hey! I almost forgot because you vanished yesterday, but I've got a deal for you. And it's time limited too. The tournament starts Friday."
+    TAKERU: "Declined."
+    NATSUMI: "You'll be intersted! I swear. So don't even think about running away at lunch."
+    I slump over in my desk. Kill me now.  At least it doesn't look I bungled things too horribly with Natsumi yesterday if she's still on about her baseball tournament plans.
+    TAKERU: "Hey Natsumi..."
+    NATSUMI: "What's up?"
+    TAKERU: "You didn't see Hikari in class yesterday, did you?"
+    NATSUMI: "Who?"
+    TAKERU: "White-haired girl that fumbled that physics question on Friday."
+    NATSUMI: "Who did what now?"
+    TAKERU: "Good. Thanks. That's all I need to know."
+    NATSUMI: "I feel like I'm being tricked."
+    TAKERU: "See how you like it for once."
+    I go back to pretending to be dead as classes start in earnest. I'd forgotten I'm going to have to make up work for the classes I missed yesterday, as if I wasn't already far enough behind after missing a few months while I was in the clinic.
+    And of course there's going to be teachers that want explanations, and I'll be absent again tomorrow to head to the clinic...
+    Ugh. The only bright spot on the horizon at this point is the cultural festival. Let's hope Mirako's is as fun as it's been hyped up to be because I could certainly use a distraction.
+    
+    True to her word, not a moment after the bell, Natsumi is standing over my desk.
+    I wonder if there would be any consequences if I just up and left. But I remember it's like Hikari said: it's not as terrible as I think. I'll tell Natsumi to get lost and this will all be over with the tournament in a couple days.
+    NATSUMI: "Hey, if it isn't - "
+    TAKERU: "You don't have to beat around the bush, Natsumi."
+    NATSUMI: "Well I thought I'd been pretty direct so far, and that usually works, so..."
+    NATSUMI: "Ah whatever. So! I did my research?"
+    TAKERU: "Research? Please don't tell me this has to do with - "
+    She pulls out her Tohoku baseball yearbook.
+    TAKERU: "Yeah. That."
+    NATSUMI: "Takeru, I'm not dumb. I'm pretty good at reading people."
+    Yeah, just like you were so great at reading Hagami and reading my attitude towards this whole tournament thing.
+    NATSUMI: "I knew there was something - something! - that was your way. I didn't know if you couldn't join our team because of blackmail, injury, a feud, maybe a failed drug test, or what. But I was going to find out."
+    TAKERU: "Don't tell me you..."
+    NATSUMI: "I talked to this guy."
+    Natsumi has the stats book open to our second baseman. Decent guy. He graduated this year and I think pinch hits for a college team now.
+    NATSUMI: "One of my players knew his brother. Oh, and this guy too. One of the other pitchers hung out with after a tournament once and had his number."
+    She flips to a backup catcher. My year. An ex-friend.
+    This doesn't lead anywhere good.
+    NATSUMI: "I understand about the argument."
+    TAKERU: "Argument?"
+    NATSUMI: "With the captain. Whatever bad blood you had is gone now. I'll be your captain. Hell you could be my captain if you actually tried, with those stats. Point is, I won't hold that against you."
+    TAKERU: "There was no argument. That's not the - "
+    NATSUMI: "You don't get along with your coaches or captains. So you thought if you joined up with me, we wouldn't be on good terms any more. It's actually really flattering, Takeru. I'm glad you value our friendship above baseball."
+    NATSUMI: "That's fine. Let's be friendly rivals. See if you can take the captainship from me next year. Our team isn't even that competitive. We get along great. We have lunch together every day. I'd be absolutely honored if you..."
+    NATSUMI: "You're laughing at me."
+    I'm laughing because she's so absolutely off in the complete opposite direction it's funny.
+    All the stories she's probably hearing are that I hit Yoshida in retaliation for some grudge or out of jealousy or something like that. No one cares if I was seeing straight that day or not. I'm sure none of them had kind words for me.
+    TAKERU: "Not interested."
+    NATSUMI: "You can't be..."
+    NATSUMI: "Takeru, no one who puts up the numbers here on this page doesn't just think baseball's a game. It's a passion. I know you want to play, somewhere, so, help me out, and if I'm wrong..."
+    Somewhere in there my laughter turned weak. There's no good way to explain anything, and all I want know is to fast forward an hour, or a few days, to when I can wash my hands of Natsumi and her tournament problem for once and for all.
+    NATSUMI: "Well?"
+    MEIKO: "That's not the truth."
+    TAKERU: "Meiko?"
+    How long has she been listening?
+    MEIKO: "They're covering for him."
+    NATSUMI: "Hey Meiko, guess you heard I figured out why Takeru won't - "
+    NATSUMI: "Hey, wait, hang on. What do you mean?"
+    MEIKO: "All those players you called up. There was never any argument. If you wanted to know you should've just asked me. I've known Takeru forever."
+    All I can do is watch. I feel like the train's about to run off the end of the tracks here. How much does Meiko know? What on earth is she trying to do?
+    NATSUMI: "I mean you did have that copy of the roster. I should've known you're a stalker."
+    MEIKO: "Takeru was injured. After he tore a cuff in his shoulder he couldn't pitch for anything so they dropped his scholarship. That's it. You might as well give up."
+    NATSUMI: "Seriously? Takeru!"
+    Natsumi grabs me by the shoulders. I'm still too dumbstruck to do anything about it.
+    NATSUMI: "Don't lie about injuries! It's not something to be ashamed about. And all your teammates at Tohoku were going to back you up on this?"
+    NATSUMI: "The sports culture at all those top tier schools must be real screwed up. If you get hurt, that's a sacrifice for the game. Around here you wear your scars with pride."
+    NATSUMI: "Sorry if I was hounding you, but you should've just been honest to begin with. I don't think any less of you just because you tore your shoulder. That's just..."
+    NATSUMI: "Okay Takeru, I've got to get to lunch, but if you ever want to try out your left arm, or even just take batting practice with us, I wasn't lying that we're all friendly. Come with me now if you want."
+    TAKERU: "Er, that's alright."
+    NATSUMI: "Suit yourself. Tomorrow I want to hear some war stories from Tohoku though. Seeya!"
+    With Natsumi gone, I'm left with the stonyfaced Meiko. We both look at each other. More than anything I want to ask her what she was trying to accomplish. Is that seriously what she thinks? Is she trying to exact revenge by blowing what she thought was my cover?
+    But... It did get Natsumi off my back.
+    TAKERU: "MEIKO..."
+    MEIKO: "Sorry, I've got a lunch meeting at the office today. Let's talk later."
+    She brushes back her hair and walks out, but she's noticeably less composed than usual. I'm left to stare after her, alone in the empty classroom.
+    One day, just for one day, I want to get a handle on what she's thinking. I've known her half my life know and I still can't figure her out.
+    
+    I find the old library deserted. It's strange considering I spent a good chance of time trying to escape from Natsumi before even starting on my way up.
+    Turning on the light, it doesn't look much different. It remains a mystery how the pile of books on the table regrows every night to cover where I usually sit.
+    The radio sits there. Silent, thankully.
+    TAKERU: "Actually..."
+    Now's a good a chance as ever. That recording I heard yesterday... It couldn't actually exist, could it?
+    I fumble with the radio controls, but no matter how many times I jam the eject button, nothing happens. How does this thing even work? Who builds a CD player to look like an antique radio?
+    I'm just about shaking the thing in frustration when there's a voice at the door."
+    HAGAMI: "Takeru...?"
+    TAKERU: "Oh, hey Hagami. I wasn't going to hurt the radio, I swear. Don't look at me like that. I was just trying to check the CD in it."
+    But that doesn't seem to be what she's concerned about.
+    HAGAMI: "I thought you were... The clinic..."
+    TAKERU: "Er..."
+    I stop throttling the radio. I almost forgot Hagami got a full dose of my weirdness yesterday. And I think bailed me out as well?
+    TAKERU: "Sorry about that. You knew about the schizophrenia, right... I wasn't thinking straight. I forgot my meds and things sort of went downhill."
+    She sits down without responding.
+    TAKERU: "Thanks for dragging me to the nurse. I'm sure I wasn't..."
+    Hagami looks away. What exactly was I doing yesterday?
+    TAKERU: "Was I that bad?"
+    HAGAMI: "You'd have done the same for me."
+    TAKERU: "I don't know, I can apparently be a pretty big idiot sometimes."
+    HAGAMI: "All I did was return a favor."
+    TAKERU: "You mean with Kenta? That wasn't anything."
+    HAGAMI: "...It was to me."
+    TAKERU: "Er... Thanks, then."
+    Hagami seems even more uncomfortable than usual. She's practically hiding behind her book again and not even touching her lunch. I had sort of hoped we were on better terms. I'm feeling out of place again.
+    Time to change the subject.
+    TAKERU: "Mana's still out?"
+    HAGAMI: "Pneumonia."
+    TAKERU: "No kidding... She's going to be alright?"
+    HAGAMI: "Hopefully. In a few days."
+    TAKERU: "Say hi from me then when you see her."
+    Hagami just nods.
+    Within a few minutes, that silence fills in again.
+    I look at the radio. Hagami obviously doesn't want to dwell on what happened yesterday, but I have to know.
+    While I'm trying to think how I'm going to ask about something so obviously crazy as a Hikari/Hagami/Meiko conspirancy to plant a voice CD, Hagami turns a dial, then a switch, and the radio bursts into static.
+    A woman's voice. I jump.
+    But as the moment of panic subsides, I realize the woman's someone much older, saying a few words about chamber music dedications before the music starts up. It's some string and piano piece again, not the greatest recording quality.
+    Hagami peers over the edge of her book, one eyebrow raised. I guess she noticed that that scared me.
+    TAKERU: "...Sorry. Is that the same CD as yesterday."
+    HAGAMI: "Yes."
+    TAKERU: "And it's not Meiko. You don't know Meiko, right? Er, you didn't record her or anything?"
+    The single raised eyebrow turns to two.
+    HAGAMI: "Meiko?"
+    TAKERU: "On the student council."
+    HAGAMI: "Don't know here."
+    Hagami works her black magic and ejects the disc. She holds it up for my benefit, and, as expected, it's unlabelled. It looks like a home recording, identical to that CD I pulled off the shelf last week.
+    TAKERU: "Right. Of course not. It's not Meiko. That was just..."
+    Her voice, from nowhere. A voice in my head.
+    TAKERU: "Never mind. What are those discs anyway? I thought you were only into that weird German orchestra stuff."
+    HAGAMI: "It's... When I... They..."
+    She rises and walks to the back of the library, then stands there for a solid thirty seconds.
+    TAKERU: "Hagami?"
+    TAKERU: "You don't have to answer, it was just curiosity."
+    But I realize she's searching through a stack of paper that was previously hiding behind a box of magazines. Actually... It looks like she's sorting through newspapers?
+    Finally she returns with one. Tossing it down in front of me, she does her best to sink as low as possible behind the wall of a book she's put up on the table between us.
+    TAKERU: "'Showa College of Music - Weekly News?' I don't get."
+    It looks like a college newspaper, dated maybe twenty years ago. When Hagami doesn't respond, I start skimming headlines.
+    To call these headlines would be generous. It's more of a newsletter than newspaper.
+    Half of the page is notices about faculty and other junk, but in the center is a black and white photo of a couple, her at a piano and him seated with a string instrument. A cello?
+    The lead story reads "Showa's most well-known alumni return: Inori Keiji and Naomi to perform concert series." The rest is details about dates and times, plus a quick bio. Looks like they graduated the same year.
+    TAKERU: "Sorry, can't say I know either of them. I don't really know a whole lot about this sort of thing."
+    TAKERU: "Hey, wait, you're Inori Hagami right? Are these people related?"
+    I'm met with silence from behind the book, but if I tilt the photo, it's clear there's a family resemblence.
+    TAKERU: "That's neat. So they stopped by this college, and then performances in Tokyo, then in Russia, then off to the United States?"
+    TAKERU: "They must be pretty famous then. The chance of anyone ever amounting to anything in my family pretty much died with me, but you've got two parents worldhopping?"
+    Still no response.
+    I might as well drop it. Either I've missed something obvious or I screwed up yesterday more than I thought.
+    It does seem to make sense though that Hagami has an interest in old music recordings, but why would her parents' stuff be buried in the back?
+    And she did seem to have a bit of an odd reaction when I dug out those old discs for the first time. Didn't she think it must've been Mana?
+    TAKERU: "Hopefully Mana's feeling better soon."
+    HAGAMI: "...Yeah."
+    HAGAMI: "I should get to class. Need to be early today."
+    TAKERU: "Er... See you later then."
+    She flicks off the radio and walks out.
+    It's a good ten minutes before lunch ends. And I'm not sure I actually saw her eat anything anyway. A few days ago I thought we were actually talking like normal people?
+    Mana better heal up. I'm sure she'd be able to explain this, or at least prevent me from doing anything too stupid.
+    Sitting alone in the old library is just depressing though. With a sigh I head for class.
+    
+    Afternoon classes are subdued. I do my best to follow along to physics, but even Natsumi subdued, my concentration is flagging.
+    Meiko, a desk away, is stalwart as usual, even in the face of whatever monstrosity the teacher's chalking up at the front of the room.
+    She mentioned classes were taking their toll, but... It's hard to imagine. Her reputation is pretty much universal. I thought she was only in class out of formality and she knew all this stuff already.
+    Out of the corner of my eye, I spot another student doing their hardest to pay attention. Hikari?
+    I have to check twice to make sure I'm not seeing things, but she was in class on Friday, after all. No reason to think I've started losing it again.
+    Hikari catches me looking and flashes a grin. Well, more a grimace, but close enough.
+    She doesn't try to answer any questions this time though. And by the time school's out for the day, I can't spot her. I'll put that down to her strange not-alive not-dead state. Not that that sounds like any more of a sane explanation.
+    Natsumi snaps me out of it.
+    NATSUMI: "See ya Meiko. Bye Takeru. Practice is all day today."
+    MEIKO: "Bye."
+    NATSUMI: "Oh, Takeru, once this whole tournament is settled, you're still welcome to show up to practice. I could use a good assistant and I'm sure you've got experience. Once you get over whatever Tohoku put you through, you know."
+    TAKERU: "I'll consider it. See you later."
+    I probably won't consider it, but at least I can hope she's given up for now.
+    However, that still leaves me with Meiko.
+    Even as everyone else filters out of the room, she's still standing there, shoulders straight, same as ever. She doesn't talk, or even look at me.
+    Probably Meiko's having just as much trouble finding words as I am.
+    TAKERU: "Hey."
+    MEIKO: "Hi Takeru. You're still here."
+    TAKERU: "It's not like I have anything important to do. You don't have a meeting or club activities or anything?"
+    MEIKO: "There might be one or two people at the front office expecting me..."
+    She waves her hand.
+    MEIKO: "They'll live."
+    MEIKO: "You disappeared yesterday after lunch. I hope it wasn't anything bad."
+    TAKERU: "I'm not sure what you heard, but, er, it wasn't great."
+    MEIKO: "Kenta filled me in on the basics. He said it was something to do with your..."
+    TAKERU: "Schizophrenia."
+    MEIKO: "Then you mean..."
+    TAKERU: "He wasn't wrong."
+    TAKERU: "You probably guessed I wasn't being completely straight with you that first day in the cafe. About just dropping out of Tohoku for poor performance or something."
+    NATSUMI: "I did guess. The average dropout doesn't choose Mirako as a backup school either."
+    TAKERU: "Right. And they don't drop after just an injury like a shoulder tear. There's surgery for that. I'm surprised Natsumi didn't jump on that one."
+    MEIKO: "It was a poor lie, maybe, but it did the trick. At least I hope it did. I'm sorry if I intruded."
+    TAKERU: "Er, no, I really appreciate it really, I just..."
+    MEIKO: "Didn't understand why?"
+    TAKERU: "Not really."
+    Meiko brushes back her hair and pauses a moment, finally decided to stand while I keep my seat on my desk.
+    MEIKO: "That Tohoku yearbook was mine. You knew that much. I'm at least partially responsible for sending her after you. I know how Natusmi can be."
+    MEIKO: "The other part of it was..."
+    MEIKO: "Sorry I don't know how sensitive you are about your..."
+    TAKERU: "Schizophrenia. It doesn't exactly look like it's going anywhere so I'd better get used to people talking about it."
+    MEIKO: "Kenta said you mentioned me."
+    TAKERU: "I probably did. I... heard you loud and clear, all day."
+    MEIKO: "We never even said hello yesterday."
+    TAKERU: "...I was afraid of that."
+    MEIKO: "Look, I know I put a lot on you on Sunday. I didn't mean to tell you half of that, at least not all at once. It felt great to get it off my chest, but if all I did was move that burden to you, to the point that the next day, you'd..."
+    TAKERU: "That wasn't the problem. Not the whole problem anyway. I forgot my pills, I was up all night doing... Well, don't feel like it's your fault. It's just me being defective."
+    MEIKO: "...This morning was just my silly attempt to patch things up, if I could. I'm afraid there was a bit too much to undo."
+    TAKERU: "Oh please, don't apologize, that's the best thing that's happened today by far. I should be thanking you."
+    She stiffens.
+    TAKERU: "Sorry. I know you said it makes you uncomfortable, but..."
+    TAKERU: "It works both ways, right? So it weirds me out to hear you apologize. That should be what I'm doing. We both know you're not in my debt. If I hadn't screwed things up years ago, you wouldn't be here now."
+    TAKERU: "I was terrified yesterday. Somehow I got it into my head that when you told me the truth on Sunday, that was your declaration of war. I'd never be able to dig myself out of that hole."
+    MEIKO: "It was more like a concession speech. I'm sick of..."
+    Meiko makes that motion of clearing the air in front of her. Whatever she's sick of is apparently too abstract.
+    MEIKO: "Alright. I think I understand a little better now."
+    TAKERU: "Good because I'm pretty much useless."
+    TAKERU: "If you needed to get to the office, don't feel obligated to hang around with me."
+    MEIKO: "It really isn't that important today, but..."
+    She turns to leave.
+    MEIKO: "And Takeru, don't blame yourself that I wound up here. It's as much my decisions that put me here as yours. And it's not some curse either. There have been enough unpleasant things, but..."
+    MEIKO: "I've got a long ways to go, but I've changed for the better. I'm sure you can too."
+    MEIKO: "See you."
+    I just nod as she vanishes.
+    She said as much before, but I still have trouble believing she's as shaken up about this whole atmosphere between us, whatever it is.
+    Dammit, I forgot to check if there was more festival work to do. It's the least I can do if I'm responsible for she's going through at the moment. I can try to make sure she comes out in one piece at the end. She'd do the same for me.
+    
+    Those are my thoughts as I sit in the empty classroom.
+    Until I notice it's not empty. There are eyes on the back of my neck.
+    TAKERU: "Hikari? How long have you been there?"
+    HIKARI: "Oh not long."
+    TAKERU: "Don't be coy. You're looking mighty smug. Eavesdropping, I guess?"
+    HIKARI: "I was here long enough then."
+    TAKERU: "Guess I've found the real reason you keep sneaking into class..."
+    HIKARI: "It's true enough."
+    She cross the room to where I'm still sitting on my desk. Maybe it's just something I never noticed after seeing her in that tearoom for so long, but in the windowed sunlight, she looks less substantial. Downright fragile.
+    TAKERU: "I hope you enjoyed that thoroughly confusing conversation with Meiko. It was probably pretty boring to boot."
+    HIKARI: "I thought it was kind of nice. And I told you this morning, didn't I? Meiko won't hold a grudge."
+    TAKERU: "I'm not completely sold. Did you really come just to get the details on Meiko? Checking in on all your friends?"
+    HIKARI: "Yes... Yes and no. It's strange to see all these people after they've forgotten about me. I realized I forgot parts of them. Just bits and pieces, but those little jagged edges are what give people their character."
+    TAKERU: "I could do without the edges."
+    HIKARI: "Takeru the baseball star is boring. Meiko the model student is boring. If all you can remember about someone is a generalization, you've already forgotten them."
+    HIKARI: "I needed to make sure I hadn't forgotten who Meiko was."
+    TAKERU: "Right."
+    TAKERU: "Don't tell me it was me this morning that made you think you had. I was pretty bad off yesterday so I wouldn't trust any of what..."
+    HIKARI: "That's the problem. That's the other reason I came here. I needed to find you."
+    TAKERU: "Oh yeah?"
+    HIKARI: "This morning, I know we met..."
+    HIKARI: "It's already foggy though. Like something that happened months ago. You told me about Tohoku, and Yoshida, and Meiko, and...
+    HIKARI: "I thought my sense of time was off, but then it turns out it's memory."
+    TAKERU: "You forgot you saw me today?"
+    HIKARI: "No, I know that, I know the big picture, but the details..."
+    HIKARI: "I'm slipping."
+    TAKERU: "What?"
+    HIAKRI: "You even saw it once, at the tearoom. It's as if I blink I've lost something. Sand through my fingers. Just a grain, but I feel it."
+    TAKERU: "You still knew Meiko, though, right? Just be glad you don't have entire days you have to put together afterwards."
+    HIKARI: "You don't get it."
+    TAKERU: "Er, I get why you're worried, but - "
+    Hikari paces.
+    HIKARI: "This is what I've been saying. It is the tiny things that count. That gut feeling I had that if Meiko dropped her calm, she'd already forgiven you. The surprise when you finally tricked me at chess for once."
+    HIKARI: "All the ticks that went into that conversion just now that you called confusing and boring. Those are important.
+    HIKARI: "Something might happen in the third act. The payoff. Fireworks. Those are all pointless without the rocky steps on the way."
+    HIKARI: "There aren't any fireworks at the end for me any more. I'll just fade off. The bumps and daily drama are all I get. So understand why I'm frustrated I'm losing the details. They're all I've got."
+    Hikari goes quiet for a second, but she doesn't look spent. I don't interrupt.
+    HIKARI: "That probably sounded very bitter."
+    TAKERU: "Er, maybe, but I'm sorry if I sounded like I didn't think it mattered. I guess I didn't get it."
+    HIKARI: "I should probably stop belittling you if I want your help."
+    TAKERU: "My help? I'm not really sure what I can do. I'm not a..."
+    I try to think of who Hikari might need to help her but I draw a blank.
+    TAKERU: "I'm not some ghost mediator. Maybe you need a pyschic. Or a priest, maybe."
+    HIKARI: "Are you sure you're not a priest? You pulled a very good impression a week ago."
+    TAKERU: "Oh come on, don't bring up the ghost hunt. I thought you were supposed to be nice if you wanted my help. I got conned into that whole thing. If you want to blame someone for that, blame..."
+    Hagami?
+    That... That is probably who I would talk to. If I had some bizarre not-quite-defined problem with someone not-quite natural...
+    I would consult someone who's not-quite joking about the not-quite natural.
+    TAKERU: "...at least I don't think she's joking? Right? Maybe..."
+    HIKARI: "What are you muttering about?"
+    TAKERU: "Shinto prayer to boost your long term memory."
+    HIKARI: "I was wrong when I said you were priestly. You really have no tact."
+    TAKERU: "Sorry."
+    But Hikari's smiling all the same.
+    TAKERU: "I can ask around. I might know a few people that have an idea what's going on."
+    HIKARI: "If I don't really understand the problem, or understand what exactly I am in the first place, there's probably not a lot out there..."
+    TAKERU: "You'd be surprised how much literature there is out there on anything close to a ghost. A whole library full."
+    HIKARI: "I'll trust your instincts then, Takeru. I guess I really don't have anyone else to count on."
+    She frowns at me.
+    HIKARI: "Your contact better not be that pink-haired girl who was going around with candles. She needs to learn to respect other peoples' belongings, and if she has the nerve to call me - "
+    TAKERU: "It's not her, promise."
+    Well, we'll see. I don't think Hagami's going to be very helpful if I'm back to being unable to carry out a normal conversation with her, let alone one about the details of ghosthood. Mana may be necessary.
+    TAKERU: "I'll do my best."
+    HIKARI: "Thank you, Takeru. Of all the people that could've chanced into remembering me..."
+    HIKARI: "I could do worse."
+    TAKERU: "Yeah. See you too."

@@ -1,0 +1,219 @@
+label day11:
+
+    Tuesday morning.
+    Early Tuesday morning.
+    I was on the last train last night, and by the time I finally got back to the dorms, it was past midnight. So I don't appreciate waking up half an hour before my alarm.
+    Still, I'd rather be sleeping here than anywhere near that clinic. Hours of casual "chats" with Meadow and some other shrinks, trying not to mention Hikari...
+    That I weaseled out of an extended stay is nothing less than a miracle.
+    Trying to to fall asleep again is probably pointless. Mustering the energy to rise, I start unpacking my bag. I was too exhausted to do anything last night.
+    Clothes I put in the hamper. Let Kenta figure out where to sort them.
+    My physics textbook goes on my desk. I really should've brought something more entertaining to read, because at this point even a recommendation from Hagami sounds more appealing.
+    Two new medicine bottles go on a shelf in the bathroom. I also have a checklist to go with them, an emergency medical card, and orders from Dr. Meadow to call immediately if anything happens again.
+    Nothing will. Not if I can help it. I take my meds and head back to the room, but...
+    Somehow I missed it last night.
+    It must be an industrial-sized cylinder of bubble wrap. The bundle's as tall as the ceiling. At first I have the irrational urge to knock it over, then a creeping fear sets in...
+    What does it mean that this is in my room?
+    I look over to Kenta, still asleep.
+    Then, in the other corner, I see cardboard. Cardboard boxes? Hundreds of boxes, again piled to the ceiling.
+    TAKERU: "Kenta... Please no, Kenta."
+    KENTA: "What... Huh? Good morning Takeru."
+    TAKERU: "I'm scared, Kenta. Why are there - "
+    KENTA: "Good morning, Takeru."
+    I roll my eyes and return the greeting as he yawns.
+    TAKERU: "Good morning, Kenta."
+    KENTA: "You're back."
+    TAKERU: "Yes, yes, I am. So what's with the boxes?"
+    KENTA: "Oh, you missed most of the excitement."
+    TAKERU: "I'm sure there's plenty of excitement left. Is this a new hobby? Assembling cardboard boxes? Stuffing them with bubble wrap? I've never knew there was such a thing as a small parcel enthusiast.
+    KENTA: "What are you talking about? They're just boxes."
+    KENTA: "It's time to say goodbye to the insects. So I obviously needed a way to ship them. I wish you were here yesterday when I had to roll that bubble wrap in here."
+    TAKERU: "Okay, first, you didn't actually have to roll it in here and park it behind my bed. Second, aren't your bugs already in those display cases?"
+    KENTA: "It was a flash sale. I auctioned them all off on a website for collectors. It's much more profitable to sell insect collections way then to sell in bulk."
+    TAKERU: "You... You sold them individually. Hundreds of bugs. To hundreds of different people. Online."
+    KENTA: "Yes, that's what I said. Was anything unclear? I didn't think it was that hard to understand."
+    I'm having nightmarish visions of the bug processing operation that will no doubt end up be happening right here, in this room. Probably with my bed as the bug dissection staging area.
+    KENTA: "You look interested. If you want you're welcome to join me packaging them."
+    TAKERU: "I'm not interested, I'm terrified."
+    KENTA: "Is that close enough?"
+    TAKERU: "No!"
+    KENTA: "Well I'll be starting right after classes end if you change your mind."
+    Looks like my mind's been made for me. I have to live here too, Kenta.
+    TAKERU: "Fine. I'll be there. Let's just get to Mirako so I can forget about this."
+    KENTA: "Oh, you're right. I'm five minutes behind. You sure can waste time in the morning."
+    I sigh turn back to the big roll of bubble wrap. Now I'm more tempted to kick it over and collapse on top of it. Welcome back to Mirako.
+    
+    Despite Kenta's complaints, we're on the road in plenty of time.
+    It's nice to be back. The clinic is by Tohoku, in the city, nothing like the clear air I'd started to take for granted, and now realize I'd missed.
+    KENTA: "Did everything go well on your trip?"
+    TAKERU: "About as good as you'd expect, really. Just a bunch of doctors. They decided I was underdosed, or overdosed, or something, and just threw out all my old meds and gave me a new set."
+    KENTA: "But you're staying at Mirako?"
+    TAKERU: "Are you kidding? Yeah. I wasn't going to let them talk me out of that."
+    TAKERU: "...That would be awful, trying to find another school, this time of year. Moving twice in a year."
+    KENTA: "Very awful. I'd need to train another roommmate."
+    TAKERU: "I'm not sure if I should be flattered or insulted."
+    KENTA: "It doesn't matter all that much."
+    We keep chatting and finally arrive at the school gates.
+    There's another change: A banner now hangs between the gateposts.
+    TAKERU: "'Mirako High 40th annual cultural festival - Welcome!'"
+    TAKERU: "Isn't that a bit early?"
+    KENTA: "The festival's Saturday, you know. That's only four days away."
+    TAKERU: "Er, right, but shouldn't they start setting up on Friday then?"
+    KENTA: "That's right, you've never been to one of these... It's a big deal. They have to start preparing early or they'd never finish in time."
+    TAKERU: "Huh... Guess this is bigger deal than I thought."
+    I should've known with how Meiko was acting about it. I should really at some point check if she needs any more help. If I can work up the nerve.
+    Then someone grabs my shoulders.
+    NATSUMI: "Takeru! Welcome back. And Kenta too. Good morning, Kenta."
+    KENTA: "Good morning, uh..."
+    NATSUMI: "Natsumi. It's Natsumi, you dope."
+    KENTA: "Well good morning. I'd rather not be late talking to you, so goodbye."
+    Kenta heads off and leaves me to walk to homeroom with Natsumi.
+    NATSUMI: "I love that guy."
+    TAKERU: "I think he honestly doesn't know who you are."
+    NATSUMI: "Of course he knows who I am. Everyone at this school knows me. He's just a master of the long con. A practical joker."
+    TAKERU: "You're absolutely terrible with people. There's no way he's kidding around. If he's decided to send stinging insects to a hundred internet strangers just to screw with me, I swear..."
+    NATSUMI: "What are you even talking about?"
+    TAKERU: "Never mind."
+    NATSUMI: "Everyone's been acting weird lately. Must be the big countdown!"
+    TAKERU: "Right. Four days to the festival."
+    NATSUMI: "No, no, I mean the tournament. Regionals start tomorrow. We leave tomorrow!"
+    NATSUMI: "Although the festival's important too, I guess."
+    TAKERU: "You'll be back in time for Saturday?"
+    NATSUMI: "Hopefully not."
+    TAKERU: "You don't like the festival?"
+    NATSUMI: "Don't get me wrong, the festival's great. The fireworks are great. Although there won't even be fireworks this year..."
+    NATSUMI: "But the regional is a knockout tournament. If we keep winning, we'll make it to championships on Saturday."
+    NATSUMI: "And then once we win that, we'll be back in time to party here. We'll celebrate under the firworks."
+    TAKERU: "Er..."
+    NATSUMI: "I know, not this year... They're both fantasies. With Hiyama injured our pitching's gonna be rough, and we're not that competitive to begin with."
+    NATSUMI: "I can dream though."
+    That's another thing I never quite figured out from Meiko. No one seems to agree with her decision on this firworks thing. And no one knows that she's the one responsible.
+    Actually, speaking of Meiko, where is she? Natsumi and I sit down, but there's no pep talk from the class rep today. Meiko's desk is empty.
+    TAKERU: "Hey Natsumi, do you know if..."
+    The teacher enters and I don't get to finish my question. I gesture at the chair, but Natsumi just shrugs.
+    I'm sure she'll show up.
+    In the meantime, I've got to actually pay attention. I'm going to end up with a lot of work to make up.
+    
+    Sometime before noon, Meiko sneaks in. Well, it's not exactly stealthy, she just waltzes in and takes her seat, and nobody bats an eye.
+    I'd try to ask her where she was, but Natsumi's slumped over half asleep between us, and I think Natsumi is about the last person I'd want passing messages between me and Meiko.
+    Oh well. I'll just find out at lunch.
+    And just like that, there's the bell. Natsumi sits bolt upright and pretends to start taking notes. Meanwhile Meiko's probably been here less than ten minutes and she's already out the door.
+    But she turns around.
+    MEIKO: "Takeru. Good to see you."
+    TAKERU: "Hi, you too. I wasn't really gone that long though."
+    MEIKO: "Sorry, things are really hectic. Everything's on fast forward for festival week."
+    MEIKO: "It's a bit of a disaster. There was a shipment this morning we shouldn't have gotten, and now the daily council meeting's in another fifteen minutes..."
+    TAKERU: "That sould at least give you time to sit down for a minute then, right?"
+    MEIKO: "I suppose."
+    Meiko sits back at her desk, but still has that rigid posture. Can't she ever relax?
+    MEIKO: "I've got some news."
+    TAKERU: "Yeah?"
+    MEIKO: "The full floorplan is finalized tomorrow. We can still make changes to the schedule flier, but once we assign splots that schedule's done. I've done what I can, but..."
+    TAKERU: "What?"
+    MEIKO: "Your friend. Hagami, right? I have her penciled in for a half hour on Saturday but without a club registered, there's a whole review process for that kind of space, so..."
+    MEIKO: "So I guess I have to remove her and this, hm, spirit club?"
+    TAKERU: "Right. Right, okay..."
+    The way things look, I'm probably going to owe Hagami a favor. I need her help with Hikari, and if I can do something for her first, then maybe I'll look like less of a crazy person. She still seemed spooked after that whole incident with the voice on the radio.
+    TAKERU: "I think they have enough members, they just didn't hand in the paperwork. When does that have to be in."
+    MEIKO: "A week ago. Takeru, I hate being strict about this, but exceptions are painful. I'm trying really hard to put this together and all these loose ends keep floating off... Too many distractions."
+    Meiko leans forward and crosses her arms on the desk.
+    MEIKO: "I just want this over with."
+    TAKERU: "Hey, I really appreciate this. I'll get the papers to you tomorrow. Until then, what can I help with? If this application's a distraction, let me handle two others for you."
+    MEIKO: "Thanks, Takeru. I wish it was that easy..."
+    TAKERU: "No, I get it. Most of this stuff you can't just delegate. It's got to be you doing it."
+    MEIKO: "It's not even that. Have a little tact about this, everyone thinks I'm running this show on my own, all fine, no problems. When in you're my position, you can't sweat it."
+    MEIKO: "Some of it you can probably handle. Anyone could. But my pride is telling me that if I can't do it alone and I can't do it perfectly, then why am I in charge in the first place?"
+    TAKERU: "It's all over after Saturday, right?"
+    MEIKO: "Thankfully."
+    MEIKO: "Alright, can you deal with this bad shipment we got this morning? The last council president ordered the fireworks months ago, last school year, and nobody cancelled the order after, well..."
+    MEIKO: "Nobody cancelled it. We're getting billed for it and there's a crate and equipment sitting in the gym."
+    MEIKO: "Just get rid of it. Get us a refund if you can, but..."
+    Meiko shudders.
+    MEIKO: "I don't want them in the festival. Get all of it out of Mirako."
+    TAKERU: "Roger."
+    MEIKO: "Thank you again. It really is a bit of a situation."
+    MEIKO: "Alright. I'm in control. I've got this. Four days to go. I've got to be in the council meeting room in a few minutes, so I'll see you this afternoon."
+    MEIKO: "Bye Takeru."
+    TAKERU: "See you."
+    
+    The old wing seems stranger than usual.
+    Is it the quiet? The rest of the school is almost buzzing.
+    When I arrive at the old library, it's just as silent. Oh well. Guess either no one's here, or Mana's still not better.
+    Sure enough, when I push open the door, the lights are out.
+    The table's still littered with hardcover books, ghost manga, and that one decades-old newsletter from the Showa College of Music.
+    It's been ten minutes now since the start of lunch. Is Hagami out too? While I was out, did they decide to pick some other meeting place to get rid of me for once and for all?
+    Putting my paranoia aside, I start clearing a place on the table. A few serial novels I stack by volume, and I'd stack the hardcovers if I had the energy to actually lift them.
+    I'm not sure what to do with the newsletter though. It seems like an antique. Where was that box Hagami had this in?
+    Easily enough, I find it in the back. Are these sorted at all? I'd feel bad messing up the order. Taking a few out to check, they all have varied dates, stretching ten or twenty years, but I notice they all have something in common.
+    "Inori Naomi debuts new piano sonata..."
+    "Showa alums Inori Keiji and Naomi to perform at anniversary celebration in the UK..."
+    Then...
+    There's no Inori in the headlines on this one. On the side profile, though...
+    "Famed graduate Inori Naomi's daughter to attend Showa affiliate high school."
+    Sure enough, there's Hagami staring back at me from the inset photo. She's a few years younger, but that half smile's the same as ever.
+    HAGAMI: "Takeru?"
+    I didn't even hear the door. I drop the papers into the box and push it into the corner, trying to stand in front of it.
+    TAKERU: "Hey Hagami. Good to see you again."
+    HAGAMI: "Hey."
+    She sits down. Hopefully she didn't notice anything.
+    I join her.
+    TAKERU: "I was wondering where you were."
+    HAGAMI: "Downstairs. I just came back up to see if you were back yet."
+    TAKERU: "Yep. I escaped the clinc, finally."
+    TAKERU: "What do you mean 'downstairs?'"
+    Hagami doesn't respond and instead arms herself with one of the larger books still on the table. I suppose the wall will be going up any second now.
+    Today's reading material is titled "The Japanese Existential Phantom: A Case Study of Pragmatic Disambiguation." Sounds like someone crossed one of Mana's novels with a thesis in semiotics.
+    What I really need to do though, is figure out how to bring up Hikari without looking like I'm having another schizophrenia-induced episode. Easier said then done.
+    But to my surprise Hagami speaks up.
+    HAGAMI: "Then you're staying at Mirako?"
+    TAKERU: "Yeah. I'm not going anywhere, for better or for worse."
+    HAGAMI: "Sometimes they can be difficult. The doctors."
+    TAKERU: "Dr. Meadow's alright. Kind of condescending but I guess if he's talking to me I can't blame him."
+    TAKERU: "Although I guess you wouldn't be too torn up if I transferred and let you read here in peace."
+    HAGAMI: "Hm... I've kind of gotten over it."
+    TAKERU: "Over it?"
+    Although she seems a little more of what I remember, before I flipped out about secret voice recordings in front of her. Her book's flat on the table today instead of propped in my face.
+    HAGAMI: "You really don't..."
+    HAGAMI: "You don't remember, do you?"
+    TAKERU: "I'm still confused. Sorry."
+    HAGAMI: "That's alright."
+    TAKERU: "Never mind. I sort of had a question."
+    HAGAMI: "...?"
+    TAKERU: "Let's say, if I were a ghost, and I, er..."
+    TAKERU: "Let's say I have a friend who's a ghost. Well not really a ghost, er, more like no one else can see them. Or remember them, I guess. And they died, I think. That is a ghost, right?"
+    TAKERU: "Whatever, okay, so my friend who is probably a ghost, sometimes they have a problem with memory. Er, their own memory. Everyone else has memory problems with them, but she, I mean they, keeps forgetting little stuff."
+    TAKERU: "She keeps saying everything's blurry, like it happened a long time ago, and there are blips where she doesn't remember anything."
+    TAKERU: "Er, is there... anything in the literature about that?"
+    Yeah mission failed, I sounded totally unhinged. Hagami's one eyebrow looks like it's about to pop off her head.
+    Instead of saying anything, she slowly rotates the book on the table and pushes it towards me.
+    HAGAMI: "Next time you can just ask what I'm reading if you like."
+    TAKERU: "What? Oh. That's your idea of a joke."
+    HAGAMI: "...You started it."
+    TAKERU: "I was serious. Er, I said it terribly, but I wasn't kidding around. Somewhere you must've read about the horrors of paranormal amnesia or something like that. Right?"
+    Hagami just keeps staring at me.
+    HAGAMI: "Okay."
+    HAGAMI: "How much do you remember? Last week. Monday. You had your..."
+    TAKERU: "Oh I remember what I saw happen, just what I saw didn't actually happen. It's kind of an ongoing problem."
+    TAKERU: "If you're wondering, no, I'm not in some dissociative state. I took my meds yesterday and I'm all sober. I'm trying to ask your help, here, and not seem crazy at the same time."
+    HAGAMI: "Okay."
+    HAGAMI: "You said something about ghosts last week, and I..."
+    TAKERU: "Ignore that. I didn't do anything too terrible, did I?"
+    HAGAMI: "..."
+    TAKERU: "Right. Sorry, what did I - "
+    HAGAMI: "I don't know anything about memory loss in the supernatural. You said this was for a friend?"
+    TAKERU: "Yeah. Actually, no, ignore that too, forget I said anything about a friend. The important part is the amnesia. The rest isn't important. Er, she is important, but..."
+    TAKERU: "I'm really trying not to sound like a lunatic."
+    HAGAMI: "Just explain."
+    HAGAMI: "...I believe you."
+    I'll trust Hagami then. If this backfires I'm not sure how I'll explain myself to Hikari.
+    TAKERU: "Her name's Hikari. Do you remember last year's festival?"
+    HAGAMI: "No... I transferred."
+    TAKERU: "Right. Huh. Anyway, something happened last year, and now it's like nobody even remembers her. You'll probably forget about her as well. It's happened to everyone else so far. You probably think I'm nuts."
+    HAGAMI: "..."
+    HAGAMI: "I don't know."
+    TAKERU: "Either way, she needs help. She doesn't know what's going on with her forgetfulness, and my guess is it's not exactly natural. Seeing as how she's dead and all. Er, not dead, but..."
+    HAGAMI: "..."
+    HAGAMI: "Is there a punchline?"
+    TAKERU: "What? 
+    
+    
+    

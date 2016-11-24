@@ -1,0 +1,355 @@
+label day09b:
+
+    When I wake up on Sunday, Kenta's nowhere to be found.
+    Good. He'd probably mistake this for Monday and bludgeon me in the head until I straight passed out again.
+    And that'd interrupt the only good sleep I've gotten in ages. With Mana back and Hikari around, slowly Mirako is approaching normalcy.
+    Normalcy, despite all the buildup for the cultural festival.
+    Despite Natsumi's screwloose recruitment scheme. Despite Hagami's usual weirdness.
+    And despite the fact that Hikari would appear to be a ghost?
+    Never mind.
+    I notice my friend the horned toad is staring at me again from his jar. He seems to be telling me that I'll never know normalcy again.
+    TAKERU: "I can try, though. Or maybe I just have to hope."
+    TAKERU: "...Why am I talked to a dead frog?"
+    I stand up and rub my forehead. Definitely a headache coming on.
+    There are better things to do.
+    I have some schoolwork to do and then it'll probably be an all-day affair dragging things up the hill for Meiko.
+    
+    She's waiting at the fork in the road, as promised.
+    About this time on a school day, I'd be escaping Meiko and Natsumi to head to the old library. I realize now I was actually looking forward to seeing her. Probably because there's no Natsumi around.
+    TAKERU: "Meiko! Hey."
+    MEIKO: "Hello Takeru! Good morning."
+    TAKERU: "Hope I didn't keep you waiting."
+    MEIKO: "I'm more glad it wasn't me keeping you waiting."
+    TAKERU: "You must keep stricter schedules then Kenta..."
+    MEIKO: "Of course. You wouldn't want your class rep to be anything less than exact, would you?"
+    MEIKO: "Ready to go?"
+    Meiko has a handbag over her shoulder and a thin smile on her face. But the rest of her face looks thin as well.
+    TAKERU: "You don't look so great."
+    MEIKO: "Hm?"
+    TAKERU: "Er, I don't mean... You always look great, but, are you feeling alright?"
+    MEIKO: "It's really nothing."
+    TAKERU: "There might be a bug going around. If you tell me where to find whatever we're supposed to be moving, I can just do it myself if you need."
+    MEIKO: "I didn't get enough sleep last night is all."
+    TAKERU: "Oh yeah?"
+    MEIKO: "...More planning."
+    Meiko laughs it off.
+    MEIKO: "It's nothing I can't handle of course. Thanks for your concern though."
+    MEIKO: "Should we get going?"
+    And we start back down the hill.
+    
+    It's not too far to town from here, and it's actually nice out as well. Although uphill, when the sun is out in full force on the return trip, I doubt it'll be this pleasant.
+    MEIKO: "Thanks again for helping out with all this festival work, Takeru. I know it must be hard to handle on top of classes."
+    TAKERU: "Oh, I've got enough time to spare. No idea how you can do all of this, plus the student council stuff, plus stay top of the class."
+    MEIKO: "It's expected, right?"
+    TAKERU: "Er, I guess. I mean Natsumi pretty much says you can do anything."
+    MEIKO: "And do it correctly."
+    Meiko emphasizes that last word. "Correctly." It's a little strange.
+    As if sensing my confusion she changes the subject.
+    MEIKO: "The forms handed back were all correct as well, except for that one fake. You did good work."
+    TAKERU: "Actually..."
+    TAKERU: "About that form."
+    MEIKO: "The incorrect one? With the fake club?"
+    TAKERU: "Yeah. I've thought about it a bit..."
+    Although I have been thinking about it for the past few days (mostly wondering what on earth Hagami's up to), this particular idea only occurred to me now.
+    It's probably borne out of the way Meiko keeps calling the club "fake." It's just unregistered. Didn't Mana tell me of course it's real? Because they're just... people that meet? Isn't that the definition?
+    TAKERU: "That unregistered club..."
+    TAKERU: "Did you throw out the application or anything?"
+    MEIKO: "No, I still have it. Not on me, of course, but it's sorted into the documents folders in the council room."
+    TAKERU: "Can you like, reserve it? Keep the form around, and then if the club suddenly becomes un-fake, er, registers, you file it?"
+    TAKERU: "I don't exactly the forms are for, but..."
+    MEIKO: "General student display applications. If you need to pay for supplies, we can cover some of it. If you need space to display or perform, it needs to be reserved. And we need descriptions for the program. And times to put together the - "
+    TAKERU: "Right. Then can you keep the space open or something?"
+    MEIKO: "...Why?"
+    TAKERU: "I'm not quite sure. It could be important."
+    TAKERU: "I know the girl who filed it. Hagami. She's in our year, so I can probably just talk to her and sort this whole thing out."
+    MEIKO: "You're really not making any sense. I thought that paper was someone scamming the festival's budget. And reserving space anything would be, well, irregular."
+    MEIKO: "I don't like anything irregular. Especially not for this festival."
+    She glances over shoulder at me. It's the same calm and composed Meiko as ever, but, there's something ever so slightly odd in the way she seems emotional about this.
+    Finally, she sighs.
+    MEIKO: "I'll keep it around. If your friend gets her act together maybe we can make an exception. Try to be quick about it though, alright?"
+    TAKERU: "Thanks Meiko. I knew you'd get it."
+    MEIKO: "I try to understand, really... It's that, well, sometimes..."
+    MEIKO: "I hate making exceptions."
+    TAKERU: "You wouldn't be you if you didn't."
+    MEIKO: "That's... Thanks anyways."
+    MEIKO: "Maybe you don't know, but there's a lot riding on the festival this year. Everything has to go off perfectly, and if anything's out of place, it all comes down on me."
+    TAKERU: "Because of what happened last year?"
+    MEIKO: "Please don't bring that up. But yes. I was involved last year. It can't ever go like that again."
+    She takes a deep, shuddering breath.
+    Right. Hikari. Last time I brought her up, Meiko seemed all out of sorts. And today Mieko just has an aura of tension. Maybe best not to ask for details.
+    Although I can almost put it together on my own. It'd make sense that the administration's paying attention this year if something that happened last year that led to a student's death, even indirectly. A fire, right?
+    The convenience store and public library come into view along the last bend in the hill road.
+    And there's that coffee shop we visited last time. "Cat's Corner Cafe." Meiko points it out.
+    MEIKO: "Hm, I'm a bit hungry actually. I haven't eaten yet."
+    TAKERU: "Neither have I."
+    MEIKO: "Let's stop in for a few minutes then? We wouldn't want you working on an empty stomach."
+    
+    The cafe's what I remembered it to be. Low bustle. Quiet talk. A few business-looking types in their twenties work on laptops.
+    That's right. This is the place I first took in the whole picture of the new Meiko.
+    Everyone's crowded into the tables at the back, but Meiko manage to grab a booth for ourselves.
+    TAKERU: "You're just having a coffee?"
+    MEIKO: "Maybe I'll have lunch a little later. I don't think I could eat."
+    TAKERU: "Wait, I thought you even said... Never mind."
+    MEIKO: "Is your sandwich alright?"
+    TAKERU: "Yeah, it's good, if you want some. I feel kind of guilty eating it though if you don't have anything."
+    MEIKO: "Really, enjoy. Don't worry about me."
+    TAKERU: "Right, I guess that's pointless. You've pretty much shown you can take care of yourself."
+    She laughs.
+    There's a spiced smell in the air, almost like a cidre. Must be some seasonal drink they have in stock. It mixes with the fumes from Meiko's coffee.
+    TAKERU: "I guess I really should be thanking you instead of worrying about you."
+    MEIKO: "Hm?"
+    TAKERU: "For worrying about me. I'm trying to think where I'd be without you."
+    MEIKO: "Without me?"
+    TAKERU: "At Mirako, I mean. 
+    TAKERU: "I didn't know anyone. Coming from Tohoku, it was... I couldn't tell anyone about that, so, just having someone around that understood that..."
+    TAKERU: "I'm not sure where I'm going with this, but, I was just entirely lost for a while, especially before I came to Mirako."
+    TAKERU: "If I didn't run into you I'd probably be out, I don't know, catching frogs with Kenta today. Or locked up in my room feeling sorry for myself."
+    TAKERU: "To tell the truth I avoided you those first couple days. I was worried you'd hate me."
+    MEIKO: "What a funny thing to think."
+    MEIKO: "Takeru, the only person pulling you out of Tohoku and into Mirako is yourself. If you're used to it here, the credit is yours."
+    At first I think she's trying to say something uplifting, or else trying at some graciously self-deprecating take on "you're welcome," but... She's downright scowling. I worry for the safety of her coffee cup.
+    MEIKO: "It makes me really uncomfortable when you thank me. So please stop it."
+    TAKERU: "Er..."
+    MEIKO: "I can't tell if you're sincere or mocking me."
+    TAKERU: "How would I be mocking you?"
+    MEIKO: "Are you an idiot?"
+    TAKERU: "What?"
+    She takes a deep breath, then speaks in a monotone, almost faster than I can keep up.
+    MEIKO: "I've been sabotaging you this whole time. Why do you think that nothing you can do is good enough? Why do you think you're here right now instead of with people who actually care about you? Where do you think Meiko got that yearbook?"
+    MEIKO: "Who else would even have that? She asked if I knew anything so I just gave it to her. I knew what I was doing."
+    MEIKO: "And you can still talk to me everyday and eat with me here and thank me like I'm that 'perfect person' everyone else sees."
+    Meiko runs out of breath and then chokes something back. The whole time she doesn't take her eyes off me.
+    TAKERU: "I don't get it. You just didn't get enough sleep. You can't - "
+    MEIKO: "It's that sort of dishonesty that got us into this."
+    TAKERU: "Then... I don't understand why you'd..."
+    She takes a deep breath, then closes her eyes. There's finally some sense of her old voice back. Less accusatory.
+    MEIKO: "Do you remember the day you left?"
+    TAKERU: "I left?"
+    MEIKO: "For Tohoku. Four or five years ago."
+    I shut my eyes but draw a blank.
+    I keep them shut.
+    MEIKO: "It doesn't matter if you do. The point is..."
+    MEIKO: "No, it does matter. I'm sorry, if I lose momentum now I'll just quit."
+    TAKERU: "Say what you need to say."
+    My eyes are still closed.
+    To be honest, I'm frightened. I feel like the mask has slipped, and I've glimpsed something unpleasant, something better left unseen.
+    And that spice smell is back, maybe chestnuts, maybe something else mulled. It's not helping me parse what Meiko is trying to say.
+    MEIKO: "I was living with my aunt's family then. My parents were gone for over a year by then."
+    MEIKO: "You have to remember the field."
+    The field?
+    MEIKO: "It wasn't a park or anything. I lived three doors down. You were practically across the street. You played baseball there."
+    Now something comes back. A cloudless day. The field really wasn't a park, just vacant space and a grassy patch cleared below where the high voltage powerlines ran overhead.
+    Meiko seems to have found her voice. She continues, and I half-hear. That one image seems to stick. That's where I grew up.
+    
+    A cloudless day. A grassy patch cleared below the powerlines. My house is across the way.
+    It's impossible to tell the season. The sky, the foliage, everything is in vivid but indeterminate color.
+    Today I play first base. I'd never pitch with these guys. I blow the middle school team away as is. They wouldn't stand a chance.
+    Or... At least I thought I was playing first base. I guess I'm just watching for now. Shun's pitching. Looks like Yuji's up to bat. Easy out.
+    There's only one unfamiliar face here.
+    MEIKO: "..."
+    She just watches, like me. But only for a second. She's headed across the street. That's my house.
+    She knocks at the door.
+    MEIKO: "I-is Takeru back?"
+    Not even a three second pause, then -
+    MEIKO: "N-no, I get it. Sorry."
+    How many times must she have gotten that answer?
+    Meiko starts to cross back over the street.
+    There's something about my house that catches my eye though.
+    It's certainly, absolutely my house. I can't point out any specific detail (or even point out any details at all), but I know it on an instinctive level.
+    But there's one aspect that's different, one object that shouldn't be there.
+    A sign, in the yard. "FOR SALE."
+    I guess that's obvious though, isn't it? My parents moved to be closer to Tohoku a few months after I'd left. I don't remember ever seeing the sign there though.
+    Once I left for Tohoku, I never came back here.
+    Putting that aside, I turn back to Meiko. She's on the side of the road now, heading up the street.
+    TAKERU: "Meiko?"
+    TAKERU: "Hey! Meiko!"
+    She doesn't respond, just keeps meandering down the road, past the loosely packed houses.
+    I remember them. The first on the left, where that mean elderly couple lived... I see it now as black, maybe a harsh violet. We used to joke it was haunted.
+    Katsumi's house next. He used to be the pitcher before he went off to school to be an engineer or something. That's when I started learning the position.
+    Then Meiko's house. Well, her aunt and uncle's house, anyway. A dull tan, spotless paint. It looks average, just like it always did. It stands in contrast to the hyperreality of everything else around me.
+    She enters.
+    Somehow I'm inside too. Somewhere indistinct. But somewhere close enough to catch her face.
+    MEIKO: "..."
+    The younger her. Chin low instead of high.
+    There's a shout from down the hall. Her aunt?
+    I want the Meiko I know to straighten up and reply, with that same voice of reason she always has. But the Meiko I remember just trembles.
+    She talks to the floor.
+    MEIKO: "You yell at me when I stay in. You yell at me when I go out."
+    MEIKO: "I swore I'd try harder not to let you down."
+    She walks upstairs as the shouting continues. This time I find something familiar in her eyes. Resolution.
+    I realize this must be her room. There's a stack of sketchbooks on a nighttable, and a bookshelf with about twenty books, all vividly colored. They swirl.
+    There's a bed on the far side, but it's disordered and wrinkled. Meiko straightens it.
+    Then she takes a seat at the desk.
+    It's heavy thing, made of dark wood with brass handles on the drawers, like something salvaged from 50's accounting office. It can't be hers. Her uncle's property, probably. It hasn't been too long since Meiko moved in here, after all.
+    She starts writing.
+    At first it's just a straight line across the page. Then words form, but I can't read anything. The writing's distorted into droplets.
+    She's crying. Not sobbing, tears just silently falls as she puts the pen to the page, that look of determination that's now so familiar on her face.
+    By the end, there's only one sentence I can read.
+    "I will prove to you and the rest of them that I'm strong."
+    Meiko signs the page. Is that... a letter?
+    And then she fills in the addressee, the name at the top.
+    And she turns around, stares at me, and in the exact same moment, she writes my name and says it to my face.
+    MEIKO: "Takeru."
+    TAKERU: "What - "
+    TAKERU: "How are you... I thought..."
+    
+    MEIKO: "Takeru."
+    TAKERU: "I hear you."
+    I realize why I recognized her determined expression immediately. It's because it's the one she's making at me, now, at the Cat's Corner Cafe, while I try to figure out what the hell just happened.
+    MEIKO: "Please bear with me."
+    TAKERU: "No, keep going, sorry. I just... remembered something. I think."
+    TAKERU: "You were saying that every night..."
+    MEIKO: "I wrote you every night that first week, even before I realized where you'd left to."
+    MEIKO: "Nobody told me, definitely not my aunt."
+    MEIKO: "She was absolutely terrible, you know. There's an inheritance problem, and, her sister, my mother..."
+    MEIKO: "I didn't live with them because they were charitable people. I hated every minute of it, and until you left, I never realized how absolutely alone I was."
+    TAKERU: "I was an idiot in middle school."
+    MEIKO: "You still are. I've not looking out for, Takeru. I never was. That's all there was to it."
+    TAKERU: "All there was... what?"
+    MEIKO: "All I've wanted to do was show I didn't need you the same way you clearly didn't need me."
+    MEIKO: "I probably wouldn't be here at Mirako if you had responded even once to those letters."
+    Did I read them?
+    MEIKO: "It's been what I've been trying to accomplish here since day one. I don't need to rely on you, I don't need to rely on my relatives, my parents' money, or anything else. I can do it all, and I can do it without any of that."
+    She slams her empty coffee glass down on the table like it's the most disgusting thing she's ever tasted.
+    MEIKO: "That's what I thought anyway. Guess not."
+    MEIKO: "I bungled it last year and look what happened. Now let's guess the casualties this year."
+    TAKERU: "That can't possibly be your - "
+    If I'm looking to comfort her (am I?) this is probably not the best approach.
+    TAKERU: "I'm sorry, Meiko, I really am. I was an idiot. I didn't know you were under so much pressure."
+    MEIKO: "Oh I got myself into that, out of some grudge against you, and everyone else it looks like."
+    TAKERU: "Grudge... That first day, right here in this cafe, I thought you said..."
+    MEIKO: "I didn't forgive you. I hated you. I think I still do. I don't even know."
+    MEIKO: "It's wonderful to see you again. But when you left I went through years of hell. I want you to find yourself at home here. But I keep sabotaging you and setting you up with the most thankless tasks I can imagine."
+    I can't tell who I'm talking to. There were always cracks, but something unknown came out of Meiko's shell. It's not the her I remember, not the model student she always tries to be, but someone else.
+    The only constant is that determination. She continues. I doubt she'll stop until she's said everything she can.
+    MEIKO: "I can't deal with you, and Natsumi, and the festival, and... her."
+    MEIKO: "I knew I couldn't pretend forever and now I'm stuck. Valedictorian, good school, the law degree, academics..."
+    MEIKO: "There was never a plan. It's just a dead end."
+    And Meiko sits there, staring. She's challenging me to respond.
+    But I'm at a loss for words. It's not that I'm totally taken by surprise. There was always something just slightly off about Meiko, just off enough that I thought I could ignore it.
+    It's not that I'm at a loss for words, but I think that anything I could say wouldn't properly communicate how I feel or what I want to do.
+    I want to apologize but it'd just sound hollow. I want to forgive her for setting Natsumi on me, but I'm the one who should be asking forgiveness. I want to tell her to hang in there, but the last thing she wants is my pity.
+    And I don't pity her. Is this... empathy? Is that why I could see what she was describing so clearly? Or did I remember that scene? For a moment was I back home, back then?
+    No. I've always been sitting here in a cafe in Mirako. And now I need to figure out how to deal with this.
+    TAKERU: "Where's that place we're supposed to pick up the rental equipment? And when do we have to be there?"
+    Meiko snorts and pushes away her empty coffee.
+    MEIKO: "Haha, Takeru, you don't have to keep playing along. Go home. I'll work it out at the office and someone on the staff can rent a truck and come down to pick it up."
+    TAKERU: "I'm serious. We're already in town, so let's just get it done. Don't think I'm helping you out of guilt or debt, or... whatever."
+    MEIKO: "Well then?"
+    TAKERU: "It sounds like you actually could use the help."
+    She hesitates, as if to refuse, then takes a few breaths.
+    MEIKO: "Fine. It's not like I can avoid you forever anyway. There's always school tomorrow."
+    TAKERU: "Don't remind me."
+    MEIKO: "The rental place is maybe five minutes away. Let me just grab a sandwich to eat on the way there."
+    She smiles. It's grim, but it's something.
+    
+    The equipment in question is a massive barbecue grill and a pushcart to go with it.
+    I can see why Meiko talked about getting a truck. This thing would definitely not fit in a car, and it's a two person job to cart it up the road to Mirako.
+    There's a level patch of dirt by the guardrail. We guide the cart and grill over and take a moment to cool off.
+    Meiko catches her breath. I'm pretty sure I'm sweating through my shirt.
+    TAKERU: "Having someone pick this up with a truck isn't sounding so bad... How on earth did you move this last year?"
+    MEIKO: "Natsumi and I did it. Can you believe?"
+    TAKERU: "Actually yes. Well, no. I have no idea how you conned her into doing actual work."
+    MEIKO: "Haha, Natsumi is easy. You just have no idea how to deal with her."
+    TAKERU: "We'll be lucky if this only takes another hour."
+    I'm about ready to start pushing that terrible cart again, but Meiko's looking out over the guardrail. Instead of calling, I walk over.
+    It's the same spot we stopped at a month ago now. Instead of the usual Mirako shallow hill, the ground falls away into a cliff. There aren't any buildings out that way. Just fields, farms, meadows.. and mountains.
+    MEIKO: "..."
+    TAKERU: "..."
+    There's that deja vu again.
+    MEIKO: "Ready to go?"
+    TAKERU: "Yeah."
+    She keeps looking at me though. There's no animosity, there, just... caution? Confusion?
+    I'm sure to her I look the same way.
+    If before I was uneasy, now this is uncharted territory. I'm not sure where I stand with her. I'm not sure what I think of her.
+    But I think we both feel that way. We both know each others' past, at least, for better or for worse.
+    So it seems we're united in our unease. So even though now I'm even less sure what exactly we are to each other, it feels closer.
+    I sigh and we take our places at the cart, never quite looking at each other, and we get back to work moving the grill.
+    I might complain, but I don't regret it.
+    
+    By the time I'm almost back to the dorm, the sun is low in the sky.
+    Meiko and I really didn't have much to say other than goodbyes after finishing the job, and I'm sure it's going to take another day or two to process everything.
+    I open to the door to my room. My plan is to take a nap, then if there's still time left, head - 
+    WHACK.
+    I walk face first into a wooden beam.
+    TAKERU: "Kenta, what the hell?"
+    KENTA: "Good afternoon, Takeru."
+    TAKERU: "I left this morning and it was a zoo in here, now I come back and it's a lumberyard, and you - "
+    KENTA: "Good afternoon, Takeru."
+    TAKERU: "Good afternoon, Kenta. Now why is there wood all over the place?"
+    KENTA: "I'd think it's obvious. Didn't we go over this?"
+    He gestures at the assorted planks and boards scattered around the room. A few are attached to each other at 90 degree angles and standing up from the floor, including the beam I just walked into, which is effectively barring the door at face-level.
+    Actually, maybe it's lucky for Kenta that there's a two by four preventing me from getting at him.
+    TAKERU: "How did we 'go over' this? Are you making a barricade? Are you you expecting me to storm the room or something?"
+    KENTA: "You told me to do this."
+    TAKERU: "Right. Okay. Just explain what you're doing. Simply."
+    KENTA: "I'm building a cabinet. We're out of display space."
+    TAKERU: "Oh."
+    TAKERU: "There's not enough room on my dresser for frogs so you're building a cabinet."
+    KENTA: "Yes."
+    TAKERU: "..."
+    TAKERU: "You know it's possible to just buy these things, right? How did you even get this stuff up to..."
+    I duck under the board that hit me in the face and pick up a ten page multilingual instruction booklet off the floor.
+    TAKERU: "What step are we on? The sooner I have my dresser back, the better."
+    KENTA: "You don't keep any clothes in it, so I wouldn't call it your dresser, precisely. We have a good system going so let's not spoil things by getting possessive."
+    TAKERU: "Just me know what I need to do before I lose my patience again."
+    KENTA: "Hold this steady."
+    TAKERU: "That things six feet long."
+    KENTA: "Yes, it is. I need to screw this bracket on."
+    KENTA: "..."
+    KENTA: "Can you please stop that wobbling? Thank you."
+    TAKERU: "This was not a great idea..."
+    Not a great idea, but not a terrible way to spend the afternoon and evening either. I'd almost enjoy it if I wasn't already sore from pushing that grill all the way to school.
+    When Meiko and I parted ways, we didn't have much to say to each other. While I'm less uneasy now, there still feels like a huge gap between us. I'm more concerned with what I'll have to say when I see her tomorrow.
+    Luckily Kenta's exercise in cabinetry is a distraction. And when we finish, we have something to show for it.
+    KENTA: "Not bad."
+    TAKERU: "Not bad for something that was a pile of junk a few hours ago."
+    KENTA: "And useful too."
+    KENTA: "Takeru, you have a black eye. Were you in a fight?"
+    TAKERU: "The only fight I was in was with your new furniture. It'll all be worth it if don't have to look through frog jars every morning though."
+    KENTA: "I'll need a while to come up with a good plan for organizing everything though. This isn't something we'd want to rush."
+    TAKERU: "Does this mean that I get my dresser - "
+    But Kenta's already busy shuffling around his insects, preserved amphibians, and stacks of clothing from one dresser, to the other, to the newly constructed cabinet.
+    It looks like the top shelf is reserved for dragonflies. The cabinet drawer is for socks. One giant moth sits alone on the cabinet top.
+    I sit back and watch the whirlwind. But when things finally settle, my dresser is still occupied.
+    TAKERU: "Hello old friend."
+    KENTA: "Are you talking to that lizard?"
+    TAKERU: "He's staring at me. Again."
+    KENTA: "Takeru, I'm worried about your health. You've been acting very strangely lately."
+    TAKERU: "I'm not actually talking to the lizard, you know."
+    KENTA: "Then who are you talking to?"
+    TAKERU: "You can be impossible sometimes, Kenta. Thanks for getting some extra storage space, I guess."
+    KENTA: "You helped put it together, but, you're welcome."
+    He checks his watch.
+    KENTA: "But now it's time to eat."
+    
+    Kenta falls asleep immediately after dinner.
+    Actually, he looked exhausted. Who knows how long he was struggling to put all those shelves together before I showed up?
+    I should probably turn in as well.
+    But, for some reason, I can't sleep.
+    What exactly is holding me up? There's no huge problem I'm going to have to deal with any time soon. I figured out what was up with Meiko, right?
+    TAKERU: "..."
+    I sit up in bed.
+    If I had to describe my mood, it'd be somewhere between confusion and guilt. I honestly thought Meiko had forgiven me, and now it turns out she despises me.
+    But she felt so guilty about that that she decided to be honest, so... Did I lose a friend or gain one?
+    Lifting myself out of bed, I open the top drawer of what was once my dresser. I expected shirts but I got dried beetles.
+    Next drawer down is the emergency supplies. I guess the flashlight won't hurt if I don't want to wake Kenta up.
+    The rest of the drawers hold more shirts, dull brown chemical bottles, and an exhaustive set of differently size tweezers.
+    Taking care not to make any noise opening anything, I start searching the new cabinet.
+    Found it.
+    It's an cardboard box, not taped shut, but closed with each tab folded under the other. Looks like I really haven't touched this stuff since Tohoku.
+    There's some old clothes. Mostly uniforms, but my baseball jersies are tucked in there too, both home and away. Plus my glove. I try not to look at those.
+    The other half holds papers. There are some brochures in there, plus some scorecards I filled out from a few college games I used to go to. I rifle through old tests and a scouting report.
+    At the very bottom are the envelopes. There's maybe 30 in total, all addressed to me, signed, and postmarked. All of them are sealed, too.
+    She said if I'd replied, even once, to one of these letters, she wouldn't be at Mirako.
+    Why is she here in the first place?
+    I flip one of the envelopes around, back to front, then hold it to the flashlight. It looks like lined paper in there, maybe two pages.
+    I can't remember why I never even opened them. There were a few friends from back home I called once or twice, but, at the time, it seemed utterly irrelevant. There were plenty of people, dozens of people, all around me that wanted to know me.
+    And they were all like me. Either baseball players, or at the Tohoku feeder school, baseball nerds at minimum. Of course they wanted to call me their friend. I was a top prospect.
+    I keep turning the letter over and over in my hand.
+    What good what it do to open it now? It seems like picking a scab. It seems like the letters should be burned or buried, or just stuffed in a box and never looked at again, like the rest of my relics from Tohoku.
+    Reading them now changes nothing.
+    That confusion steadily gives away to the guilt, then just to an oppressive regret.
+    If I could redo things, I would've made a different choice.
+    Would I have even gone to Tohoku? If I knew how it'd end? With a total waste of talent, the burning of all my bridges, and a psychosis diagnosis to cap it off?
+    If I had the chance, I'd do it differently. I'd fix things. Who knows if they can even be fixed now?
