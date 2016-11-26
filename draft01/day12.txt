@@ -1,0 +1,104 @@
+label day12:
+
+    I've never been much of a morning person, but today is especially rough.
+    By the time into homeroom, there's nowhere I'd rather be than back in bed.
+    Everything from the 40th anniversary festival sign at the gates to the students students I say hello to in the hall seem to give off an air of excitement, but this early I really don't care how many days it is until the festival.
+    I slump into my seat, next to Natsumi's empty desk. I must be on time for once, because Meiko isn't at the front of the room speaking and instead giving me a wary look from the next desk over.
+    MEIKO: "Having a good morning, Takeru? You look a little tired."
+    TAKERU: "I'm exhausted. All of muscles are exhausted so I can't tell what hurts."
+    MEIKO: "What exactly were you up to last night?"
+    TAKERU: "Insect distribution."
+    MEIKO: "Are you feeling alright?"
+    TAKERU: "No, no, I'm fine. Well, not really, but this is just physical. Kenta's shipping out his dead bug collection, and I..."
+    MEIKO: "His what?"
+    TAKERU: "Long story, but he's not into coins any more. Or insects. I guess he only cares about the frogs any more. Seriously, his hobby is pretty much finding new hobbies."
+    TAKERU: "You wouldn't think boxes of bugs would be very heavy, but all that glass and bubble wrap adds up, and when you have to take ten loads down to the post office..."
+    MEIKO: "And you volunteered for this?"
+    TAKERU: "Have you seen my dorm room? It was either haul packages or sleep under a hundred bug boxes. It was a tough call, but I made the right one."
+    MEIKO: "I'm glad to hear Kenta's doing well."
+    TAKERU: "Easy for you to say. I wonder what happened to his last roommate..."
+    Probably he was crushed under boxes in his sleep.
+    TAKERU: "Anyway, I've got that club paperwork set. I'll get it to you after class today I guess."
+    MEIKO: "Good. I'll book your friend a slot."
+    MEIKO: "Does this also mean then... About that box in the gym..."
+    TAKERU: "I took care of it. Sort of. It's in the piano room downstairs. Bad news on the refund though."
+    MEIKO: "That's not as important. I'm sure the council cares, but to me..."
+    TAKERU: "The company already booked the technician for Saturday so they're going to charge you guys either way. You'll have to call the day of to cancel."
+    MEIKO: "I was afraid of that."
+    MEIKO: "Thanks for taking care of it, Takeru. When it comes to the fireworks it seems like I have a hit of a block."
+    TAKERU: "Right..."
+    A block? Like what Natsumi was talking about?
+    I almost want to ask her about Hikari, but that sounds like it'd be a bad idea at the moment. Classes are set to start any minute anyway.
+    Right as the teacher enters, though, the hair raises on the back of my neck.
+    Like... there's something behind me?
+    I turn around. Nothing.
+    I should probably start paying attention to the lesson, but...
+    Strange. I almost expected to see her.
+    When I turned around again, I spy her. Hikari. Somewhere in the last few minutes she slipped in and commandeered an open seat.
+    But she's not looking at me this time. She's only watching Meiko.
+    With a jerky motion of her neck, she spies me. And in the next moment...
+    Was she even there? The desk at the back of the room is empty.
+    That's strange, even for Hikari. I'd almost think she was... a ghost?
+    Is that what her mystery memory illness is?
+    I do my best to put her out of mind and get through morning classes. All this means is I need to do whatever I can for Hagami. I have to count on her to figure this out.
+    
+    Meiko's gone almost the instant the bell sounds for lunch. I'm sure it'll be all hands on deck at the student council until the festival's over and done with.
+    There's no sign of Hikari either. I did see her earlier? Right?
+    I run over my morning just to be sure. I definitely took my meds. In between the groaning to Kenta and kicking around those extra boxes, I definitely took my meds.
+    I finally reach the old library.
+    Mana should be back, but... The only sound inside is faint.
+    I push open the door.
+    TAKERU: "Hey Hagami."
+    HAGAMI: "...Hey."
+    The sounds is the radio. Specifically, that same old recording. Piano, and that must be a cello accompanying it.
+    TAKERU: "Mana's not out sick again is she?"
+    HAGAMI: "Just busy. She's on the swim team."
+    TAKERU: "Oh, right, they were putting something together for the festival. Hopefully she's free before lunch is over. I was going to tell her the club registration is going through fine."
+    HAGAMI: "That... Good."
+    TAKERU: "It's going to be a long day today though. Especially with whatever torture you've got lined up tonight."
+    HAGAMI: "Hm."
+    Even as I'm talking she taps a button on the radio, and the sound shuts off.
+    TAKERU: "I don't mind the music, really. I meant the er, seance, or whatever you called it."
+    HAGAMI: "I know."
+    TAKERU: "...That's your parents on the disc, right?"
+    Today Hagami has a stack of books in front of her, some the usual hardcover tomes, some skinnier, and the one she's got open totday is entitled "Field Notes on a Haunting in Abkhazia." Hagami's flipping pages at a breakneck speed today, but when I ask my question, she stops completely.
+    HAGAMI: "Yes."
+    HAGAMI: "I should use a different version..."
+    Faster than I can follow, she works the CD controls to eject the disc and pops in another. There's an introduction in German this time, but I recognize the melody as the same. It's a piano with full orchestra this time.
+    HAGAMI: "...You probably think that's cowardly, though. Oh well."
+    TAKERU: "Cowardly? What's that supposed to mean?"
+    HAGAMI: "You told me... Well..."
+    She tries to bury herself in the book again, but I can tell she's faking. She keeps glancing up at me. I stare her down, but I'm the one who ends up feeling uncomfortable.
+    There's only the tinny noise from the radio between us. Finally Hagami breaks the silence.
+    HAGAMI: "You don't remember."
+    TAKERU: "Remember? Don't tell me..."
+    HAGAMI: "That day, before you went to the clinic. I guessed you didn't know what was going on, but..."
+    TAKERU: "No, I really didn't. I thought I had a pretty good idea of what was real and was wasn't, but I guess I missed something."
+    Hagami tries to flip a page, but ends up flipping two. She gives up and closes the book with a dull thud.
+    HAGAMI: "No, you didn't."
+    TAKERU: "Hagami, I'm not that dumb. I can tell something happened. I was really worried the first day I was back, because I knew you bailed me out, but then you acted like it was nothing and..."
+    TAKERU: "It really was an act, wasn't it? For a while there it was like the first day I met you."
+    HAGAMI: "You..."
+    HAGAMI: "That day you were someone I didn't know."
+    TAKERU: "Right. Hang on a second..."
+    I rub my head, trying to think. A sudden headache isn't helping. Obviously, I screwed up more than I thought I did.
+    I could drop it. I don't need to know. Hagami's over it, at least somewhat. She at least talks to me. Isn't that good enough?
+    Then there's my curiosity. It's not curiousity, really, it's sort of a morbid suspicion. If I don't know what happened that day, I'll always assume it was the worst thing possible. After all, that's how it turned out at Tohoku, right?
+    It couldn't have been that bad. I didn't injure anyone.
+    Did I?
+    In my efforts to look at anything but Hikari, the stack of books catches my eye.
+    "Characteristics and Classifications of Classic Japanese Spirits..." "A Practical Taxonomy to Native Old World Ghosts..."
+    It's Hikari reading material.
+    If I want to help Hikari, I need to be decent terms with Hagami. I can't be dancing around in the dark, never sure when I'll be stepping on her toes because of some sin I don't even remember. I have to know.
+    TAKERU: "You can tell me."
+    HAGAMI: "It's fine. Over."
+    TAKERU: "Look, I don't think... I want to go back to before that ever happened."
+    HAGAMI: "I worried if you knew the details you'd run off."
+    TAKERU: "I'm not going anywhere. I need you to help my friend, right? I don't think we're going to be able to work together unless..."
+    HAGAMI: "Alright."
+    
+    Hagami has a unique way of telling a story. I don't think I've ever heard her say so many words at once before, but it's all almost... sparse?
+    I know I was here, that day, in the old library. Hagami was here too, just her. We talked about... The club? Her application form? Something like that?
+    She doesn't bother telling me that. In between those silences, she just explains...
+    That day there was something wrong.
+    
