@@ -412,4 +412,37 @@ label day11:
     NATSUMI: "Hey, back off a little bit. I know it's a softball but you and I can both throw farther than that."
     TAKERU: "If you really want to shout at me across the Mirako front lawn, be my guest."
     NATSUMI: "Hey, it's no skin off my back."
-    NATSUMI: "Anyway,
+    NATSUMI: "Anyway, it's funny, when I called all those old Tohoku students, most of them said were an overconfident jerk. Which is pretty much what I'd expect from a high school kid with a fastball in the 70s."
+    NATSUMI: "But then you get here and you're a bit of a stick in the mud, but nice enough I guess. Kind of funny. I'll probably give up bugging you about joining the team and just try to get you to join us for lunch."
+    I'll keep that in mind when Mana and Hagami start staging occult ceremonies at lunchtime.
+    NATSUMI: "But that's not important. Here, fly ball."
+    She hurls the softball straight up.
+    After four seconds of confusion, I hear at land two feet behind me. Natsumi laughs and walks in.
+    NATSUMI: "You're a terrible fielder."
+    TAKERU: "It was never that important. And I'm out of practice."
+    NATSUMI: "Excuses, excuses."
+    NATSUMI: "Listen, I've got to catch a train, but what I really wanted to say..."
+    NATSUMI: "If the baseball gods are smiling on us, I won't be back until the day of the festival. Can you..."
+    NATSUMI: "Watch our for Meiko for me."
+    TAKERU: "I guess I can do that. Is there any particular - "
+    NATSUMI: "Meiko's a superhero, right? The mental strength of ten men and the brightest mind of our generation. Last year, though, after the festival..."
+    NATSUMI: "She took it pretty rough."
+    TAKERU: "You mean... That student's death?"
+    NATSUMI: "After the festival she was only hospitalized. I didn't know Meiko too well back then but from what I hear..."
+    NATSUMI: "She was involved."
+    TAKERU: "Well she was on the council, right?"
+    NATSUMI: "Not like that."
+    NATSUMI: "I dunno. I'm not trying to throw accusations around. It's like I said though. Most out-of-towners at Mirako came here for a reason."
+    NATSUMI: "So don't let her do anything too off wall while I'm gone, okay? I don't think it's actually possible for her to work herself to death, but she'll probably try."
+    TAKERU: "Er, I'll keep that in mind."
+    NATSUMI: "Okay. Knew I could count on you. Team player after all, huh?"
+    NATSUMI: "Now I've got to finish lugging all this stuff down the hill... Give me a hand?"
+    TAKERU: "Oh, so this was all a ploy to get me to help you pack."
+    NATSUMI: "I swear it wasn't! You can go home if you want but I'll judge you forever."
+    TAKERU: "Fine, fine... Where to?"
+    I'm headed the same way anyway.
+    The bag is certainly heavy enough. It's overloaded with what feels like three bats for every member of the team. I have no idea how Natsumi intended to move this more than ten yards.
+    I'm still trying to think what Natsumi meant though and I'm not about to ask for clarification.
+    "Involved?"
+    Maybe I'll ask Hikari. 
+    Until then, time to send off Natsumi, and wish her good luck.
