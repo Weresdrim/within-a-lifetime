@@ -213,7 +213,236 @@ label day11:
     TAKERU: "Either way, she needs help. She doesn't know what's going on with her forgetfulness, and my guess is it's not exactly natural. Seeing as how she's dead and all. Er, not dead, but..."
     HAGAMI: "..."
     HAGAMI: "Is there a punchline?"
-    TAKERU: "What? 
+    TAKERU: "What? I'm not joking here."
+    HAGAMI: "Good. If you were joking, I'd be unhappy."
+    HAGAMI: "...I never considered any of this would be useful."
+    TAKERU: "The supernatural books? I honestly have no idea what you believe in or not, but Hikari's real, and she could use some help."
+    HAGAMI: "I can try."
+    TAKERU: "Thanks Hagami. You're the best."
+    Her smile's weak, but it's there. I guess she's not over looking for literal ghosts after all.
+    HAGAMI: "I'll do what I can. I guess.. I won't be all that busy anyways."
+    TAKERU: "Is this about your festival performance?"
+    HAGAMI: "Performance?"
+    Hagami blushes in moments.
+    TAKERU: "Er, festival application or display or budget or whatever it was."
+    HAGAMI: "You didn't look?"
+    TAKERU: "No. But I got an update from Meiko. We should still be able to pull this off."
+    TAKERU: "Hikari's joining the supernatural club."
+    HAGAMI: "Hikari? Have I met... Oh."
+    Not that I've talked to Hikari about this. I'm sure she'll be willing to sign her name on the club registration form when she hears everyone here is working to help her out. At least she better be.
+    TAKERU: "Just in name only of course. I think that should work."
+    HAGAMI: "That's three members."
+    TAKERU: "I'm formally joining the supernatural club. That should put us over the top. Even if joining involves robes, weird hazing rituals, whatever."
+    MANA: "Takeru! You're back? And you're joining the club? That's amazing! I'm not sure which is better."
+    MANA: "And you want to do the initiation rite as well? That's even better! I'm not sure when the next full moon is, but we've got enough incense left, and - "
+    At the worst possible moment, Mana bursts into the room. No sniffles, no coughing. Just an unbridled enthusiasm for making me embarass myself.
+    TAKERU: "Hi, Mana. I thought you were still out sick."
+    MANA: "I was back yesterday. I just had to help the swim team with festival setup for most of lunch. I'm famished."
+    She seats herself (knocking over my neatly piled ghost novels) and gets out her lunch, only to continue talking.
+    MANA: "Hagami said you were at the hospital? Are you alright?"
+    TAKERU: "Just the clinic. I'm fine now."
+    MANA: "And what's been happening this week? I feel like I've missed a lot."
+    TAKERU: "Yeah, maybe..."
+    Specifically she missed my explanation of Hikari's unique condition. I'm not even sure I want to explain that to her. Didn't Hikari make that sour face when she thought of meeting Mana again?
+    But something's going to have to give here, or else it's going to look like I decided to join up specifically for prancing under the full moon or whatever nightmare's in store for me.
+    HAGAMI: "I want to register the club."
+    MANA: "You mean with the student council? You think they'll have a problem with the initiation? We took out the blood from the - "
+    HAGAMI: "No. We're fine. But that's why Takeru's joining."
+    TAKERU: "I got the form from Meiko right here. We should all just have to sign."
+    MANA: "Okay. I'm fine with registering. That means we won't get kicked out of our room, right?"
+    TAKERU: "I doubt Meiko would pull something like that, but yes, no getting kicked out."
+    MANA: "Cool! Then... who's the fourth member? It's four to a club, right?"
+    TAKERU: "Er..."
+    Take the lead Hagami. I have no idea how to handle this.
+    Hagami seems prepared. She lays her arms on the table and arches her fingers, looking like a fortuneteller... Or maybe an evil mastermind.
+    HAGAMI: "Mana. Tomorrow night. Dusk. We meet here."
+    MANA: "What's going on?"
+    HAGAMI: "We will be holding a seance. A ghost will join our ranks."
+    MANA: "No way..."
+    MANA: "Hagami! You mean you're going back to..."
+    HAGAMI: "You will address me as High Priestess Hagami."
+    MANA: "Amazing! This is fantastic! You'll be there too, right Takeru? Or do we have to do the initiation first? Hmmm..."
+    Kill me now. I'm sure I'm doing a terrible job at hiding my look of dread. Clearly Hagami has betrayed me. When I turn to Hagami, she still has that faint, unperturbed smile.
+    Looks like this will be the price of her help.
     
+    As expected, classes are a mess today. I've gone from behind to hopelessly behind. Before the festival it looks like I'll have to hand in makeup work for pretty much every class.
+    Normally I'd bother Meiko to help me through some of the harder problems, but of course she'll be tied up all week. I'm on my own.
+    Plus I have my own festival task from Meiko to take care of. And now a midnight meeting of the supernatural club because Hagami has a twisted sense of humor.
+    With all that in mind I do my best to actually do my classwork. Although I keep an eye out for Hikari appearing in some empty desk, she never surfaces.
+    Finally, the last bell sounds.
+    MEIKO: "I've got to run, Takeru. They need to someone to oversee setup back by the field."
+    MEIKO: "What we talked about this morning... I can count on you, right?"
+    TAKERU: "Right. I'll head down to the gym."
+    MEIKO: "Thank you. I still hate relying on anyone to - "
+    MEIKO: "Never mind. Thanks. See you later."
+    TAKERU: "Bye."
+    Looks like Natsumi already ran off somewhere too. I want to find Hikari sometime today, but for now, I should probably figure out what to do about the fireworks shipment that wound up in the Mirako gym.
+    The gym itself is buzzing. Half of the room is separated into aisles and squares marked by strips of painter's tape on the floor, and in the center someone's left numbered pieces of paper. There are way more students than I expected who want to show off their art or club or whatever else.
+    The other half of the room is a collection of collapsable chairs, folded tents, and other material. I spot that grill I pushed all the way up here with Meiko. Guess gym class is cancelled this week.
+    I spot what I'm looking for pretty quickly. It's a wooden crate as opposed to all the cardboard boxes, and there's a clipboard on top.
+    The clipboard is an invoice from Fujiworks Pyrotechnics. There's no fireworks in the box, apparently, just a bunch of equipment for the launch site to set up beforehand.
+    Refunding the box would probably be pointless. The big item on the bill is to bring in one of their technicians to set the whole thing off. For some reason I had a picture in my head of Meiko wearing goggles and lighting the fuses herself.
+    Whatever. There's a number to call at the bottom. I grab the clipboard and find a phone.
+    TAKERU: "Is this Fujiworks? Yeah..."
+    TAKERU: "Let me find the order number..."
+    TAKERU: "No..."
+    TAKERU: "Wait, if you've already booked the time, then - "
+    TAKERU: "Er, I sort of get it. What if we..."
+    I hang up after twenty minutes of running around. It's a lost cause. Maybe someone in the student council can argue the case better than I can, but now my job is to get this stupid box out of the gym.
+    The pushcart that came with the grill is still handy, so I load up the box and start taking this to...
+    I guess I might as well put it in the old wing. That'd where all the junk of Mirako seems to end up.
+    Compared to pusing equipment up that hill, this is easy. I pick a room at random (looks like the piano room) and put the box with some others in a corner.
+    Now just to tell Meiko I didn't manage to get her money back.
     
+    But on my way out of the old wing, there's a voice behind me.
+    HIKARI: "Leaving so soon?"
+    TAKERU: "Hi Hikari. I should've known you'd be lurking around here."
+    HIKARI: "You'd be surprised. It's not so quiet down here these days... Everyone's packing and unpacking things."
+    TAKERU: "Must be because of the festival prep. You should see what it's like in the gym."
+    HIKARI: "It's hard enough to hide down here. I'll stay around here, thanks."
+    TAKERU: "You're hiding? I thought you were observing or doing reconaissance work or something the way you kept popping up in class."
+    HIKARI: "That's on my terms. I'd rather not run into people I know."
+    HIKARI: "People I knew, I suppose. They're familiar faces, but more and more..."
+    HIKARI: "Did you talk to your friend? Hagami?"
+    TAKERU: "She didn't have any ideas, but she said she'll help. You better appreciate it, by the way. I'm paying a pretty hefty price."
+    HIKARI: "I'll pay you back by teaching you some Indian defenses. Then maybe you'll stop humiliating yourself in the first three turns every chess game."
+    TAKERU: "I kind of get the feeling I'm in for a lot of humiliation in the next couple days..."
+    We head back to the tearoom.
+    I notice a few of the boxes that were once on the shelf are now on the floor and vice versa. They must be pulling out all the stops for the festival to remember that this room exists.
+    Hikari sits down. The chessboard is out, not unsurprisingly, but there's a few more pieces than usual dotting the board.
+    TAKERU: "Where'd this thing come from? Is this a bishop I guess? From some other set?"
+    HIKARI: "We needed a replacement knight for that thimble and I was bored enough to try carving another one."
+    TAKERU: "There's a lot more than a knight here."
+    HIKARI: "...I might've been very bored. I'm trying for a more traditional set than the Russian sort of one, but usually when you make round pieces, you use a lathe. So these ones are going to be octagonal."
+    TAKERU: "And you carved all this?"
+    HIKARI: "Yes?"
+    TAKERU: "...Yet you can't drink tea. Or move your own chess pieces."
+    Hikari tries for a few moments to pick up the stray pieces. Every once in a while she seems accutely uncoordinated. This is one of those times. Or is it just... impossible for her to touch them.
+    She gives up.
+    HIKARI: "Maybe that's another thing to ask Hagami. I suppose if other ghosts are allowed to throw knives and bang pots and pans together, I'm allowed to carve some pawns once in a while."
+    TAKERU: "Fair enough. Then can you find a pen and sign this?"
+    HIKARI: "Sign what?"
+    I draw out the club registration form.
+    HIKARI: "'Mirako High student group application...'"
+    HIKARI: "..."
+    HIKARI: "Takeru."
+    TAKERU: "Hagami needs it. It's what her help is going to cost us."
+    HIKARI: "Takeru, you're trying to get me to join something called the Mirako Ghosthunters Union."
+    I take the form back. Sure enough, there's the title at the top, in Mana's curly handwriting. Mirako Ghosthunters Union and Supernatural Society.
+    TAKERU: "Right..."
+    HIKARI: "Is irony completely dead to you?"
+    TAKERU: "The other members are interesting people. With, er, very interesting ideas of what's a good name for a club. I swear there's no ghosthunting, they mostly just listen to ancient chamber music and read terrible books. I'm not - "
+    HIKARI: "This would explain the robes and incense..."
+    TAKERU: "That was a fluke. I was straight up tricked. That isn't - "
+    HIKARI: "Are you going to ambush me and try to trap me in a jar or something? Maybe a vacuum cleaner?"
+    TAKERU: "What? No. Hikari if I was part of a club trying to hunt down the supernatural, I wouldn't be recruiting you into it. And besides, I don't think Mana actually cares about ghosts unless they can be her ghost boyfriend, so you should be safe."
+    HIKARI: "This is not encouraging."
+    TAKERU: "You don't even have to show up. We just need four members so Hagami can book a spot at the festival."
+    HIKARI: "And your brilliant plan was to have me sign on? Even if I'm still on the student roster, my name's going to raise some eyebrows, you know."
+    TAKERU: "I wonder about that."
+    TAKERU: "No one's seemed to really react when I mention you by name. There aren't too many Hikaris around either."
+    TAKERU: "Now that I think of it, the only one that ever noticed was Meiko."
+    HIKARI: "And how did she..."
+    When Hikari pauses, I look up. But she's vanished.
+    Where she was sitting across from me... No one. She was just there. She must've been...
+    TAKERU: "Hikari?"
+    HIKARI: "What? It's your move, isn't it?"
+    When I look back across the table, there she is. Standing, not sitting, and talking like nothing even happened.
+    TAKERU: "Hikari..."
+    TAKERU: "Maybe I'm seeing things again."
+    Hikari takes a seat in her usual uneven motion, then the paper in front of her catches her attention. It's the club registration. She starts reading it. Rereading it?
+    HIKARI: "Of course."
+    HIKARI: "This..."
+    HIKARI: "You were asking if I'd join your friend's club, weren't you?"
+    The humor is drained from her voice now.
+    TAKERU: "Yeah. You sort of..."
+    HIKARI: "I nodded off. I missed a step."
+    HIKARI: "I can't deal with this, Takeru. I'll put my info on the form. If they treat it like you tried to forge a fake student, I wouldn't be surprised. But I'll help out Hagami. I want this solved."
+    TAKERU: "You can count on her."
+    HIKARI: "You should introduce me."
+    TAKERU: "Er, when it comes to Hagami, Mana's usually around, but I don't see why not. You could come to lunch tomorrow, up in the old library."
+    TAKERU: "Actually... I've heard they'll be busy tomorrow, so maybe the day after."
+    Actually, I've heard they'll be setting up for a seance or an initiation or whatever hell show Hagami's planning to put on for Mana's benefit. Best sort this out with them first.
+    HIKARI: "I'll have this ready tomorrow, then."
+    TAKERU: "Thanks."
+    HIKARI: "Now wasn't I supposed to be teaching you some openings?"
+    TAKERU: "I might not be a very good student. There's a lot going on the next couple days."
+    HIKARI: "I could use a distraction. Maybe you could too."
+    TAKERU: "Right. I'll set up the board."
+    TAKERU: "...Is this the replacement knight?"
+    I'm holding a plain wooden figure, narrow, with a carved cylindrical head. Without paint it's hard to recognize as a knight.
+    HIKARI: "It's not quite right, I know. I'll paint it later and that should help."
+    HIKARI: "Some things are just irreplaceable."
+    TAKERU: "If you say so."
+    Hikari sounds oddly pensive about a chess piece, but I guess she's always been moody anyway.
+    Time to try to open my mind to her chess technique.
+    ...Although I can never tell if she's actually trying to teach me or just finds this funny.
     
+    By the time I say goodbye to Hikari, it's getting late. It'll be dusk before too long, but Mirako's more active than usual.
+    I pass a tall guy in glasses I recognize as a student council member, carrying a stack of chairs out of the old wing. Guess this festival's a full time job for them.
+    Outside, I take a seat on a picnic table by the front entrance. I'm just dragging my feet at this point. There's nothing much waiting me back at the dorm but the mountain of makeup work I've got in my bag. Hopefully Kenta hasn't turned the room into a post office yet.
+    When I finally rally myself to leave, I notice a silhouette heading the opposite direction. They're carrying a sack that looks like... baseball gear?
+    TAKERU: "Oh. Natsumi, it's you."
+    NATSUMI: "Yo! Hey Takeru."
+    She shields her eyes against the sun, then starts heading my way.
+    TAKERU: "Isn't it kind of late for you to be hanging around? No practice to run today?"
+    NATSUMI: "We're catching a train to regionals tomorrow. I'm just making sure all our stuff's packed."
+    She dumps the bag of gear on the ground next to her.
+    NATSUMI: "Glad I caught you before I left, actually. You're not doing anything important, right? Cool."
+    NATSUMI: "Let's take a walk. Or actually... Catch!"
+    She tosses me a glove. Underhand, thankfully, although for a moment I have a flashback to her chucking a textbook at my face. I still don't like where this is going.
+    NATSUMI: "Now catch this."
+    TAKERU: "I really wouldn't trust me with a b-baseball.:
+    NATSUMI: "This one's a softball, you dope. Just catch with me a bit."
+    She throws the ball overhand and my reflexes kick in. I throw it back more to get rid of the thing than anything else, but of course, Natsumi just tosses it right back.
+    NATSUMI: "Don't strain yourself. Especially not if that shoulder thing is real."
+    TAKERU: "Is that what this is about? Unless you want to tie me up and throw me in the luggage compartment, you're not getting me on that train tomorrow."
+    NATSUMI: "No, no, it's the opposite of that. I should probably apologize."
+    TAKERU: "For what?"
+    It's not that she doesn't have anything to apologize for, I'm just curious what in particular is compelling her to start now.
+    NATSUMI: "Oh you know. The whole Tohoku thing."
+    NATSUMI: "I wasn't kidding when I said I was scouting you out from the beginning. That's the whole reason I introduced myself. Your old school's a little famous, you know?"
+    TAKERU: "I'm aware."
+    NATSUMI: "I'm not sure if Meiko just made that thing up about your shoulder injury or told her that, but I think I kind of get it. This is Mirako, right? People who transfer here have their own problems to deal with."
+    NATSUMI: "So, sorry. I kind of ignored that. I figured something was up with you, but your stats looked so good... I mean I had to give it a shot, right?"
+    NATSUMI: "But if Meiko's willing to go to bat for you... Yeah I can respect that."
+    TAKERU: "Please tell me this means you're calling off your mastermind recruitment plan."
+    NATSUMI: "Yep. Cancelled that a while ago. I've just been too busy to tell you I screwed up. Plus I was a little bitter there. Our pitching staff's not looking so hot and it's going to take a miracle this week to reach championships."
+    TAKERU: "Sorry I couldn't help out."
+    NATSUMI: "Hey, back off a little bit. I know it's a softball but you and I can both throw farther than that."
+    TAKERU: "If you really want to shout at me across the Mirako front lawn, be my guest."
+    NATSUMI: "Hey, it's no skin off my back."
+    NATSUMI: "Anyway, it's funny, when I called all those old Tohoku students, most of them said were an overconfident jerk. Which is pretty much what I'd expect from a high school kid with a fastball in the 70s."
+    NATSUMI: "But then you get here and you're a bit of a stick in the mud, but nice enough I guess. Kind of funny. I'll probably give up bugging you about joining the team and just try to get you to join us for lunch."
+    I'll keep that in mind when Mana and Hagami start staging occult ceremonies at lunchtime.
+    NATSUMI: "But that's not important. Here, fly ball."
+    She hurls the softball straight up.
+    After four seconds of confusion, I hear at land two feet behind me. Natsumi laughs and walks in.
+    NATSUMI: "You're a terrible fielder."
+    TAKERU: "It was never that important. And I'm out of practice."
+    NATSUMI: "Excuses, excuses."
+    NATSUMI: "Listen, I've got to catch a train, but what I really wanted to say..."
+    NATSUMI: "If the baseball gods are smiling on us, I won't be back until the day of the festival. Can you..."
+    NATSUMI: "Watch our for Meiko for me."
+    TAKERU: "I guess I can do that. Is there any particular - "
+    NATSUMI: "Meiko's a superhero, right? The mental strength of ten men and the brightest mind of our generation. Last year, though, after the festival..."
+    NATSUMI: "She took it pretty rough."
+    TAKERU: "You mean... That student's death?"
+    NATSUMI: "After the festival she was only hospitalized. I didn't know Meiko too well back then but from what I hear..."
+    NATSUMI: "She was involved."
+    TAKERU: "Well she was on the council, right?"
+    NATSUMI: "Not like that."
+    NATSUMI: "I dunno. I'm not trying to throw accusations around. It's like I said though. Most out-of-towners at Mirako came here for a reason."
+    NATSUMI: "So don't let her do anything too off wall while I'm gone, okay? I don't think it's actually possible for her to work herself to death, but she'll probably try."
+    TAKERU: "Er, I'll keep that in mind."
+    NATSUMI: "Okay. Knew I could count on you. Team player after all, huh?"
+    NATSUMI: "Now I've got to finish lugging all this stuff down the hill... Give me a hand?"
+    TAKERU: "Oh, so this was all a ploy to get me to help you pack."
+    NATSUMI: "I swear it wasn't! You can go home if you want but I'll judge you forever."
+    TAKERU: "Fine, fine... Where to?"
+    I'm headed the same way anyway.
+    The bag is certainly heavy enough. It's overloaded with what feels like three bats for every member of the team. I have no idea how Natsumi intended to move this more than ten yards.
+    I'm still trying to think what Natsumi meant though and I'm not about to ask for clarification.
+    "Involved?"
+    Maybe I'll ask Hikari. 
+    Until then, time to send off Natsumi, and wish her good luck.
