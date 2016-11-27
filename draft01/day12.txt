@@ -101,4 +101,155 @@ label day12:
     I know I was here, that day, in the old library. Hagami was here too, just her. We talked about... The club? Her application form? Something like that?
     She doesn't bother telling me that. In between those silences, she just explains...
     That day there was something wrong.
+    I couldn't place my finger on it then, but it's all too obvious now what was causing it. The books on the selves all running together into an indistinguishable patch of colors. The unsaturated look of the sunlight.
+    I just left Natsumi after physics. It's lunch now and I'm headed for the old library.
+    My eye hurts. Right, I have that black eye from where I stumbled into Kenta's half-finished cabinet. But I can't really feel it. Am I disembodied? I don't feel quite myself.
+    That's the script for this day. The lunch bell, I go to the old library, something happens, and all of a sudden Hagami treats me like a stranger.
+    I know I said I wanted to know what happened...
+    But each step I take towards the old wing, there's that foreboding.
+    I know something terrible will happen when I reach that room.
+    Then why am I still walking?
+    It was the same sensation from before -- I'm not in control of my actions, all I can do is what beta-Takeru did before me. My thoughts aren't my thoughts. Their his.
+    I stop dead in the hall.
+    That never happened the first time I was here. 
+    I can feel the adrenaline now. Up that staircase, there's the door to the old library.
+    The first time, I went up that staircase, opened that door, and upset everything with Hagami.
+    Why should I go there now?
+    I could turn around right here, go back to class, and it would never happen.
+    That's why my heart is pounding. I realize that nothing I know is set in stone. It can all change. But do I take that choice? Can I, now, wherever I am, change what should already have happened?
+    
+    menu:
+        "This is just me memory. Go upstairs and open the door."
+            
+            That's right, this is just...
+            Hagami's story. I'll hear her out. I said I had to know, didn't I?
+            I walk again. One stair, then five stairs, then I'm outside the library.
+            Someone opens the door. Me, of course.
+            TAKERU: "Hey Hagami."
+            HAGAMI: "...Hello."
+            TAKERU: "I guess Mana's still sick?"
+            And so on.
+            Right, I know this. This is still my version of what happened. Until now all that had happened today was Hikari kept turning up where I didn't expect her, and saying that... accusatory stuff.
+            That's supposed to change when she turns on the radio.
+            She doesn't turn on the radio. When was that supposed to happen?
+            We chat about Mana, then about her festival application. Then quiet.
+            It was supposed to happen now, right? She turns on the radio, then I hear her voice.
+            The minutes flow on, and still nothing. In my impatience I turn it on myself
+            I've never been much good at operating the antique radio/CD player, but this time it crackles on. Another old recording, starting off with an introduction, thankfully in Japanese.
+            It's a solo performance by Inori Keiji, some classic. His first public appearance in years, and so amazing that he performs at all after -
+            A hand darts out and flicks a knob on the radio. Fast forward? The voice scrambles, then fades into the sounds of string instrument, unaccompanied. A cello, right. It's a slow piece, almost lethargic.
+            Then Hagami shuts it off completely.
+            HAGAMI: "Sorry."
+            TAKERU: "What was that?"
+            She's quiet.
+            Then I straighten up. As if I'd just heard a gunshot ten feet behind me.
+            And I start speaking.
+            TAKERU: "Are you busy? You never speak to me. I never hear from you. I eat lunch every day here but I know you still don't trust me. The paper. That old CD. Her voice. You recorded her voice? Is that a joke?"
+            TAKERU: "You won't explain? It really isn't funny. It's betrayal."
+            TAKERU: "It's painful. You obviously know all about me. You know what's wrong with me. You know I got kicked out of dream school for being a psychopath. I don't know the first thing about you. Me against the world."
+            Hagami just stares in disbelief.
+            TAKERU: "You keep running away. That's fine. I won't trust you either. I'm stronger now."
+            TAKERU: "I was depressed when I came here, probably. Mana found me and brought me here. Right. That's okay. I'm not depressed any more, just furious."
+            TAKERU: "One day I'll get even, You'll think I'm there for you, and then..."
+            What? What is this? Why do I know these words like the back of my hand? I've never spoken them before. No. I've heard them before. Where did I hear this?
+            It's Meiko's voice. Of course. All I'm saying to Hagami now is what I heard from Meiko's tape. Her exact language in some spots.
+            Then... Wait.
+            I freeze.
+            If there was no tape, where did this even come from? It can't be that... It wasn't Meiko talking to me. I was talking to Hagami. Obviously.
+            All that hate I felt coming from the phantom voice on the radio... It came from me? Because of some imagined insult from Hikari about a clearly nonexistent secret recording?
+            It's idiotic, only I could manage to pull that. But there's nothing for it now. It's runaway downhill. She's trying to shield herself with that book but I have to keep going.
+            TAKERU: "I can't forgive you. You'll never realize it, will you. You can try to keep your secrets but I know you betrayed me. I'll never forget. I'll find out whatever happened to you, on that last day. I'll find out why your're really here."
+            TAKERU: "That won't be a secret either."
+            TAKERU: "I can do anything. No consequences."
+            When did I stand up? Hagami's huddled behind her book, but I'm standing over it. She has nowhere to look but right at me.
+            TAKERU: "I told you. Hikari."
+            TAKERU: "Hikari."
+            TAKERU: "Who are you?"
+            HAGAMI: "Hagami?"
+            TAKERU: "Do I look stupid?"
+            She flinches.
+            TAKERU: "I didn't get enough sleep but I'm not that dumb. I can tell who I'm talking to."
+            TAKERU: "Everyone lying, hiding, running away... When did you all figure out what happened to me? On that last day at Tohoku? Because it's happening now."
+            Hagami stands up. No doubt making a break for the door. I take a step back. Am I supposed to stop her? What am I even...
+            I'm falling.
+            And I know in that moment, yes, she was trying to escape. I was long gone. She was halfway to the hall, then when I stumbled, she turned back.
+            She caught me.
+            That's when she wound up behind me. She came back for me.
+            HAGAMI: "Come on."
+            TAKERU: "D-did you see..."
+            Did you see Hikari? No, obviously, she was never there.
+            HAGAMI: "Come on."
+            TAKERU: "You're frightened."
+            HAGAMI: "...Yes."
+            And now I know why.
+            Then, of course, Kenta shows up. More likely she found Kenta, to try to get him to deal with me because I'd practically attacked her in the library. And Kenta fumbles around, and it's Hikari that ends up with me at the nurse's office.
+            But she still waits for me.
+            And even at the end of the day, she's the one guiding me back home.
+            When we part ways, I'm a bit of a mess. Gloomy, silent, still sporting that black eye.
+            I thank her.
+            It clearly wasn't enough.
+        
+        "It never happened. I won't hurt Hagami. Turn around."
+    
+            It's a funny feeling. Like escaping fate.
+            I have no memory of it, but I turn around and walk back down the hall, away from Hagami, away from the old library.
+            And step by step, I retrace my path back to the classroom.
+            This...
+            This should be stepping around the problem, right?
+            I take out my lunch and eat in silence. No one ever eats here. They all head out to the cafeteria, or the tables at the front lawn, or anywhere else to enjoy their lunch with company. I'm just alone.
+            Come to think of it, I've never missed lunch before. Every day since I've arrived at Mirako, I've eaten with either Mana or Hagami up at the old library.
+            With that realization, I know there's something else wrong as well.
+            On some level, I know what my problem is. I didn't take my meds today. I can fix this. Why don't I just go back home?
+            Then that same feeling of inevitable comes over me again. Like I can only do what I've been programmed to do.
+            Stand up, Takeru. Go home.
+            I rise to my feet, but at that moment...
+            MEIKO: "Takeru? You're back early?"
+            TAKERU: "Er... I guess."
+            MEIKO: "My meeting ended early so I thought I'd head back. Have you not eaten yet?"
+            TAKERU: "Not really. I guess I'm not that hungry."
+            MEIKO: "You're feeling alright?"
+            TAKERU: "Yeah. I guess."
+            MEIKO: "Sorry. I didn't mean to intrude. You just seemed distracted in class."
+            TAKERU: "I thought I saw someone is all."
+            I thought I saw Hikari.
+            MEIKO: "I see."
+            TAKERU: "What was your meeting about? More festival stuff?"
+            MEIKO: "The usual. We have a budget we need to stick to, and a few suppliers we need to choose from. It's hard to get everything up the quality standard we need with limited resources."
+            MEIKO: "The Mirako cultural festival is well-known, you know? Most of the town turns out. It's important to keep up good relations, or else they might see us as, well..."
+            MEIKO: "A bunch of mental patients."
+            TAKERU: "And we're more than that, right."
+            She nods. I'm not sure she caught the insincerity in my voice.
+            On my part, I'm not sure where I'm going with this. I'm trying to string together a conversation long enough until I figure out what's going on. I shouldn't be able to do this, should I?
+            MEIKO: "We couldn't get the fireworks cancelled before they ship, so it looks like our finances will suffer. We'll just have to try for a refund later."
+            TAKERU: "I never understood it. Is it really your call that the fireworks are cancelled this year? I thought it was some big Mirako tradition."
+            MEIKO: "...It is. To both."
+            She looks offput. I probably brought up something I shouldn't have. That doesn't matter though, does it? None of this happened anyway.
+            When Meiko doesn't continue, I figure I might as well follow up.
+            TAKERU: "It was something to do with her, right? With Hikari?"
+            TAKERU: "Are you too busy to answer?"
+            She's quiet.
+            Then I straighten up. Bolt upright. I recognize my words, even as I'm speaking them. I've heard them before, I'm just repeating like off a tape recording, but...
+            TAKERU: "It's your secret, isn't it?"
+            MEIKO: "My... What?"
+            MEIKO: "Takeru, I told you, it's not something I want to think about. Whenever I even hear her name... How could you even know that - "
+            TAKERU: "You won't explain? It really isn't funny. It's betrayal."
+            TAKERU: "Don't you know all about me? At Tohoku? You even explained to Meiko... That lie..."
+            MEIKO: "Takeru, what are you talking about?"
+            That hasn't happened yet, has it? But it makes sense to me. My stream of consciousness flows downhill, something natural, more natural than I've never felt.
+            TAKERU: "It's painful. You obviously know all about me. You know what's wrong with me. You know I got kicked out of dream school for being a psychopath. I don't know the first thing about you. Me against the world."
+            MEIKO: "I only know what you've told me. I always figured there was a reason..."
+            TAKERU: "You keep running away. That's fine. I won't trust you either. I'm stronger now."
+            MEIKO: "Takeru... I've been over that. For so long. I know I just told you yesterday, but I thought we understood each other. It hurt me, badly. But I didn't..."
+            MEIKO: "I'm lost, Takeru. I don't understand you. All of a sudden you bring up her name... What do you even know?"
+            TAKERU: "I don't know. You won't tell me. You never trusted me to begin with. But I'll find out whatever happened to you. You'll try to keep your secrets but I'll know you betrayed me."
+            TAKERU: "I'll find out what happened to you, on that last day. I'll find out why you're really here."
+            It's garbled, but I recognize my words.
+            I know them from the tape Hagami played back. Then I thought they were Meiko's words. Now I realize they were mine.
+            All that derision I felt from that CD, that I thought was Meiko's hatred of me. Now I know it must've been mine for her.
+            TAKERU: "I counted on you when I first came here. And you released Natsumi on me, set me up to fail all your little jobs, and did whatever it was to make sure I felt as though I'd made a mistake coming here."
+            TAKERU: "And I trusted you. What did you ever trust me with?"
+            MEIKO: "T-Takeru. You're different."
+            TAKERU: "I know what I'm talking about now. Yesterday we couldn't talk to each other. I felt guilty, so did you. Only now I never had nothing to feel guilty about."
+            MEIKO: "I'm sorry if I - "
+            TAKERU: "Hikari. What was she to you?"
     
