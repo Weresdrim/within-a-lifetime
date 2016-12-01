@@ -179,15 +179,25 @@ label day13:
     She taps two fingers on the table, noiselessly.
     HIKARI: "Fireworks. It's symbolic."
     TAKERU: "Literature isn't really one of my better subjects."
-    HIKARI: "Unsurprising. I should teach you a thing or two about good books. If I make it through this."
+    HIKARI: "Unsurprising. I should teach you a thing or two about good books when I have the chance."
+    HIKARI: "Why are they canceled anyway?"
+    TAKERU: "Er, it's kind of complicated..."
+    TAKERU: "But I think it has something to do with what happened last year? You know, that whole thing where you..."
+    HIKARI: "That's ridiculous."
+    TAKERU: "It's only what I heard from Meiko."
+    HIKARI: "Hm, and she's in charge this year, isn't she?"
+    HIKARI: "If I make it through this, remind me to look into what's happening in the festival planning committee."
     TAKERU: "Wait, 'make it through...' You're not going anywhere are you?"
     HIKARI: "Not now."
     TAKERU: "I thought you were just... It was little stuff, right? Are you that sick? What..."
     MANA: "Takeru. Takeru!"
     TAKERU: "What's up?"
     MANA: "You were sort of zoned out. You're coming tonight, right?"
-    
-    
+    TAKERU: "Right. More research. Yeah I'll be there."
+    After establishing that, Mana goes back to grilling Hikari. For once it's Mana's lunch that goes untouched.
+    I just watch with Hagami. She puts down one book and opens another, this one some treatise on Brazilian black magic. Guess Hagami never takes a break.
+    Actually, when is she finding the time to practice for her recital? There's two days to go, and she was up with us looking through books last night, and will be again tonight...
+    I hope introducing Hikari wasn't asking too much.
     
     
     
