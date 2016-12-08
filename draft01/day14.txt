@@ -41,7 +41,54 @@ label day14:
     I'll do it though. Whether Hikari's the next day or not, she'll get her wish.
     Then it won't all have been so pointless. Take that, fate.
     
-    
+    The halls at Mirako are hopping. You'd think it was an hour later than it actually is. I guess it is the eve of the festival, after all. Anything that's not set up needs to get done today or tonight.
+    ...I can't spot anyone I know, though.
+    And when I get to homeroom, there's no one there. Everyone here early must be outside or down at the gym. Time to head down there and see what's changed in the past few days, then.
+    The place is almost unrecognizable. Half the room is dotted with chairs and folding tables, and the other half is displays of all kinds. Post are posterboards advertising clubs, but a few are more elaborate with banners and tents.
+    I spot Kenta over in a corner that's suspiciously surrounded by boxes. At least I recognize that new cabinet. I'm not exactly happy to see the thing. It belongs in our room, and, after all, it did give me a black eye.
+    TAKERU: "Kenta. Yo, Kenta!"
+    KENTA: "Good morning, Takeru."
+    TAKERU: "Good morning. What exactly is going on here?"
+    KENTA: "I see you got my request. Thanks for helping out."
+    TAKERU: "What? Your request? No one said I was planning to give you a hand, er, even if I was, so could you - "
+    KENTA: "You got the schedule, correct?"
+    TAKERU: "Kenta, that's not how you ask for help."
+    KENTA: "Should I have asked you at 5:00 AM? I did a few times but you didn't reply. I wanted to wake you up, but something told me you wouldn't appreciate it."
+    TAKERU: "Thank you, Kenta. Thank you for not getting me up at five in the morning."
+    KENTA: "In return, could you hold this?"
+    TAKERU: "This, er... What... What is that?"
+    KENTA: "It's a piece of wood. What does it look like?"
+    It is indeed a piece of wood. A two by four. It looks oddly familiar.
+    I check the cabinet Kenta abducted from behind my bed, but it looks like it has all its boards in place. No suspiciously missing pieces of wood.
+    TAKERU: "This... is another cabinet, isn't it?"
+    KENTA: "Same structure, but my own design. I didn't have the equipment to drill the holes, so I've settled on dovetail joints. I think you'll agree it's more elegant this way."
+    TAKERU: "And, er, you're holding a hand saw. That's fine."
+    TAKERU: "And the other half of this board is being held by a sawhorse. That's, er..."
+    TAKERU: "You must have a lot of stuff to display."
+    KENTA: "I've spent a lot of time on my hobbies. It's only fitting to show off a bit at the festival. The cabinet is my first work, even if it was premade, it did get me into the whole - "
+    TAKERU: "There's nothing in the cabinet, Kenta."
+    KENTA: "The cabinet itself is the display."
+    TAKERU: "Yeah, it's the display for what?"
+    KENTA: "You have a very roundabout way of asking things Takeru. I'm demonstrating my carpentry skills."
+    TAKERU: "No way, what the - "
+    TAKERU: "Your what now? Carpentry?"
+    KENTA: "The craft of construction. It's also an art, if you ask me. In the past few days I've become quite an - "
+    TAKERU: "Fantastic. Absolutely."
+    KENTA: "I'm glad you agree."
+    TAKERU: "So you're just putting together a bunch of furniture? That's your display?"
+    KENTA: "I've made some headway."
+    Kenta gestures at the two tables I passed on my way to his corner. I noticed they were unpainted wood before, but now I see they're clearly homemade. The sawhorse too, it looks like.
+    TAKERU: "I'm almost impressed. You've been at this what, a week, tops?"
+    KENTA: "It seems like quite a while, doesn't it?"
+    TAKERU: "At least when this is all over we won't run out of room in the dorm for frogs..."
+    KENTA: "Frogs?"
+    TAKERU: "Frogs. You know, you put them in jars and leave them next to my face for when I wake up in the morning?"
+    KENTA: "Oh I donated all those to the Mirako biology lab. It's a bit of a childish hobby."
+    TAKERU: "Right..."
+    TAKERU: "Kenta, what are you doing with all this when the festival is over?"
+    KENTA: "Like you said, we can never have enough space. All morning I've been thinking of new schemes. I think if we moved the winter wear to its own dresser, we'd save on average twenty seconds day compared to - "
+    TAKERU: "You know what? Never mind. Tell me what I'm supposed to hold or saw or whatever. Talking is just going to hold this up."
+    KENTA: "Takeru, you're a good man. You understand the value of efficiency."
     
     
     
