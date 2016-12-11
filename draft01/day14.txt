@@ -112,7 +112,19 @@ label day14:
     KENTA: "...and it's really starting to come together."
     MEIKO: "I'm glad to hear it."
     TAKERU: "How's yours coming Meiko?"
-    KENTA: "Meiko, you're putting up a display? For the student council or your
+    KENTA: "Meiko, you're putting up a display? For the student council or on your own?"
+    MEIKO: "It's on my own, although... It's..."
+    KENTA: "Let's see."
+    MEIKO: "Well..."
+    KENTA: "I don't mind if you're still setting up. I'll see tomorrow anyway."
+    MEIKO: "That's right, isn't it..."
+    She glances at me.
+    MEIKO: "It's outside."
+    KENTA: "There's display space out there? What if it rains?"
+    Meiko doesn't respond and instead walks back to the door, opening it.
+    KENTA: "This way then?"
+    I follow.
+    
     
     
     
