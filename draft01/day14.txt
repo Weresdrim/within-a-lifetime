@@ -124,6 +124,29 @@ label day14:
     Meiko doesn't respond and instead walks back to the door, opening it.
     KENTA: "This way then?"
     I follow.
+    KENTA: "It's chilly out. Where is this?"
+    Most of the clubs have booths and tents out here, so there's just as many people wandering around, moving chairs and setting up tables. Meiko, however, heads to a far corner.
+    KENTA: "I didn't even know there was anything over here."
+    What she leads us to is... not really a display. It looks to be built on a desk, although not the kind we have in class. Did she bring this from somewhere?
+    And on it is a small shrine. For the dead? It's a wooden construction with doors that open a single hanging lantern inside.
+    KENTA: "You made this? Impressive. I should probably be getting you to help me with carpentry instead of Takeru."
+    MEIKO: "It's missing candles. And I don't have a good photo. I wish I could find one, or the rest of that chess set for that matter..."
+    My heart skips a beat, but I remain silent. Meiko has a strange expression.
+    KENTA: "Oh, it's a memorial. I assume this is for that student who died last year."
+    KENTA: "I'll come by tomorrow, but I should go back to work. There's only a day left to work, after all."
+    MEIKO: "Goodbye."
+    Kenta wanders off back towards the gym. Meiko, however, stands by the shrine.
+    TAKERU: "Then that is for Hikari."
+    MEIKO: "I'm surprised you know that name."
+    TAKERU: "Most days I'm surprised I know it as well."
+    MEIKO: "What's that supposed to mean?"
+    TAKERU: "I really don't know how to explain."
+    I need to think of a way though. This might be my one chance to convince Meiko about the fireworks. I said I'd do it for Hikari, so I've got to follow through.
+    Meiko doesn't quite look at me straight. I realize I'm fidgeting.
+    TAKERU: "I know where the rest of the chess set is. The one you were looking for yesterday. This is why you wanted it, right?"
+    MEIKO: "You said yesterday - "
+    TAKERU: "Come on."
+    I don't really want to explain why I lied to her back in the tea room the other day, either. 
     
     
     
