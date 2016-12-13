@@ -143,11 +143,103 @@ label day14:
     TAKERU: "I really don't know how to explain."
     I need to think of a way though. This might be my one chance to convince Meiko about the fireworks. I said I'd do it for Hikari, so I've got to follow through.
     Meiko doesn't quite look at me straight. I realize I'm fidgeting.
-    TAKERU: "I know where the rest of the chess set is. The one you were looking for yesterday. This is why you wanted it, right?"
+    TAKERU: "I know where the rest of the chess set is. That painted one you were looking for yesterday, that's missing the knight. This is why you wanted it, right?"
     MEIKO: "You said yesterday - "
     TAKERU: "Come on."
-    I don't really want to explain why I lied to her back in the tea room the other day, either. 
-    
+    I don't really want to explain why I lied to her back in the tea room the other day, either.
+    We head inside, and then upstairs.
+    Hopefully no one's in the team room. Luckily when I open the door, it's dark. Nobody.
+    Meiko blinks as I turn on the lights.
+    MEIKO: "You mean it's in this room? I forgot this place even existed. Wasn't this an office last year? I see the old library books made it in."
+    TAKERU: "An office... You mean this isn't the old library?"
+    MEIKO: "That's a funny name for it. It's much too small to be the library for a school like Mirako, even if the older books did end up here after the fire."
+    TAKERU: "Right..."
+    MEIKO: "What do you come up here for?"
+    TAKERU: "Nothing much. Let me just find those pieces for you... I know Mana put them on a shelf around here somewhere after Hikari brought them up..."
+    MEIKO: "What're you mumbling?"
+    TAKERU: "Here."
+    It's a cheap, wooden box, the type you could find anywhere, but Meiko's reaction is immmediate.
+    MEIKO: "That's amazing. How did you - "
+    MEIKO: "Thank you, Takeru."
+    I offer her the box, but she's hesitant to take it.
+    MEIKO: "I, um... Thanks. You don't think it's weird that I was, well..."
+    TAKERU: "No."
+    TAKERU: "I think I understand, sort of. You were her friend right?"
+    MEIKO: "Um."
+    MEIKO: "Something like that."
+    Meiko keeps frowning. It takes her a few moments to put together an answer.
+    MEIKO: "I'd put together a memorial for any student though. It's my duty to the class as a student council member. Isn't it?"
+    TAKERU: "Er, I guess, but... Wouldn't the whole council sponsor it then?"
+    TAKERU: "Never mind. That's not important. Right."
+    I don't want to press it, but...
+    TAKERU: "A week or two ago, when I asked about the fireworks... I asked why you decided not to have the display this year."
+    MEIKO: "The council decided that - "
+    TAKERU: "I overheard, remember?"
+    MEIKO: "Ah."
+    TAKERU: "Her name came up."
+    MEIKO: "I explained this."
+    MEIKO: "It would be disrespectful for Mirako to have a fireworks celebration this year given that the way she died, she - "
+    MEIKO: "The fireworks had nothing to do with it, it's just, she just, they - "
+    MEIKO: "..."
+    TAKERU: "They were her favorite thing in the world, right?"
+    MEIKO: "How do you know that?"
+    TAKERU: "I can't really explain it. You probably wouldn't, er..."
+    MEIKO: "And you knew where the chess pieces were, too."
+    TAKERU: "The supernatural club meets here. I came for lunch and happened to see them, so - "
+    MEIKO: "That's alright."
+    MEIKO: "You don't trust me that much."
+    TAKERU: "You won't tell me how you even knew Hikari. And you're the one who told me not to trust you, right?"
+    MEIKO: "That was me, wasn't it?"
+    MEIKO: "Strange, isn't it? Sometimes I think you're a million miles away. And then - "
+    MEIKO: "I sort of miss when you talked to me every day. And you weren't self-conscious about it, you sort of..."
+    TAKERU: "Trusted you?"
+    MEIKO: "I guess."
+    MEIKO: "You don't miss it?"
+    TAKERU: "Miss..."
+    I know what she's talking about. I think I do. It's not the way we were a few weeks ago, it's the way were a few years ago. Was it ever...?
+    Meiko frowns. Something slips at the corner of her eyes. She turns, but when she looks back, she has one a flat half-smile.
+    MEIKO: "There are no fireworks this year because they were Hikari's favorite thing in the world. You're right."
+    MEIKO: "Putting on the show without her would be terrible. An insult. So I used my authority, and voila, there's no fireworks this year."
+    TAKERU: "You're angry with me."
+    MEIKO: "No. I'm grateful, even if you don't - "
+    MEIKO: "You found me the chess pieces. She carved these, but you might already know that."
+    MEIKO: "If you want to help me remember her, then help me with the shrine. And you're doing that already. So I'm grateful."
+    MEIKO: "See you later, Takeru."
+    TAKERU: "Bye."
+    She's speaking fast, uncomfortable. Then she turns to leave.
+    I stand in place as she pulls open the door. And to my surprise, there's someone else outside it.
+    MEIKO: "Sorry. Didn't see you there."
+    HAGAMI: "..."
+    I'm left facing Hagami in the doorway as Meiko disappears down the hall.
+    Neither of us speaks.
+    Not sure what to, I sit down. Hagami takes a few steps inside and shuts the door.
+    TAKERU: "How much of that did you hear?"
+    HAGAMI: "Most."
+    TAKERU: "She's my friend on the student council. Er, friend might not be the right word, maybe..."
+    HAGAMI: "It's not important."
+    TAKERU: "What?"
+    HAGAMI: "I meant I heard the part about Hikari."
+    TAKERU: "Er, right. I don't know why I thought you'd be interested in all that old stuff, so..."
+    HAGAMI: "I found it."
+    TAKERU: "Found what?"
+    HAGAMI: "Hikari."
+    TAKERU: "She's not an 'it.'"
+    HAGAMI: "Her nature."
+    HAGAMI: "The fireworks..."
+    HAGAMI: "You already know?"
+    TAKERU: "Know what? Know what's wrong with Hikari? If I did I wouldn't have to be worrying about her, right? I thought..."
+    TAKERU: "This sounds dumb, but she said she wanted to see the fireworks, didn't she? So I..."
+    TAKERU: "I kind of got distracted talking to Meiko, but if we don't save Hikari, I just wanted to do something for her. I guess."
+    HAGAMI: "That's..."
+    I'm used to Hagami not finishing her sentences, but something about the way she's squinting about me makes me feel uncomfortable.
+    HAGAMI: "We'll be late."
+    TAKERU: "What?
+    TAKERU: "Oh right, class. I'll see you at lunch?"
+    HAGAMI: "We'll talk."
+    TAKERU: "Yeah. Okay sounds good. I hope you have good news."
+    Hagami just keeps up that inscrutable face. And then she leaves.
+    I follow, but she takes a right while I make a left and head downstairs.
+    Somewhere I think I made a mistake. What should the fireworks have to do with whatver Hagami knows? It's not related, is it? It's going to be a long few hours until lunch.
     
     
     
