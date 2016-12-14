@@ -277,15 +277,46 @@ label day14:
     NATSUMI: "What's up with that again, Meiko?"
     MEIKO: "Hm?"
     Natsumi elbows Meiko but she keeps her eyes on her desk.
-    MEIKO: "I'm just kidding. Come on!"
-    MEIKO: "What's with everyone today? The festival's tomorrow. You're supposed to be excited!"
-    MEIKO: "Takeru you look like you're moping around in an existential crisis. Or maybe you've got a bad stomach bug. Can't tell."
+    NATSUMI: "I'm just kidding. Come on!"
+    NATSUMI: "What's with everyone today? The festival's tomorrow. You're supposed to be excited!"
+    NATSUMI: "Takeru you look like you're moping around in an existential crisis. Or maybe you've got a bad stomach bug. Can't tell."
     TAKERU: "I thought you said that once I promised I was coming tomorrow, you'd quiet down."
-    MEIKO: "I did, I did..."
-    MEIKO: "Alright, but you'd both better be looking more cheerful tomorrow."
+    NATSUMI: "I did, I did..."
+    NATSUMI: "Alright, but you'd both better be looking more cheerful tomorrow."
     Maybe.
     I was looking forward to the festival. I think I still am? Once I know Hikari's fine I think I'll be doing a lot better. And once I figure out what on earth is going through Meiko's head.
     That last one might take a while longer.
+    
+    Natsumi does not give up, however.
+    It's not until lunch time that she stops talking about the festival, what her plans are for tomorrow, and about how Meiko and I don't properly exemplify the Mirako spirit.
+    I could care less about the Mirako spirit. I flee into the hallway and make for the old wing. Hagami said she had answers, right? That should put at least one of my worries to rest.
+    There's no one down here today. I guess everything in storage has already been moved out already. Except for that box in the piano room, of course...
+    I wonder. Was it ever really possible to get Meiko to agree to something like that?
+    It's not like I promised Hikari. I just sort of decided it was something I'd try to do. I never told her about it, so I should be able to - 
+    She's standing there, across the hall from the piano room. Hikari is staring at the closed door.
+    TAKERU: "Hikari?"
+    HIKARI: "Oh, Takeru. Hello."
+    TAKERU: "What're you doing here?"
+    HIKARI: "Even you should have noticed I spend ninety percent of my time down here. It's not very unusual."
+    TAKERU: "You were looking at that room across the hall, with the piano."
+    TAKERU: "...There's no one in there, right?"
+    HIKARI: "No."
+    TAKERU: "Then..."
+    HIKARI: "If you have to know, Hagami just left."
+    TAKERU: "You were listening to her practice?"
+    HIKARI: "You could say that."
+    TAKERU: "I think you spend most of your time eavesdropping, not hanging around down here."
+    HIKARI: "It's not eavesdropping. She was only there for a few minutes anyway."
+    TAKERU: "I've never even heard her play. You have a knack for turning up when people are trying to have private moments."
+    HIKARI: "As far as I know, I've only listened in when you're talking to that Meiko girl. Are those all private moments, then?"
+    TAKERU: "Fine. Come on. Let's just go upstairs, Hagami said she found something."
+    HIKARI: "Something?"
+    TAKERU: "About your, er, condition. Whatever it is that's..."
+    HIKARI: "Ah."
+    HIKARI: "It's all strange, isn't it?"
+    TAKERU: "What?"
+    HIKARI: "Hagami knows me. She remembers me like you do, doesn't she? And she practically knows more about what I am than I do..."
+    HIKARI: "It's only you and her. You both can remember my name for more than an hour, a day."
     
     
     
