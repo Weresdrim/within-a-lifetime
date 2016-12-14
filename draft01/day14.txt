@@ -241,7 +241,51 @@ label day14:
     I follow, but she takes a right while I make a left and head downstairs.
     Somewhere I think I made a mistake. What should the fireworks have to do with whatver Hagami knows? It's not related, is it? It's going to be a long few hours until lunch.
     
-    
+    I wait through class.
+    Nobody else really seems to be paying attention either. Tomorrow's the festival, after all.
+    Meiko doesn't say a word to me, but Natsumi, of course...
+    NATSUMI: "Earth to Takeru. Earth to Takeru."
+    TAKERU: "You don't have to say it right in my ear."
+    NATSUMI: "Nothing else seemed to be getting through to you."
+    TAKERU: "Take a hint."
+    NATSUMI: "Oh you're just no fun. Well you know all you have to do is say you will, and I'm gone. In a snap. So fast you can't even - "
+    TAKERU: "I get it. Say I'll do what?"
+    NATSUMI: "Hang out at the festival tomorrow. You, me, Meiko probably. That funny roommate of yours. Yeah, bring Kenta."
+    NATSUMI: "The baseball team's got nothing going on tomorrow because I thought we'd still be out of town. But now I just want to forget about all that, so you're going to help."
+    TAKERU: "What happens if I say no?"
+    NATSUMI: "I'll keep bugging you all day."
+    TAKERU: "You're terrible."
+    TAKERU: "Fine. A friend of mine is performing some piano thing, so I want to see that, but apart from that, I'm free."
+    NATSUMI: "Smart. You wouldn't want me breathing down your neck all day when you look all glum like that."
+    NATSUMI: "Seriously though. What's up?"
+    TAKERU: "Just worried."
+    NATSUMI: "Yeah obviously. I mean what in particular?"
+    TAKERU: "It's sort of hard to explain. Do you believe in - "
+    TAKERU: "Actually, I'm just worried about tomorrow. There's a bunch of things that could happen..."
+    Hagami will perform. Right? And Hikari will be alright. Did I get through to Meiko about the fireworks? She's just staring at her desk over there.
+    TAKERU: "...and some that probably won't happen."
+    NATSUMI: "Careful, if you're that vague you'll just make me curious. Is this about the legend?"
+    TAKERU: "Legend?"
+    Does this have anything to do with Hikari?
+    NATSUMI: "Yeah. The legend."
+    NATSUMI: "If you see the fireworks reflected in the eyes of your beloved... It's bound to last forever."
+    TAKERU: "..."
+    TAKERU: "Stop staring at me."
+    NATSUMI: "Ha! You looked away first."
+    TAKERU: "Stop joking around. There aren't any fireworks this year anyway."
+    NATSUMI: "Booo."
+    NATSUMI: "What's up with that again, Meiko?"
+    MEIKO: "Hm?"
+    Natsumi elbows Meiko but she keeps her eyes on her desk.
+    MEIKO: "I'm just kidding. Come on!"
+    MEIKO: "What's with everyone today? The festival's tomorrow. You're supposed to be excited!"
+    MEIKO: "Takeru you look like you're moping around in an existential crisis. Or maybe you've got a bad stomach bug. Can't tell."
+    TAKERU: "I thought you said that once I promised I was coming tomorrow, you'd quiet down."
+    MEIKO: "I did, I did..."
+    MEIKO: "Alright, but you'd both better be looking more cheerful tomorrow."
+    Maybe.
+    I was looking forward to the festival. I think I still am? Once I know Hikari's fine I think I'll be doing a lot better. And once I figure out what on earth is going through Meiko's head.
+    That last one might take a while longer.
     
     
     
