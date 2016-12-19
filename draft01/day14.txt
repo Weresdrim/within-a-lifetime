@@ -459,7 +459,39 @@ label day14:
     I just hope last time I didn't offend her. It felt like I stepped on her foot this morning and I hope I didn't ruin everything. And the only way to find out if I screwed this up...
     ...is to talk to her. That's why I can't seem to sit still.
     I keep track of every person walking through the door. No sign of her. Half the room is here. Then three quarters. Then only two desks are emtpy, both next to mine.
-    And Natsumi enters just at the bell.
+    And Natsumi enters just at the bell rings.
+    TAKERU: "Oh, it's you."
+    NATSUMI: "Yep, it's me. You must be relieved. Were you worried I wouldn't make it in time? Never fear, I - "
+    TAKERU: "I really wasn't that concerned about you."
+    NATSUMI: "I know, I know. You were waiting for Meiko. Weren't you?"
+    TAKERU: "Maybe."
+    TAKERU: "If I were looking for her... Do you know where she is?"
+    NATSUMI: "She'd never skip, so she's probably in some meeting or other in the front office. Or the student council. Or the festival committe. Or both at the same time."
+    NATSUMI: "Honestly I'm amazed she finds time for class at all."
+    TAKERU: "Right."
+    NATSUMI: "So if you're gonna bug her about something silly, just remember there's a million more interesting people she could be talking to instead. Like me."
+    TAKERU: "Huh. I didn't realize I was that annoying to her... Yeah, maybe I should just - "
+    NATSUMI: "I was just kidding around. You should know not to take me that seriously."
+    TAKERU: "Oh."
+    NATSUMI: "Are you really worried about pissing her off though? She's the one that seems like she's always trying to talk to you.
+    TAKERU: "Really?"
+    NATSUMI: "Don't tell her I said this, but she does seem different when you're around. Less, uh..."
+    NATSUMI: "Tough to say. She seems more like a woman of iron than a woman of steel."
+    TAKERU: "Was that supposed to be encouraging?"
+    NATSUMI: "I don't know. Just calling it as I see it."
+    TAKERU: "She probably does have enough to deal with without me running around though..."
+    NATSUMI: "I don't know what you've got planned, but..."
+    NATSUMI: "Do me a favor. If you do manage to find her, tell her to take it easy. If she works any harder for this festival thing she'll die of exhaustion before tomorrow and then all my plans are shot. Big pain."
+    NATSUMI: "I've got no clue how she can do all that and not look at all the worse for wear. Hell after even one tough game I'm useless in class the next day."
+    TAKERU: "You're never all that useful in class."
+    NATSUMI: "Oh quiet down, you dope. The lesson's starting."
+    Natsumi makes a big show of watching the blackboard and intently taking down notes, but I'm still drifting out in space.
+    So she doesn't see it? Natsumi doesn't see any sign all that festival stress is getting to Meiko?
+    I thought they were good friends. Natsumi seems observant enough, but maybe it's true what she said...
+    Everyone here sees her as super-human, able to score top marks, organize half the festival, and even help the class study in her spare time, all without breaking a sweat.
+    Am I really the only one who's ever seen her sweating?
+    
+    I'm still trying to figure out a plan to win over Meiko at the last hour of class.
     
     
     
