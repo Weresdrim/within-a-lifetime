@@ -511,7 +511,9 @@ label day14:
     I look briefly around, but no sign of her. I do spot Kenta though, and I duck back into the hall before I get conned into hauling Kenta's improvised furniture to or from the dorm.
     Where did I see her yesterday? The tea room?
     Empty.
-    For some reason I pause by the piano room... No sound.
+    The door to the piano room is open though. Of course, it's small enough to tell she's not in there either.
+    For whatever reason, I enter and set my bag down on the box of fireworks equipment, then page through the papers on the clipboard.
+    As far as I can tell, there's been no change. Would Meiko need these if she was going to reschedule the fireworks show? Has she not had the time to find this yet?
     I'm about to give up when I realize I've been forgetting the most obvious place. I leave out the back entrance and walk around the exterior of the building, past the cliff that drops onto the hill, past the path to the fields, and around to the gym entrance.
     The stage is visible back by the road, all set up for tomorrow. And there's the memorial that Meiko's been constructing, tucked in a corner. And Meiko sitting on the table with it.
     MEIKO: "Takeru?"
@@ -582,17 +584,48 @@ label day14:
     MEIKO: "Haha. I wish."
     MEIKO: "It's why I'm at Mirako. I really can't seem to stop worry about every little thing. I think maybe I did make the right decision and I'm sure Hikari really would be happier this way."
     MEIKO: "But I need to make it up to the administration. I need to figure out who's going to meet the technician that Fujiworks is sending up tomorrow. Should I get the programs redone? No, probably not. But the stage is - "
+    MEIKO: "I need to take care of all that. And instead I spend all my time out here making sure the pieces are lined up straight. I couldn't even find a photo of her."
     MEIKO: "I'm sorry."
     She hops down off the table. I stand and face her.
     MEIKO: "You've made this a lot easier on me. Don't worry about me from here on out. I'll take care of the festival. And then after tomorrow, I can sleep, maybe. Until then there's too much to do, too too much."
     MEIKO: "I'll see you."
     TAKERU: "You'll be with me and Natsumi tomorrow, right?"
     MEIKO: "I forgot. I hope so. I think I will."
-    TAKERU: "If you're not, I'll sic Natsumi on you."
+    TAKERU: "If you're not, Natsumi will be after you."
     MEIKO: "Ha. Bye, Takeru. You showed up at just the right time, but now I have to get to, uh - "
     MEIKO: "Bye."
+    She passes through the door to the gym before I have to chance to say anything. Not that I'm really sure what to say.
+    I'm left in front of the shrine for Hikari. This seems like the perfect opportunity for her to jump out from nowhere and start making fun of me, but... nothing. My only company is my own thoughts.
+    The shrine is simple. Is it handmade? The only way to tell for whom it was built is the chessboard now lying in front of it. Every piece is perfectly centered in its own square, but there are only 31 pieces. A knight is missing, where Hikari and I would always use a thimble.
+    I wonder if that missing piece bothered Meiko. That's a detail. I try to lift one of the pawns, but it's attached to the board via a thin strip of two-sided tape. Clever. I suppose it's to prevent the wind from blowing it away.
+    It seems like such a trivial thing. Wasn't she looking for that chess set all of yesterday morning?
+    Then again... I've been getting caught up in all the wrong problems as well.
+    Meiko said I was forgiven. She didn't care I'd forgotten all about her when I ran away to Tohoku. Do I believe her? I think I do, this time.
+    Maybe it's still not processing, but there's still a weight on my chest when I think about her, staring at that door she vanished through minutes ago. Why is it it's still so hard to talk to her, if she doesn't still have that grudge?
+    When I first came to Mirako I thought of her as an anchor, someone I could trust and count on while I tried to find my bearings. That upset her. So I tried to keep my distance, but...
+    It all seems to come back to her, doesn't it?
+    All I can do is frown at the shrine.
+    TAKERU: "Hikari, are you there?"
+    TAKERU: "Guess that was a dumb question."
+    The good news is I was also wrong to worry about the fireworks. Of course Meiko will come through.
+    And with any luck Hikari will be watching from a lot closer than she thinks.
     
-    
-    
+    Time to go. The sun's almost setting and I can't afford to spend all evening sitting at this shrine.
+    I enter through the gym door.
+    There's still loads of students around putting the finishing touches on stands, booths, and display. Luckily I don't spot Kenta. Or Meiko.
+    I'm almost out the Mirako front doors when I realize a curious lightness around my shoulder...
+    My bag. I must've put it down someplace when I was looking all over for Meiko.
+    I double back to the classroom, then the library, but of course, no luck.
+    Right. I set it down in the piano room when I was going over the Fujiworks Pyrotechnics order. I head to the old wing.
+    It's just as dusty and quiet down here as on any regular day. It seems the bustle of the world in the gym just can't work its way this far into the old school building.
+    There is one change I notice from the last time I was down here... The piano room door is closed.
+    Hagami?
+    I listen for a few moments. Silence.
+    Then I listen for a few more.
+    Silence.
+    Of course, with how quietly she apparently practices it's not like this is a useful exercise. I'll just have to knock.
+    TAKERU: "Anyone home?"
+    Nothing. Guess I spent two minutes listening outside an empty room like an idiot.
+    But when I push open the door, Hagami is on 
     
     
