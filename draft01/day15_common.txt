@@ -1,0 +1,9 @@
+label day15:
+
+    It's a warm feeling.
+    A familiar memory. Not quite nostalgia, not something I can pinpoint as I come out of a dream.
+    Like a knocking, on a my bedroom door, but somewhere closer to home.
+    That's it. An ordinary knocking.
+    A knock on my forehead before dawn.
+    TAKERU: "Kenta! I'm awake!"
+    KENTA: "Good morning Takeru."
