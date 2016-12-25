@@ -7,3 +7,4 @@ label day15:
     A knock on my forehead before dawn.
     TAKERU: "Kenta! I'm awake!"
     KENTA: "Good morning Takeru."
+    TAKERU: "Kenta, I swear, the sun isn't even up, what are you doing beating my head in? I was having such a pleasant dream too..."
