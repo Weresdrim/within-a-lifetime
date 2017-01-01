@@ -40,4 +40,143 @@ label day15:
     KENTA: "It's a disaster."
     TAKERU: "It doesn't fit? I'm heartbroken. Guess we have to find someplace else to put all your new furniture. That's too bad."
     KENTA: "Terrible. Just terrible."
-    TAKERU: "I'm going back to bed."
+    TAKERU: "Yep. I'm going back to bed."
+    KENTA: "How are we supposed to squeeze this through the door? Even if we rotate the new bed at the optimal angle, there's still two inches."
+    KENTA: "Takeru, you can't give up now."
+    TAKERU: "I was never trying."
+    KENTA: "I'll fetch the saw from the Mirako gym. Let's widen the door."
+    TAKERU: "I'm not sawing a hole through our dorm doorway, Kenta."
+    KENTA: "Takeru, you have to have an idea. You seem good at dealing with these situations. What should we do?"
+    TAKERU: "There's no 'we' here. The question is what you should do."
+    TAKERU: "And my solution is to go back to sleep. Let's deal with this later today. I already told you there's no room in here, so let's figure it out later today."
+    KENTA: "Alright. How am I supposed to sleep with this on my mind? This is a huge problem."
+    KENTA: "Besides, I've already allocated out two hours this morning to figuring out the solution."
+    He waves a sheet of paper at me. I recognize it as one of Kenta's timetables. Did he seriously block out two hours the morning of the festival to figure out what to do with all his woodworking? Unbelievable.
+    Of course, with Kenta worrying aloud, it's impossible for me to get back to sleep. I get ready for the day ahead about two hours ahead of what I had planned.
+    Guess today might be a bit stressful after all, with Kenta following me around like this. He still won't settle down about the furniture.
+    KENTA: "The two hours are almost over and we still haven't figured this out. I have a bed up there. I have two cabinets up there. What am I supposed to do with the desk? How about the nightstand?"
+    TAKERU: "Let's just go to the festival, Kenta. We'll figure it out later."
+    I think I drift off somewhere in the next few minutes. By reflex, I roll left. Then right. But finally a blow from Kenta catches me square in the forehead and I'm forced to admit defeat. There will be no more sleep this morning.
+    TAKERU: "Fine... Let's get going."
+    I dress myself in the morning haze.
+    Kenta's worried babbling washes over me, but I'm more concerned about what else is supposed to happen today to commisserate with his door dimension problems.
+    I'm worried if something will happen to Hikari, partially. And I'm not sure how Hagami's performance will go. But all the same, I'm looking forward to today, whether Kenta was his measurements straight or not.
+    TAKERU: "Are you ready to go?"
+    KENTA: "No. Takeru, we still haven't - "
+    TAKERU: "Oh yeah, I forgot. We're supposed to meet up with Natsumi and Meiko for today. Remember?"
+    KENTA: "Natsumi?"
+    TAKERU: "Oh come on. Baseball captain, school idol..."
+    KENTA: "I don't know her."
+    TAKERU: "She's the one that always yells 'Hey!' at you and acts like she's your best friend."
+    KENTA: "Oh her. I don't have any time in the schedule for her nonsense."
+    TAKERU: "It's not my plan. Tell that to Natsumi."
+    KENTA: "Who?"
+    Yep. It's going to be an interesting day.
+    
+    We start the walk to school.
+    For the early hour, it's surprising how many other students are up and about. No one seems to be alone, either. Pockets of other people I recognize are making their way towards Mirako, talking excitedly amongst themselves.
+    There are also people I don't recognize. There's some couples only a few years older than us, families with small children, and I even spot several old men that'd look more at place at a mahjong table making their way up the hill.
+    These must be early comers to the festival.
+    Tohoku never had a school cultural festival so I don't really have any point of references. For us, our games were the main attraction. Whenever we had a playoff game, or a game against our divisional rivals, we'd get an audience from all over town, plus the odd reporter.
+    That's what this reminds me off. Where Tohoku had its baseball, Mirako has its festival. At least this time, there's no pressure on me to perform. I'm just here to enjoy the day like everyone else.
+    Or at least, that's what I was planning. Kenta seems to have other ideas.
+    KENTA: "Have you thought of anything yet?"
+    TAKERU: "Anything what?"
+    KENTA: "The furniture, of course. Takeru, what am I supposed to do with my carpentry booth? How are we going to get all of that back to the dorm."
+    TAKERU: "You've really got a single track mind."
+    KENTA: "It's printed right here. I had two hours to take the measurements and figure this out. Now I'm behind. I'm behind, Takeru. I don't like to be behind so I've got to figure out what to do."
+    TAKERU: "As long as I don't end up in a bunk bed, I've got bigger things to worry about."
+    I can't convince him.
+    My patience is tested as we keep walking. I'm tempted to lie and tell him the tape measure was wrong and we can take all those extra beds in the first place. But I just know it would end up with me sandwiched between two pieces of wood while Kenta called it 'organized.'
+    We're about halfway to Mirako before we pass the gap. At first glance it's nothing special, but this is the spot between the two guardrails where there's an overlook to the valley beyond.
+    Meiko and I have stopped here a few times, but it's not a place I notice on my daily commute. Today, I only hesitate because there's a girl standing there. Her back is to me, but I think I recognize her. When I stop short, Kenta bumps into me.
+    KENTA: "Takeru? What are you doing? At least apologize when you - "
+    TAKERU: "Mana? Is that you?"
+    MANA: "Takeru, it's you! Takeru! Hey Takeru!"
+    TAKERU: "Er, hi."
+    MANA: "I can't believe it, I screwed up, I screwed up. I was supposed to get the prize together for the swim team, and now..."
+    MANA: "Sorry."
+    MANA: "Good morning! It's good to see you! You're going to the festival?"
+    TAKERU: "Yeah. You said you'd be really angry if I didn't, right?"
+    MANA: "Yep! I'd be so mad! You wouldn't even know what hit you! You've got to show up for Hagami's recital today! And if you missed the swim team's fundraiser..."
+    MANA: "Oh... If there even is a fundraiser now..."
+    TAKERU: "What's going on? What is that you're holding?"
+    I think she has a plate in her hands. Or at least it looks like a plate. Except I don't know why Mana would stack a bunch of black rocks on such a nice looking white porcelain plate. Then I realize the black chunks look more like ash than rock.
+    MANA: "It's my cake! Would you like a slice?"
+    KENTA: "Cake? That's a cinder on a platter."
+    MANA: "Oh no. Is it that obvious? I burned it a bit last night... I didn't think it was that bad!"
+    TAKERU: "Kenta, be polite."
+    KENTA: "Honesty is more important than manners. Who are you, anyway?"
+    TAKERU: "Kenta, this is my friend Mana. And Mana, this is my roommate Kenta. Haven't you met?"
+    MANA: "Oh. You."
+    KENTA: "'You?' Who on earth are you?"
+    MANA: "I know you! You're Hagami's lab partner! You no-good work-shirking schedule-setting Hagami-scaring..."
+    I realize that, no, Kenta and Mana have never met. I don't think I've ever seen Mana on this particular road and I always assumed she lived in town or in some other dorm.
+    Kenta doesn't seem phased. Mana is giving him the death glare, but Kenta just looks baffled. Does he honestly have no idea what she's talking about?
+    KENTA: "Who's Hagami?"
+    MANA: "My friend, stupid! You were her lab partner, and you wanted to divide the work, and Hagami couldn't set up a meeting, and you kept - "
+    TAKERU: "Calm down, Mana. We worked through this, right? Everything got done in the end?"
+    MANA: "Well yeah, but still... I can't just let this guy go! Hagami was worried sick! He - "
+    TAKERU: "It's all worked out now. Kenta, you should apologize."
+    KENTA: "Apologize? Who are you, anyway? Who's Hagami? Have we - "
+    MANA: "This guy's unbelievable! So insensitive! You should be grateful I don't quite know voodoo or black magic yet, mister, or else I oughta..."
+    TAKERU: "Okay, never mind. Let's move on. Mana, what on earth is that you're carrying?"
+    MANA: "It's one of the prizes for the swimming club raffle."
+    TAKERU: "Er... You'll have to narrow it down."
+    Kenta is also eyeing the plate suspiciously. I'm not sure if Mana actually tried to bake something, or else just shuffled a generous portion of volcanic ash onto a cake platter.
+    MANA: "Is it really that bad?"
+    KENTA: "Is that your idea of a dessert? You seem to have turned the temperature too high, or else left in to bake too long. It is distinctly inedible. I advise - "
+    MANA: "I don't care about your advice! I worked hard on this cake! It's the grand prize in the swimming club fundraising raffle!"
+    MANA: "Takeru... You'd eat it, wouldn't you?"
+    TAKERU: "Er..."
+    MANA: "Really?"
+    TAKERU: "I don't mean to offend you, but, er..."
+    Mana sighs.
+    MANA: "I knew it was bad. This isn't good, Takeru! I'm supposed to have the prize ready to go for the raffle! The swimming club is putting on a fundraiser for the festival and I'm in charge of the grand prize!"
+    MANA: "Um, I might have fallen asleep and left the oven on too long, um..."
+    KENTA: "By the charring on the sides, I estimate you should've taken the cake out an hour before you - "
+    MANA: "I don't need to hear it from you! What am I supposed to do now? Yumi will kill me! I'll be kicked off the team for sure! I promised I'd have the most delicious, the most appetizing, the most beautiful cake they'd ever seen, and now..."
+    MANA: "Takeru! What should I do?"
+    TAKERU: "I have no idea. I'm no chef."
+    KENTA: "Takeru is not very good at problem solving in the morning."
+    MANA: "He doesn't ever seem to be that good at it, does he?"
+    KENTA: "I know how you feel."
+    TAKERU: "Hey! I didn't sign up for this. I just wanted to relax at the festival. You people are the ones that keep finding new ways to screw things up."
+    Without anything else to do, the three of us find ourselves walking towards Mirako.
+    Mana's still toting the burned out husk she calls a cake. Kenta keeps eyeing the suspcious mass on the cake platter, giving it a wary look, but he's brandishing a tape measure all the same.
+    Why does everyone keep coming to me with their issues? Haven't I got enough on my plate?
+    TAKERU: "Mana, what are your plans for today? I know you'll want to make it to Hagami's show, but before that... Are you going to hang out with the swim team?"
+    MANA: "I was planning on it, but Yumi's gonna kill me for sure!"
+    TAKERU: "You can always come with us if you like."
+    KENTA: "I'm not hanging out with... her."
+    MANA: "You want me to come with that guy? First he blows off Hagami! Then he insults my baking! And then..."
+    KENTA: "That isn't baking. That's a crime against cuisine."
+    MANA: "You're a boar! A pig! A filthy - "
+    TAKERU: "Hang on, hang on. I think we can work this out. Kenta, you got that lab report finished, right? Hagami was fine with it."
+    KENTA: "Yes, Takeru, but that's not the point. I don't have time for this."
+    TAKERU: "What's the rush?"
+    KENTA: "It's not on the schedule."
+    TAKERU: "Are you kidding? You don't want to try to get along with Mana because you haven't put it on your schedule?"
+    MANA: "Fine by me! I mean... But..."
+    MANA: "I'm worth the time, aren't I? Takeru, I'm worth the time to get to know. Um... You think that too, don't you?"
+    TAKERU: "Er, yeah. But... Kenta's a bit, er, particular with his schedule."
+    KENTA: "See, it's printed here."
+    Kenta hands Mana the color-coded schedule. To me, Kenta's timetable shorthand is as incomprehnsible as Mana's magic rituals. Mana herself narrows her eyes in concentration before giving up.
+    MANA: "It's silly! It's too much! I think you're pulling my leg!"
+    As I watch, Mana throws her hands up in the air. And as she does so, she loses her grip on the sheet of paper. Kenta's schedule catches on the breeze. The paper starts floating away.
+    KENTA: "No! Wait! Grab that!"
+    TAKERU: "I'm trying! I - "
+    TAKERU: "Ouch!"
+    I leap for the airborne piece of paper, but for my efforts, I end up face down in a prickly bush at the side of the road.
+    Mana helps pull me over the side of the guardrail. I wince as the thorns dig into my arms. Kenta, meanwhile, keeps dancing around at the edge of the rail, reaching for the paper that's now long gone on the winds.
+    TAKERU: "Ow..."
+    KENTA: "It's floating away! Capture that paper! I need my schedule!"
+    MANA: "Oh please. That's just a sheet of paper. You won't help your roommate?"
+    TAKERU: "Schedules are... ow... very important to him."
+    KENTA: "You! It's you! It's your fault!"
+    MANA: "Mine?"
+    KENTA
+    
+    
+    
+    
