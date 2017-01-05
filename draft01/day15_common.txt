@@ -146,37 +146,4 @@ label day15:
     Mana's still toting the burned out husk she calls a cake. Kenta keeps eyeing the suspcious mass on the cake platter, giving it a wary look, but he's brandishing a tape measure all the same.
     Why does everyone keep coming to me with their issues? Haven't I got enough on my plate?
     TAKERU: "Mana, what are your plans for today? I know you'll want to make it to Hagami's show, but before that... Are you going to hang out with the swim team?"
-    MANA: "I was planning on it, but Yumi's gonna kill me for sure!"
-    TAKERU: "You can always come with us if you like."
-    KENTA: "I'm not hanging out with... her."
-    MANA: "You want me to come with that guy? First he blows off Hagami! Then he insults my baking! And then..."
-    KENTA: "That isn't baking. That's a crime against cuisine."
-    MANA: "You're a boar! A pig! A filthy - "
-    TAKERU: "Hang on, hang on. I think we can work this out. Kenta, you got that lab report finished, right? Hagami was fine with it."
-    KENTA: "Yes, Takeru, but that's not the point. I don't have time for this."
-    TAKERU: "What's the rush?"
-    KENTA: "It's not on the schedule."
-    TAKERU: "Are you kidding? You don't want to try to get along with Mana because you haven't put it on your schedule?"
-    MANA: "Fine by me! I mean... But..."
-    MANA: "I'm worth the time, aren't I? Takeru, I'm worth the time to get to know. Um... You think that too, don't you?"
-    TAKERU: "Er, yeah. But... Kenta's a bit, er, particular with his schedule."
-    KENTA: "See, it's printed here."
-    Kenta hands Mana the color-coded schedule. To me, Kenta's timetable shorthand is as incomprehnsible as Mana's magic rituals. Mana herself narrows her eyes in concentration before giving up.
-    MANA: "It's silly! It's too much! I think you're pulling my leg!"
-    As I watch, Mana throws her hands up in the air. And as she does so, she loses her grip on the sheet of paper. Kenta's schedule catches on the breeze. The paper starts floating away.
-    KENTA: "No! Wait! Grab that!"
-    TAKERU: "I'm trying! I - "
-    TAKERU: "Ouch!"
-    I leap for the airborne piece of paper, but for my efforts, I end up face down in a prickly bush at the side of the road.
-    Mana helps pull me over the side of the guardrail. I wince as the thorns dig into my arms. Kenta, meanwhile, keeps dancing around at the edge of the rail, reaching for the paper that's now long gone on the winds.
-    TAKERU: "Ow..."
-    KENTA: "It's floating away! Capture that paper! I need my schedule!"
-    MANA: "Oh please. That's just a sheet of paper. You won't help your roommate?"
-    TAKERU: "Schedules are... ow... very important to him."
-    KENTA: "You! It's you! It's your fault!"
-    MANA: "Mine?"
-    KENTA
-    
-    
-    
-    
+    MANA: "I was planning on it, but Yumi's gonna kill me for sure."
