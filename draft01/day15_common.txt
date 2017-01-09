@@ -188,4 +188,96 @@ label day15:
     KENTA: "To within two centimeters please."
     TAKERU: "Don't answer that, Mana."
     
+    When we pass through the gates, I notice several student council members setting up a table and unloading boxes of programs.
+    Right... Meiko is probably around somewhere. I wonder if Natsumi got her to agree to take it easy for once and enjoy the festival with us.
+    No one from town is here yet. But there are plenty of classmates I recognize running around, doing some last minute setup before the festival begins in earnest.
+    Every person we pass, Mana ducks behind Kenta's broad shoulders. Is she hiding?
+    KENTA: "Do you need something?"
+    MANA: "If you could stand there for just a sec..."
+    KENTA: "Why? Why does nobody ever explain anything to me? You know everything would be a lot simpler if everyone just said what they wanted instead of - "
+    MANA: "Eep! That's her!"
+    KENTA: "Who?"
+    MANA: "Yumi!"
+    TAKERU: "The swim team captain?"
+    MANA: "If she sees me with this cake it's all over!"
+    KENTA: "The cake is fine. Stop hiding behind me."
+    Kenta tries to sidestep her, but Mana follows him.
+    KENTA: "I don't understand the problem."
+    MANA: "Eeep!"
+    The girl Mana is hiding from, Yumi, is way by the school entrance, but now that Kenta is spinning in circles, apparently dancing with himself, she's looking this way.
+    I wave and try to pretend like I have half an idea of what's going on. The girl, Yumi, gives me a weird look then heads inside.
+    Probably I just embarassed myself, but mission accomplished.
+    TAKERU: "She's gone. Coast is clear, Mana."
+    MANA: "Oh thank goodness!"
+    NATSUMI: "Hey Takeru!"
+    TAKERU: "Natsumi?"
+    NATSUMI: "And Kenta, too. What are you all dancing in circles for?"
+    TAKERU: "Long story."
+    KENTA: "It's actually very straightforward. When I was putting together the schedule this morning, I blocked only ten minutes to wake Takeru up, when actually - "
+    TAKERU: "Like I said, - "
+    MANA: "I swear I only set the timer for half an hour, but then when I checked, oh... It's terrible!"
+    KENTA: "If you can't let anyone see you with it, why'd you bring it to school anyway?"
+    MANA: "Well, um..."
+    NATSUMI: "Oh, this is going to be a great day, Takeru. I can tell already."
+    TAKERU: "The way I see it, I've got multiple problems to deal with already, and I'm going to have you hounding me all day."
+    NATSUMI: "Yep. It'll be the best kind of festival."
+    TAKERU: "What, chaos?"
+    Natsumi laughs.
+    It looks Kenta and Mana are busy enough arguing with each other that I can actually talk to her properly.
+    TAKERU: "I surprised you're here this early."
+    NATSUMI: "I was trying to catch Meiko before she got sucked in some student council nonsense, but I haven't seen her yet. She wouldn't come late to her own festival."
+    TAKERU: "Maybe she snuck around the back road or something."
+    NATSUMI: "Why? Who'd want to avoid me?"
+    I spot Yumi from the swim team exiting Mirako, and Mana and Kenta start spinning around again.
+    TAKERU: "I don't know if I can take a full day of this."
+    NATSUMI: "Hey Kenta! What exactly are you all worked up about again?"
+    KENTA: "I'm behind schedule. Takeru was slow to wake up..."
+    TAKERU: "Two hour earlier than necessary."
+    KENTA: "...and the measurements are off. I only have an hour to figure this out."
+    TAKERU: "He means the furniture measurements."
+    KENTA: "They won't fit through the door."
+    TAKERU: "He means the door to our dorm. He wants to move all the furniture back into the room because I guess he'd prefer a piece of wood as a roommate."
+    KENTA: "There's room enough for both you and the furniture, Takeru. I'm a very good organizer. How far off the floor are you comfortable sleeping?"
+    NATSUMI: "I see the problem."
+    Natsumi turns to Mana.
+    NATSUMI: "How about you?"
+    MANA: "Thank you! Thank you so much! You got that guy to actually stand still so I could hide. I think she's gone. Takeru, is she gone?"
+    TAKERU: "Yumi? Yeah she went back inside."
+    NATSUMI: "Uhh, that's not supposed to be a cake, is it?"
+    MANA: "Well..."
+    NATSUMI: "You're Takeru's friend? Have we met?"
+    MANA: "I'm M-Mana, I'm on the swim team, it's my first year here."
+    NATSUMI: "Hey. I'm - "
+    MANA: "I know who you are. You're only the most popular girl in the school! The baseball star!"
+    KENTA: "Oh, you've heard of this girl before? What's her name again?"
+    NATSUMI: "Kenta, you joker. Mana, you should get along with Kenta. He's the funniest guy in the school!"
+    KENTA: "No really, can you help me out here?"
+    NATSUMI: "Yeah, easy. You don't know what to do with the furniture, so we'll have to come up with something..."
+    KENTA: "That's not what I meant. And I know what do with the furniture. Takeru is sleeping on most of it. The door is the problem."
+    TAKERU: "Kenta, when did you want to finish setting up your booth?"
+    KENTA: "I almost forgot! Kenta I'll have to talk to you later."
+    MANA: "Wait up! Hold still! Get back here!"
+    Kenta walks off. Mana, still holding her singed cake, has to run to keep up.
+    Natsumi gives me a weird look.
+    NATSUMI: "So, about that promise... You did say you'd hang out with me and Meiko today, so - "
+    TAKERU: "That took care of them though, right?"
+    NATSUMI: "I feel guilty though."
+    TAKERU: "Really? I didn't know that was possible for you."
+    NATSUMI: "Come on Takeru, I know it's stupid early but don't be so crabby. Let's go bail them out."
+    TAKERU: "Bail them out?"
+    NATSUMI: "I bet I can fix this. Just you watch."
+    TAKERU: "Anything so I don't have to sleep on a Kenta-made four poster bed. Let's go."
+    
+    Kenta must really be behind schedule. Plenty of students are milling around the gym, setting up, but I notice one or two elderly people as well. They must be early risers from Mirako, here early to check out the festival.
+    I guess the gates must already be open.
+    As we nagivate through the rows of booths in the gym, I'm struck by just how many of my classmates are participating. There was definitely never anything like this at Tohoku.
+    TAKERU: "So how come the baseball team doesn't have a display or something set up?"
+    NATSUMI: "Booo. Come on, Takeru. We weren't expecting to be here today."
+    TAKERU: "Oh right. The tournament, and all."
+    NATSUMI: "I'm not too hung up about it any more. It means I can at least enjoy myself today."
+    NATSUMI: "Or try to, anyway. If Meiko would show up. And your crazy friends would calm down a bit."
+    Natsumi points to the corner of the gym where Kenta has his cabinets set up. I spot a slightly charred cake on top of a display stand, and Mana hiding behind some shelves. Kenta is armed with a tape measure and keeps flailing his arms everywhere.
+    TAKERU: "I don't know how well you know Kenta, but..."
+    NATSUMI: "I know him plenty well. Watch this. Learn from the master."
+    
     
