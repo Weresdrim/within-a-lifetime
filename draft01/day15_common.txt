@@ -438,3 +438,22 @@ label day15:
     TAKERU: " - and you're worried about how much a pocket knife is going to cost?"
     KENTA: "What if there are no bids? I don't want to lose money."
     TAKERU: "Mirako's senior citizens seem to be interested in your furniture so I wouldn't worry."
+    KENTA: "How much is the knife then?"
+    HIKARI: "Not for sale."
+    KENTA: "This is a problem, Takeru. If the carving knife isn't for sale, no matter how much money the auction raises, I won't be able to - "
+    TAKERU: "The hobby shop. We're going tomorrow. And we'll buy you a knife."
+    KENTA: "That's very kind of you, Takeru."
+    TAKERU: "Tell me about it..."
+    MANA: "Can I come?"
+    TAKERU: "Why not?"
+    KENTA: "Excuse me. Have you ever been in a hobby shop?"
+    MANA: "A hobby shop? I have tons of hobbies."
+    KENTA: "My apologies. You looked like a very boring person."
+    MANA: "A boring person!? Are you kidding me? I'll have you know..."
+    I rub my forehead as Mana and Kenta start at it again. I really can't tell if they're getting along or if they're mortal enemies.
+    Hopefully they're not mortal enemies because if they start their final showdown in the middle of the festival, I'm not stepping in.
+    Hikari watches alongside me.
+    HIKARI: "
+    
+    
+    
