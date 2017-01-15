@@ -452,8 +452,55 @@ label day15:
     MANA: "A boring person!? Are you kidding me? I'll have you know..."
     I rub my forehead as Mana and Kenta start at it again. I really can't tell if they're getting along or if they're mortal enemies.
     Hopefully they're not mortal enemies because if they start their final showdown in the middle of the festival, I'm not stepping in.
-    Hikari watches alongside me.
-    HIKARI: "
     
+    if hikari_route:
+        Hikari watches alongside me.
+        HIKARI: "So she remembers what Hagami's told her, but doesn't remember meeting me at all."
+        HIKARI: "But Hagami doesn't forget."
+        TAKERU: "She's... odd."
+        HIKARI: "Takeru, do you really believe her?"
+        TAKERU: "About what?"
+        I try my best not to show anything on my face, but I'm startled.
+        Hagami hasn't told Hikari about her real suspicions, has she?
+        HIKARI: "We'll see the fireworks together, and it'll all come back."
+        TAKERU: "Hagami wouldn't lie."
+        HIKARI: "Would you?"
+        TAKERU: "Er..."
+        HIKARI: "You don't have to protect me, you know. I can handle it. I've been through a lot more than you and a lot worse than this."
+        HIKARI: "I can handle the truth."
+        TAKERU: "I..."
+        TAKERU: "Sorry, Hikari, my head hurts."
+        That's not a lie. I don't know what I'm supposed to do. Hagami initially told us all the lie about the fireworks restoring Hikari's memory when Mana was around, so as to not upset her.
+        Mana would overreact, probably break down in tears. Then she'd forget. Then she'd break down again.
+        But... Did Hagami ever really intend to hide that from Hikari? It seems cruel. Like lying to an animal before it's euthanized.
+        I shudder. But I can't break that kind of news to Hikari, here, now. Maybe I'm trying to protect myself more than her.
+        HIKARI: "How about we go for a walk? It's crowded in here."
+        TAKERU: "You're not worried about your table?"
+        HIKARI: "People steal my work all the time so it's not such a big deal. Anyway, everyone's doing it."
+        True, most of the display booths are unmanned. No one would want to man a table when there's so much else to do at the festival.
+        TAKERU: "Right. Where to?"
+        HIKARI: "Somewhere quiet."
+        We up inside, in the old wing. In my opinion, it's even stuffier in this dusty hallway than the gym, but I guess to Hikari this is what counts as comfortable.
+        For a while, Hikari doesn't speak. She's frowning even more heavily than usual.
+        HIKARI: "The fireworks aren't announced in the program, you know."
+        TAKERU: "Yeah. It's going to be a surprise. Meiko set up everything last minute."
+        HIKARI: "You're sure?"
+        TAKERU: "Meiko keeps her word."
+        TAKERU: "...You're actually looking forward to the fireworks show."
+        HIKARI: "Of course I am. Didn't I say that?"
+        TAKERU: "I guess. You've always been sort of... Er..."
+        TAKERU: "Abstract."
+        TAKERU: "It seems funny to me that you're actually enthusiastic about something like fireworks. When I haven't really seen you happy about anything except maybe beating me at chess."
+        HIKARI: "You don't think I'm a happy, cheerful, person?"
+        TAKERU: "Er, no, I mean - "
+        Hikari laughs.
+        HIKARI: "That's fine. I'm literally dead, it looks like. My chance at real happiness is shot, I admit. So I'll take whatever cheap thrill I can get at fireworks. Even if it's the last thing I do."
+        HIKARI: "I don't really fear death because that already happened, and I've already forgot most of the people I met and knew last year... So that doesn't scare me much any more."
+        HIKARI: "That's why I want to know. Even if there's nothing pleasant at the end of the tunnel, even if I'll just..."
+        She's giving me a strange look. Concentrating?
+        Then suddenly she breaks eye contact. Over my shoulder? There's a creak. A door opens behind us and I turn around.
+        HIKARI: "I'll see you."
+        TAKERU: "Hikari? Where are you..."
+        She's gone before I could even look at her.
     
     
