@@ -747,7 +747,7 @@ label day14:
     HAGAMI: "I'm worried."
     TAKERU: "It can't be worse, right?"
     HAGAMI: "Bathilde, in the opera. She's made out to be the villain, but I've never understood."
-    HAGAMI: "She's engaged to Albrecht. With Giselle gone, they're the only ones there for each other. But when Albrecht remembers Giselle, and Giselle disappears, Albrecht drowns himself in the late. There's no happy ending for them either."
+    HAGAMI: "She's engaged to Albrecht. With Giselle gone, they're the only ones there for each other. But when Albrecht remembers Giselle, and Giselle disappears, Albrecht drowns himself in the lake. There's no happy ending for them either."
     TAKERU: "Well you even said it's a tragedy."
     HAGAMI: "It's so pointless."
     HAGAMI: "I don't know why. I sympathize with her."

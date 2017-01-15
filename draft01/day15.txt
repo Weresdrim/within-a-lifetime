@@ -478,7 +478,9 @@ label day15:
         TAKERU: "You're not worried about your table?"
         HIKARI: "People steal my work all the time so it's not such a big deal. Anyway, everyone's doing it."
         True, most of the display booths are unmanned. No one would want to man a table when there's so much else to do at the festival.
-        TAKERU: "Right. Where to?"
+        TAKERU: "Do you want to grab lunch then? I'm starving."
+        HIAKRI: "I can watch you eat your lunch, if that's what you're talking about."
+        TAKERU: "Right. Er... Is there someplace else you were thinking of?"
         HIKARI: "Somewhere quiet."
         We up inside, in the old wing. In my opinion, it's even stuffier in this dusty hallway than the gym, but I guess to Hikari this is what counts as comfortable.
         For a while, Hikari doesn't speak. She's frowning even more heavily than usual.
@@ -502,5 +504,153 @@ label day15:
         HIKARI: "I'll see you."
         TAKERU: "Hikari? Where are you..."
         She's gone before I could even look at her.
-    
+        Instead, I turn around to where Hagami is standing, looking at me from the entrance to the piano room.
+        HAGAMI: "Takeru?"
+        TAKERU: "Er, I was just..."
+        It's hard to say I was talking to Hikari when she can vanish on a dime. Maybe I shouldn't mention that Hikari ran away...
+        ...and knowing her she's probably eavesdropping somewhere.
+        HAGAMI: "I thought I heard voices."
+        TAKERU: "Just talking to myself , I guess."
+        TAKERU: "What are you doing down here? You know the festival's going on outside. Mana's been looking for you, too."
+        TAKERU: "You were practicing."
+        She doesn't answer. Then again, it wasn't a question.
+        HAGAMI: "Mana was worried?"
+        TAKERU: "Er, I'm not sure if she mentioned it, but I know I was. We haven't seen you all day and your performance isn't too far off."
+        HAGAMI: "...She knows I don't like the festival."
+        TAKERU: "You don't?"
+        HAGAMI: "It's loud. And... people. Lots of people."
+        Hagami grimaces.
+        TAKERU: "Oh. I guess that makes sense."
+        HAGAMI: "Although... Thank you for worrying about me."
+        TAKERU: "You look exhausted. Do you at least want to grab lunch or something?"
+        HAGAMI: "Not really..."
+        TAKERU: "Should I bring you something?"
+        HAGAMI: "That... would be inconvenient."
+        HAGAMI: "I'll come with you."
+        TAKERU: "Right."
+        We walk upstairs. Hopefully Hikari ran off somewhere and isn't tailing us.
+        I start towards the gym, but when we get to the open double doors with the "Mirako High Student Cultural Festival" banner, she balks.
+        HIKARI: "They're serving outside... Aren't they?"
+        TAKERU: "Yeah."
+        We take a detour to the fields behind Mirako. There are a few stalls set up here, but the main attraction is the grill I remember dragging up here a few weeks ago. The student council is running the cookout.
+        There are still plenty of students milling around. Actually, it looks like mostly visitors out here. A few portable tables are set up, paper tableclothes billowing in the wind. The sound of chatter carries on the breeze.
+        I notice Hagami is still a distance behind me, hesitating.
+        If I think about it, I've only ever seen her outside the old wing of Mirako on a handful of occassions, and she's always seemed out of sorts, even then. Even Hikari seems to wander out more often.
+        Now, with a thousand strangers filling the field, Hagami probably isn't too comfortable.
+        TAKERU: "I'll grab food. Do you want to find a table?"
+        HAGAMI: "Alright."
+        She retreats off towards the gym entrance, at the far end of the field. Not too many people around there, I guess.
+        While wait in line to pick up our lunch, I try to keep an eye out for Meiko, but no luck. Is she busy dealing with the people from the fireworks company?
+        It sure looks like the whole rest of the student council is here. That bespectacled guy I always see at the meetings with Meiko serves me two skewers of beef off the grill and hands me my change.
+        Hagami has her back turned as I approach the table.
+        TAKERU: "Here you go."
+        HAGAMI: "Ah."
+        She accepts her food, but eats in silence.
+        Isn't there usually a book prop to break the silence? I suddenly miss Mana. Hopefully she hasn't killed Kenta yet.
+        Finally, Hagami looks up.
+        HAGAMI: "Were you talking to Hikari?"
+        TAKERU: "What? Back in the old wing?"
+        TAKERU: "...Yeah."
+        HAGAMI: "Have you told her?"
+        Her question is vague, but I immediately know what she means. No, no I haven't had the guts to tell Hikari that today is probably her last day on this earth."
+        TAKERU: "I couldn't do it. I don't know if I should."
+        TAKERU: "Er, this sounds weird, but Hikari's really nosy. She listens in on me all the time. If she followed us, she might - "
+        HAGAMI: "Doesn't matter."
+        HAGAMI: "You haven't told her?"
+        TAKERU: "No."
+        TAKERU: "I don't know if I should."
+        Hagami looks up.
+        HAGAMI: "I knew it."
+        TAKERU: "Knew what?"
+        HAGAMI: "You really care about her."
+        TAKERU: "I mean of course. She's the first person I met here. She... I don't trust anyone more than her. Of course I'm going to be upset if she forgets me, or disappears, or..."
+        HAGAMI: "Is she scared?"
+        TAKERU: "No."
+        HAGAMI: "Are you?"
+        TAKERU: "...Maybe."
+        She stares, with a soft, sad smile.
+        Finally, I have to look away.
+        TAKERU: "Hikari better not be listening."
+        TAKERU: "You think I should tell her then?"
+        HAGAMI: "It's up to you."
+        TAKERU: "In that opera you were talking about..."
+        TAKERU: "The heroine is the ghost, right?"
+        HAGAMI: "Giselle."
+        TAKERU: "And the hero is engaged to her."
+        HAGAMI: "Albrecht."
+        TAKERU: "Does he know Giselle will disappear?"
+        HAGAMI: "No."
+        TAKERU: "And does Giselle know?"
+        HAGAMI: "No."
+        HAGAMI: "...Maybe that way is more kind."
+        TAKERU: "You think?"
+        HAGAMI: "I should never have said what I did."
+        HAGAMI: "Sorry Takeru. I knew you... felt that way about Hikari but I've been terrible at keeping secrets, and..."
+        HAGAMI: "Goodbye. I think I'd better practice."
+        TAKERU: "Hagami! Hey, wait a second."
+        Hagami rises from her seat, lunch half finished.
+        HAGAMI: "You'll watch the recital?"
+        TAKERU: "For sure. But don't you want to - "
+        HAGAMI: "I'll see you then."
+        She takes a few steps backwards, biting her lip. The turns and sets off on the path back around the school.
+        I probably shouldn't follow.
+        Instead, I sit at the empty table and stare after her. What did she mean? She asked me yesterday to tell Hikari the news, but...
+        Why I am I just sitting here instead of trying to find Hikari? I know I'm the coward here. It's not indecision that has me paralyzed it's just... I don't want to believe Hagami.
+        Wherever she's got her information from, it's got to be wrong. It's just an opera, right? Fiction.
+        I'll find Hikari. I'll tell her what Hagami thinks. Definitely nothing will happen. We'll watch the fireworks together, and nothing will happen...
+        ...is what I want to think.
+        Actually I don't want to do much thinking at all at the moment. I stand up from the table and stretch.
+        I need to find Natsumi, or Kenta, or someone. I can't sit here and argue with myself in my head forever. Instead I'll go find Kenta and argue about the price of whittling knives or something. Much better.
+        
+        I've only taken about three steps into the gym when I hear a voice.
+        NATSUMI: "Yo. Takeru!"
+        TAKERU: "Hey! What's up?"
+        Natsumi's waving and calling me over to Kenta's furniture display. One or two visitors are milling around, as well as Mana, Kenta, and Natsumi. I join them.
+        NATSUMI: "We were putting together a battle plan."
+        KENTA: "You were the one putting together the plan. I don't see why we have to - "
+        MANA: "Shut up and let her explain!"
+        NATSUMI: "We have a team member that's MIA."
+        TAKERU: "MIA?"
+        KENTA: "Missing in action. It's a military term. It's usually used to refer to soldiers who've gone missing on the battlefield, so its use in this case is wholly inappropriate, and I don't think - "
+        MANA: "Pipe down!"
+        NATSUMI: "Meiko promised she'd be here, and it's passed lunch time, and I haven't seen her. I'll check inside the school. Mana and Kenta are searching the gym, and - "
+        KENTA: "How am I supposed to know her if I see her? I never agreed to this. Why don't you - "
+        NATSUMI: "And Takeru! Get yourself something to eat and check outside by the fields. If you find Meiko, report back here immediately."
+        TAKERU: "I just came from lunch. And who's going to wait here at the booth?"
+        NATSUMI: "That's no big deal."
+        KENTA: "No big deal? I fail to see how this isn't the largest deal. I've spent hours making this furniture, and putting it at risk to find your - "
+        MANA: "Finding Natsumi's friend is way more important than your dumb chairs!"
+        KENTA: "You're calling my furniture stupid? That's nonsensical. They're all made of wood so they can't be - "
+        MANA: "Come on! Shut up! Let's go!"
+        Mana trudges off towards the gym entrance, dragging Kenta by the wrist. Kenta, for his part, protests the whole way, gesticulating a piece of paper that I'm sure must be his schedule.
+        Once they're out of earshot, Natsumi immediately stops her military instructor impression and instead doubles over laughing.
+        NATSUMI: "Look at those two!"
+        TAKERU: "They apparently hate each other."
+        NATSUMI: "You're kind of thick, Takeru. They're obviously made for each other."
+        TAKERU: "I can't think of two people in the world that are more different. They bicker constantly."
+        NATSUMI: "Oh come one. It's really funny. And you and I argue all the time but that doesn't mean - "
+        TAKERU: "For one thing, we don't argue, really. I just yell at you when you do something obnoxious like try to trick me into joining your baseball team."
+        NATSUMI: "Fair enough."
+        TAKERU: "And second, no, we're not made for each other."
+        NATSUMI: "At least humor me a bit, Takeru. Come on."
+        TAKERU: "No."
+        NATSUMI: "Fiiine. At least come help me look for Meiko. I bet I know where she's holed up."
+        TAKERU: "Alright, I can do that."
+        NATSUMI: "Ha! Got you to compromise!"
+        TAKERU: "Yep, congratulations. Now where to?"
+        NATSUMI: "Just outside here. I can feel it."
+        TAKERU: "And you're just going to leave Kenta's booth?"
+        NATSUMI: "There's only an hour or two left on the silent auction anyway. We've got plenty of bids. Let's go."
+        She points towards the access door at the corner of the gym.
+        TAKERU: "Right. The shrine..."
+        NATSUMI: "Yeah. Are you coming or what?"
+        We walk through a few aisles of stands, student displays, and tables arrayed with posters and signs for Mirako clubs. Everyone waves at Natsumi. A guy from the literature club chats her up and passes a free copy of their magazine. I mostly try to look like I know what I'm doing.
+        We keep going. At this point, half the booths are emtpy. Everyone's wandering the gym, outside in the field catching a late lunch, or out by the entrance finding friends.
+        I have to admit, it's a warm atmosphere. Every person she greets, Natsumi has a huge smile on her face. I can see why. She tries introducing me to a student council member, and then to a senior on the baseball team, but I can hardly remember names. I just bow and say my hellos.
+        Finally, we work our way out of the gym and into the sunlight.
+        NATSUMI: "Now let's see..."
+        There are one or two student display booths out by this corner of the school. One looks to be the robotics club, with a poster and small RC vehicle set up on a table, the students long since left to hang out somewhere else. On the other side, a few feet away, is a shrine.
+        That's... Meiko's, right? To Hikari. I was here yesterday.
+        At first, it looks as empty as the rest of the tables 
+        
     
