@@ -597,9 +597,16 @@ label day15:
         Instead, I sit at the empty table and stare after her. What did she mean? She asked me yesterday to tell Hikari the news, but...
         Why I am I just sitting here instead of trying to find Hikari? I know I'm the coward here. It's not indecision that has me paralyzed it's just... I don't want to believe Hagami.
         Wherever she's got her information from, it's got to be wrong. It's just an opera, right? Fiction.
+        Something flickers in my peripheral vision. ...Or was that a someone?
+        Hikari?
+        Was she listening?
+        She's followed me around before to listen in...
+        No, couldn't have been her.
+        I stand up.
+        TAKERU: "Enough of this."
         I'll find Hikari. I'll tell her what Hagami thinks. Definitely nothing will happen. We'll watch the fireworks together, and nothing will happen...
         ...is what I want to think.
-        Actually I don't want to do much thinking at all at the moment. I stand up from the table and stretch.
+        Actually I don't want to do much thinking at all at the moment. I stretch.
         I need to find Natsumi, or Kenta, or someone. I can't sit here and argue with myself in my head forever. Instead I'll go find Kenta and argue about the price of whittling knives or something. Much better.
         
     I've only taken about three steps into the gym when I hear a voice.
@@ -835,3 +842,62 @@ label day15:
     TAKERU: "Wait... They definitely went this way, right?"
     MEIKO: "I couldn't tell. Where was the swim team booth set up?"
     TAKERU: "It was definitely down this row of stands. Let me just - "
+    We cut through a stand with homemade manga, then dodge a group of underclassmen coming the opposite direction.
+    Mana, Kenta, and Natsumi come into view. Actually, there seem to be quite a few people gathered around the swim team table.
+    Kenta is reading some piece of paper in his hand. So is Meiko. Raffle tickets? Mana is busy throwing books and erasers and folded up pieces of paper out of her bookbag.
+    MANA: "Takeru!"
+    TAKERU: "Er, hey. What exactly is going on?"
+    MANA: "Have you seen my ticket?"
+    TAKERU "What?"
+    MANA: "For the raffle! I could've won something and I wouldn't even know it! This is terrible!"
+    Sure enough, I spot the stalward swim team captain, Yumi, standing on Kenta's desk and reading out numbers. She's looking this way.
+    Well, she's probably looking at Mana, who's now emptying her pockets onto the floor and spinning in circles.
+    MEIKO: "Did you leave it at Kenta's booth?"
+    MANA: "No. I mean, I don't think so! Maybe I'd better check."
+    MANA: "But no! Then I'd miss the numbers. Quick, someone write them down!"
+    NATSUMI: "Way ahead of you. If your ticket is 17-92-12-03-09, you'd have just won a deluxe cake. Or actually you'd have won a desk. Same difference."
+    KENTA: "What was the last number?"
+    NATSUMI: "Nine."
+    KENTA: "Good news, Takeru?"
+    TAKERU: "What?"
+    KENTA: "We get to keep the desk."
+    TAKERU: "Oh please no..."
+    MANA: "Kenta! You won?"
+    But now Kenta's talking to Yumi.
+    KENTA: "Excuse me, miss. I believe I've won the desk you're standing on."
+    MANA: "This is so exciting!"
+    TAKERU: "He won his own desk, Mana. This is utterly pointless."
+    KENTA: "I'm quite pleased."
+    KENTA: "Takeru, after the closing ceremony meet me here and we'll get this back home."
+    TAKERU: "I'm not hauling that thing for you."
+    MANA: "Takeru! Stop being mean to your roommate. You said you'd help Meiko move the furniture if she won, but you won't do the same thing for Kenta?"
+    NATSUMI: "It's only fair, Takeru."
+    TAKERU: "I feel like I'm being picked on."
+    NATSUMI: "Oh quit whining."
+    MEIKO: "Natsumi, if the swim team raffle is closing, isn't it about time to wrap up the auction?"
+    NATSUMI: "Sure, as soon as Kenta finishes claiming his shiny new desk."
+    TAKERU: "It's his desk in the first place. All that's happened here is he's gained three quarters of a cake from - "
+    NATSUMI: "Hey Kenta! How's the new desk?"
+    KENTA: "I'll look forward to using it."
+    TAKERU: "We don't need three desks."
+    KENTA: "It's strictly better than two desks. Besides, I may want to display something on my old desk."
+    MANA: "Carvings?"
+    KENTA: "Or taxidermy, if that doesn't pan out. I've always wanted to - "
+    TAKERU: "Kenta, I'll help you move the desk and I'll go to the hobby store with you tomorrow to pick up whittling knives."
+    TAKERU: "Just no more dead animals."
+    NATSUMI: "Come on, let's get back to Kenta's table. We don't have much time before the afternoon program starts up."
+    MANA: "Oh! That's right! Hagami's performing!"
+    KENTA: "According to my schedule, I'll be leaving in about an hour to organize - "
+    MANA: "No you won't be! You've got to listen to Hagami's recital!"
+    KENTA: "Who? What are you - "
+    Mana snatches a sheet of paper out of Kenta's hands.
+    KENTA: "What are you doing? That's my schedule! Get that marker away from it!"
+    MANA: "I'm revising it! You're hanging out with us for the rest of today whether you like it or not!"
+    KENTA: "You can't just decide that!"
+    MANA: "Once it's on the schedule, it's official!"
+    I start trying to shepherd them back towards Kenta's table as they continue to argue.
+    Behind me, I notice Meiko glaring at Natsumi.
+    MEIKO: "I was kidding before, but you really are enjoying this, aren't you?"
+    NATSUMI: "I live for this."
+    
+    
