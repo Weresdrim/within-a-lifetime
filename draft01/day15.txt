@@ -1101,14 +1101,49 @@ label day15:
     MANA: "Wait, y-you knew? Hagami?"
     HAGAMI: "Mana, I haven't even practiced."
     MANA: "What?"
-    HAGAMI: "I just... sat. And imagined you all watching."
-    HAGAMI: "Couldn't do it. Even when they were all only in my imagination."
+    HAGAMI: "You know... I haven't played in years. Not for anyone else. Not alone, either."
+    MANA: "What were you doing in here all that time?"
+    HAGAMI: "I just... sat. And imagined them all watching."
+    HAGAMI: "Couldn't do it. Even when they were all only in my head."
     MANA: "T-then how were you going to..."
     Mana sits up and wipes her nose.
-    MANA: "I can't understand. I still think you're amazing."
-    HAGAMI: "
+    MANA: "I don't get it."
+    HAGAMI: "That's alright."
+    HAGAMI: "I never really need to play for everyone anyway.
+    MANA: "What are you doing?"
+    HAGAMI: "Have a seat."
+    With the huge fireworks crate gone, there are less places to sit, but Mana finds a chair, and me, a box.
+    Hagami straightens up, her fingers above the keys. She pauses.
+    But the hesitation is only a second.
+    It's a slower piece, with enough time for me to appreciate every note. I'm no expert, but to me, it's flawless. It's beautiful. It's enough to give me goose bumps.
+    Hagami plays with her eyes closed. Her breathing is slowed, as if the instrument is controlling her and not the other way around.
+    There's no sheet music. Does Hagami have this song memorized, even after years of not touching a piano?
+    The sound is trancelike, effortless. I feel like the half the wonder of it is lost on me, with my total lack of musical talent, and I'm ashamed that I can only partially understand exactly what Hagami is creating before me.
+    Even on this antique piano, in this dusty room, she's extraordinary.
     
-    
+    if hikari_route:
+        There's quiet for a moment, then Hagami continues. The next movement? But in that second gap, my attention is broken long enough to catch a shadow by the window in the corner of the room. Is someone outside?
+        No. The figure comes into focus as the music carries on. It's Hikari, of course, framed against the deep purple of the sunset outside.
+        I'm not even sure she notices me - she's fixated on Hagami, frowning in concentration. Mana reamins oblivious.
+        I want to call out, or at least walk over to her, but I can't interrupt Hagami. In fact, I'm not sure Hikari even notices me.
+        Tearing my eyes off of her, I return my attention to Hagami, and the music.
+        She's playing faster now, more delicately. How has she kept all of these complexities in her head after all these years?
+        But my focus keeps slipping. I know Hikari's right there, less than twenty feet away and here I am planted on my box.
+        The fireworks could start any minute. Once Hagami stops, if Hikari just fades into the background like she's done twice already today, and then... This can't be the last time I see her.
+        Hagami's eyes are closed. No doubt she didn't notice Hikari's arrival. I hardly did.
+        Then there's another pause, and Hagami's fingers move faster than I can follow, low to high, soft to loud, punctuated with a bang, and then repeated. Hagami is moving now, eyes open and narrowed. Sweating?
+        She pauses to breathe, then goes back again. It's the most emotion I've ever seen out of her. Her attack is agressive, almost relentless, and then she fades back into a quiet vulnerability. 
+        Anyone in this wing of the school could hear her now. Would they come to investigate. I wouldn't stop them. Now I understand why Mana wanted Hagami to play for an audience again. It's an experience that can't be described, only shared.
+        And then in an instant, it's done. She finishes on a chord, then snaps her head up, smiling ear to ear, not in joy, but in triumph.
+        MANA: "Holy cow, Hagami. That was awesome! That was amazing! I-I don't know what to - "
+        HIKARI: "Bravo."
+        TAKERU: "That's incredible."
+        Even when we stop clapping, Hagami is still grinning. She's breathing hard.
+        HAGAMI: "I forgot how much I missed..."
+        HAGAMI: "I don't miss performing. I missed just... playing."
+        HAGAMI: "Thank you, Mana. Takeru, Hikari... you too."
+        TAKERU: "
+        
     
     
     
