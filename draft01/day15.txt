@@ -518,7 +518,7 @@ label day15:
         TAKERU: "Er, I'm not sure if she mentioned it, but I know I was. We haven't seen you all day and your performance isn't too far off."
         HAGAMI: "...She knows I don't like the festival."
         TAKERU: "You don't?"
-        HAGAMI: "It's loud. And... people. Lots of people."
+        HAGAMI: "It's loud. And... Lots of people."
         Hagami grimaces.
         TAKERU: "Oh. I guess that makes sense."
         HAGAMI: "Although... Thank you for worrying about me."
@@ -528,6 +528,7 @@ label day15:
         HAGAMI: "That... would be inconvenient."
         HAGAMI: "I'll come with you."
         TAKERU: "Right."
+        
         We walk upstairs. Hopefully Hikari ran off somewhere and isn't tailing us.
         I start towards the gym, but when we get to the open double doors with the "Mirako High Student Cultural Festival" banner, she balks.
         HIKARI: "They're serving outside... Aren't they?"
@@ -978,7 +979,7 @@ label day15:
         In my moment of hesitation, Meiko stands up from the notebook and I lose sight of Hikari.
         MEIKO: "Sorry about that."
         TAKERU: "No problem. Did you see..."
-        Hikari's gone.
+        Hikari's gone. I look back to Meiko but she's busy relighting the candles.
         MEIKO: "What's that?"
         TAKERU: "Nothing. Just thinking."
         MEIKO: "We'd better hurry up and find Natsumi and Kenta. Look, the piano is out on stage already."
