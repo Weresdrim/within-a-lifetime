@@ -447,7 +447,7 @@ label day14:
     HIKARI: "Thank you."
     HIKARI: "I don't know if I've said that before..."
     HIKARI: "And if I'm honest... I really would like to see the fireworks again, even if I forget it ever happened."
-    HIKARI: "If I'm going to forget all my old memories anyways, might as well try and make some new ones."
+    HIKARI: "If it turns out I'm going to forget all my old memories anyways, might as well try and make some new ones."
     
     I leave early to catch Meiko before class starts up again. When I get back to the classroom, there should be at least ten minutes.
     And she's not there when I show up.
