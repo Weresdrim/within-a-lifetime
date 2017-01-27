@@ -1568,6 +1568,41 @@ label day15:
         TAKERU: "Come on?"
         MANA: "We've got to go find Hagami!"
         MEIKO: "See you guys later."
+        
+           We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana is right beside me.
+           
+        It takes a few minutes to reach the back. Hagami should be somewhere around here.
+        But the only people here are the guy I saw moving the piano, a girl clutching a violin, and that student council member, perched on a stool and paging through the program. When he sees us, he gives me a suspicious glare.
+        TAKERU: "Sorry... We were just looking for someone."
+        He rearranges his glasses then hunches back over the program.
+        MANA: "Have you seen Hagami? She just finished! When she came off stage where'd she go? Did you see if - "
+        TAKERU: "I've got a guess. Come on."
+        MANA: "Let's go then! Do you think... I hope Hagami's alright!"
+        TAKERU: "Yeah."
+        We take down the path to Mirako, not quite running.
+        MANA: "I knew she was nervous, but, but..."
+        MANA: "I thought she could do it! When we were in middle school she'd play all the time! She made it look so easy..."
+        MANA: "I really hope she's okay."
+        TAKERU: "Me too."
+        MANA: "This way?"
+        The school's empty at this point. I'm surprised the door is even unlocked. We pass one or two people in the gym all headed the opposite direction. When we enter the hall, though, there's no one. Only every other light is on.
+        MANA: "She's got to be in the old wing."
+        It'll take some time to cross the entire building to get there, but we keep up our pace. I only hesitate when I start wondering what I'm doing here. When we find Hagami, what exactly is it I want to say?
+        Maybe I should leave this to Mana. She's known Hagami for a long time, and if we find Hagami in the library bawling her eyes out I think I'd just make things more uncomfortable for everyone. Why am I always terrible at things like this?
+        MANA: "Takeru, what're you slowing down for?"
+        TAKERU: "You don't think... You're her best friend and I'm just me. Maybe I should..."
+        Mana stops dead and puts her index finger on my chest.
+        MANA: "You're important here too."
+        TAKERU: "Huh?"
+        MANA: "I've known her a million years. She knows I'm going to try to cheer her up and tell her it went great no matter what. It's got to come from you."
+        MANA: "Because she got up there, and she was brave. I'm proud of her. But I'm always proud of her. I want her to know it's not just me."
+        TAKERU: "Right. Okay, I think I get it."
+        I gulp as Mana looks up at me.
+        MANA: "Sorry. She means a lot to me."
+        We start moving again. The old wing is almost totally unlit now. The faint noise of the crowd out in the field is barely audible as our footsteps echo in the hall. We pass the tea room, headed for the staircase at the far end, and the library upstairs.
+        Then we pass the piano room door, closed. Mana and I stop, then glance at each other. Underneath the door, a light.
+        TAKERU: "Do we knock?"
+        Mana just pulls it open.
     
     if meiko_route
         MANA: "Hagami, Hagami..."
@@ -1607,62 +1642,73 @@ label day15:
         HIKARI: "Anyway, quiet down. The next act is starting."
         It's some student comedy group, all seniors that I don't recognize. I zone out halfway through some boring improv, but I can't see Meiko anywhere.
         I really hope she makes it back in time for the fireworks... I can tell myself it's because I'm afraid of what Natsumi will do to her if she misses the show, but somehow watching the fireworks with just Kenta and Natsumi or even Hikari doesn't feel right.
+        And I really don't know if I should expect Hagami back or not.
+        That's what I'm thinking, staring at the ground when someone behind me tugs my shoulder.
+        MANA: "Takeru! Psst, Takeru!"
+        TAKERU: "What?"
+        MANA: "Shh! Don't interrupt the performers!"
+        I roll my eyes as she points to the comedy act on stage.
+        HIKARI: "Mana?"
+        TAKERU: "What's up? How's Hagami doing?"
+        HIKARI: "Hurry up!"
+        TAKERU: "Hurry up what?"
+        MANA: "Hurry up and follow me! It's Hagami!"
+        TAKERU: "Right, coming, coming."
+        Hikari and I try to duck out of the performance without attracting too much attention, but Mana's too impatient to wait up. We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. Mana takes a shortcut through the trees and heads for the school building.
+        Mirako is empty at this point. I'm surprised the door is even unlocked. We pass one or two people in the gym all headed the opposite direction. When we enter the hall, though, there's no one. Only every other light is on.
+        TAKERU: "Mana, what's this about?"
+        I try to ask but I'm panting... When did I get so out of shape?
+        TAKERU: "Hagami's okay, right?"
+        MANA: "I think? I ran into her at the entrance, and she just said to go find you guys."
+        HIKARI: "Then where are we going?"
+        MANA: "The old wing! She told me to meet her back at the piano room."
+        Hikari gives me a look, but I just shrug back. I haven't got any idea either.
+        TAKERU: "Mana, you're sure she's alright?"
+        MANA: "I-I'm not sure. She's at least up and moving around though! So come on, let's hurry up and meet her!"
+        Mana walks at a pace just less than a run, kicking up dust all the way through the old wing. 
+        Finally, we come tothe piano room, a bar of light escaping from the door. Mana doesn't hesitate to fling it open.
     
-    We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana's right beside me.
-    It takes a few minutes to reach the back. Hagami should be somewhere around here.
-    But the only people here are the guy I saw moving the piano, a girl clutching a violin, and that student council member, perched on a stool and paging through the program. When he sees us, he gives me a suspicious glare.
-    TAKERU: "Sorry... We were just looking for someone."
-    He rearranges his glasses then hunches back over the program.
-    MANA: "Have you seen Hagami? She just finished! When she came off stage where'd she go? Did you see if - "
-    TAKERU: "I've got a guess. Come on."
-    MANA: "Let's go then! Do you think... I hope Hagami's alright!"
-    TAKERU: "Yeah."
-    We take down the path to Mirako, not quite running.
-    MANA: "I knew she was nervous, but, but..."
-    MANA: "I thought she could do it! When we were in middle school she'd play all the time! She made it look so easy..."
-    MANA: "I really hope she's okay."
-    TAKERU: "Me too."
-    MANA: "This way?"
-    The school's empty at this point. I'm surprised the door is even unlocked. We pass one or two people in the gym all headed the opposite direction. When we enter the hall, though, there's no one. Only every other light is on.
-    MANA: "She's got to be in the old wing."
-    It'll take some time to cross the entire building to get there, but we keep up our pace. I only hesitate when I start wondering what I'm doing here. When we find Hagami, what exactly is it I want to say?
-    Maybe I should leave this to Mana. She's known Hagami for a long time, and if we find Hagami in the library bawling her eyes out I think I'd just make things more uncomfortable for everyone. Why am I always terrible at things like this?
-    MANA: "Takeru, what're you slowing down for?"
-    TAKERU: "You don't think... You're her best friend and I'm just me. Maybe I should..."
-    Mana stops dead and puts her index finger on my chest.
-    MANA: "You're important here too."
-    TAKERU: "Huh?"
-    MANA: "I've known her a million years. She knows I'm going to try to cheer her up and tell her it went great no matter what. It's got to come from you."
-    MANA: "Because she got up there, and she was brave. I'm proud of her. But I'm always proud of her. I want her to know it's not just me."
-    TAKERU: "Right. Okay, I think I get it."
-    I gulp as Mana looks up at me.
-    MANA: "Sorry. She means a lot to me."
-    We start moving again. The old wing is almost totally unlit now. The faint noise of the crowd out in the field is barely audible as our footsteps echo in the hall. We pass the tea room, headed for the staircase at the far end, and the library upstairs.
-    Then we pass the piano room door, closed. Mana and I stop, then glance at each other. Underneath the door, a light.
-    TAKERU: "Do we knock?"
-    Mana just pulls it open.
-    There's Hagami, of course, seated at that dusty upright piano. She turns around when she hears us enter, face blank, features expressionless.
-    With a whoosh, Mana jumps towards Hagami, hugging her. There's snuffling, and I realize it's Mana that's crying. Hagami frowns.
-    MANA: "H-Hagami, that was so brave, to get up where w-when I knew you were scared, I still can't believe y-you..."
-    HAGAMI: "It was a bit of a disaster."
-    MANA: "No, it was amazing. I d-didn't think I'd ever see you up there like that again. You're getting s-so much better."
-    HAGAMI: "I made a fool of myself. Everyone's ashamed, I'm sure."
-    TAKERU: "I think most people thought it was performance art."
-    HAGAMI: "Really. Like that John Cage song..."
-    TAKERU: "You can thank Mana. I think she sold it."
-    HAGAMI: "Thank you for believing in me Mana, but..."
-    MANA: "I'm proud. S-still."
-    Maybe before I didn't understand. But when Hagami was up there, on the stage, I think now I recognize that terror I felt.
-    Hagami hates crowds. She's uncomfortable to the point of anxiety around just a single stranger, now multiple that by the hundreds of people watching.
-    Before when I thought about it, it was only stagefright. I just thought it was my first game as a starter at Tohoku all over again. That's not it.
-    This is like... I could never play baseball now. I know something will happen, I'll snap backwards, I'll end up at the clinic again, maybe someplace worse.
-    Hagami on that stage was me, back on the mound for Tohoku, not as my first game, but now, marching back to that spot where it all changed for me a year ago. It doesn't matter if I threw the pitch or not. Just being there is an act of defiance.
-    TAKERU: "That takes some guts."
-    HAGAMI: "...?"
-    TAKERU: "Walking up there... I'd be too much of a coward. I didn't realize it until now. You told me you didn't think you could do it and you went up on that stage anyway."
-    MANA: "Wait, y-you knew? Hagami?"
-    HAGAMI: "Mana, I haven't even practiced."
-    MANA: "What?"
+    if hikari_route or meiko_route:
+        There's Hagami, of course, seated at that dusty upright piano. She turns around when she hears us enter, face blank, features expressionless.
+        With a whoosh, Mana jumps towards Hagami, hugging her. There's snuffling, and I realize it's Mana that's crying. Hagami frowns.
+        MANA: "H-Hagami, that was so brave, to get up where w-when I knew you were scared, I still can't believe y-you..."
+        HAGAMI: "It was a bit of a disaster."
+        MANA: "No, it was amazing. I d-didn't think I'd ever see you up there like that again. You're getting s-so much better."
+        HAGAMI: "I made a fool of myself. Everyone's ashamed, I'm sure."
+        TAKERU: "I think most people thought it was performance art."
+        HAGAMI: "Really. Like that John Cage song..."
+        TAKERU: "You can thank Mana. I think she sold it."
+        HAGAMI: "Thank you for believing in me Mana, but..."
+        MANA: "I'm proud. S-still."
+    
+    if meiko_route:
+        HIKARI: "In all that time I've spent with you, for two weeks, I didn't hear you play one note."
+        HIKARI: "You went up there without a minute of rehearsal. At first I thought you were deluded, but - "
+        TAKERU: "Hikari, don't - "
+        HIKARI: "No, I'm impressed. Think about it. Hikari, what do you think the chances were you'd be able your best today?"
+        HAGAMI: "Oh. ...Low."
+        MANA: "Hagami! Then why - "
+        TAKERU: "I get it. You still put in the performance request, got up in front of everyone, even when you knew probably..."
+        HIKARI: "That's why I'm surprised, Hagami. You're not afraid to fail."
+    
+    if meiko_route or hikari_route:
+        Maybe before I didn't understand. But when Hagami was up there, on the stage, I think now I recognize that terror I felt.
+        Hagami hates crowds. She's uncomfortable to the point of anxiety around just a single stranger, now multiple that by the hundreds of people watching.
+        Before when I thought about it, it was only stagefright. I just thought it was my first game as a starter at Tohoku all over again. That's not it.
+        This is like... I could never play baseball now. I know something will happen, I'll snap backwards, I'll end up at the clinic again, maybe someplace worse.
+        Hagami on that stage was me, back on the mound for Tohoku, not as my first game, but now, marching back to that spot where it all changed for me a year ago. It doesn't matter if I threw the pitch or not. Just being there is an act of defiance.
+        
+    if hikari_route:
+        TAKERU: "That takes some guts."
+        HAGAMI: "...?"
+        TAKERU: "Walking up there... I'd be too much of a coward. I didn't realize it until now. You told me you didn't think you could do it and you went up on that stage anyway."
+        MANA: "Wait, y-you knew? Hagami?"
+        HAGAMI: "Mana, I haven't even practiced."
+        MANA: "What?"
+        
+    if meiko_route:
+        It's not something I'd ever have the guts to do.
+    
     HAGAMI: "You know... I haven't played in years. Not for anyone else. Not alone, either."
     MANA: "What were you doing in here all that time?"
     HAGAMI: "I just... sat. And imagined them all watching."
@@ -1671,10 +1717,17 @@ label day15:
     Mana sits up and wipes her nose.
     MANA: "I don't get it."
     HAGAMI: "That's alright."
-    HAGAMI: "I never really need to play for everyone anyway.
+    HAGAMI: "I never really need to play for everyone anyway."
     MANA: "What are you doing?"
     HAGAMI: "Have a seat."
-    With the huge fireworks crate gone, there are less places to sit, but Mana finds a chair, and me, a box.
+    
+    if hikari_route:
+        With the huge fireworks crate gone, there are less places to sit, but Mana finds a chair, and me, a box.
+    
+    if meiko_route:
+        HAGAMI: "I know you were looking forward to this, Mana. And all of you."
+        HAGAMI: "Thank you for showing up."
+    
     Hagami straightens up, her fingers above the keys. She pauses.
     But the hesitation is only a second.
     It's a slower piece, with enough time for me to appreciate every note. I'm no expert, but to me, it's flawless. It's beautiful. It's enough to give me goose bumps.
@@ -1693,9 +1746,11 @@ label day15:
         But my focus keeps slipping. I know Hikari's right there, less than twenty feet away and here I am planted on my box.
         The fireworks could start any minute. Once Hagami stops, if Hikari just fades into the background like she's done twice already today, and then... This can't be the last time I see her.
         Hagami's eyes are closed. No doubt she didn't notice Hikari's arrival. I hardly did.
-        Then there's another pause, and Hagami's fingers move faster than I can follow, low to high, soft to loud, punctuated with a bang, and then repeated. Hagami is moving now, eyes open and narrowed. Sweating?
+        
+    if hikari_route or meiko_route:
+        There's silence for a moment, and Hagami's fingers move faster than I can follow, low to high, soft to loud, punctuated with a bang, and then repeated. Hagami is moving now, eyes open and narrowed. Sweating?
         She pauses to breathe, then goes back again. It's the most emotion I've ever seen out of her. Her attack is agressive, almost relentless, and then she fades back into a quiet vulnerability. 
-        Anyone in this wing of the school could hear her now. Would they come to investigate. I wouldn't stop them. Now I understand why Mana wanted Hagami to play for an audience again. It's an experience that can't be described, only shared.
+        Anyone in this wing of the school could hear her now. Would they come to investigate, I wouldn't stop them. Now I understand why Mana wanted Hagami to play for an audience again. It's an experience that can't be described, only shared.
         And then in an instant, it's done. She finishes on a chord, then snaps her head up, smiling ear to ear, not in joy, but in triumph.
         MANA: "Holy cow, Hagami. That was awesome! That was amazing! I-I don't know what to - "
         HIKARI: "Bravo."
@@ -1705,11 +1760,21 @@ label day15:
         HAGAMI: "I don't miss performing. I missed just... playing."
         HAGAMI: "Thank you, Mana. Takeru, Hikari... you too."
         HIKARI: "I'm just happy to listen."
+        
+    if meiko_route:
         Neither of them seem too worried about Hikari's arrival out of nowhere. I glance at Hikari, but she's not looking at me.
+        
+    if hikari_route or meiko_route:
         HAGAMI: "I forgot how it felt. Really... too long."
         MANA: "I'm so happy! This is better than the fireworks."
+    
+    if hikari_route:
         HAGAMI: "Fireworks..."
         She trails off. Not unusual for Hagami, but I catch her eyes flick towards Hikari. So I'm not the only one concerned.
+    
+    if meiko_route:
+    
+    if hagami_route or meiko_route:
         HAGAMI: "I won't keep you. They'll be starting the show out there soon."
         MANA: "I'm staying here, then! Keep going, Hagami. I want to hear more."
         HAGAMI: "I'm done... Let's go."
