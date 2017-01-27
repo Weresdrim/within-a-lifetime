@@ -563,7 +563,12 @@ label day15:
     Hopefully they're not mortal enemies because if they start their final showdown in the middle of the festival, I'm not stepping in.
     
     if hagami_route:
-        <head downstairs with Hikari, meet Hagami, go upstairs with Mana>
+        <Kenta goes back to relieve Natsumi, Mana and Takeru go to find Hagami>
+        <Hagami is busy "practicing," get lost Takeru+Mana>
+        <Lunch with Mana (Kenta too if this is too boring) with some tidbits on Hagami's background>
+        <Hagami decides to not be a shutin and finally shows up>
+        <Do the festival rounds with her, write her into the contest endings>
+        <Hagami writes in some obnoxious joke bids (false name? 999999 yen?) but Natsumi still wins>
     
     if hikari_route:
         Hikari watches alongside me.
@@ -928,7 +933,7 @@ label day15:
         NATSUMI: "Are you both done with lunch? Let's head back inside. Meiko, there's a bunch of stuff I wanted to show you. Plus I think the photography club's got a real nonstandard booth set up if you're in the mood for enforcing the law."
         MEIKO: "I think we can let it slide, Natsumi. Lead the way."
     
-    if hikari_route or hagami_route:
+    if hikari_route or meiko_route:
         I've only taken about three steps into the gym when I hear a voice.
         NATSUMI: "Yo. Takeru!"
         TAKERU: "Hey! What's up?"
@@ -1029,14 +1034,14 @@ label day15:
         NATSUMI: "I'm sure I'll be the one clearing out so you can get some privacy. Right? Right?"
         TAKERU: "I swear..."
     end
+
+    if meiko_route or hikari_route:
+        We finally make it back to the gym.
+        Natsumi spends the time showing Meiko all the interesting displays we already saw on our first trek through.
+        First stop is the swim team's booth. No sign of Mana or her senior Yumi, but we each buy a ticket for the raffle. I glare at Kenta's disk while Natsumi brags to Meiko about her brilliant auctioneering solutions to this morning's problem.
+        Next, the food science club is selling home-made ice cream. I'm still stuffed from lunch, but apparently Meiko hasn't eaten yet.
+        Finally, we come to Kenta's table.
     
-    We finally make it back to the gym.
-    Natsumi spends the time showing Meiko all the interesting displays we already saw on our first trek through.
-    First stop is the swim team's booth. No sign of Mana or her senior Yumi, but we each buy a ticket for the raffle. I glare at Kenta's disk while Natsumi brags to Meiko about her brilliant auctioneering solutions to this morning's problem.
-    Next, the food science club is selling home-made ice cream. I'm still stuffed from lunch, but apparently Meiko hasn't eaten yet.
-    Finally, we come to Kenta's table.
-    
-    if hagami_route or hikari_route:
         Well, multiple tables.
         MEIKO: "I see you two got everything set up."
         TAKERU: "Mostly Kenta. Trust me, I didn't volunteer."
@@ -1226,7 +1231,7 @@ label day15:
     KENTA: "Where are you dragging me? Let go of my arm. If you knew about this ahead of time, you should've let me know so I could put it on my schedule. This is unreasonable."
     NATSUMI: "Mana, lead the way. Quiet down, Kenta."
     
-    if hagami_route or hikari_route
+    if hikari_route
         They charge off into the sea of people. I'm about to trudge after them when I feel a hand on my shoulder.
         MEIKO: "Takeru?"
         TAKERU: "Huh?"
@@ -1475,6 +1480,10 @@ label day15:
         We make our way to the field, where about a hundred folding chairs are set up in front of a stage. Mostly everyone seated seems to be from town, while students and families are sitting in the grass all over.
         TAKERU: "Do you see anyone familiar? Kenta or Natsumi or anyone?"
         HIKARI: "Right there."
+    
+    if hagami_route:
+        <Hagami, Mana, and Kenta split, Hagami until her concert scene>
+        <Meiko explains the shrine in a little more detail because Takeru hasn't seen it today yet>
 
     TAKERU: "Kenta! Hey!"
     They're a few hundred feet away on a picnic blanket, but Kenta doesn't pay any attention. He's too busy arguing with Mana. Instead, Natsumi turns around and waves.
@@ -1551,7 +1560,7 @@ label day15:
     if hikari_route:
         It clicks. I cup my hands together and join Mana. Meiko starts clapping a second later, then Natsumi, and slowly, painfully there's applause from the rest of the audience.
     
-    if hagami_route:
+    if meiko_route:
         It clicks. I cup my hands together and join Mana. Natsumi starts a moment later, and slowly, painfully there's applause from the rest of the audience. Hikari also claps next to me, soundlessly. It still seems Kenta and about half the spectators are dumbstruck.
     
     Hagami stands up, bows, and vanishes.
@@ -1568,9 +1577,7 @@ label day15:
         TAKERU: "Come on?"
         MANA: "We've got to go find Hagami!"
         MEIKO: "See you guys later."
-        
-           We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana is right beside me.
-           
+        We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana is right beside me. 
         It takes a few minutes to reach the back. Hagami should be somewhere around here.
         But the only people here are the guy I saw moving the piano, a girl clutching a violin, and that student council member, perched on a stool and paging through the program. When he sees us, he gives me a suspicious glare.
         TAKERU: "Sorry... We were just looking for someone."
@@ -1709,17 +1716,18 @@ label day15:
     if meiko_route:
         It's not something I'd ever have the guts to do.
     
-    HAGAMI: "You know... I haven't played in years. Not for anyone else. Not alone, either."
-    MANA: "What were you doing in here all that time?"
-    HAGAMI: "I just... sat. And imagined them all watching."
-    HAGAMI: "Couldn't do it. Even when they were all only in my head."
-    MANA: "T-then how were you going to..."
-    Mana sits up and wipes her nose.
-    MANA: "I don't get it."
-    HAGAMI: "That's alright."
-    HAGAMI: "I never really need to play for everyone anyway."
-    MANA: "What are you doing?"
-    HAGAMI: "Have a seat."
+    if hikari_route or meiko_route:
+        HAGAMI: "You know... I haven't played in years. Not for anyone else. Not alone, either."
+        MANA: "What were you doing in here all that time?"
+        HAGAMI: "I just... sat. And imagined them all watching."
+        HAGAMI: "Couldn't do it. Even when they were all only in my head."
+        MANA: "T-then how were you going to..."
+        Mana sits up and wipes her nose.
+        MANA: "I don't get it."
+        HAGAMI: "That's alright."
+        HAGAMI: "I never really need to play for everyone anyway."
+        MANA: "What are you doing?"
+        HAGAMI: "Have a seat."
     
     if hikari_route:
         With the huge fireworks crate gone, there are less places to sit, but Mana finds a chair, and me, a box.
@@ -1728,13 +1736,14 @@ label day15:
         HAGAMI: "I know you were looking forward to this, Mana. And all of you."
         HAGAMI: "Thank you for showing up."
     
-    Hagami straightens up, her fingers above the keys. She pauses.
-    But the hesitation is only a second.
-    It's a slower piece, with enough time for me to appreciate every note. I'm no expert, but to me, it's flawless. It's beautiful. It's enough to give me goose bumps.
-    Hagami plays with her eyes closed. Her breathing is slowed, as if the instrument is controlling her and not the other way around.
-    There's no sheet music. Does Hagami have this song memorized, even after years of not touching a piano?
-    The sound is trancelike, effortless. I feel like the half the wonder of it is lost on me, with my total lack of musical talent, and I'm ashamed that I can only partially understand exactly what Hagami is creating before me.
-    Even on this antique piano, in this dusty room, she's extraordinary.
+    if hikari_route or meiko_route:
+        Hagami straightens up, her fingers above the keys. She pauses.
+        But the hesitation is only a second.
+        It's a slower piece, with enough time for me to appreciate every note. I'm no expert, but to me, it's flawless. It's beautiful. It's enough to give me goose bumps.
+        Hagami plays with her eyes closed. Her breathing is slowed, as if the instrument is controlling her and not the other way around.
+        There's no sheet music. Does Hagami have this song memorized, even after years of not touching a piano?
+        The sound is trancelike, effortless. I feel like the half the wonder of it is lost on me, with my total lack of musical talent, and I'm ashamed that I can only partially understand exactly what Hagami is creating before me.
+        Even on this antique piano, in this dusty room, she's extraordinary.
     
     if hikari_route:
         There's quiet for a moment, then Hagami continues. The next movement? But in that second gap, my attention is broken long enough to catch a shadow by the window in the corner of the room. Is someone outside?
@@ -1773,88 +1782,102 @@ label day15:
         She trails off. Not unusual for Hagami, but I catch her eyes flick towards Hikari. So I'm not the only one concerned.
     
     if meiko_route:
+        Fireworks. That's right.
+        I glance out the window, but the only thing out there is the pale blue of the evening sky. They haven't started yet, thankfully. I hope Meiko's not out there by the blanket, wondering where everyone went.
+        I notice Hikari behind me is also looking the same direction.
     
-    if hagami_route or meiko_route:
+    if hikari_route or meiko_route:
         HAGAMI: "I won't keep you. They'll be starting the show out there soon."
         MANA: "I'm staying here, then! Keep going, Hagami. I want to hear more."
         HAGAMI: "I'm done... Let's go."
         MANA: "You're coming? You'll come with us back to the festival? I thought you hated - "
         HAGAMI: "It's not a big deal."
+        
+    if hikari_route:
         HIKARI: "Don't do it for my sake."
         HAGAMI: "No. Come on."
         But Hagami is looking at the floor, not at Hikari.
         Right. Hagami never told her, of course. That was my job, to let Hikari know that tonight is probably the end of the line...
         In my amazement at Hagami, it had almost slipped my mind. Mana, Hagami, and Hikari file out of the piano room, but as I follow, a knot tightens in my stomach.
         
-    Mirako is totally silent by now. Everyone is outside at the field, waiting for the closing ceremonies.
-    The secret about the fireworks might be out of the bag - the Fujiworks Pyrotechnics truck parked out front isn't exactly subtle. I doubt anyone would want to miss out if the rumors turn out to be true.
-    Even in the gym, the tables are deserted. It's the same along the path to the field.
-    As we pass the shrine that Meiko set up, Hikari falls back to walk beside me.
-    HIKARI: "Takeru."
-    TAKERU: "Hikari... Hey."
-    TAKERU: "Have you been tailing me all day?"
-    HIKARI: "What else was I supposed to do? It looks like you had a decent day anyway."
-    TAKERU: "You know you didn't have to hide. You could've just actually wandered around with us like a normal person."
-    HIKARI: "It would've made you uncomfortable."
-    TAKERU: "No, er, I mean - "
-    HIKARI: "It doesn't matter."
-    HIKARI: "Takeru, honestly though..."
-    I gulp. I knew this question was coming but now I - 
-    HIKARI: "What is that?"
-    TAKERU: "Wait what?"
-    HIKARI: "On that table. Who stole my chess set? And the board, to boot."
-    TAKERU: "Oh. That's Meiko's doing. You know that's your shrine, right? Meiko spent all of yesterday setting it up. It probably seems a little weird, but - "
-    For a moment there's a panic in Hikari's eyes that I don't understand.
-    HIKARI: "Very thoughtful of her..."
-    TAKERU: "Er..."
-    TAKERU: "You are looking forward to the fireworks, right?"
-    HIKARI: "Of course."
-    TAKERU: "Meiko will be there. I know you say everyone's forgottn you, but she obviously hasn't. What do you think she'll - "
-    HIKARI: "I don't want to think about it. There's more on my mind."
-    TAKERU: "Right."
-    Probably it's the chance of imminent disappearance that's weighing her down. She has to know.
-    NATSUMI: "Hey! Takeru, Mana, over here! And hey, is that Hagami? Welcome back."
-    MANA: "Natsumi! Hello!"
-    NATSUMI: "Took you long enough."
-    KENTA: "The fireworks are about to start. You're very lucky, Takeru. Next time try to be more timely."
-    TAKERU: "Where's Meiko?"
-    Natsumi points to the stage as we all take our seats on the blanket.
-    Meiko is up at the microphone, that student council guy with the glasses trying to plug it in. It's truly night, now. The stage spotlights illuminate the platform, but the rest of the field is shadowed. It's a good thing I remembered where we were sitting.
-    NATSUMI: "The principal already spoke, so this is it. Then... Boom."
-    She pantomimes an explosion with her hands.
-    NATSUMI: "Takeru, Mana, you're new to the Mirako festival fireworks, so hold on to your seats. Aside from the baseball team, it's the best thing about this school. Get ready!"
-    Natsumi turns around when Meiko taps on the mic, and the sound reverberates around the field.
-    MEIKO: "Hello?"
-    MEIKO: "Ah. Thank you all for coming out to Mirako today. My name is Kotaru Meiko, member of the student council and head of the student festival organizing committee."
-    MEIKO: "To our visitors, we're glad to have you and hope you enjoyed what our school has to offer. To our students, thank you for working so hard to put this on."
-    Good old Meiko, addressing hundreds of people as this were just another day in homeroom.
-    MEIKO: "I hope you've all enjoyed today as much as I've enjoyed working with you all to set it up."
-    MEIKO: "To wrap up the festivities we'd originally planned to say a few words this year instead of our usual Mirako tradition. That's what's printed on your programs now. To that effect I'd - "
-    Something catches in her throat and for a moment I swear she's looking our way. Hikari beside me gives a little jump.
-    MEIKO: "I'd like to say..."
-    MEIKO: "That's much less interesting than fireworks."
-    MEIKO: "Here's to a wonderful year so far and many more to come. Enjoy the show."
-    Short and to the point. The crowd applauds, but I notice Meiko steps off the stage on the far side, rather than walking towards us.
-    I'm soon distracted, however, by a bursting noise back in the treeline, and then overhead... The fireworks.
-    An upbeat orchestral song starts playing over the speak system, but it's nothing to compete with the echoing blasts in the sky.
-    At first, the designs are simple. Concentric circles, showers of stars... The fizzing orange streamers that shoot off in all directions with a satisfying crackle. Then in time with drums on the background track, four stars go off, first in yellow, then white, then violet and blue.
-    It's impressive. Not so much because of the quality of the fireworks, but because of the intimacy. I can remember seeing a much bigger show at a Tanabata festival in Sendai, but that was for tens of thousands of people. This show is for Mirako only.
-    Four more star shaped bursts go up, all white this time, then another row of all yellow. With each boom, the mountains beyond Mirako are illuminated by the explosion in the sky. The echo isn't only from the school behind us, but from the whole valley.
-    Another firework goes off, this one in the shape of a diamond latticed with lingering bursts of red and white.
-    MANA: "Wow..."
-    NATSUMI: "I told you."
-    I have to admit. It's breathtaking.
-    TAKERU: "I can't believe they were going to cancel this..."
-    TAKERU: "Hikari, what do you - "
-    I turn, but...
-    TAKERU: "Hikari?"
-    KENTA: "Takeru, quiet down."
-    TAKERU: "Where'd she... Kenta, did you see..."
-    TAKERU: "Never mind."
-    KENTA: "Where are you going?"
-    TAKERU: "Be right back."
+    if meiko_route:
+        MANA: "That's great! Come on, everyone's probably waiting for us by now! Hagami, come on!"
+        Mana drags Hagami out the door faster than Hikari and I can respond. I guess Hikari's not the only one looking forward to the fireworks.
+        TAKERU: "Are you ready?"
+        HIKARI: "I wouldn't call it 'ready' but I'm not going to drag my feet. Sounds like there should be a good show tonight."
+        HIKARI: "And whatever happens, it's been quite the day. Let's go."
+    
+    if hikari_route or meiko_route:
+        Mirako is totally silent by now. Everyone is outside at the field, waiting for the closing ceremonies.
+        The secret about the fireworks might be out of the bag - the Fujiworks Pyrotechnics truck parked out front isn't exactly subtle. I doubt anyone would want to miss out if the rumors turn out to be true.
+        Even in the gym, the tables are deserted. It's the same along the path to the field.
     
     if hikari_route:
+        As we pass the shrine that Meiko set up, Hikari falls back to walk beside me.
+        HIKARI: "Takeru."
+        TAKERU: "Hikari... Hey."
+        TAKERU: "Have you been tailing me all day?"
+        HIKARI: "What else was I supposed to do? It looks like you had a decent day anyway."
+        TAKERU: "You know you didn't have to hide. You could've just actually wandered around with us like a normal person."
+        HIKARI: "It would've made you uncomfortable."
+        TAKERU: "No, er, I mean - "
+        HIKARI: "It doesn't matter."
+        HIKARI: "Takeru, honestly though..."
+        I gulp. I knew this question was coming but now I - 
+        HIKARI: "What is that?"
+        TAKERU: "Wait what?"
+        HIKARI: "On that table. Who stole my chess set? And the board, to boot."
+        TAKERU: "Oh. That's Meiko's doing. You know that's your shrine, right? Meiko spent all of yesterday setting it up. It probably seems a little weird, but - "
+        For a moment there's a panic in Hikari's eyes that I don't understand.
+        HIKARI: "Very thoughtful of her..."
+        TAKERU: "Er..."
+        TAKERU: "You are looking forward to the fireworks, right?"
+        HIKARI: "Of course."
+        TAKERU: "Meiko will be there. I know you say everyone's forgottn you, but she obviously hasn't. What do you think she'll - "
+        HIKARI: "I don't want to think about it. There's more on my mind."
+        TAKERU: "Right."
+        Probably it's the chance of imminent disappearance that's weighing her down. She has to know.
+        NATSUMI: "Hey! Takeru, Mana, over here! And hey, is that Hagami? Welcome back."
+        MANA: "Natsumi! Hello!"
+        NATSUMI: "Took you long enough."
+        KENTA: "The fireworks are about to start. You're very lucky, Takeru. Next time try to be more timely."
+        TAKERU: "Where's Meiko?"
+        Natsumi points to the stage as we all take our seats on the blanket.
+        Meiko is up at the microphone, that student council guy with the glasses trying to plug it in. It's truly night, now. The stage spotlights illuminate the platform, but the rest of the field is shadowed. It's a good thing I remembered where we were sitting.
+        NATSUMI: "The principal already spoke, so this is it. Then... Boom."
+        She pantomimes an explosion with her hands.
+        NATSUMI: "Takeru, Mana, you're new to the Mirako festival fireworks, so hold on to your seats. Aside from the baseball team, it's the best thing about this school. Get ready!"
+        Natsumi turns around when Meiko taps on the mic, and the sound reverberates around the field.
+        MEIKO: "Hello?"
+        MEIKO: "Ah. Thank you all for coming out to Mirako today. My name is Kotaru Meiko, member of the student council and head of the student festival organizing committee."
+        MEIKO: "To our visitors, we're glad to have you and hope you enjoyed what our school has to offer. To our students, thank you for working so hard to put this on."
+        Good old Meiko, addressing hundreds of people as this were just another day in homeroom.
+        MEIKO: "I hope you've all enjoyed today as much as I've enjoyed working with you all to set it up."
+        MEIKO: "To wrap up the festivities we'd originally planned to say a few words this year instead of our usual Mirako tradition. That's what's printed on your programs now. To that effect I'd - "
+        Something catches in her throat and for a moment I swear she's looking our way. Hikari beside me gives a little jump.
+        MEIKO: "I'd like to say..."
+        MEIKO: "That's much less interesting than fireworks."
+        MEIKO: "Here's to a wonderful year so far and many more to come. Enjoy the show."
+        Short and to the point. The crowd applauds, but I notice Meiko steps off the stage on the far side, rather than walking towards us.
+        I'm soon distracted, however, by a bursting noise back in the treeline, and then overhead... The fireworks.
+        An upbeat orchestral song starts playing over the speak system, but it's nothing to compete with the echoing blasts in the sky.
+        At first, the designs are simple. Concentric circles, showers of stars... The fizzing orange streamers that shoot off in all directions with a satisfying crackle. Then in time with drums on the background track, four stars go off, first in yellow, then white, then violet and blue.
+        It's impressive. Not so much because of the quality of the fireworks, but because of the intimacy. I can remember seeing a much bigger show at a Tanabata festival in Sendai, but that was for tens of thousands of people. This show is for Mirako only.
+        Four more star shaped bursts go up, all white this time, then another row of all yellow. With each boom, the mountains beyond Mirako are illuminated by the explosion in the sky. The echo isn't only from the school behind us, but from the whole valley.
+        Another firework goes off, this one in the shape of a diamond latticed with lingering bursts of red and white.
+        MANA: "Wow..."
+        NATSUMI: "I told you."
+        I have to admit. It's breathtaking.
+        TAKERU: "I can't believe they were going to cancel this..."
+        TAKERU: "Hikari, what do you - "
+        I turn, but...
+        TAKERU: "Hikari?"
+        KENTA: "Takeru, quiet down."
+        TAKERU: "Where'd she... Kenta, did you see..."
+        TAKERU: "Never mind."
+        KENTA: "Where are you going?"
+        TAKERU: "Be right back."
+    
         I wish I knew where I was going. The light from the fireworks occasionally lights my path, but the darkness is thick only a small ways from the stage.
         And more importantly, I don't where to go. I just need to find Hikari. There's no way she just went up in smoke like that, without a single word, ten seconds into something she'd looked forward to for a year.
         TAKERU: "Please let her have just run off again, please..."
@@ -2045,3 +2068,18 @@ label day15:
         It doesn't matter though. I'm still giddy. I know she's back.
         Hikari is back.
         There are second chances, and Hikari is back.
+    
+    if meiko_route:
+        <Meet up with Takeru and Kenta at the stage, Meiko's missing>
+        <Fireworks start, where the hell is she??>
+        <Go to shrine, light the sparkler, ~show your true feelings~>
+        <Hikari was watching of course, she says goodbye in a whisper "take care of Meiko~~~">
+        <cut to Natsumi hassling Takeru in the gym but Takeru's smug anyway>
+    
+    if hagami_route:
+        <Mana and Takeru split up to find Hagami>
+        <Run into Meiko maybe?>
+        <Find Hagami in the piano room, Moonlight Sonata as the fireworks go off, lovely>
+        <Mana shows up? Hikari shows up? Go look for Hikari? Meiko?? some transition scene>
+        <Takeru, Mana, Hagami, Meiko gather at the shrine, sparklers, Meiko looks away, Hikari goodbye>
+        <Spend the afterhours hanging with Hagami and Mana in the piano/library? w/Kenta?>
