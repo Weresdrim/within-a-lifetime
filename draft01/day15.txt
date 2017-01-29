@@ -565,7 +565,7 @@ label day15:
     if hagami_route:
         <Kenta goes back to relieve Natsumi, Mana and Takeru go to find Hagami>
         <Hagami is busy "practicing," get lost Takeru+Mana>
-        <Lunch with Mana (Kenta too if this is too boring) with some tidbits on Hagami's background>
+        <Lunch with Mana (Kenta too if this is boring) with some tidbits on Hagami's background>
         <Hagami decides to not be a shutin and finally shows up>
         <Do the festival rounds with her, write her into the contest endings>
         <Hagami writes in some obnoxious joke bids (false name? 999999 yen?) but Natsumi still wins>
@@ -1801,7 +1801,7 @@ label day15:
         In my amazement at Hagami, it had almost slipped my mind. Mana, Hagami, and Hikari file out of the piano room, but as I follow, a knot tightens in my stomach.
         
     if meiko_route:
-        MANA: "That's great! Come on, everyone's probably waiting for us by now! Hagami, come on!"
+        MANA: "Great! Everyone's probably waiting for us by now! Hagami, come on!"
         Mana drags Hagami out the door faster than Hikari and I can respond. I guess Hikari's not the only one looking forward to the fireworks.
         TAKERU: "Are you ready?"
         HIKARI: "I wouldn't call it 'ready' but I'm not going to drag my feet. Sounds like there should be a good show tonight."
@@ -2070,8 +2070,8 @@ label day15:
         There are second chances, and Hikari is back.
     
     if meiko_route:
-        <Meet up with Takeru and Kenta at the stage, Meiko's missing>
-        <Fireworks start, where the hell is she??>
+        
+        
         <Go to shrine, light the sparkler, ~show your true feelings~>
         <Hikari was watching of course, she says goodbye in a whisper "take care of Meiko~~~">
         <cut to Natsumi hassling Takeru in the gym but Takeru's smug anyway>
