@@ -1,6 +1,17 @@
 label d15_meiko:
 
-    <Fireworks start, where the hell is she??>
+    The field, though, is crowded. Every seat is filled with visitors from Mirako, and it looks like the entire student body is camped on the grass. We enter with the last stragglers as the principal takes the stage and starts delivering a speech.
+    MANA: "Where were we set up again?"
+    TAKERU: "Don't look at me, I was only there ten minutes. Look for Meiko or Kenta or someone."
+    HAGAMI: "There?"
+    TAKERU: "Good eyes."
+    TAKERU: "Hey! Natsumi!"
+    NATSUMI: "Yo, Kenta, they're back!"
+    NATSUMI: "Hey Takeru."
+    KENTA: "Quiet down, will you? The principal is speaking."
+    NATSUMI: "Who cares? Two minutes until the fireworks start!"
+    The whole place is buzzing, despite the principal droning on about Mirako values or something over the loudspeaker. None of the groups around us are paying any attention
+    
     <Go to shrine, light the sparkler, ~show your true feelings~>
     <Hikari was watching of course, she says goodbye in a whisper "take care of Meiko~~~">
     <cut to Natsumi hassling Takeru in the gym but Takeru's smug anyway>
