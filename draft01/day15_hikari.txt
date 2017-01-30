@@ -47,10 +47,10 @@ label d15_hikari:
     MEIKO: "Here's to a wonderful year so far and many more to come. Enjoy the show."
     Short and to the point. The crowd applauds, but I notice Meiko steps off the stage on the far side, rather than walking towards us.
     I'm soon distracted, however, by a bursting noise back in the treeline, and then overhead... The fireworks.
-    An upbeat orchestral song starts playing over the speak system, but it's nothing to compete with the echoing blasts in the sky.
+    An upbeat orchestral song starts playing over the speaker system, but it's nothing to compete with the echoing blasts in the sky.
     At first, the designs are simple. Concentric circles, showers of stars... The fizzing orange streamers that shoot off in all directions with a satisfying crackle. Then in time with drums on the background track, four stars go off, first in yellow, then white, then violet and blue.
     It's impressive. Not so much because of the quality of the fireworks, but because of the intimacy. I can remember seeing a much bigger show at a Tanabata festival in Sendai, but that was for tens of thousands of people. This show is for Mirako only.
-    Four more star shaped bursts go up, all white this time, then another row of all yellow. With each boom, the mountains beyond Mirako are illuminated by the explosion in the sky. The echo isn't only from the school behind us, but from the whole valley.
+    Four more star-shaped bursts go up, all white this time, then another row of all yellow. With each boom, the mountains beyond Mirako are illuminated by the explosion in the sky. The echo isn't only from the school behind us, but from the whole valley.
     Another firework goes off, this one in the shape of a diamond latticed with lingering bursts of red and white.
     MANA: "Wow..."
     NATSUMI: "I told you."
@@ -82,7 +82,7 @@ label d15_hikari:
     HIKARI: "You chased me all the way out here? Can't you take a hint?"
     TAKERU: "If you didn't want me wandering all over looking for you, you shouldn't have stuck around for the performance in the piano room."
     HIKARI: "I couldn't help it. Sorry. I got too attached so - "
-    She's interrupted when the sky turns white and there's more thundering in the sky above. I take the moment to clos the distance to the shrine, and thankfully, she doesn't run away. Instead, she has her hands on the blue-bound book with the visitors' messages.
+    She's interrupted when the sky turns white and there's more thundering in the sky above. I take the moment to close the distance to the shrine, and thankfully, she doesn't run away. Instead, she has her hands on the blue-bound book with the visitors' messages.
     TAKERU: "What are you doing out here?"
     HIKARI: "I know what's going to happen, Takeru. I overheard all of it, with you and Hagami."
     TAKERU: "I'm a coward. Saying to your face that you... That tonight you'd probably... Why'd it have to be you?"
