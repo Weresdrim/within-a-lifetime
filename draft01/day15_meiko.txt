@@ -139,7 +139,60 @@ label d15_meiko:
     Meiko watches next to me. My old friend Meiko. Well, more than a friend now. As up above the sky flashes blue, purple, red white, speed building, she squeezes my hand. Maybe it was a handshake now it's me clinging to her, her clinging to me.
     And with one last salvo, the orchestra stops. I realize there's nowhere I'd rather be than here.
     
-    
-    <Go to shrine, light the sparkler, ~show your true feelings~>
-    <Hikari was watching of course, she says goodbye in a whisper "take care of Meiko~~~">
-    <cut to Natsumi hassling Takeru in the gym but Takeru's smug anyway>
+    I'm not sure how much time passes. Without the fireworks, the night is still. And dark. The shrine candles are the only light and I can barely make out Meiko's face next to mine.
+    For some reason we look at each other at the same time. I don't know what kind of face I'm making but Meiko immediately steps away and laughs.
+    MEIKO: "You would never believe that was planned."
+    TAKERU: "Er... No."
+    Although I guess that's not what she wanted to hear. Meiko stares for a moment.
+    TAKERU: "I mean, it was very romantic."
+    MEIKO: "Ah don't worry about it..."
+    But she's not looking at me.
+    TAKERU: "Should we go find Natsumi and the rest? Everyone will probably start heading this way before too long anyway."
+    MEIKO: "Maybe. Give me a few minutes. I can't let tonight go without..."
+    Meiko pulls something out of her pocket. The shape is unidentifiable until she brings it towards the shrine candlelight.
+    TAKERU: "Is that... That's the other green knight. Where did you..."
+    I stop talking and take a few steps back. After placing the knight on the chessboard with the rest of pieces, Meiko closes her eyes and looks up into the now empty night. It's been quite the evening, so I should give her some time alone with Hikari.
+    No sooner do I think the name then there's a whisper in my ear.
+    HIKARI: "Hello again."
+    TAKERU: "Hikari, holy - "
+    HIKARI: "Keep your voice down."
+    TAKERU: "How long have you been standing there listening in? Did you seriously... What are you doing here?"
+    HIKARI: "I caught most of that. It was very sweet."
+    HIKARI: "Oh get over yourself and wipe off that brainless grin."
+    TAKERU: "Sorry."
+    HIKARI: "There's probably only a couple minutes left, so listen carefully..."
+    TAKERU: "Until what?"
+    HIKARI: "Look at me. Do you notice anything strange?"
+    I try to look at her, but the most I catch in the near-dark is the glint of her eyes and a flutter of white hair.
+    TAKERU: "Where are you even?"
+    HIKARI: "I'm letting go."
+    TAKERU: "What?"
+    HIKARI: "I've done what I could. Today was amazing, but even Meiko is letting go, right now. No regrets, Takeru. That's what it's about."
+    TAKERU: "But..."
+    HIKARI: "What I want to say is... Look out for her."
+    TAKERU: "I'm not in a position to look after anyone. Meiko's twice the person I could hope to - "
+    HIKARI: "I think it's related, my leaving here and your showing up. I wondered where that knight had gotten to... Really, she was carrying it all this time..."
+    HIKARI: "I didn't mean to get sentimental on you Takeru, but I'm trying to pass the mantle to you."
+    HIKARI: "While I was alive, maybe I left some things unfinished, and I never got the ending I wanted. Tonight I've wrapped up some of my loose ends, but I'm passing the rest on to you."
+    HIKARI: "You have a responsiblitiy now."
+    HIKARI: "Look out for yourself. Look out for Meiko. I wanted some rose-tinted grand purpose in my life, but I was willing to settle for the fireworks. Don't let that out of your sight. You've got to try for... something perfect."
+    TAKERU: "Hikari!"
+    I half-shout, half-whisper her name into the night, but I can't spot her anywhere now. All I can hear is the glimmer of her voice in my mind. When I realize it's pointless to try to spot her, I stand still and try to listen, but I feel each second tick by until I'm sure Hikari is gone.
+    TAKERU: "Hikari, I think I get it, but, you've got to hold on, just a second, I'm sure..."
+    HIKARI: "Don't give up. I'm sure I'll be seeing you one of these days, so when we meet again... Don't let me down."
+    In silence, something flickers out.
+    In my blindness, it takes me a few seconds to realize the candles at the shrine a few yard behind me are no longer lit, and the darkness is total enough I can hardly make out my hand in front of me.
+    I'm busy staring at my hand when I almost run into her.
+    TAKERU: "Meiko?"
+    MEIKO: "Thanks for waiting. Hikari and I were very close and all, so... I thought I'd tell her the good news, and maybe after all this time she can get some rest. I'm sorry if that seemed strange."
+    TAKERU: "I've heard of stranger..."
+    MEIKO: "You can be very cryptic when you want to be. Did you know that?"
+    TAKERU: "Er, you can just ignore me. It's been a long day."
+    MEIKO: "For me, too, although..."
+    The only light is what filters down from the now cloudy sky, but I can still catch the outline of her face as Meiko smiles and takes a step closer.
+    MEIKO: "I can't remember being this happy for a long time. Even a bittersweet happiness, I'll take that tonight."
+    TAKERU: "I..."
+    Although I'm terrified I'm sounding like an idiot, Hikari's words start coming out of my mouth.
+    TAKERU: "I'll look out for you."
+    MEIKO: "No."
+    MEIKO: "We'll look out for each other."
