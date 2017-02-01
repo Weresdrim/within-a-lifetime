@@ -222,8 +222,8 @@ label day15:
     TAKERU: "The way I see it, I've got multiple problems to deal with already, and I'm going to have you hounding me all day."
     NATSUMI: "Yep. It'll be the best kind of festival."
     TAKERU: "What, chaos?"
-    Natsumi laughs.
-    It looks Kenta and Mana are busy enough arguing with each other that I can actually talk to her properly.
+    Natsumi grins, but there's something evil in her smirk, like something from a movie villain.
+    It looks Kenta and Mana are busy enough arguing with each other that I can actually talk to her properly... if I dare.
     TAKERU: "I surprised you're here this early."
     NATSUMI: "I was trying to catch Meiko before she got sucked in some student council nonsense, but I haven't seen her yet. She wouldn't come late to her own festival."
     TAKERU: "Maybe she snuck around the back road or something."
@@ -343,7 +343,15 @@ label day15:
     TAKERU: "Got it, got it..."
     
     if hagami_route:
-        <same as hikari_route, but Takeru starts thinking about Hagami instead>
+        If I cared about time management as much as Kenta, this would seem like a miserable chore, but I'm pretty sure I could put this set of boards down now and move on with my day.
+        After a few minutes of watching elderly Mirako residents pass and ignore the auction, my arms start to ache. I'm not sure how I was supposed to time this without a clock. It seems like a waste of time anyway if this chair is already set.
+        Thankfully most of the people wandering the aisles ignore me. I don't want to have to sell them on the virtues of Kenta's handcrafted six-piece bedroom set.
+        TAKERU: "I'll get you for this, Kenta..."
+        Somewhere in the distance I hear Mana's voice, yelling at someone. My genius roommate, no doubt.
+        I start to wonder though... Where's Hagami? Mana is here, running around carefree as usual, but no sign of her best friend. Natsumi was worried about Meiko, so why isn't Mana looking for Hagami?
+        Then again... I survey the growing number of classmates, families, visitors, and other people, none of whom I recognize, that are steadily filling Mirako. Would Hagami really be happy here?
+        Maybe not. I hope she doesn't skip the festivities, though. Maybe it's selfish of me, but I was looking forward to seeing her today, not just her performance.
+        I'll have to ask Mana. I'm peering into the growing crowd looking for her, when I sense someone, something, behind me.
     
     if hikari_route
         I'm left alone to man the booth while Kenta and Natsumi haul the desk. Hopefully with all her hyperventilating Mana still remembers where to lead them.
@@ -361,15 +369,15 @@ label day15:
         I dust off my shoulder and stand up.
         NATSUMI: "Seriously though. Is everyone hiding today? You were even making fun of Mana for it."
         TAKERU: "No... I just didn't want to explain to the entire school what all the furniture's for. Because honestly I have no idea what inspired Kenta to make it in the first place."
-        NATSUMI: "Then make something up. You're supposed to be the salesman! I'm thinking maybe I should be the one manning the booth."
+        NATSUMI: "Then make something up. You're supposed to be the salesman! I'm thinking maybe I should man the booth."
         TAKERU: "Be my guest."
         NATSUMI: "Oh cheer up a bit. It's festival today, what're you in a mood for?"
         I'm not really sure, come to think of it. The gym's full of noise, laughter, and now the smell of the grill starting up outside... I guess I'd call it fun. It's just my mind's somewhere else.
         Hagami has her performance this afternoon. I haven't seen her yet.
         Who knows where Hikari is. "Speeches from the Student Council" is still printed in the program for the closing ceremonies, but I know there's fireworks in store, and then Hikari will...
         Something.
-        Maybe I just imagined all that Hagami said last night. Under the firworks, Hikari's memory will return. She won't... vanish?
-        NATSUMI: "This is Terran Base to Takeru. Alien fighters, three o'clock. Do you copy?"
+        Maybe I just imagined all that Hagami said last night. Under the fireworks, Hikari's memory will return. She won't... vanish?
+        NATSUMI: "This is Terran Base to Takeru. Martian fighters, three o'clock. Do you copy?"
         NATSUMI: "Takeru?"
         TAKERU: "Sorry, what?"
         NATSUMI: "You looked like you were having a war flashback there. Did you go to a terrible school festival as a kid?"
@@ -379,14 +387,14 @@ label day15:
         NATSUMI: "She was at the opening ceremony. Said she'd be free after lunch."
         NATSUMI: "If you see her though, you guys get right back here, okay? Drag her back if necessary. No having fun without me."
         TAKERU: "Got it."
-        NATSUMI: "Oh, and see if you can find Mana and Kenta. I left them unsupervised after we dropped off the desk, and uh, your friend Mana seems like she's more likely to injure herself than even Kenta."
+        NATSUMI: "Oh, and see if you can find Mana and Kenta. I left them unsupervised after we dropped off the desk, and uh, your friend Mana seems like she's could hurt herself at any moment. If she doesn't injure Kenta first, that is."
         TAKERU: "Kenta mostly just injures me..."
         TAKERU: "I'll try and find them. Where did they go?"
         NATSUMI: "They're still in the gym, I think. Kenta's got to find himself a new hobby, after all."
         TAKERU: "I'd better hurry up before Mana gets him hooked on voodoo. Thank goodness the supernatural club doesn't have anything set up."
         NATSUMI: "We have a supernatural club?"
         TAKERU: "You're not invited."
-        NATSUMI: "Fine, fine. See you later, Takeru, and try to enjoy yourself a little."
+        NATSUMI: "Fine, fine. See you later, Takeru, and try to enjoy yourself at least a little."
         
     if meiko_route:
         My hands start to strain somewhere around minute five. At least that's how long I think has past. My wrist is positioned at an awkward angle where I can't even check the time. I better start counting seconds in my head before Kenta throws a fit that I went half a minute over.
@@ -475,7 +483,7 @@ label day15:
         MEIKO: "See you later."
     
     Even with the loading dock open, the side door propped, and the windows all ajar, the gym is almost stuffy. Must be all the people here today.
-    It's almost hard to walk through all the aisles. There must be more visitors here than at a Tohoku home game. I guess Meiko and the others weren't exaggerating when they said the Mirako festival was famous.
+    It's hard to walk through all the aisles. There must be more visitors here than at a Tohoku home game. I thought Meiko and the others were exaggerating when they said the Mirako festival was famous, but it's packed.
     I say hello at a few whose names I barely know and try to take in the displays. Most clubs are here. The sports teams all seem to have fundraisers. And all along the far wall and spilling into the outdoors, individual students have booths set up.
     And food. The student council has that industrial grill set up, and more than a few student groups are cooking as well.
     Come to think of it, maybe it is unusual the supernatural club doesn't have anything set up. But Mana's also on the swim team, Hagami has her recital... And at Tohoku, I definitely never had to worry about funding the baseball team.
@@ -560,9 +568,39 @@ label day15:
     KENTA: "My apologies. You looked like a very boring person."
     MANA: "A boring person!? Are you kidding me? I'll have you know..."
     I rub my forehead as Mana and Kenta start at it again. I really can't tell if they're getting along or if they're mortal enemies.
-    Hopefully they're not mortal enemies because if they start their final showdown in the middle of the festival, I'm not stepping in.
+    Hopefully they're not mortal enemies, because if they start their final showdown in the middle of the festival, I'm not stepping in.
     
     if hagami_route:
+        KENTA: "I've decided you're not worth talking to. In fact, I believe you're quite tedious."
+        MANA: "Me? Tedious? You're the guy with a schedule in fifteen minute increments! You're the guy whose idea of a fun time is gluing some wood together! And you've got the gall to call me tedious? I swear I'll - "
+        Mana stamps her foot but Kenta just ignores her.
+        KENTA: "Excuse me, how long have you been carving figurines?"
+        HIKARI: "Me? Probably two years now. Although it might be closer to three, depending on your philosphies about the afterlife."
+        KENTA: "Hm... I'm generally twice as skilled as the average person, and with all due respect your work is decidedly amateurish, so I guess I'll be able to pick the skill up in six months. That seems reasonable."
+        MANA: "You! Hey! Kenta, you can't just ignore me!"
+        HIKARI: "...Maybe you could ignore me, next time."
+        TAKERU: "Give him a break, Mana. I know Kenta acts like an idiot but his heart's in the right place."
+        KENTA: "Thank you for your understanding, Takeru. Now if you'll excuse me, I was talking to this girl about a carving, a hobby that we'll soon share."
+        MANA: "You're insufferable!"
+        MANA: "And you're not much better, Takeru. You're really gonna take his side?"
+        TAKERU: "I'm on the side of peace and quiet. Come on, let's leave them be."
+        I gesture for Mana to follow me away from Hikari's booth, and she follows, but makes a point of scowling and crossing her arms at me.
+        Hikari shoots me a glare as well... She doesn't look too thrilled to be left with Kenta, but I get the feeling that if I don't seperate them, they'll engage in a duel to the death and I don't want either of their lives on my consceince.
+        MANA: "I don't know how you live with that guy, I swear..."
+        TAKERU: "It takes some getting used to, but I think he's just honest more than anything."
+        MANA: "I guess... He did say my cake looked good, even though I burnt it."
+        TAKERU: "See? He was honest."
+        MANA: "You didn't say anything about my cake, Takeru. Would you eat it?"
+        TAKERU: "..."
+        MANA: "Takeru!"
+        She punches me in the shoulder.
+        TAKERU: "Hey, I didn't say I wouldn't eat it!"
+        MANA: "It was implied! I'm sure Hagami would've at least told me it looked alright..."
+        TAKERU: "Where is she anyway?"
+        MANA: "Um, well..."
+        School festivals probably aren't her deal, but if she's performing, I would've assumed Hagami would've at least shown up by now.
+        
+    
         <Kenta goes back to relieve Natsumi, Mana and Takeru go to find Hagami>
         <Hagami is busy "practicing," get lost Takeru+Mana>
         <Lunch with Mana (Kenta too if this is boring) with some tidbits on Hagami's background>
@@ -1033,7 +1071,6 @@ label day15:
         NATSUMI: "I'm just pulling your leg, Takeru."
         NATSUMI: "I'm sure I'll be the one clearing out so you can get some privacy. Right? Right?"
         TAKERU: "I swear..."
-    end
 
     if meiko_route or hikari_route:
         We finally make it back to the gym.
