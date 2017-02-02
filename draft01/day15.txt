@@ -599,9 +599,78 @@ label day15:
         TAKERU: "Where is she anyway?"
         MANA: "Um, well..."
         School festivals probably aren't her deal, but if she's performing, I would've assumed Hagami would've at least shown up by now.
+        MANA: "She told me she didn't come last year..."
+        TAKERU: "Well she obviously has to come this year."
+        MANA: "She also told me not to wait up for her..."
+        TAKERU: "Then when is she coming?"
+        MANA: "I don't know. She didn't tell you?"
+        TAKERU: "Tell me? No. You're her best friend, right?"
+        MANA: "I guess..."
+        Mana has her lips pursed and looks uncharacteristically withdrawn.
+        MANA: "She said not to worry... I know she's alright though! I hope? Isn't she nervous?"
+        TAKERU: "We could just go find her, and say hello at least."
+        MANA: "Find her? She's probably back at - "
+        TAKERU: "No, I bet I know where she is."
+        If she's not in the piano room, then I don't know Hagami at all.
+        MANA: "Erm, well she did say yesterday she was fine, but..."
+        I know what she said to me yesterday, and she didn't sound happy.
+        TAKERU: "It's your call then. You've known her longer."
+        MANA: "Well... I know she always gets upset when I worry about her... And it's not hard to tell when she's lying because she thinks I'll get too upset about whatever she's dealing with..."
+        MANA: "I think we should - "
+        KENTA: "Good morning."
+        MANA: "Kenta! What are you butting in for? And it's not the morning any more anyway!"
+        KENTA: "Good afternoon, Mana."
+        KENTA: "Takeru, that friend of yours with the carving booth is a little strange. She seems to be quite discourteous and doesn't understand social norms."
+        MANA: "Social norms!? Takeru and I were having a private conversation here! Why don't you - "
+        TAKERU: "Hey Kenta, how long was that chair supposed to set? When I left Natsumi at your table, she said she was going to hold it for another half hour."
+        KENTA: "That's ridiculous. If she's going to be there that long, it would be more time efficient to find a clamp. That's very irresponsible of her, and you Takeru. I would've thought you could remember simple wood glue times."
+        TAKERU: "Sorry Kenta. It just slipped my mind."
+        KENTA: "I'll wait to see the finished product, but I could consider forgiving you."
+        TAKERU: "That's great. Natsumi's probably done by now though, right?"
+        KENTA: "Good point. I'll go check on her. Thanks, Takeru!"
+        Kenta nods at me and runs off. Mana is still red in the face though, and I have to grab her shoulder to prevent her from running after him.
+        MANA: "That guy's a menace! I've gotta go deal with him!"
+        TAKERU: "Let Natsumi deal with it. She deserves it for setting all this up... Man, she's annoyingly clever..."
+        MANA: "Setting what up?"
+        TAKERU: "Natsumi has some, er, weird ideas. Never mind, though. We should go find Hagami, right?"
+        MANA: "Yeah! I'd be a bad friend if I forgot about her. If she's here we'll have to make sure she gets lunch and everything!"
         
+        The school is sunny today. I guess I've never noticed between classes, when the halls are full of people, but the floor to ceiling glass windows do light the place up. I lead the way and Mana follows behind.
+        When we reach the old wing, the light becomes filtered and the chattering of the crowded gym dies away somewhat. Everything is muted down here.
+        We pass by the tea room, then on the right, the piano room comes into view. It's hard to tell if it's occupied, but if I know Hagami at all, she'll be hear, practicing. But... Then shouldn't I hear something right?
+        Mana doesn't seem to share my worry though. She brushes by me and slides open the door.
+        MANA: "Hagami?"
+        HAGAMI: "...?"
+        MANA: "I knew you'd be here!"
+        HAGAMI: "Mana... You... I didn't think..."
+        She's sitting at the piano stool, but even when we entered, she facing towards the door, not the piano.
+        HAGAMI: "Ah."
+        Hagami offers me a weak smile, and it's only then I realize we're probably intruding.
+        TAKERU: "Hey..."
+        HAGAMI: "Ah. You too..."
+        HAGAMI: "That makes more sense."
+        She finally stands up.
+        HAGAMI: "You were worried?"
+        TAKERU: "I'm sure you'll be fine, but, er..."
+        It's hard to know how much to say with Mana there. According to Hagami last night, she's not confident at all, but Mana is standing there smiling, as if nothing is in doubt.
+        I want to help Hagami, right? That's why I came here... But I'm not sure what I can do, really, without Mana catching wind that not everything is running smoothly.
+        TAKERU: "I'm glad you came, anyway."
+        HAGAMI: "I'm performing. How am I supposed to do that without coming to the festival?"
+        MANA: "You should've told me! I would've hung out here with you instead of with Takeru's weirdo friends. Did you know he's the roommate of that horrible guy in your class? Your old lab partner? I don't believe that guy! So today, I saw Takeru on the road, and Kenta was there, and..."
+        At least Mana has a knack for defusing any situation. I take a seat on an unused table as Mana tries to summarize Kenta's oddities in under five minutes. Of course, that's an impossible task.
+        The whole time, though, Hagami keeps looking my way. I'm trying to figure out if she understands why exactly I showed up, and maybe she's trying to puzzle the same thing out. I wish there was some other way to help.
+        HAGAMI: "I see..."
+        MANA: "You get it! It's ridiculous. Takeru sent him off but I'm sure Kenta will show up again today, so if you see him, you've got to give him a piece of your mind!"
+        HAGAMI: "I will, but..."
+        HAGAMI: "I'm staying here. Five hours."
+        MANA: "Five hours?"
+        HAGAMI: "Until I perform. I have to be ready."
+        MANA: "Oh. You'll do amazing Hagami! I know it! Back then, you were so amazing, and I'm sure everyone at Mirako will be thrilled!"
+        HAGAMI: "You're really looking forward to it that much?"
+        MANA: "Of course!"
+        HAGAMI: "Then..."
+        Hagami looks at me again, a wrinkle above her eyes. I think I get it. She really does want to practice, and more likely than not, we're in the way. I probably shouldn't have suggested we come down here.
     
-        <Kenta goes back to relieve Natsumi, Mana and Takeru go to find Hagami>
         <Hagami is busy "practicing," get lost Takeru+Mana>
         <Lunch with Mana (Kenta too if this is boring) with some tidbits on Hagami's background>
         <Hagami decides to not be a shutin and finally shows up>
