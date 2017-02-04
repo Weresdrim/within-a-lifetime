@@ -669,7 +669,21 @@ label day15:
         HAGAMI: "You're really looking forward to it that much?"
         MANA: "Of course!"
         HAGAMI: "Then..."
-        Hagami looks at me again, a wrinkle above her eyes. I think I get it. She really does want to practice, and more likely than not, we're in the way. I probably shouldn't have suggested we come down here.
+        Hagami looks at me again, a wrinkle above her eyes. I think I get it. She really does want to practice, and more likely than not, we're in the way. I probably shouldn't have suggested we come down here. It was selfish of me.
+        TAKERU: "Mana, let's go."
+        MANA: "Huh?"
+        TAKERU: "Hagami, we're looking forward to this afternoon. You'll be fine, right?"
+        Hagami narrows her eyes at me, then glances at Mana.
+        TAKERU: "See you later. But if you want to join us for lunch or something..."
+        No. Selfish. Let her practice and I can live with spending the festival without her.
+        TAKERU: "Never mind."
+        MANA: "I can't wait to hear you perform again! It's been so long! I'm glad you're all ready!"
+        HAGAMI: "Yeah..."
+        Her expression is blank but I think I know what she's thinking... Mana doesn't know the half of it.
+        TAKERU: "Bye."
+        I try to escort Mana out as fast as I can, before either girl really realizes my faux pax. What was I thinking? Interrupting Hagami? I knew she wouldn't want to be in the chaos of the festival, and Mana shouldn't see Hagami when she's in that sort of vulnerable state...
+        Maybe my digust at myself shows in my face, because not halfway down the corridor, Mana faces me.
+        MANA: "You're okay, Takeru?"
     
         <Hagami is busy "practicing," get lost Takeru+Mana>
         <Lunch with Mana (Kenta too if this is boring) with some tidbits on Hagami's background>
