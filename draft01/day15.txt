@@ -1271,14 +1271,69 @@ label day15:
         TAKERU: "They're not here?"
         NATSUMI: "Hey, like I said, it's not like it needs a guard. Who knows what they're getting up to?"
         Natsumi smirks, causing Hagami to raise an eyebrow.
-
+        MEIKO: "This all looks very professional, Natsumi."
+        TAKERU: "No way... That sign reeks of dubious. Custom-made furniture? I think he has to order these things in flatpacks or something. Kenta couldn't have made all this in a week, right?"
+        MEIKO: "Kenta can surprise you, Takeru."
+        TAKERU: "Oh trust me, he surprises me on a daily basis. Usually right in the morning."
+        I rub my forehead.
+        MEIKO: "Who we live with can be both a blessing and a curse."
+        TAKERU: "Definitely a curse."
+        HAGAMI: "Terrible..."
+        MEIKO: "Hagami, you know him?"
+        HAGAMI: "No, not..."
+        TAKERU: "They were lab partners."
+        NATSUMI: "Oh boy, I'm sure that was exciting."
+        TAKERU: "He's not so bad as a roommate, but as a lab partner... Yeah, I'm sorry."
+        Natsumi smiles, almost. Probably uncomfortable.
+        TAKERU: "So how are sales? Er, bids?"
+        NATSUMI: "Good question! Give me one second to check."
+        Natsumi crossed the distance to the auction tables starts lifting and shaking the shoeboxes one by one. I'm surprised when Hagami joins her, fiddling with the boxes and paper.
+        TAKERU: "That's a bad sign..."
+        MEIKO: "What? That Meiko's so into this auction? Humor her a little."
+        TAKERU: "No, that Hagami's interested."
+        MEIKO: "Oh?"
+        TAKERU: "Her sense of humor is terrible."
+        MEIKO: "Ah. How long have you known her?"
+        TAKERU: "Not too long. Er... As long as I've been at Mirako, actually. She's put up with a lot from me."
+        MEIKO: "Hm, then keep looking out for her."
+        TAKERU: "What?"
+        But Meiko just smiles. Before I can ask what she means, she turns away.
+        MEIKO: "Pardon, but I need to go check on a few items. I might be a bit, so let Natsumi know.
+        TAKERU: "Hang on, you're going where?"
+        MEIKO: "Be back later."
+        TAKERU: "What..."
+        I watch her slip behind a passing family and into the crowd.
+        NATSUMI: "I'm back. Good news is there looks like some good volume on the bids, but - "
+        NATSUMI: "Hey, Takeru, where's Meiko?"
+        TAKERU: "She said she had somewhere else to be and she just sort of... left."
+        NATSUMI: "Slacker! You let her escape? I thought you were more responsible than this."
+        TAKERU: "How's that my job?"
+        HAGAMI: "Over there."
+        Hagami bails me out. She's pointing towards the back door, where Meiko is holding it open for a few students. She then disappears outside.
+        NATSUMI: "Aha! I'll take point. Takeru, cover me."
+        TAKERU: "From what? Student council spies?"
+        NATSUMI: "That's ridiculous, quit joking around and help me chase her down."
+        HAGAMI: "Bye."
+        TAKERU: "Wait, Hagami, are you - "
+        HAGAMI: "I'll guard the booth."
+        Natsumi hauls me off before I can say anything, while Hagami just raises an eyebrow. Thanks for not helping, Hagami.
         
+        Once we're outside, it's not hard to track down Meiko. There are hardly any people out on this side of the building, just some empty tables, less popular displays, and... that shrine Kenta I saw yesterday.
+        Meiko's standing there now, in front of the open shrine doors. This is about the point where I'd turn around, but of course Natsumi walks up and taps her on the shoulder.
+        NATSUMI: "Thought you could escape so easily, eh?"
+        MEIKO: "Natsumi?"
+        NATSUMI: "Takeru would let you get away but I'm a bit harder."
+        NATSUMI: "...Did you have to get back to the student council or something?"
+        MEIKO: "Haha, oh, nothing like that."
+        Meiko laughs when Natsumi suddenly looks flustered.
+        MEIKO: "I just needed to drop off the book. I realize I forgot it this morning. I did say I would only be gone a second, didn't I?"
+        NATSUMI: "Takeru, you could've said that when we were still inside. Sorry, Meiko. My informant here left out the crucial details."
     
-    Meiko laughs off Natsumi's comment, but she still glances at me.
+    Meiko smiles at Natsumi's comment, but she still glances at me.
     NATSUMI: "What's the shrine?"
     MEIKO: "It's not much, but..."
     Meiko turns the table around to face the path. There's still no photo on Hikari's shrine, but now the pieces to her chess set are arranged on a wooden board. The knight is still missing.
-    While we watch, Meiko lights two candles, then opens a clipboard on the table. The cover is a mellow blue, and the pages completely empty.
+    While we watch, Meiko lights two candles, then opens a thin, hardcover book on the table. The cover is a mellow blue, and the pages completely empty.
     MEIKO: "You remember Hikari?"
     NATSUMI: "Well..."
     For the first time today, Natsumi looks something less than cheerful.
@@ -1291,11 +1346,14 @@ label day15:
     MEIKO: "I need to duck out before the finale tonight, remember though."
     NATSUMI: "But that means you're free now. Come on!"
     MEIKO: "Alright. Let's go."
-    NATSUMI: "I thought it'd be Takeru that'd be uncooperative, but turns out it was even harder to track you down."
-    MEIKO: "I keep my promises."
-    NATSUMI: "Good! Come on, let's head back to the displays. It's too quiet out here."
-    NATSUMI: "Today's looking up, eh Takeru? Two objectives complete. Meiko's been captured, and the firework show's a go. Shocking."
-    TAKERU: "Not that shocking... I already knew about the fireworks."
+    NATSUMI: "I thought it'd be Takeru that'd be uncooperative, but turns out it's even harder to keep an eye on you."
+    MEIKO: "I keep my promises, even if I don't have my day all planned in a schedule like Kenta."
+    NATSUMI: "Good! That'd be scary.
+    NATSUMI: "Are you set to come back in, Meiko? It's really quiet out here."
+    MEIKO: "All set."
+    She heads back down the path, while Natsumi and I walk behind.
+    NATSUMI: "Today's looking up, eh Takeru? Two objectives complete. Meiko's been captured, and the firework show's a go. Shocking we're able to get so much done when you're snoozing on the job."
+    TAKERU: "Come on, it's not that shocking... Besides I already knew about the fireworks."
     NATSUMI: "You jerk! And you didn't tell me?"
     MEIKO: "It's a secret, Natsumi."
     NATSUMI: "Secrets are for telling your friends, you dope."
@@ -1307,8 +1365,7 @@ label day15:
     MEIKO: "If you two want to find someplace private and - "
     NATSUMI: "A starless night, fireworks under the moon..."
     Meiko laughs when she sees the consternation on my face.
-    NATSUMI: "I'm just pulling your leg, Takeru."
-    NATSUMI: "I'm sure I'll be the one clearing out so you can get some privacy. Right? Right?"
+    NATSUMI: "Just make sure you find some privacy."
     TAKERU: "I swear..."
 
     if meiko_route or hikari_route:
@@ -1329,9 +1386,16 @@ label day15:
         MEIKO: "Haha. It's hard to believe, isn't it?"
         Natsumi returns.
     
+    if hagami_route:
+        We return to the gym, and I head straight for Kenta's table, and there's a few people gathered there, but no sign of Hagami. We couldn't have been gone more than fifteen minutes, right?
+        ...I definitely should've stayed behind. Would that have been overbearing? Oh well.
+        Still, I do spot two familiar faces in the jumble of people. That's Kenta. What's he waving his hands around for? I start walking faster. And is Mana brandishing... a chair leg?
+    
     if meiko_route:
         I notice more than a few students around the collection of furniture and shoeboxes. I didn't realize carpentry was so popular.
         Then I spot Kenta and Mana in the center of the tables. Kenta's waving his wands around at Mana, and Mana's brandishing... a chair leg?
+        
+    if meiko_route or hagami_route:
         TAKERU: "Kenta! Watch out!"
         MANA: "Takeru?"
         KENTA: "Takeru! Good afternoon. What do you think you're doing?"
@@ -1343,9 +1407,13 @@ label day15:
         MANA: "I was going to beat you with the chair leg!"
         KENTA: "You need to repair the chair. If sat in it and it broke, you need to fix it. That's just the way it works."
         MANA: "You were going to auction off a chair that breaks as soon as you sit down? Then what's the chair for!?"
+    
+    if meiko_route:
         KENTA: "My theory is that Takeru set the joint improperly."
         I look down at the jumble of wood at my feet. If this morning it was in six pieces, it's about double that now.
         TAKERU: "Er..."
+        
+    if meiko_route or hagami_route:
         NATSUMI: "Okay, clear out, clear out."
         Natsumi is pushing through the crowd of students, Meiko trailing behind.
         NATSUMI: "Come on, you didn't see anything. The product is perfectly fine. If you're not here to bid, see you later."
@@ -1355,6 +1423,8 @@ label day15:
         MANA: "Hey! I was gonna use that!"
         NATSUMI: "I promised Takeru no murders."
         KENTA: "I'm not angry. I just need my chair fixed, and it only makes sense that - "
+        
+    if meiko_route:
         NATSUMI: "Okay, you guys get out of here too. We'll meet back here in an hour. Go grab lunch or something while Meiko and Takeru and I fix this."
         KENTA: "I doubt Takeru has the skills required to - "
         TAKERU: "Meiko and I did it once this morning. Don't worry."
@@ -1366,6 +1436,27 @@ label day15:
         MANA: "Kenta! We're bringing Hagami her lunch!"
         KENTA: "Who?"
         NATSUMI: "Go on, hurry up!"
+    
+    if hagami_route:
+        While Natsumi seems to be enjoying the argument, I'm still looking around trying to spot Hagami. I know she's fine on her own, but... I feel like I let her down.
+        TAKERU: "Hey Mana..."
+        MANA: " - can't be so dishonest! Do you have any morals!"
+        KENTA: "If I'm not lying, it's obviously fine. Why does everyone have such a hard time understanding this? It's really quite - "
+        TAKERU: "Mana!"
+        MANA: "Oh, hey Takeru!"
+        TAKERU: "Was Hagami with you?"
+        MANA: "No."
+        TAKERU: "Huh..."
+        MEIKO: "She must've left when you came outside with me."
+        NATSUMI: "Okay, here's the strategy. You two, get lost."
+        MANA: "What? Me?"
+        KENTA: "That's a very rude way to - "
+        NATSUMI: "Hurry up, come on. Go figure out what happened to Hagami and we'll meet back here in a hour. Takeru and I will fix the chair."
+        KENTA: "You're not qualified for that."
+        NATSUMI: "Meiko will supervise."
+        MANA: "Good enough! Let's go, Kenta, now! We've got to find Hagami!"
+    
+    if meiko_route or hagami_route:
         Kenta and Mana scurry off, probably at least partially thanks to the chair leg that Natsumi now has over her shoulder like a baseball bat.
         NATSUMI: "Minor hiccup in the plan, but this will work."
         MEIKO: "If you say so. What do you have in mind, Natsumi?"
@@ -1379,15 +1470,19 @@ label day15:
         ...although I do wonder if the thing won't immediately fall apart again if someone tries to sit down.
         NATSUMI: "Phew. All set."
         We take a break. I elect to sit on the school-provided table instead of any of Kenta's.
+        
+    if meiko_route:
         MEIKO: "I do feel kind of bad about the chair. Takeru, that couldn't be our fault, could it?"
         TAKERU: "No way. Thirty seconds off the glue clock isn't going to cause the whole thing to fall apart."
         MEIKO: "I hope so..."
+        
+    if meiko_route or hagami_route:
         MEIKO: "Natsumi, what's step two?"
         NATSUMI: "Step two?"
         MEIKO: "You were talking about a new plan?"
         NATSUMI: "Oh, the new plan was to wing it. It's probably only ten or fifteen minutes before Kenta and Mana are back, so we might as well just wait here."
-        TAKERU: "Fine by me, I think my arms are about to fall off after holding that plank of wood for the third time today..."
-        NATSUMI: "Rest up, then. We need everyone in top shape for the fireworks tonight. Don't overwork yourself early."
+        TAKERU: "Fine by me, I think my arms are about to fall off after holding that plank of wood yet again..."
+        NATSUMI: "Rest up, then. We need everyone in top shape for the fireworks tonight. Don't push yourself too hard too early."
         TAKERU: "Natsumi, it's a fireworks show, not a baseball game."
         MEIKO: "But thanks for your coaching."
         NATSUMI: "It's a talent. Baseball and fireworks too."
@@ -1404,12 +1499,12 @@ label day15:
         TAKERU: "Is that a threat? Does that mean I'm cursed with you?"
         NATSUMI: "I'm pulling your leg. You're cursed with me either way."
         An couple with kindergarten-aged children stop by to look over the furniture as Natsumi talks, but they don't submit any bids. Natsumi glares at them at these leave.
-        MEIKO: "How has the auction been going?"
+        MEIKO: "Have any more bids come in?"
         NATSUMI: "Maybe I'd better check."
         She starts walking from shoebox to shoebox, shaking each one and scowling.
-        NATSUMI: "Well, it's decent. Almost full, but still..."
+        NATSUMI: "Well, it's decent. Almost full, but..."
         
-    NATSUMI: "Not as many bids as I'd like. Didn't you guys put one in?"
+    NATSUMI: "Still not as many bids as I'd like. Didn't you guys put one in?"
     MEIKO: "I'll see what I can do."
     TAKERU: "I'd literally pay to have that stuff not in my room."
     NATSUMI: "Put in a negative bid."
@@ -1421,6 +1516,7 @@ label day15:
     Meiko starts to examine the furniture when I hear a shout behind me.
     MANA: "Takeru! Natsumi! You've got to tell Kenta that - "
     KENTA: "Slow down. We're not supposed to be back here yet. I've already revised my schedule once today and I swear if you make me do it again I'll - "
+    
     MANA: "We ran into Yumi, and he started talking to Yumi about the cake, and I was so embarassed, and - "
     KENTA: " - I'm ten minutes behind, and need to find that girl with the carvings displayed. That could take almost twenty minutes, half an hour if you're not - "
     MANA: " - then he was talking about the desk, and how Takeru put frogs on it or something, and she - "
@@ -1466,7 +1562,20 @@ label day15:
     MEIKO: "Mana..."
     MANA: "Y-yes?"
     MEIKO: "I want you to think. Why were you on this errand with Kenta in the first place?"
-    MANA: "Well, um, Natsumi told to um, go and do something or other..."
+    
+    if hikari_route or meiko_route:
+        MANA: "Well, um, Natsumi told to um, go and do something or other..."
+    
+    if hagami_route:
+        MANA: "Hagami!"
+        TAKERU: "You caught up with her?"
+        MANA: "Oh, yeah, she was fine. She just had to go backstage to get ready for her performance. Ooh I wonder if she's going to change into a fancy dress or something! I can't wait!"
+        MEIKO: "So it sounds like this was actually a success."
+        MANA: "Yep! Hagami's ready to go for tonight!"
+        MEIKO: "Then what am I judging?"
+        NATSUMI: "Well you have to find someone guilty, Meiko. That's how it works."
+        MEIKO: "Ah, I understand."
+        
     MEIKO: "Natsumi, I find you guilty."
     NATSUMI: "What? What's that supposed to mean? Didn't you just say you're just a student council member, not some sort of Mirako special tribunal?"
     KENTA: "I would agree that Mana's been tolerable, but mostly it's been that other girl derailing my schedule."
@@ -1496,18 +1605,24 @@ label day15:
     MANA: "Hey! That's right! It's almost time for the swim team's drawing!"
     TAKERU: "Drawing?"
     MANA: "We're pulling names for the raffle prizes soon. We want to get it all out of the way before the afternoon program starts up!"
-    TAKERU: "That's all the performances and speeches, right?"
+    TAKERU: "That's all the performances and music, right?"
     MANA: "Yeah!"
     TAKERU: "Maybe we should finish the furniture auction before then too..."
     MANA: "That way everyone can come to Hagami's show! You should all come."
-    MEIKO: "Hagami... The one that submitted that strange time request..."
-    MEIKO: "I'll come."
-    NATSUMI: "Meiko could slip away at any moment so I'm not letting her out of my sight."
+    
+    if hikari_route or meiko_route:
+        MEIKO: "Hagami... The one that submitted that strange time request..."
+        MEIKO: "I'll come."
+        NATSUMI: "Meiko could slip away at any moment so I'm not letting her out of my sight."
+        
+    if hagami_route:
+        MEIKO: "Of course we'll be there."
+    
     MANA: "Come on and hurry up! If I'm not there for the drawing, Yumi will kill me!"
     KENTA: "Where are you dragging me? Let go of my arm. If you knew about this ahead of time, you should've let me know so I could put it on my schedule. This is unreasonable."
     NATSUMI: "Mana, lead the way. Quiet down, Kenta."
     
-    if hikari_route
+    if hikari_route or meiko_route:
         They charge off into the sea of people. I'm about to trudge after them when I feel a hand on my shoulder.
         MEIKO: "Takeru?"
         TAKERU: "Huh?"
@@ -1579,9 +1694,9 @@ label day15:
     TAKERU: "Kenta, I'll help you move the desk, plus I'll even go to the hobby store with you tomorrow to pick up whittling knives..."
     TAKERU: "Just no more dead animals."
     NATSUMI: "Come on, let's get back to Kenta's table. We don't have much time before the afternoon program starts up."
-    MANA: "Oh! That's right! Hagami's performing!"
+    MANA: "I can't wait for Hagami!"
     KENTA: "According to my schedule, I'll be leaving in about an hour to organize - "
-    MANA: "No you won't be! You've got to listen to Hagami's recital!"
+    MANA: "No you won't be! You've got to listen to the recital!"
     KENTA: "Who? What are you - "
     Mana snatches a sheet of paper out of Kenta's hands.
     KENTA: "What are you doing? That's my schedule! Get that marker away from it!"
@@ -1602,7 +1717,7 @@ label day15:
     Back at the pile of jumble of tables, cabinets, and chairs that mark Kenta's booth, there's nothing of the crowd that was around the swim team's drawing.
     TAKERU: "Where is everyone?"
     NATSUMI: "It's a silent auction. No need for everyone to show up while we go through the bids. We'll just post the results and people can check it out after the fireworks."
-    MEIKO: "Natsumi, you set this all up? I'm impressed."
+    MEIKO: "This is very well-planned, Natsumi."
     Natsumi is busy spelling out CLOSED on the back of the auction sign in block letters.
     NATSUMI: "You always underestimate me. I'm no lightweight. Now let me start sorting through all these..."
     She grabs the shoeboxes on top of all the items for sale and stacks them in the center of the room. She shakes the top one, producing a nice, full rattle.
