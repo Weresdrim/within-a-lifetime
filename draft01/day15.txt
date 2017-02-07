@@ -569,7 +569,433 @@ label day15:
     MANA: "A boring person!? Are you kidding me? I'll have you know..."
     I rub my forehead as Mana and Kenta start at it again. I really can't tell if they're getting along or if they're mortal enemies.
     Hopefully they're not mortal enemies, because if they start their final showdown in the middle of the festival, I'm not stepping in.
+        
+    if hikari_route:
+        Hikari watches alongside me.
+        HIKARI: "So she remembers what Hagami's told her, but doesn't remember meeting me at all."
+        HIKARI: "But Hagami doesn't forget."
+        TAKERU: "She's... odd."
+        HIKARI: "Takeru, do you really believe her?"
+        TAKERU: "About what?"
+        I try my best not to show anything on my face, but I'm startled.
+        Hagami hasn't told Hikari about her real suspicions, has she?
+        HIKARI: "We'll see the fireworks together, and it'll all come back."
+        TAKERU: "Hagami wouldn't lie."
+        HIKARI: "Would you?"
+        TAKERU: "Er..."
+        HIKARI: "You don't have to protect me, you know. I can handle it. I've been through a lot more than you and a lot worse than this."
+        HIKARI: "I can handle the truth."
+        TAKERU: "I..."
+        TAKERU: "Sorry, Hikari, my head hurts."
+        That's not a lie. I don't know what I'm supposed to do. Hagami initially told us all the lie about the fireworks restoring Hikari's memory when Mana was around, so as to not upset her.
+        Mana would overreact, probably break down in tears. Then she'd forget. Then she'd break down again.
+        But... Did Hagami ever really intend to hide that from Hikari? It seems cruel. Like lying to an animal before it's euthanized.
+        I shudder. But I can't break that kind of news to Hikari, here, now. Maybe I'm trying to protect myself more than her.
+        HIKARI: "How about we go for a walk? It's crowded in here."
+        TAKERU: "You're not worried about your table?"
+        HIKARI: "People steal my work all the time so it's not such a big deal. Anyway, everyone's doing it."
+        True, most of the display booths are unmanned. No one would want to man a table when there's so much else to do at the festival.
+        TAKERU: "Do you want to grab lunch then? I'm starving."
+        HIAKRI: "I can watch you eat your lunch, if that's what you're talking about."
+        TAKERU: "Right. Er... Is there someplace else you were thinking of?"
+        HIKARI: "Somewhere quiet."
+        We up inside, in the old wing. In my opinion, it's even stuffier in this dusty hallway than the gym, but I guess to Hikari this is what counts as comfortable.
+        For a while, Hikari doesn't speak. She's frowning even more heavily than usual.
+        HIKARI: "The fireworks aren't announced in the program, you know."
+        TAKERU: "Yeah. It's going to be a surprise. Meiko set up everything last minute."
+        HIKARI: "You're sure?"
+        TAKERU: "Meiko keeps her word."
+        TAKERU: "...You're actually looking forward to the fireworks show."
+        HIKARI: "Of course I am. Didn't I say that?"
+        TAKERU: "I guess. You've always been sort of... Er..."
+        TAKERU: "Abstract."
+        TAKERU: "It seems funny to me that you're actually enthusiastic about something like fireworks. When I haven't really seen you happy about anything except maybe beating me at chess."
+        HIKARI: "You don't think I'm a happy, cheerful, person?"
+        TAKERU: "Er, no, I mean - "
+        Hikari laughs.
+        HIKARI: "That's fine. I'm literally dead, it looks like. My chance at real happiness is shot, I admit. So I'll take whatever cheap thrill I can get at fireworks. Even if it's the last thing I do."
+        HIKARI: "I don't really fear death because that already happened, and I've already forgot most of the people I met and knew last year... So that doesn't scare me much any more."
+        HIKARI: "That's why I want to know. Even if there's nothing pleasant at the end of the tunnel, even if I'll just..."
+        She's giving me a strange look. Concentrating?
+        Then suddenly she breaks eye contact. Over my shoulder? There's a creak. A door opens behind us and I turn around.
+        HIKARI: "I'll see you."
+        TAKERU: "Hikari? Where are you..."
+        She's gone before I could even look at her.
+        Instead, I turn around to where Hagami is standing, looking at me from the entrance to the piano room.
+        HAGAMI: "Takeru?"
+        TAKERU: "Er, I was just..."
+        It's hard to say I was talking to Hikari when she can vanish on a dime. Maybe I shouldn't mention that Hikari ran away...
+        ...and knowing her she's probably eavesdropping somewhere.
+        HAGAMI: "I thought I heard voices."
+        TAKERU: "Just talking to myself , I guess."
+        TAKERU: "What are you doing down here? You know the festival's going on outside. Mana's been looking for you, too."
+        TAKERU: "You were practicing."
+        She doesn't answer. Then again, it wasn't a question.
+        HAGAMI: "Mana was worried?"
+        TAKERU: "Er, I'm not sure if she mentioned it, but I know I was. We haven't seen you all day and your performance isn't too far off."
+        HAGAMI: "...She knows I don't like the festival."
+        TAKERU: "You don't?"
+        HAGAMI: "It's loud. And... Lots of people."
+        Hagami grimaces.
+        TAKERU: "Oh. I guess that makes sense."
+        HAGAMI: "Although... Thank you for worrying about me."
+        TAKERU: "You look exhausted. Do you at least want to grab lunch or something?"
+        HAGAMI: "Not really..."
+        TAKERU: "Should I bring you something?"
+        HAGAMI: "That... would be inconvenient."
+        HAGAMI: "I'll come with you."
+        TAKERU: "Right."
+        
+        We walk upstairs. Hopefully Hikari ran off somewhere and isn't tailing us.
+        I start towards the gym, but when we get to the open double doors with the "Mirako High Student Cultural Festival" banner, she balks.
+        HIKARI: "They're serving outside... Aren't they?"
+        TAKERU: "Yeah."
+        We take a detour to the fields behind Mirako. There are a few stalls set up here, but the main attraction is the grill I remember dragging up here a few weeks ago. The student council is running the cookout.
+        There are still plenty of students milling around. Actually, it looks like mostly visitors out here. A few portable tables are set up, paper tableclothes billowing in the wind. The sound of chatter carries on the breeze.
+        I notice Hagami is still a distance behind me, hesitating.
+        If I think about it, I've only ever seen her outside the old wing of Mirako on a handful of occassions, and she's always seemed out of sorts, even then. Even Hikari seems to wander out more often.
+        Now, with a thousand strangers filling the field, Hagami probably isn't too comfortable.
+        TAKERU: "I'll grab food. Do you want to find a table?"
+        HAGAMI: "Alright."
+        She retreats off towards the gym entrance, at the far end of the field. Not too many people around there, I guess.
+        While wait in line to pick up our lunch, I try to keep an eye out for Meiko, but no luck. Is she busy dealing with the people from the fireworks company?
+        It sure looks like the whole rest of the student council is here. That bespectacled guy I always see at the meetings with Meiko serves me two skewers of beef off the grill and hands me my change.
+        Hagami has her back turned as I approach the table.
+        TAKERU: "Here you go."
+        HAGAMI: "Ah."
+        She accepts her food, but eats in silence.
+        Isn't there usually a book prop to break the silence? I suddenly miss Mana. Hopefully she hasn't killed Kenta yet.
+        Finally, Hagami looks up.
+        HAGAMI: "Were you talking to Hikari?"
+        TAKERU: "What? Back in the old wing?"
+        TAKERU: "...Yeah."
+        HAGAMI: "Have you told her?"
+        Her question is vague, but I immediately know what she means. No, no I haven't had the guts to tell Hikari that today is probably her last day on this earth."
+        TAKERU: "I couldn't do it. I don't know if I should."
+        TAKERU: "Er, this sounds weird, but Hikari's really nosy. She listens in on me all the time. If she followed us, she might - "
+        HAGAMI: "Doesn't matter."
+        HAGAMI: "You haven't told her?"
+        TAKERU: "No."
+        TAKERU: "I don't know if I should."
+        Hagami looks up.
+        HAGAMI: "I knew it."
+        TAKERU: "Knew what?"
+        HAGAMI: "You really care about her."
+        TAKERU: "I mean of course. She's the first person I met here. She... I don't trust anyone more than her. Of course I'm going to be upset if she forgets me, or disappears, or..."
+        HAGAMI: "Is she scared?"
+        TAKERU: "No."
+        HAGAMI: "Are you?"
+        TAKERU: "...Maybe."
+        She stares, with a soft, sad smile.
+        Finally, I have to look away.
+        TAKERU: "Hikari better not be listening."
+        TAKERU: "You think I should tell her then?"
+        HAGAMI: "It's up to you."
+        TAKERU: "In that opera you were talking about..."
+        TAKERU: "The heroine is the ghost, right?"
+        HAGAMI: "Giselle."
+        TAKERU: "And the hero is engaged to her."
+        HAGAMI: "Albrecht."
+        TAKERU: "Does he know Giselle will disappear?"
+        HAGAMI: "No."
+        TAKERU: "And does Giselle know?"
+        HAGAMI: "No."
+        HAGAMI: "...Maybe that way is more kind."
+        TAKERU: "You think?"
+        HAGAMI: "I should never have said what I did."
+        HAGAMI: "Sorry Takeru. I knew you... felt that way about Hikari but I've been terrible at keeping secrets, and..."
+        HAGAMI: "Goodbye. I think I'd better practice."
+        TAKERU: "Hagami! Hey, wait a second."
+        Hagami rises from her seat, lunch half finished.
+        HAGAMI: "You'll watch the recital?"
+        TAKERU: "For sure. But don't you want to - "
+        HAGAMI: "I'll see you then."
+        She takes a few steps backwards, biting her lip. The turns and sets off on the path back around the school.
+        I probably shouldn't follow.
+        Instead, I sit at the empty table and stare after her. What did she mean? She asked me yesterday to tell Hikari the news, but...
+        Why I am I just sitting here instead of trying to find Hikari? I know I'm the coward here. It's not indecision that has me paralyzed it's just... I don't want to believe Hagami.
+        Wherever she's got her information from, it's got to be wrong. It's just an opera, right? Fiction.
+        Something flickers in my peripheral vision. ...Or was that a someone?
+        Hikari?
+        Was she listening?
+        She's followed me around before to listen in...
+        No, couldn't have been her.
+        I stand up.
+        TAKERU: "Enough of this."
+        I'll find Hikari. I'll tell her what Hagami thinks. Definitely nothing will happen. We'll watch the fireworks together, and nothing will happen...
+        ...is what I want to think.
+        Actually I don't want to do much thinking at all at the moment. I stretch.
+        I need to find Natsumi, or Kenta, or someone. I can't sit here and argue with myself in my head forever. Instead I'll go find Kenta and argue about the price of whittling knives or something. Much better.
+        
+        I've only taken about three steps into the gym when I hear a voice.
+        NATSUMI: "Yo. Takeru!"
+        TAKERU: "Hey! What's up?"
+        Natsumi's waving and calling me over to Kenta's furniture display. One or two visitors are milling around, as well as Mana and Kenta. I join them.
+        NATSUMI: "We were putting together a battle plan."
+        KENTA: "You were the one putting together the plan. I don't see why we have to - "
+        MANA: "Shut up and let her explain!"
+        NATSUMI: "We have a team member that's MIA."
+        TAKERU: "MIA?"
+        KENTA: "Missing in action. It's a military term. It's usually used to refer to soldiers who've gone missing on the battlefield, so its use in this case is wholly inappropriate, and I don't think - "
+        MANA: "Pipe down!"
+        NATSUMI: "Meiko promised she'd be here, and it's passed lunch time, and I haven't seen her. I'll check inside the school. Mana and Kenta are searching the gym, and - "
+        KENTA: "How am I supposed to know her if I see her? I never agreed to this. Why don't you - "
+        NATSUMI: "And Takeru! Get yourself something to eat and check outside by the fields. If you find Meiko, report back here immediately."
+        TAKERU: "I just came from lunch. And who's going to wait here at the booth?"
+        NATSUMI: "That's no big deal."
+        KENTA: "No big deal? I fail to see how this isn't the largest deal. I've spent hours making this furniture, and putting it at risk to find your - "
+        MANA: "Finding Natsumi's friend is way more important than your dumb chairs!"
+        KENTA: "You're calling my furniture unintelligent? That's nonsensical. They're all made of wood so they can't be - "
+        MANA: "Come on! Shut up! Let's go!"
+        Mana trudges off towards the gym entrance, dragging Kenta by the wrist. Kenta, for his part, protests the whole way, gesticulating a piece of paper that I'm sure must be his schedule.
+        Once they're out of earshot, Natsumi immediately stops her military instructor impression and instead doubles over laughing.
+        NATSUMI: "Look at those two!"
+        TAKERU: "They apparently hate each other."
+        NATSUMI: "You're kind of thick, Takeru. They're obviously made for each other."
+        TAKERU: "I can't think of two people in the world that are more different. They bicker constantly."
+        NATSUMI: "Oh come one. It's really funny. And you and I argue all the time but that doesn't mean - "
+        TAKERU: "For one thing, we don't argue, really. I just yell at you when you do something obnoxious like try to trick me into joining your baseball team."
+        NATSUMI: "Fair enough."
+        TAKERU: "And second, no, we're not made for each other."
+        NATSUMI: "At least humor me a bit, Takeru. Come on."
+        TAKERU: "No."
+        NATSUMI: "Fiiine. At least come help me look for Meiko. I bet I know where she's holed up."
+        TAKERU: "Alright, I can do that."
+        NATSUMI: "Ha! Got you to compromise!"
+        TAKERU: "Yep, congratulations. Now where to?"
+        NATSUMI: "Just outside here. I can feel it."
+        TAKERU: "And you're just going to leave Kenta's booth?"
+        NATSUMI: "There's only an hour or two left on the silent auction anyway. We've got plenty of bids. Let's go."
+        She points towards the access door at the corner of the gym.
+        TAKERU: "Right. The shrine..."
+        NATSUMI: "Yeah. Are you coming or what?"
+        We walk through a few aisles of stands, student displays, and tables arrayed with posters and signs for Mirako clubs. Everyone waves at Natsumi. A guy from the literature club chats her up and passes a free copy of their magazine. I mostly try to look like I know what I'm doing.
+        We keep going. At this point, half the booths are emtpy. Everyone's wandering the gym, outside in the field catching a late lunch, or out by the entrance finding friends.
+        I have to admit, it's a warm atmosphere. Every person she greets, Natsumi has a huge smile on her face. I can see why. She tries introducing me to a student council member, and then to a senior on the baseball team, but I can hardly remember names. I just bow and say my hellos.
+        Finally, we work our way out of the gym and into the sunlight.
+        NATSUMI: "Now let's see..."
+        There are one or two student display booths out by this corner of the school. One looks to be the robotics club, with a poster and small RC vehicle set up on a table, the students long since left to hang out somewhere else. On the other side, a few feet away, is a shrine.
+        That's... Meiko's, right? To Hikari. I was here yesterday.
+        At first, it looks as empty as the rest of the tables, but then I spot movement behind it.
+        NATSUMI: "Meiko? Hey! Meiko!"
+        Meiko pops up from front of shrine.
+        MEIKO: "Hello."
+        NATSUMI: "Why's everyone hiding today? Seriously. I've been looking for you half the day."
+        MEIKO: "Sorry. I needed to put the finishing touches on the shrine before the afternoon program starts. And all morning I was meeting with the company for the - "
+        She looks at me. Fireworks, right? I guess Natsumi doesn't know about that yet.
+        MEIKO: "There's a surprise this evening I had to set up."
+        NATSUMI: "A surprise? I knew it."
+        Natsumi flips open the festival pamphlet.
+        NATSUMI: "Speeches from the student council, huh? No one would ever sit through something that boring. It's an obvious fake. This can only mean..."
+        NATSUMI: "Fireworks!"
+        Natsumi fistpumps.
+        MEIKO: "You have to keep it quiet."
+        NATSUMI: "I'll take it to the grave."
     
+    if meiko_route:
+        Hikari watches them run off.
+        HIKARI: "That's your roommate?"
+        TAKERU: "Yep."
+        HIKARI: "And that's your club president."
+        TAKERU: "Yep."
+        HIKARI: "Takeru, we have to talk."
+        TAKERU: "Natsumi's trying to get them to kill each other I think."
+        HIKARI: "You don't seem too concerned."
+        TAKERU: "Better than the alternative. Actually, can you make sure when they're back, you really sell Kenta on the whole carving thing? If Mana gets him hooked on voodoo or black magic or something..."
+        TAKERU: "Or ghost hunting..."
+        HIKARI: "Got it. We don't want anyone wandering around the school at night in cultist robes. Except for you, of course."
+        TAKERU: "Let's please just pretend that never happened."
+        HIKARI: "You may just get your wish. My brain is a sieve at this point."
+        TAKERU: "Sorry. I should've phrased that better."
+        HIKARI: "Everyone who comes to this table has the same reaction as Natsumi. They say they've seen this or that before, or sometimes they recognize my face. I remember some of them, sometimes."
+        HIKARI: "Never any names. Just, that one helped me to the nurse's office once, that one used to walk home with me... That sort of thing."
+        It sounds terrible, although Hikari doesn't seem too torn up about it. I think she's scanning the crowd.
+        HIKARI: "Oh, him. I think I met him on my first day here. Of course, he doesn't look twice at me."
+        TAKERU: "I know it must be painful. I - "
+        HIKARI: "It's not great, but hiding in plain sight suits me. I spent too long hiding in that dark room to realize no one would care if I just wandered around like my old self."
+        HIKARI: "I might as well enjoy it while it lasts."
+        TAKERU: "While... it lasts..."
+        There's no way she heard Hagami talking to me last night, right? She should think that tonight, at the fireworks, all her lost memories will come back, so...
+        HIKARI: "You look like a fly flew down your throat, Takeru."
+        TAKERU: "Er..."
+        No point hiding it. If Hagami couldn't break the news, it falls to me.
+        TAKERU: "This might be kind of important. Do you want to grab lunch?"
+        HIKARI: "I can't exactly eat, if you remember. But I'll go for a walk."
+        TAKERU: "Will your stand be okay?"
+        HIKARI: "I don't exactly need money, either. And people seem to think that being dead means they can just take my things as they please. Did you know someone stole my chess set again? If it was Mana..."
+        TAKERU: "Er... Maybe I should show you."
+        We weave through the aisle towards the back of the gym, pressing past the heavy traffic that seems everywhere. The festival must be in full swing.
+        There are posters and flags everywhere, advertising clubs, food, contests, art and more. Groups of Mirako students and families from town wander up and down, talking, waving, laughing.
+        I recognize the industrial grill I lugged up the hill two weeks ago. Through the open loading dock, that stern-faced guy with glasses from the student council is manning the spatula, but the smell is delicious.
+        We reach the back exit. The tables out here are mostly empty, and the closest people in sight are a few hundred feet away, waiting in line for an early lunch. The only object of note is the shrine, tucked just to the side of the path.
+        HIKARI: "That's my chess set all right. And I carved that board myself, too. What exactly is..."
+        I think she can probably tell.
+        The doors of the shrine are open, but no picture of Hikari anywhere to be found. There are, however, two lit candles, and a pale blue book titled "In Memoriam." Hikari flips it open. Looks like the idea is that visitors write their respects inside.
+        She immediately closes it. I catch a glimpse of a page of clear, bold handwriting that could only belong to Meiko.
+        HIKARI: "I get it."
+        HIKARI: "Takeru, who built this?"
+        She doesn't sound happy.
+        TAKERU: "Meiko. She brought the chess pieces out here because she wanted to include something you used to own."
+        HIKARI: "Used to own? I still own them. Really..."
+        She grits her teeth.
+        HIKARI: "At least someone remembers me. Meiko... Not that I remember anything but her name."
+        TAKERU: "Sorry."
+        HIKARI: "It's fine. I have you and Hagami and Mana to watch the fireworks tonight. I've sort of given up on remembering anything of who I was last year."
+        TAKERU: "Y-you know... But Hagami said..."
+        HIKARI: "Don't get all uptight, Takeru. You're terrible at hiding your emotions, seriously..."
+        HIKARI: "She only said that whole thing about the opera and the white lady and all that nonsense because Mana was there. She couldn't let down her friend. I honestly think if I evaporated in front of them, Mana would be more torn up about it than me."
+        HIKARI: "Did she make the whole opera story up out of thin air? Hagami's more inventive than I thought."
+        TAKERU: "It..."
+        Then Hikari doesn't know. She guessed that there's no miracle coming up with the fireworks tonight, but she doesn't know the whole truth of it.
+        TAKERU: "She sort of... bent the truth. After the fireworks, er..."
+        HIKARI: "What? Do I watch the fireworks and turn into the swan princess? I really do evaporate and terrify Mana?"
+        TAKERU: "..."
+        HIKARI: "Well."
+        Hikari looks lost for a moment, then gives a bitter laugh.
+        HIKARI: "You mean I really do evaporate?"
+        TAKERU: "That's what Hagami thinks. That's the way her opera ends, anyway... The heroine gives it one last hurrah, and that's it, she's gone."
+        TAKERU: "I think it's garbage. Hagami said it was only fiction anyway. You're a real person, not - "
+        HIKARI: "Ohh, she's right, she's right!"
+        Hikari grins.
+        HIKARI: "That fits. I bet you Hagami's theory is right."
+        TAKERU: "What are you talking about? You realize if she's right, this is something like your last day on earth!"
+        HIKARI: "Exactly. What was I missing my first go around? I remember I was happy here, and it looks like I had plenty of friends..."
+        She thumbs picks up the memorial book again and thumbs through the pages.
+        HIKARI: "...So all I was missing was the finale. By some cosmic mistake I'm still here, so I'm supposed to take the chance to finish strong. I'll watch the fireworks and take my bow."
+        TAKERU: "You can't just give up!"
+        I swallow hard. I guess the reality of it hadn't set in before. If this really is her last day, then, that makes now, with Hikari, possibly my last...
+        HIKARI: "Don't get weepy, Takeru. Save that for Mana."
+        TAKERU: "Sorry, I don't - "
+        HIKARI: "Maybe Hagami's totally off. We don't know for sure, but if she's right, then I'm prepared for the worst. That's all, Takeru."
+        HIKARI: "I told you last night I just want to make the best of it. I'm sick of lurking and hiding, and now even tailing people around is starting to lose its novelty."
+        TAKERU: "Hikari, please, you have to... If you feel that you're..."
+        HIKARI: "See you later."
+        TAKERU: "What?"
+        
+        I blinked and suddenly I'm looking in the wrong spot. Hikari was standing by the shrine, but now there's nobody there. Then where... I turn around but I don't find who I expect.
+        MEIKO: "Hello, Takeru."
+        TAKERU: "Meiko!"
+        MEIKO: "You sound surprised. I hope you're not upset to see me."
+        TAKERU: "Er, no nothing like that."
+        MEIKO: "I came to check on the shrine, but it looks like you've found it."
+        She looks at the blue book on the table, open to the middle where Hikari left it.
+        MEIKO: "...You didn't - "
+        TAKERU: "I wasn't looking through it, no."
+        I remember those full pages in the first pages. That's probably what Meiko's worried about. While I watch, she picks up the book and starts reading the entries.
+        MEIKO: "Even if you did..."
+        MEIKO: "I'd prefer if you didn't tell anyone what's in there. It's not really who I am any more... Although, I don't know why I'm fine with your knowing, really. It's hard to keep a secret from you, Takeru."
+        TAKERU: "Really?"
+        MEIKO: "You trust me, so I find it hard not to trust you."
+        MEIKO: "...You do trust me, don't you?"
+        TAKERU: "I... honestly don't know. I think."
+        She turns her head. I'm not sure how to read it at all. Is she hurt?"
+        TAKERU: "Right, like there. I don't know why you asked me that, and I don't know how you took my answer."
+        TAKERU: "I got the complete wrong idea about you, twice, and you managed to so thoroughly confuse me about it that I don't know what to think so now I'm just assuming you're being straight with me."
+        MEIKO: "I'm sorry. I didn't realize I was that untrustworthy."
+        TAKERU: "It's more like... If you were trying to fool me, there's no way I'd know, so I gave up trying to tell. Now I'm just honest. Like I'm sure I sound like an idiot right now and I know I'm rambling, but before I would've just said 'yes' or something and..."
+        Meiko laughs.
+        TAKERU: "You're extremely hard to understand."
+        MEIKO: "Really? I'm fairly ordinary. Good grades, class rep, student council. Most people understand me right away."
+        TAKERU: "Come on. And you're out here by this shrine because you can't stand your own festival."
+        She sighs.
+        MEIKO: "I'm glad there's at least someone that can see through me..."
+        TAKERU: "I really can't. I'd only guess because you told me."
+        MEIKO: "It's the same thing, is what I mean. I feel like I can tell you, and I don't know why."
+        MEIKO: "I'm not sure I really understand why you tolerate my hanging around either, but I'll trust you."
+        She pages the memorial book to the first page, where her own writing starts.
+        MEIKO: "Hikari was the probably the only other person that really saw, well, some part of me that was me and not just a perfect model student. I met her my first day here, when I knew almost know one else..."
+        MEIKO: "When I lost her it felt like every day I was on the verge of... reverting, having to start all over. So I turned into someone who could mourn a friend, move on, respect her, and have some dignity about it."
+        MEIKO: "I still miss her."
+        Meiko looks me in the eyes, but I can't tell what she's asking.
+        MEIKO: "You say you trust me, then..."
+        MEIKO: "How did you know her?"
+        ...It's an impossible question.
+        I could tell her I just saw Hikari less than ten minutes ago, and she ran away as soon as she saw Meiko. And then when I started talking about ghosts or spirits or dopplegangers or whatever Hikari is, then Meiko would think I'm well and truly crazy.
+        Yet here I am, in front of Hikari's shrine. I knew where her chess set was stashed. I knew she always wanted to see the fireworks. From Meiko's perspective, I'm sure it looks like I knew her.
+        TAKERU: "I didn't. I'm sure she a great person."
+        MEIKO: "Hm."
+        She puts the book down. There's no indication if she believes me.
+        MEIKO: "Have you eaten yet? We should find lunch before they're all out."
+        TAKERU: "I'm starving, actually. Sounds good."
+        
+        Instead of heading back inside, we walk around the back of the school, past the path to the fields, to where the grill is set up in the back. Students and townspeople pass in and out of the open loading dock to the gym, passing under another colorful festival banner.
+        Plastic tables are set up all around the area, some with piles of programs on them, others with student-made sculptures or art with tags underneath explaining the piece.
+        With food, we sit down at an empty table by the entrance. I try to surreptitiously survey the area for any sign of Hikari, but thankfully she seems to have gone somewhere else. I wonder... If Hikari showed up in front of Meiko, Meiko would certainly recognize her... Right?
+        MEIKO: "Are you alright? You look a bit spaced out."
+        TAKERU: "Oh. Sorry. Just, er, overwhelmed by the festival a bit is all."
+        MEIKO: "I know what you mean. I've been able to slip out so far but in a few hours I'll have to to help supervise the stage setup. No getting around that."
+        TAKERU: "How is Kenta's auction going?"
+        MEIKO: "There was decent business. Although everyone I know was asking what exactly I was doing there..."
+        MEIKO: "Natsumi's bizarre sign wasn't helping anything."
+        TAKERU: "Oh. Sorry, yeah, I forgot about that."
+        MEIKO: "It's fine. I left her in charge when I came out to find you."
+        TAKERU: "It sounds dangerous to put her in charge of a furniture auction, let alone a baseball team..."
+        MEIKO: "Let her goof around a bit. After the tournament this week, I think she could use just as much of a break as the rest of us. Try to humor her at least a little."
+        TAKERU: "She's going to be a terror if she gets wind of the fireworks..."
+        NATSUMI: "Hey!"
+        TAKERU: "Oh no."
+        NATSUMI: "Meiko! Takeru!"
+        She's waving and coming this way with a paper plate.
+        NATSUMI: "Who'd have thought I'd find you two out here? You don't mind if I crash, right?"
+        TAKERU: "Fine."
+        MEIKO: "Hello Natsumi. I've been hoping to see you all morning and it seems we keep missing each other."
+        NATSUMI: "Yeah, weird how that happens. I'm pretty sure I remember you promising to hang out with both me and Takeru, not just Takeru."
+        TAKERU: "You're really laying it on thick."
+        NATSUMI: "The festival's my favorite day of the year. It'll be yours soon too. And it's Meiko's favorite as well."
+        MEIKO: "I've been looking foward to this all year, and now I'm really enjoying myself. There's lots to take care of, of course, but it makes me proud to be a student here."
+        NATSUMI: "See Takeru? School pride."
+        TAKERU: "...Right."
+        I wonder if Natsumi has ever noticed if Meiko isn't completely straight with her. That was a lie, right? When Meiko said she'd been looking forward to the festival?
+        MEIKO: "How's Kenta?"
+        NATSUMI: "Oh, him? I left him with Mana to man the auction. I've got a plan, you see."
+        Natsumi arches her fingers.
+        NATSUMI: "One, I get to come out here and eat before the wait for lunch gets too long..."
+        MEIKO: "It looks like line's into the gym already."
+        NATSUMI: "Two, I get to hunt down you two, because Takeru I know you're avoiding me."
+        TAKERU: "Then quit stalking me."
+        NATSUMI: "And three, it means Kenta and Mana will now have to get lunch together when their shift is done."
+        TAKERU: "If they murder each other I'm holding you responsible."
+        NATSUMI: "Oh don't worry, that won't happen. Probably."
+        TAKERU: "Please don't plan anything ever again."
+        NATSUMI: "Hey Takeru, show a little gratitude. I'm the reason you're not gonna spend tonight moving Kenta's furniture into your tiny dorm room."
+        TAKERU: "Okay, I concede that point."
+        NATSUMI: "Good."
+        MEIKO: "Takeru and I can look after the booth so they can go eat."
+        NATSUMI: "It should be fine. The whole point of a silent auction is that there doesn't have to be someone standing there the whole time."
+        TAKERU: "...Then what exactly are Kenta and Mana doing there now?"
+        NATSUMI: "Who knows? They're only there because I told them to."
+        She cackles.
+        NATSUMI: "Maybe we should check up on them. Bets on which one snaps first?"
+        TAKERU: "Hey, I thought you said there was no murder in the cards."
+        NATSUMI: "I'm joking, I'm joking."
+        TAKERU: "Remind me never to cross you."
+        MEIKO: "Haha, Takeru, be glad you didn't try to skip out on Natsumi today."
+        TAKERU: "No kidding..."
+        NATSUMI: "Yeah. We've got a lot of ground to cover today. Meiko, how long to you have free before the student council sends a search and rescue team?"
+        MEIKO: "Well technically..."
+        Technically there's ten other places she should be than at this table with us.
+        MEIKO: "Hm... I need to duck out before the afternoon program starts up. The principal asked me to speak, so of course I couldn't turn him, down, and I need to talk with the company coming tonight for - "
+        MEIKO: "Um..."
+        Right, Meiko doesn't know that the fireworks are back on.
+        NATSUMI: "Coming tonight for...?"
+        MEIKO: "It's a surprise?"
+        NATSUMI: "Okay, when is this surprise? It wouldn't happen to be..."
+        She flips open the festival program to the last page.
+        NATSUMI: "Right here? During this thing? 'Speeches from the student council?'"
+        MEIKO: "You might be correct."
+        NATSUMI: "Knew it!"
+        Natsumi fist pumps.
+        TAKERU: "You knew what now?"
+        NATSUMI: "It's fireworks, you dope. They're surprise rescheduling them. Nobody in their right mind would schedule student speeches as the finale for the Mirako school festival. No offense, Meiko."
+        MEIKO: "None taken. I can't compete with fireworks."
+        NATSUMI: "Ha! She even admits it. How long were you gonna keep this a secret from me and Takeru, Meiko?"
+        TAKERU: "Hey, I already knew."
+        NATSUMI: "What? And you didn't tell me? Takeru, why do I bother with you at all?"
+        TAKERU: "Stop hitting me with the program. It's called a secret for a reason."
+        MEIKO: "Try not to spread that around please."
+        NATSUMI: "I'll take it to grave."
+        NATSUMI: "Man, this is going to be one hell of a show."
+
     if hagami_route:
         KENTA: "I've decided you're not worth talking to. In fact, I believe you're quite tedious."
         MANA: "Me? Tedious? You're the guy with a schedule in fifteen minute increments! You're the guy whose idea of a fun time is gluing some wood together! And you've got the gall to call me tedious? I swear I'll - "
@@ -845,481 +1271,45 @@ label day15:
         TAKERU: "They're not here?"
         NATSUMI: "Hey, like I said, it's not like it needs a guard. Who knows what they're getting up to?"
         Natsumi smirks, causing Hagami to raise an eyebrow.
-        MEIKO: "This all looks very professional, Takeru."
+
         
-    if hikari_route:
-        Hikari watches alongside me.
-        HIKARI: "So she remembers what Hagami's told her, but doesn't remember meeting me at all."
-        HIKARI: "But Hagami doesn't forget."
-        TAKERU: "She's... odd."
-        HIKARI: "Takeru, do you really believe her?"
-        TAKERU: "About what?"
-        I try my best not to show anything on my face, but I'm startled.
-        Hagami hasn't told Hikari about her real suspicions, has she?
-        HIKARI: "We'll see the fireworks together, and it'll all come back."
-        TAKERU: "Hagami wouldn't lie."
-        HIKARI: "Would you?"
-        TAKERU: "Er..."
-        HIKARI: "You don't have to protect me, you know. I can handle it. I've been through a lot more than you and a lot worse than this."
-        HIKARI: "I can handle the truth."
-        TAKERU: "I..."
-        TAKERU: "Sorry, Hikari, my head hurts."
-        That's not a lie. I don't know what I'm supposed to do. Hagami initially told us all the lie about the fireworks restoring Hikari's memory when Mana was around, so as to not upset her.
-        Mana would overreact, probably break down in tears. Then she'd forget. Then she'd break down again.
-        But... Did Hagami ever really intend to hide that from Hikari? It seems cruel. Like lying to an animal before it's euthanized.
-        I shudder. But I can't break that kind of news to Hikari, here, now. Maybe I'm trying to protect myself more than her.
-        HIKARI: "How about we go for a walk? It's crowded in here."
-        TAKERU: "You're not worried about your table?"
-        HIKARI: "People steal my work all the time so it's not such a big deal. Anyway, everyone's doing it."
-        True, most of the display booths are unmanned. No one would want to man a table when there's so much else to do at the festival.
-        TAKERU: "Do you want to grab lunch then? I'm starving."
-        HIAKRI: "I can watch you eat your lunch, if that's what you're talking about."
-        TAKERU: "Right. Er... Is there someplace else you were thinking of?"
-        HIKARI: "Somewhere quiet."
-        We up inside, in the old wing. In my opinion, it's even stuffier in this dusty hallway than the gym, but I guess to Hikari this is what counts as comfortable.
-        For a while, Hikari doesn't speak. She's frowning even more heavily than usual.
-        HIKARI: "The fireworks aren't announced in the program, you know."
-        TAKERU: "Yeah. It's going to be a surprise. Meiko set up everything last minute."
-        HIKARI: "You're sure?"
-        TAKERU: "Meiko keeps her word."
-        TAKERU: "...You're actually looking forward to the fireworks show."
-        HIKARI: "Of course I am. Didn't I say that?"
-        TAKERU: "I guess. You've always been sort of... Er..."
-        TAKERU: "Abstract."
-        TAKERU: "It seems funny to me that you're actually enthusiastic about something like fireworks. When I haven't really seen you happy about anything except maybe beating me at chess."
-        HIKARI: "You don't think I'm a happy, cheerful, person?"
-        TAKERU: "Er, no, I mean - "
-        Hikari laughs.
-        HIKARI: "That's fine. I'm literally dead, it looks like. My chance at real happiness is shot, I admit. So I'll take whatever cheap thrill I can get at fireworks. Even if it's the last thing I do."
-        HIKARI: "I don't really fear death because that already happened, and I've already forgot most of the people I met and knew last year... So that doesn't scare me much any more."
-        HIKARI: "That's why I want to know. Even if there's nothing pleasant at the end of the tunnel, even if I'll just..."
-        She's giving me a strange look. Concentrating?
-        Then suddenly she breaks eye contact. Over my shoulder? There's a creak. A door opens behind us and I turn around.
-        HIKARI: "I'll see you."
-        TAKERU: "Hikari? Where are you..."
-        She's gone before I could even look at her.
-        Instead, I turn around to where Hagami is standing, looking at me from the entrance to the piano room.
-        HAGAMI: "Takeru?"
-        TAKERU: "Er, I was just..."
-        It's hard to say I was talking to Hikari when she can vanish on a dime. Maybe I shouldn't mention that Hikari ran away...
-        ...and knowing her she's probably eavesdropping somewhere.
-        HAGAMI: "I thought I heard voices."
-        TAKERU: "Just talking to myself , I guess."
-        TAKERU: "What are you doing down here? You know the festival's going on outside. Mana's been looking for you, too."
-        TAKERU: "You were practicing."
-        She doesn't answer. Then again, it wasn't a question.
-        HAGAMI: "Mana was worried?"
-        TAKERU: "Er, I'm not sure if she mentioned it, but I know I was. We haven't seen you all day and your performance isn't too far off."
-        HAGAMI: "...She knows I don't like the festival."
-        TAKERU: "You don't?"
-        HAGAMI: "It's loud. And... Lots of people."
-        Hagami grimaces.
-        TAKERU: "Oh. I guess that makes sense."
-        HAGAMI: "Although... Thank you for worrying about me."
-        TAKERU: "You look exhausted. Do you at least want to grab lunch or something?"
-        HAGAMI: "Not really..."
-        TAKERU: "Should I bring you something?"
-        HAGAMI: "That... would be inconvenient."
-        HAGAMI: "I'll come with you."
-        TAKERU: "Right."
-        
-        We walk upstairs. Hopefully Hikari ran off somewhere and isn't tailing us.
-        I start towards the gym, but when we get to the open double doors with the "Mirako High Student Cultural Festival" banner, she balks.
-        HIKARI: "They're serving outside... Aren't they?"
-        TAKERU: "Yeah."
-        We take a detour to the fields behind Mirako. There are a few stalls set up here, but the main attraction is the grill I remember dragging up here a few weeks ago. The student council is running the cookout.
-        There are still plenty of students milling around. Actually, it looks like mostly visitors out here. A few portable tables are set up, paper tableclothes billowing in the wind. The sound of chatter carries on the breeze.
-        I notice Hagami is still a distance behind me, hesitating.
-        If I think about it, I've only ever seen her outside the old wing of Mirako on a handful of occassions, and she's always seemed out of sorts, even then. Even Hikari seems to wander out more often.
-        Now, with a thousand strangers filling the field, Hagami probably isn't too comfortable.
-        TAKERU: "I'll grab food. Do you want to find a table?"
-        HAGAMI: "Alright."
-        She retreats off towards the gym entrance, at the far end of the field. Not too many people around there, I guess.
-        While wait in line to pick up our lunch, I try to keep an eye out for Meiko, but no luck. Is she busy dealing with the people from the fireworks company?
-        It sure looks like the whole rest of the student council is here. That bespectacled guy I always see at the meetings with Meiko serves me two skewers of beef off the grill and hands me my change.
-        Hagami has her back turned as I approach the table.
-        TAKERU: "Here you go."
-        HAGAMI: "Ah."
-        She accepts her food, but eats in silence.
-        Isn't there usually a book prop to break the silence? I suddenly miss Mana. Hopefully she hasn't killed Kenta yet.
-        Finally, Hagami looks up.
-        HAGAMI: "Were you talking to Hikari?"
-        TAKERU: "What? Back in the old wing?"
-        TAKERU: "...Yeah."
-        HAGAMI: "Have you told her?"
-        Her question is vague, but I immediately know what she means. No, no I haven't had the guts to tell Hikari that today is probably her last day on this earth."
-        TAKERU: "I couldn't do it. I don't know if I should."
-        TAKERU: "Er, this sounds weird, but Hikari's really nosy. She listens in on me all the time. If she followed us, she might - "
-        HAGAMI: "Doesn't matter."
-        HAGAMI: "You haven't told her?"
-        TAKERU: "No."
-        TAKERU: "I don't know if I should."
-        Hagami looks up.
-        HAGAMI: "I knew it."
-        TAKERU: "Knew what?"
-        HAGAMI: "You really care about her."
-        TAKERU: "I mean of course. She's the first person I met here. She... I don't trust anyone more than her. Of course I'm going to be upset if she forgets me, or disappears, or..."
-        HAGAMI: "Is she scared?"
-        TAKERU: "No."
-        HAGAMI: "Are you?"
-        TAKERU: "...Maybe."
-        She stares, with a soft, sad smile.
-        Finally, I have to look away.
-        TAKERU: "Hikari better not be listening."
-        TAKERU: "You think I should tell her then?"
-        HAGAMI: "It's up to you."
-        TAKERU: "In that opera you were talking about..."
-        TAKERU: "The heroine is the ghost, right?"
-        HAGAMI: "Giselle."
-        TAKERU: "And the hero is engaged to her."
-        HAGAMI: "Albrecht."
-        TAKERU: "Does he know Giselle will disappear?"
-        HAGAMI: "No."
-        TAKERU: "And does Giselle know?"
-        HAGAMI: "No."
-        HAGAMI: "...Maybe that way is more kind."
-        TAKERU: "You think?"
-        HAGAMI: "I should never have said what I did."
-        HAGAMI: "Sorry Takeru. I knew you... felt that way about Hikari but I've been terrible at keeping secrets, and..."
-        HAGAMI: "Goodbye. I think I'd better practice."
-        TAKERU: "Hagami! Hey, wait a second."
-        Hagami rises from her seat, lunch half finished.
-        HAGAMI: "You'll watch the recital?"
-        TAKERU: "For sure. But don't you want to - "
-        HAGAMI: "I'll see you then."
-        She takes a few steps backwards, biting her lip. The turns and sets off on the path back around the school.
-        I probably shouldn't follow.
-        Instead, I sit at the empty table and stare after her. What did she mean? She asked me yesterday to tell Hikari the news, but...
-        Why I am I just sitting here instead of trying to find Hikari? I know I'm the coward here. It's not indecision that has me paralyzed it's just... I don't want to believe Hagami.
-        Wherever she's got her information from, it's got to be wrong. It's just an opera, right? Fiction.
-        Something flickers in my peripheral vision. ...Or was that a someone?
-        Hikari?
-        Was she listening?
-        She's followed me around before to listen in...
-        No, couldn't have been her.
-        I stand up.
-        TAKERU: "Enough of this."
-        I'll find Hikari. I'll tell her what Hagami thinks. Definitely nothing will happen. We'll watch the fireworks together, and nothing will happen...
-        ...is what I want to think.
-        Actually I don't want to do much thinking at all at the moment. I stretch.
-        I need to find Natsumi, or Kenta, or someone. I can't sit here and argue with myself in my head forever. Instead I'll go find Kenta and argue about the price of whittling knives or something. Much better.
     
-    if meiko_route:
-        Hikari watches them run off.
-        HIKARI: "That's your roommate?"
-        TAKERU: "Yep."
-        HIKARI: "And that's your club president."
-        TAKERU: "Yep."
-        HIKARI: "Takeru, we have to talk."
-        TAKERU: "Natsumi's trying to get them to kill each other I think."
-        HIKARI: "You don't seem too concerned."
-        TAKERU: "Better than the alternative. Actually, can you make sure when they're back, you really sell Kenta on the whole carving thing? If Mana gets him hooked on voodoo or black magic or something..."
-        TAKERU: "Or ghost hunting..."
-        HIKARI: "Got it. We don't want anyone wandering around the school at night in cultist robes. Except for you, of course."
-        TAKERU: "Let's please just pretend that never happened."
-        HIKARI: "You may just get your wish. My brain is a sieve at this point."
-        TAKERU: "Sorry. I should've phrased that better."
-        HIKARI: "Everyone who comes to this table has the same reaction as Natsumi. They say they've seen this or that before, or sometimes they recognize my face. I remember some of them, sometimes."
-        HIKARI: "Never any names. Just, that one helped me to the nurse's office once, that one used to walk home with me... That sort of thing."
-        It sounds terrible, although Hikari doesn't seem too torn up about it. I think she's scanning the crowd.
-        HIKARI: "Oh, him. I think I met him on my first day here. Of course, he doesn't look twice at me."
-        TAKERU: "I know it must be painful. I - "
-        HIKARI: "It's not great, but hiding in plain sight suits me. I spent too long hiding in that dark room to realize no one would care if I just wandered around like my old self."
-        HIKARI: "I might as well enjoy it while it lasts."
-        TAKERU: "While... it lasts..."
-        There's no way she heard Hagami talking to me last night, right? She should think that tonight, at the fireworks, all her lost memories will come back, so...
-        HIKARI: "You look like a fly flew down your throat, Takeru."
-        TAKERU: "Er..."
-        No point hiding it. If Hagami couldn't break the news, it falls to me.
-        TAKERU: "This might be kind of important. Do you want to grab lunch?"
-        HIKARI: "I can't exactly eat, if you remember. But I'll go for a walk."
-        TAKERU: "Will your stand be okay?"
-        HIKARI: "I don't exactly need money, either. And people seem to think that being dead means they can just take my things as they please. Did you know someone stole my chess set again? If it was Mana..."
-        TAKERU: "Er... Maybe I should show you."
-        We weave through the aisle towards the back of the gym, pressing past the heavy traffic that seems everywhere. The festival must be in full swing.
-        There are posters and flags everywhere, advertising clubs, food, contests, art and more. Groups of Mirako students and families from town wander up and down, talking, waving, laughing.
-        I recognize the industrial grill I lugged up the hill two weeks ago. Through the open loading dock, that stern-faced guy with glasses from the student council is manning the spatula, but the smell is delicious.
-        We reach the back exit. The tables out here are mostly empty, and the closest people in sight are a few hundred feet away, waiting in line for an early lunch. The only object of note is the shrine, tucked just to the side of the path.
-        HIKARI: "That's my chess set all right. And I carved that board myself, too. What exactly is..."
-        I think she can probably tell.
-        The doors of the shrine are open, but no picture of Hikari anywhere to be found. There are, however, two lit candles, and a pale blue book titled "In Memoriam." Hikari flips it open. Looks like the idea is that visitors write their respects inside.
-        She immediately closes it. I catch a glimpse of a page of clear, bold handwriting that could only belong to Meiko.
-        HIKARI: "I get it."
-        HIKARI: "Takeru, who built this?"
-        She doesn't sound happy.
-        TAKERU: "Meiko. She brought the chess pieces out here because she wanted to include something you used to own."
-        HIKARI: "Used to own? I still own them. Really..."
-        She grits her teeth.
-        HIKARI: "At least someone remembers me. Meiko... Not that I remember anything but her name."
-        TAKERU: "Sorry."
-        HIKARI: "It's fine. I have you and Hagami and Mana to watch the fireworks tonight. I've sort of given up on remembering anything of who I was last year."
-        TAKERU: "Y-you know... But Hagami said..."
-        HIKARI: "Don't get all uptight, Takeru. You're terrible at hiding your emotions, seriously..."
-        HIKARI: "She only said that whole thing about the opera and the white lady and all that nonsense because Mana was there. She couldn't let down her friend. I honestly think if I evaporated in front of them, Mana would be more torn up about it than me."
-        HIKARI: "Did she make the whole opera story up out of thin air? Hagami's more inventive than I thought."
-        TAKERU: "It..."
-        Then Hikari doesn't know. She guessed that there's no miracle coming up with the fireworks tonight, but she doesn't know the whole truth of it.
-        TAKERU: "She sort of... bent the truth. After the fireworks, er..."
-        HIKARI: "What? Do I watch the fireworks and turn into the swan princess? I really do evaporate and terrify Mana?"
-        TAKERU: "..."
-        HIKARI: "Well."
-        Hikari looks lost for a moment, then gives a bitter laugh.
-        HIKARI: "You mean I really do evaporate?"
-        TAKERU: "That's what Hagami thinks. That's the way her opera ends, anyway... The heroine gives it one last hurrah, and that's it, she's gone."
-        TAKERU: "I think it's garbage. Hagami said it was only fiction anyway. You're a real person, not - "
-        HIKARI: "Ohh, she's right, she's right!"
-        Hikari grins.
-        HIKARI: "That fits. I bet you Hagami's theory is right."
-        TAKERU: "What are you talking about? You realize if she's right, this is something like your last day on earth!"
-        HIKARI: "Exactly. What was I missing my first go around? I remember I was happy here, and it looks like I had plenty of friends..."
-        She thumbs picks up the memorial book again and thumbs through the pages.
-        HIKARI: "...So all I was missing was the finale. By some cosmic mistake I'm still here, so I'm supposed to take the chance to finish strong. I'll watch the fireworks and take my bow."
-        TAKERU: "You can't just give up!"
-        I swallow hard. I guess the reality of it hadn't set in before. If this really is her last day, then, that makes now, with Hikari, possibly my last...
-        HIKARI: "Don't get weepy, Takeru. Save that for Mana."
-        TAKERU: "Sorry, I don't - "
-        HIKARI: "Maybe Hagami's totally off. We don't know for sure, but if she's right, then I'm prepared for the worst. That's all, Takeru."
-        HIKARI: "I told you last night I just want to make the best of it. I'm sick of lurking and hiding, and now even tailing people around is starting to lose its novelty."
-        TAKERU: "Hikari, please, you have to... If you feel that you're..."
-        HIKARI: "See you later."
-        TAKERU: "What?"
-        
-        I blinked and suddenly I'm looking in the wrong spot. Hikari was standing by the shrine, but now there's nobody there. Then where... I turn around but I don't find who I expect.
-        MEIKO: "Hello, Takeru."
-        TAKERU: "Meiko!"
-        MEIKO: "You sound surprised. I hope you're not upset to see me."
-        TAKERU: "Er, no nothing like that."
-        MEIKO: "I came to check on the shrine, but it looks like you've found it."
-        She looks at the blue book on the table, open to the middle where Hikari left it.
-        MEIKO: "...You didn't - "
-        TAKERU: "I wasn't looking through it, no."
-        I remember those full pages in the first pages. That's probably what Meiko's worried about. While I watch, she picks up the book and starts reading the entries.
-        MEIKO: "Even if you did..."
-        MEIKO: "I'd prefer if you didn't tell anyone what's in there. It's not really who I am any more... Although, I don't know why I'm fine with your knowing, really. It's hard to keep a secret from you, Takeru."
-        TAKERU: "Really?"
-        MEIKO: "You trust me, so I find it hard not to trust you."
-        MEIKO: "...You do trust me, don't you?"
-        TAKERU: "I... honestly don't know. I think."
-        She turns her head. I'm not sure how to read it at all. Is she hurt?"
-        TAKERU: "Right, like there. I don't know why you asked me that, and I don't know how you took my answer."
-        TAKERU: "I got the complete wrong idea about you, twice, and you managed to so thoroughly confuse me about it that I don't know what to think so now I'm just assuming you're being straight with me."
-        MEIKO: "I'm sorry. I didn't realize I was that untrustworthy."
-        TAKERU: "It's more like... If you were trying to fool me, there's no way I'd know, so I gave up trying to tell. Now I'm just honest. Like I'm sure I sound like an idiot right now and I know I'm rambling, but before I would've just said 'yes' or something and..."
-        Meiko laughs.
-        TAKERU: "You're extremely hard to understand."
-        MEIKO: "Really? I'm fairly ordinary. Good grades, class rep, student council. Most people understand me right away."
-        TAKERU: "Come on. And you're out here by this shrine because you can't stand your own festival."
-        She sighs.
-        MEIKO: "I'm glad there's at least someone that can see through me..."
-        TAKERU: "I really can't. I'd only guess because you told me."
-        MEIKO: "It's the same thing, is what I mean. I feel like I can tell you, and I don't know why."
-        MEIKO: "I'm not sure I really understand why you tolerate my hanging around either, but I'll trust you."
-        She pages the memorial book to the first page, where her own writing starts.
-        MEIKO: "Hikari was the probably the only other person that really saw, well, some part of me that was me and not just a perfect model student. I met her my first day here, when I knew almost know one else..."
-        MEIKO: "When I lost her it felt like every day I was on the verge of... reverting, having to start all over. So I turned into someone who could mourn a friend, move on, respect her, and have some dignity about it."
-        MEIKO: "I still miss her."
-        Meiko looks me in the eyes, but I can't tell what she's asking.
-        MEIKO: "You say you trust me, then..."
-        MEIKO: "How did you know her?"
-        ...It's an impossible question.
-        I could tell her I just saw Hikari less than ten minutes ago, and she ran away as soon as she saw Meiko. And then when I started talking about ghosts or spirits or dopplegangers or whatever Hikari is, then Meiko would think I'm well and truly crazy.
-        Yet here I am, in front of Hikari's shrine. I knew where her chess set was stashed. I knew she always wanted to see the fireworks. From Meiko's perspective, I'm sure it looks like I knew her.
-        TAKERU: "I didn't. I'm sure she a great person."
-        MEIKO: "Hm."
-        She puts the book down. There's no indication if she believes me.
-        MEIKO: "Have you eaten yet? We should find lunch before they're all out."
-        TAKERU: "I'm starving, actually. Sounds good."
-        
-        Instead of heading back inside, we walk around the back of the school, past the path to the fields, to where the grill is set up in the back. Students and townspeople pass in and out of the open loading dock to the gym, passing under another colorful festival banner.
-        Plastic tables are set up all around the area, some with piles of programs on them, others with student-made sculptures or art with tags underneath explaining the piece.
-        With food, we sit down at an empty table by the entrance. I try to surreptitiously survey the area for any sign of Hikari, but thankfully she seems to have gone somewhere else. I wonder... If Hikari showed up in front of Meiko, Meiko would certainly recognize her... Right?
-        MEIKO: "Are you alright? You look a bit spaced out."
-        TAKERU: "Oh. Sorry. Just, er, overwhelmed by the festival a bit is all."
-        MEIKO: "I know what you mean. I've been able to slip out so far but in a few hours I'll have to to help supervise the stage setup. No getting around that."
-        TAKERU: "How is Kenta's auction going?"
-        MEIKO: "There was decent business. Although everyone I know was asking what exactly I was doing there..."
-        MEIKO: "Natsumi's bizarre sign wasn't helping anything."
-        TAKERU: "Oh. Sorry, yeah, I forgot about that."
-        MEIKO: "It's fine. I left her in charge when I came out to find you."
-        TAKERU: "It sounds dangerous to put her in charge of a furniture auction, let alone a baseball team..."
-        MEIKO: "Let her goof around a bit. After the tournament this week, I think she could use just as much of a break as the rest of us. Try to humor her at least a little."
-        TAKERU: "She's going to be a terror if she gets wind of the fireworks..."
-        NATSUMI: "Hey!"
-        TAKERU: "Oh no."
-        NATSUMI: "Meiko! Takeru!"
-        She's waving and coming this way with a paper plate.
-        NATSUMI: "Who'd have thought I'd find you two out here? You don't mind if I crash, right?"
-        TAKERU: "Fine."
-        MEIKO: "Hello Natsumi. I've been hoping to see you all morning and it seems we keep missing each other."
-        NATSUMI: "Yeah, weird how that happens. I'm pretty sure I remember you promising to hang out with both me and Takeru, not just Takeru."
-        TAKERU: "You're really laying it on thick."
-        NATSUMI: "The festival's my favorite day of the year. It'll be yours soon too. And it's Meiko's favorite as well."
-        MEIKO: "I've been looking foward to this all year, and now I'm really enjoying myself. There's lots to take care of, of course, but it makes me proud to be a student here."
-        NATSUMI: "See Takeru? School pride."
-        TAKERU: "...Right."
-        I wonder if Natsumi has ever noticed if Meiko isn't completely straight with her. That was a lie, right? When Meiko said she'd been looking forward to the festival?
-        MEIKO: "How's Kenta?"
-        NATSUMI: "Oh, him? I left him with Mana to man the auction. I've got a plan, you see."
-        Natsumi arches her fingers.
-        NATSUMI: "One, I get to come out here and eat before the wait for lunch gets too long..."
-        MEIKO: "It looks like line's into the gym already."
-        NATSUMI: "Two, I get to hunt down you two, because Takeru I know you're avoiding me."
-        TAKERU: "Then quit stalking me."
-        NATSUMI: "And three, it means Kenta and Mana will now have to get lunch together when their shift is done."
-        TAKERU: "If they murder each other I'm holding you responsible."
-        NATSUMI: "Oh don't worry, that won't happen. Probably."
-        TAKERU: "Please don't plan anything ever again."
-        NATSUMI: "Hey Takeru, show a little gratitude. I'm the reason you're not gonna spend tonight moving Kenta's furniture into your tiny dorm room."
-        TAKERU: "Okay, I concede that point."
-        NATSUMI: "Good."
-        MEIKO: "Takeru and I can look after the booth so they can go eat."
-        NATSUMI: "It should be fine. The whole point of a silent auction is that there doesn't have to be someone standing there the whole time."
-        TAKERU: "...Then what exactly are Kenta and Mana doing there now?"
-        NATSUMI: "Who knows? They're only there because I told them to."
-        She cackles.
-        NATSUMI: "Maybe we should check up on them. Bets on which one snaps first?"
-        TAKERU: "Hey, I thought you said there was no murder in the cards."
-        NATSUMI: "I'm joking, I'm joking."
-        TAKERU: "Remind me never to cross you."
-        MEIKO: "Haha, Takeru, be glad you didn't try to skip out on Natsumi today."
-        TAKERU: "No kidding..."
-        NATSUMI: "Yeah. We've got a lot of ground to cover today. Meiko, how long to you have free before the student council sends a search and rescue team?"
-        MEIKO: "Well technically..."
-        Technically there's ten other places she should be than at this table with us.
-        MEIKO: "Hm... I need to duck out before the afternoon program starts up. The principal asked me to speak, so of course I couldn't turn him, down, and I need to talk with the company coming tonight for - "
-        MEIKO: "Um..."
-        Right, Meiko doesn't know that the fireworks are back on.
-        NATSUMI: "Coming tonight for...?"
-        MEIKO: "It's a surprise?"
-        NATSUMI: "Okay, when is this surprise? It wouldn't happen to be..."
-        She flips open the festival program to the last page.
-        NATSUMI: "Right here? During this thing? 'Speeches from the student council?'"
-        MEIKO: "You might be correct."
-        NATSUMI: "Knew it!"
-        Natsumi fist pumps.
-        TAKERU: "You knew what now?"
-        NATSUMI: "It's fireworks, you dope. They're surprise rescheduling them. Nobody in their right mind would schedule student speeches as the finale for the Mirako school festival. No offense, Meiko."
-        MEIKO: "None taken. I can't compete with fireworks."
-        NATSUMI: "Ha! She even admits it. How long were you gonna keep this a secret from me and Takeru, Meiko?"
-        TAKERU: "Hey, I already knew."
-        NATSUMI: "What? And you didn't tell me? Takeru, why do I bother with you at all?"
-        TAKERU: "Stop hitting me with the program. It's called a secret for a reason."
-        MEIKO: "Try not to spread that around please."
-        NATSUMI: "I'll take it to grave."
-        NATSUMI: "Man, this is going to be one hell of a show."
-        NATSUMI: "Are you both done with lunch? Let's head back inside. Meiko, there's a bunch of stuff I wanted to show you. Plus I think the photography club's got a real nonstandard booth set up if you're in the mood for enforcing the law."
-        MEIKO: "I think we can let it slide, Natsumi. Lead the way."
-    
-    if hikari_route or meiko_route:
-        I've only taken about three steps into the gym when I hear a voice.
-        NATSUMI: "Yo. Takeru!"
-        TAKERU: "Hey! What's up?"
-        Natsumi's waving and calling me over to Kenta's furniture display. One or two visitors are milling around, as well as Mana and Kenta. I join them.
-        NATSUMI: "We were putting together a battle plan."
-        KENTA: "You were the one putting together the plan. I don't see why we have to - "
-        MANA: "Shut up and let her explain!"
-        NATSUMI: "We have a team member that's MIA."
-        TAKERU: "MIA?"
-        KENTA: "Missing in action. It's a military term. It's usually used to refer to soldiers who've gone missing on the battlefield, so its use in this case is wholly inappropriate, and I don't think - "
-        MANA: "Pipe down!"
-        NATSUMI: "Meiko promised she'd be here, and it's passed lunch time, and I haven't seen her. I'll check inside the school. Mana and Kenta are searching the gym, and - "
-        KENTA: "How am I supposed to know her if I see her? I never agreed to this. Why don't you - "
-        NATSUMI: "And Takeru! Get yourself something to eat and check outside by the fields. If you find Meiko, report back here immediately."
-        TAKERU: "I just came from lunch. And who's going to wait here at the booth?"
-        NATSUMI: "That's no big deal."
-        KENTA: "No big deal? I fail to see how this isn't the largest deal. I've spent hours making this furniture, and putting it at risk to find your - "
-        MANA: "Finding Natsumi's friend is way more important than your dumb chairs!"
-        KENTA: "You're calling my furniture unintelligent? That's nonsensical. They're all made of wood so they can't be - "
-        MANA: "Come on! Shut up! Let's go!"
-        Mana trudges off towards the gym entrance, dragging Kenta by the wrist. Kenta, for his part, protests the whole way, gesticulating a piece of paper that I'm sure must be his schedule.
-        Once they're out of earshot, Natsumi immediately stops her military instructor impression and instead doubles over laughing.
-        NATSUMI: "Look at those two!"
-        TAKERU: "They apparently hate each other."
-        NATSUMI: "You're kind of thick, Takeru. They're obviously made for each other."
-        TAKERU: "I can't think of two people in the world that are more different. They bicker constantly."
-        NATSUMI: "Oh come one. It's really funny. And you and I argue all the time but that doesn't mean - "
-        TAKERU: "For one thing, we don't argue, really. I just yell at you when you do something obnoxious like try to trick me into joining your baseball team."
-        NATSUMI: "Fair enough."
-        TAKERU: "And second, no, we're not made for each other."
-        NATSUMI: "At least humor me a bit, Takeru. Come on."
-        TAKERU: "No."
-        NATSUMI: "Fiiine. At least come help me look for Meiko. I bet I know where she's holed up."
-        TAKERU: "Alright, I can do that."
-        NATSUMI: "Ha! Got you to compromise!"
-        TAKERU: "Yep, congratulations. Now where to?"
-        NATSUMI: "Just outside here. I can feel it."
-        TAKERU: "And you're just going to leave Kenta's booth?"
-        NATSUMI: "There's only an hour or two left on the silent auction anyway. We've got plenty of bids. Let's go."
-        She points towards the access door at the corner of the gym.
-        TAKERU: "Right. The shrine..."
-        NATSUMI: "Yeah. Are you coming or what?"
-        We walk through a few aisles of stands, student displays, and tables arrayed with posters and signs for Mirako clubs. Everyone waves at Natsumi. A guy from the literature club chats her up and passes a free copy of their magazine. I mostly try to look like I know what I'm doing.
-        We keep going. At this point, half the booths are emtpy. Everyone's wandering the gym, outside in the field catching a late lunch, or out by the entrance finding friends.
-        I have to admit, it's a warm atmosphere. Every person she greets, Natsumi has a huge smile on her face. I can see why. She tries introducing me to a student council member, and then to a senior on the baseball team, but I can hardly remember names. I just bow and say my hellos.
-        Finally, we work our way out of the gym and into the sunlight.
-        NATSUMI: "Now let's see..."
-        There are one or two student display booths out by this corner of the school. One looks to be the robotics club, with a poster and small RC vehicle set up on a table, the students long since left to hang out somewhere else. On the other side, a few feet away, is a shrine.
-        That's... Meiko's, right? To Hikari. I was here yesterday.
-        At first, it looks as empty as the rest of the tables, but then I spot movement behind it.
-        NATSUMI: "Meiko? Hey! Meiko!"
-        Meiko pops up from front of shrine.
-        MEIKO: "Hello."
-        NATSUMI: "Why's everyone hiding today? Seriously. I've been looking for you half the day."
-        
-    if hikari_route:
-        MEIKO: "Sorry. I needed to put the finishing touches on the shrine before the afternoon program starts. And all morning I was meeting with the company for the - "
-        She looks at me. Fireworks, right? I guess Natsumi doesn't know about that yet.
-        MEIKO: "There's a surprise this evening I had to set up."
-        NATSUMI: "A surprise? I knew it."
-        Natsumi flips open the festival pamphlet.
-        NATSUMI: "Speeches from the student council, huh? No one would ever sit through something that boring. It's an obvious fake. This can only mean..."
-        NATSUMI: "Fireworks!"
-        Natsumi fistpumps.
-        MEIKO: "You have to keep it quiet."
-        NATSUMI: "I'll take it to the grave."
-    
-    if meiko_route:
-        MEIKO: "I'm sorry for the inconvenience. I've been busy with the council trying to start the performances on time, and the setup for the fireworks went on a little longer than I was hoping."
-        NATSUMI: "Aha. Well, if you were helping with the fireworks, you're excused."
-        NATSUMI: "Just don't wory yourself though."
-        Meiko laughs off Natsumi's comment, but she still glances at me.
-    
-    if meiko_route or hikari_route:
-        NATSUMI: "What's the shrine?"
-        MEIKO: "It's not much, but..."
-        Meiko turns the table around to face the path. There's still no photo on Hikari's shrine, but now the pieces to her chess set are arranged on a wooden board. The knight is still missing.
-        While we watch, Meiko lights two candles, then opens a clipboard on the table. The cover is a mellow blue, and the pages completely empty.
-        MEIKO: "You remember Hikari?"
-        NATSUMI: "Well..."
-        For the first time today, Natsumi looks something less than cheerful.
-        NATSUMI: "I'll leave my respects."
-        She picks up the pen and scratches some words onto the page. I guess the idea is students are supposed to record their memories of Hikari. It seems a little off the beaten path for something like that.
-        When Natsumi straigtens up, I walk up to the shrine to write my own message, but Meiko gives me an odd look.
-        Right. I haven't met Hikari. At least as far as Meiko knows.
-        ...I wonder if Hikari even remembers Meiko?
-        NATSUMI: "Okay. Meiko, you're ready to go now?"
-        MEIKO: "I need to duck out before the finale tonight, remember though."
-        NATSUMI: "But that means you're free now. Come on!"
-        MEIKO: "Alright. Let's go."
-        NATSUMI: "I thought it'd be Takeru that'd be uncooperative, but turns out it was even harder to track you down."
-        MEIKO: "I keep my promises."
-        NATSUMI: "Good! Come on, let's head back to the displays. It's too quiet out here."
-        NATSUMI: "Today's looking up, eh Takeru? We tracked down Meiko, and fireworks to boot."
-        TAKERU: "I already knew about the fireworks."
-        NATSUMI: "You jerk! And you didn't tell me?"
-        MEIKO: "It's a secret, Natsumi."
-        NATSUMI: "I think you all don't trust me."
-        NATSUMI: "Still, it's not the Mirako school festival without fireworks. We've got a school legend to keep up."
-        NATSUMI: "So Takeru, you know who you'll be watching the fireworks with?"
-        TAKERU: "You guys, I guess."
-        NATSUMI: "Bzzt. Wrong answer. You're supposed to watch with just me."
-        TAKERU: "Oh not this again."
-        MEIKO: "If you two want to find someplace private and - "
-        NATSUMI: "A starless night, fireworks under the moon..."
-        Meiko laughs when she sees the consternation on my face.
-        NATSUMI: "I'm just pulling your leg, Takeru."
-        NATSUMI: "I'm sure I'll be the one clearing out so you can get some privacy. Right? Right?"
-        TAKERU: "I swear..."
+    Meiko laughs off Natsumi's comment, but she still glances at me.
+    NATSUMI: "What's the shrine?"
+    MEIKO: "It's not much, but..."
+    Meiko turns the table around to face the path. There's still no photo on Hikari's shrine, but now the pieces to her chess set are arranged on a wooden board. The knight is still missing.
+    While we watch, Meiko lights two candles, then opens a clipboard on the table. The cover is a mellow blue, and the pages completely empty.
+    MEIKO: "You remember Hikari?"
+    NATSUMI: "Well..."
+    For the first time today, Natsumi looks something less than cheerful.
+    NATSUMI: "I'll leave my respects."
+    She picks up the pen and scratches some words onto the page. I guess the idea is students are supposed to record their memories of Hikari. It seems a little off the beaten path for something like that.
+    When Natsumi straigtens up, I walk up to the shrine to write my own message, but Meiko gives me an odd look.
+    Right. I haven't met Hikari. At least as far as Meiko knows.
+    ...I wonder if Hikari even remembers Meiko?
+    NATSUMI: "Okay. Meiko, you're ready to go now?"
+    MEIKO: "I need to duck out before the finale tonight, remember though."
+    NATSUMI: "But that means you're free now. Come on!"
+    MEIKO: "Alright. Let's go."
+    NATSUMI: "I thought it'd be Takeru that'd be uncooperative, but turns out it was even harder to track you down."
+    MEIKO: "I keep my promises."
+    NATSUMI: "Good! Come on, let's head back to the displays. It's too quiet out here."
+    NATSUMI: "Today's looking up, eh Takeru? Two objectives complete. Meiko's been captured, and the firework show's a go. Shocking."
+    TAKERU: "Not that shocking... I already knew about the fireworks."
+    NATSUMI: "You jerk! And you didn't tell me?"
+    MEIKO: "It's a secret, Natsumi."
+    NATSUMI: "Secrets are for telling your friends, you dope."
+    NATSUMI: "Still, it's not the Mirako school festival without fireworks. We've got a school legend to keep up."
+    NATSUMI: "...So Takeru, you know who you'll be watching the fireworks with?"
+    TAKERU: "You guys, I guess."
+    NATSUMI: "Bzzt. Wrong answer. You're supposed to watch with just me."
+    TAKERU: "Oh not this again."
+    MEIKO: "If you two want to find someplace private and - "
+    NATSUMI: "A starless night, fireworks under the moon..."
+    Meiko laughs when she sees the consternation on my face.
+    NATSUMI: "I'm just pulling your leg, Takeru."
+    NATSUMI: "I'm sure I'll be the one clearing out so you can get some privacy. Right? Right?"
+    TAKERU: "I swear..."
 
     if meiko_route or hikari_route:
         We finally make it back to the gym.
@@ -1327,17 +1317,17 @@ label day15:
         First stop is the swim team's booth. No sign of Mana or her senior Yumi, but we each buy a ticket for the raffle. I glare at Kenta's disk while Natsumi brags to Meiko about her brilliant auctioneering solutions to this morning's problem.
         Next, the food science club is selling home-made ice cream. I'm still stuffed from lunch, but apparently Meiko hasn't eaten yet.
         Finally, we come to Kenta's table. Well, multiple tables.
-    
-    
-    MEIKO: "I see you two got everything set up."
-    TAKERU: "Mostly Kenta. Trust me, I didn't volunteer."
-    NATSUMI: "Hang on, I've got to see how the auction's going."
-    She starts shaking the shoeboxes, set up one per item on sale. Meiko gives me a look.
-    TAKERU: "She's been like this all day."
-    MEIKO: "I'm pretty sure this is Natsumi's favorite day of the year. So many people here, and all of them know her."
-    TAKERU: "And she's spending it with us?"
-    MEIKO: "Haha. It's hard to believe, isn't it?"
-    Natsumi returns.
+
+    if hikari_route:
+        MEIKO: "I see you two got everything set up."
+        TAKERU: "Mostly Kenta. Trust me, I didn't volunteer."
+        NATSUMI: "Hang on, I've got to see how the auction's going."
+        She starts shaking the shoeboxes, set up one per item on sale. Meiko gives me a look.
+        TAKERU: "She's been like this all day."
+        MEIKO: "I'm pretty sure this is Natsumi's favorite day of the year. So many people here, and all of them know her."
+        TAKERU: "And she's spending it with us?"
+        MEIKO: "Haha. It's hard to believe, isn't it?"
+        Natsumi returns.
     
     if meiko_route:
         I notice more than a few students around the collection of furniture and shoeboxes. I didn't realize carpentry was so popular.
