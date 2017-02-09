@@ -1840,6 +1840,66 @@ label day15:
     At first I'm confused then I spot where she's looking: the the side door, next to Hikari's shrine. The candles went out sometime during the day, but it looks like there are a few more notes on the open page of the book.
     TAKERU: "We should probably have a few minutes to spare if you want to..."
     I trail off. I'm really not sure what it is Meiko's got on her mind, but she walks towards the shrine.
+    
+    if hagami_route:
+        But when she reaches it, she turns around.
+        MEIKO: "I think I'll be fine. Let's go watch the fireworks."
+        TAKERU: "I don't mind."
+        MEIKO: "No. Come on, let's go watch with everyone else. If I spend any more time there, I just know..."
+        MEIKO: "Do me one favor though."
+        TAKERU: "What's up?"
+        MEIKO: "Meet me back here, after the fireworks. If I could find anyone who seemed to care about Hikari, I'd invite them, but there don't seem to be any of them."
+        MEIKO: "You'll have to do."
+        TAKERU: "What are you planning to...?"
+        MEIKO: "Never mind. I know I ask too much."
+        TAKERU: "Really, it's fine."
+        MEIKO: "For now let's go catch up with Kenta and Natsumi and enjoy the fireworks."
+        MEIKO: "...I only wish she was here to watch."
+        We rejoin the stream of students headed for the field, and Meiko doesn't look back. It's hard to say that I know Hikari will be watching when Meiko's like this, but I'd have no idea how to explain myself.
+        I can't even tell if that would be encouraging or discouraging to Meiko... Guess I never have been able to tell what she's thinking. With that in mind, I take another glance over my shoulder at the shrine and...
+        There's someone else standing there. Someone I know?
+        TAKERU: "Back in a sec."
+        MEIKO: "Takeru?"
+        TAKERU: "I'll catch up, go find Natsumi."
+        I reverse direction and lose Meiko behind family walking three abreast. When I get to the shrine, I recognize the girl standing there.
+        TAKERU: "Hikari. Hey. What're you doing here?"
+        HIKARI: "What's it look like?"
+        TAKERU: "Following me."
+        HIKARI: "Oh don't flatter yourself, technically I'm following both you and Meiko. And Mana and Hagami too, but they're harder to tail."
+        TAKERU: "Wait, why?"
+        HIKARI: "It's a little hard to blend in when there's a shrine to your departed soul sitting on the path and you haven't exactly departed yet."
+        HIKARI: "...Basically I'm afraid of Meiko."
+        TAKERU: "Isn't she your friend?"
+        HIKARI: "You tell me. She built this thing, so I guess she was, but..."
+        HIKARI: "Things have gotten very muddy in my brain, Takeru, and I'm having serious trouble remembering anything about my first go around at Mirako at this point."
+        HIKARI: "It's tiresome. I just want to watch the fireworks."
+        TAKERU: "You're on the right path, then. Let's go."
+        HIKARI: "I'll follow. You go on ahead and catch up to Meiko."
+        TAKERU: "You'll be watching?"
+        HIKARI: "Well I wasn't planning on blinding myself before I get the chance to see the show."
+        TAKERU: "Right, obviously... That's still kind of creepy."
+        HIKARI: "I'm a ghost, I get to be creepy. Hurry up or you'll miss Hagami's show."
+        TAKERU: "Oh. Right. See you later, Hikari."
+        She half-salutes, half-waves in sendoff, and I take off back down the trail.
+        
+        On the move again, working through the stragglers, I try to elbow as few people as possible, and eventually, the field comes into view.
+        I stop in my tracks. The entire student body must be camped here. There are families and students sitting on the grass and on blankets, and the section of folding chairs is completely packed.
+        How am I supposed to find them? It's almost dark out. Not to mention everyone is moving around trying to find a place to sit.
+        TAKERU: "Sorry, excuse me..."
+        MEIKO: "Takeru?"
+        TAKERU: "How'd you find me?"
+        MEIKO: "You literally bumped into me."
+        TAKERU: "Er, whoops. Have you seen Kenta or Natsumi?"
+        MEIKO: "Shh. The drama club is on stage."
+        TAKERU: "Wait... is that them?"
+        TAKERU: "Come on."
+        We duck around the audience and cross to the other side, where I spot Mana, Kenta, and Natsumi sitting on a blanket. The play is just wrapping up when we get there.
+        I tap Kenta on the shoulder.
+        TAKERU: "Hey."
+        KENTA: "Good evening, Takeru."
+        MEIKO: "Sorry if we're late.
+        NATSUMI: "Yeah, you and Takeru sure took your time."
+        TAKERU: "Sorry."
         
     if hikari_route:
         As I watch, she flips through the pages of the memory book. Only the first two pages have anything written at all.
@@ -1930,13 +1990,10 @@ label day15:
         We make our way to the field, where about a hundred folding chairs are set up in front of a stage. Mostly everyone seated seems to be from town, while students and families are sitting in the grass all over.
         TAKERU: "Do you see anyone familiar? Kenta or Natsumi or anyone?"
         HIKARI: "Right there."
-    
-    if hagami_route:
-        <Hagami, Mana, and Kenta split, Hagami until her concert scene>
-        <Meiko explains the shrine in a little more detail because Takeru hasn't seen it today yet>
 
-    TAKERU: "Kenta! Hey!"
-    They're a few hundred feet away on a picnic blanket, but Kenta doesn't pay any attention. He's too busy arguing with Mana. Instead, Natsumi turns around and waves.
+    if hikari_route or meiko_route:
+        TAKERU: "Kenta! Hey!"
+        They're a few hundred feet away on a picnic blanket, but Kenta doesn't pay any attention. He's too busy arguing with Mana. Instead, Natsumi turns around and waves.
     
     if hikari_route:
         NATSUMI: "Hey, look who showed up."
@@ -1953,8 +2010,8 @@ label day15:
         HIKARI: "I'm Hikari."
         MANA: "Hikari? You're Hagami's friend Hikari? I've heard so much! How have I never met you before? You need to teach me all about... Oh! Did you hear? We founded the supernatural club finally, and you should totally come and - "
         HIKARI: "Shh, I'm hear to watch Hagami. Or isn't she up yet? ...I thought we might be late."
+        NATSUMI: "Well get over here and sit down then."
     
-    NATSUMI: "Well get over here and sit down then."
     MANA: "Late? Hagami would be so disappointed if you missed her show!"
     TAKERU: "I know, I know. When is she on?"
     MANA: "Let me check the program again."
@@ -1979,12 +2036,18 @@ label day15:
         Go fine?
     
     if meiko_route:
-        Mana starts waving with ferocity, but I squint. Hagami takes a few unsteady steps towards the piano and sits down.
+        Mana starts waving with ferocity, but I squint. Hagami takes a few unsteady steps towards the piano.
         ...She's looking pale, almost sickly. Hikari scratches her chin, then whispers to me.
         HIKARI: "I guess she must've spend all of today practicing... You've heard her - she must sound great, right?"
         TAKERU: "No, I haven't. You're in the old wing all the time, haven't you heard her practicing?"
         HIKARI: "I - "
         MANA: "Shhh!"
+    
+    if hagami_route:
+        Mana starts waving with ferocity, but I squint. Hagami takes a few unsteady steps towards the piano.
+        TAKERU: "She'll be fine, right?"
+        MANA: "She's got to be! She's been working so hard at this, and she's gotten so much better, and she's less nervous now, and..."
+        Somewhere it stopped being about the music. Thinking about Hagami, this morning, still sitting in that practice room... Something catches in my throat, but I know she can pull this off.
     
     The audience quiets as a technician pushes the piano to center stage and that student council guy with the classes comes to the microphone to read Hagami's name, and the title: "Piano Sonata No.14 'Moonlight'"
     There's another round of applause, with Mana clapping the hardest, of course. Natsumi elbows me in the ribs, and I realize I was too busy chewing my lip to clap myself.
@@ -2004,14 +2067,22 @@ label day15:
     I want to look away but can't. There's a small part of that terror in me. Why am I scared? What's supposed to happen next? At two minutes? What happens at three minutes?
     I'll be frozen to this spot for an hour, Hagami one moment away from playing that piano forever.
     Her left hand shakes, not something I would have caught the movement if she hadn't been sitting there like a statue for almost four minutes now. Mana inhales. I guess she noticed it too.
-    Then there's sound.
-    Clapping, from Mana, beside me. It's nothing overly loud or fast or slow, just to my perception completely out of place.
+    
+    if hikari_route or meiko_route:
     
     if hikari_route:
         It clicks. I cup my hands together and join Mana. Meiko starts clapping a second later, then Natsumi, and slowly, painfully there's applause from the rest of the audience.
     
     if meiko_route:
         It clicks. I cup my hands together and join Mana. Natsumi starts a moment later, and slowly, painfully there's applause from the rest of the audience. Hikari also claps next to me, soundlessly. It still seems Kenta and about half the spectators are dumbstruck.
+        
+    if hagami_route:
+        Come on, Hagami. Wake up. Hurry and wake up.
+        I feel like I need to do something. I'm too much of a coward to rush the stage, even if I thought it'd be a good idea. Besides, that'd be admitting defeat. That she couldn't do it, so stop the show.
+        Couldn't do what? She got up there, right? Didn't she tell me a thousand times before today that she thought it was hopeless? Not hopeless, but so unlikely she'd be able to play in front of everyone.
+        But there she is. Up there anyway.
+        I can't put my finger on why, but I start to clap. It feels almost as foolish as storming the stage at first, clapping alone, but then Mana joins. Meiko too. Slowly, painfully, applause spreads around the audience.
+        There are confused whispers, sure, and half the spectators (including Kenta) are still dumbstruck, but I think another minute of watching her paralyzed up there would kill me.
     
     Hagami stands up, bows, and vanishes.
     KENTA: "Avant garde music is bizarre. Classical music is boring enough as is, but I didn't understand that at all."
