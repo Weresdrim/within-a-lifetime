@@ -1735,17 +1735,76 @@ label day15:
     Better than having all of this junk in the dorm, I guess.
     Finally, at the bottom of the box, I find a bid with a reasonable price. Well, not that reasonable, but high enough to win.
     Then, unfolding the slip of paper...
-    TAKERU: "Please no..."
-    I turn around.
-    MEIKO: "All done."
-    MANA: "Natsumi! I've got a winner! You'll never believe it!"
-    KENTA: "You've won this chair, Natsumi."
-    MANA: "No way! You're the top bid on the cabinet too!"
-    MEIKO: "Let me check the name here..."
-    TAKERU: "No way. They're all Natsumi."
-    MEIKO: "It would seem you're correct."
-    Meiko laughs while Natsumi smirks at me.
-    NATSUMI: "Guess you've got some moving to do, Takeru."
+
+    if hikari_route or meiko_route:
+        TAKERU: "Please no..."
+        I turn around.
+        MEIKO: "All done."
+        MANA: "Natsumi! I've got a winner! You'll never believe it!"
+        KENTA: "You've won this chair, Natsumi."
+        MANA: "No way! You're the top bid on the cabinet too!"
+        MEIKO: "Let me check the name here..."
+        TAKERU: "No way. They're all Natsumi."
+        MEIKO: "It would seem you're correct."
+        Meiko laughs while Natsumi smirks at me.
+        NATSUMI: "Guess you've got some moving to do, Takeru."
+    
+    if hagami_route:
+        TAKERU: "What the...?"
+        I turn around.
+        MEIKO: "All done."
+        MANA: "Natsumi! I've got a winner! You'll never believe it!"
+        KENTA: "Takeru, I'm flattered."
+        TAKERU: "No, wait, hang on..."
+        KENTA: "You are far and away the top bidder on this chair."
+        MANA: "No way! You won the cabinet too!"
+        NATSUMI: "Hey! Nice work Takeru. Guess you didn't mind all the furniture that much after all."
+        TAKERU: "Hold it!"
+        TAKERU: "I didn't put in those bids!"
+        NATSUMI: "Oh really? Sure is your name written here. Ichiro. Takeru. 50,000 yen."
+        MEIKO: "Can you really afford that?"
+        TAKERU: "Are you kidding me? There's no way I'd put that in. I'd pay like 2,000 yen tops."
+        NATSUMI: "Wow, that's pretty low, Takeru. At least flatter Kenta a little."
+        TAKERU: "That was flattery! I'd pay you 1,000 to get it out of my room!"
+        KENTA: "I'm a little taken aback. You should've told me what you thought of my carpentry."
+        TAKERU: "I have been all day!"
+        NATSUMI: "Doesn't matter anyway. I think you've racked up a six figure debt, so pay up."
+        TAKERU: "For the hundredth time, I didn't even bid on anything! Let alone for that crazy amount!"
+        TAKERU: "Who did this?"
+        Meiko looks concerned. Kenta is telling me how disappointed he is that I didn't bid. Natsumi is snickering...
+        That leaves Mana, currently hiding behind a desk.
+        TAKERU: "Right. Out. Get out of there. Now fess up."
+        MANA: "She... She told me to makes sure that... sure that I was..."
+        TAKERU: "Stop laughing and speak properly."
+        MANA: "Who else do you think?"
+        She's too busy laughing to be at all comprehensible. But I get the picture anyway.
+        TAKERU: "Dammit, Hagami."
+        MANA: "She told me to make sure I was around to see it."
+        TAKERU: "I'll get revenge for this. She can't keep setting me up and then... Come on, at least show up in person if you're going to put me through this..."
+        NATSUMI: "You're still on the hook for all this cash you owe - "
+        TAKERU: "I'm forwarding the bill. And the furniture."
+        NATSUMI: "Under auction rules, if you can't fulfill what you wrote, we move on the next highest bidder. Recount time."
+        MANA: "And let's hurry, too! Hagami's recital is up soon!"
+        TAKERU: "If we miss it counting these stupid bids, it's her own fault."
+        It doesn't take too long to find the next highest bids, though. I'd already thrown away the pile of three-digit offers, so only the last few finalists are scattered on the table.
+        Time to check our second place winner...
+        TAKERU: "Oh come on."
+        I walk over to Natsumi.
+        TAKERU: "You didn't write this, right?"
+        NATSUMI: "Who, me? Yeah this is my bid. Why?"
+        TAKERU: "Really?"
+        NATSUMI: "Yeah really. I'm allowed to bid too, aren't I?"
+        TAKERU: "I guess you won the table."
+        NATSUMI: "Ha! Looks like you're helping me carry furniture after all."
+        TAKERU: "I was worried this might - "
+        MANA: "Natsumi! Natsumi, you're second place for this chair! This other one too!"
+        NATSUMI: "Well will you look at that."
+        MEIKO: "You've won the cabinet, I believe."
+        TAKERU: "You cheated."
+        NATSUMI: "Nope. Got the money right here. I'll honor my bids, unlike you, Takeru."
+        TAKERU: "Was this whole thing a setup for you to furnish a room for cheap? That's low."
+        NATSUMI: "I'm not the one with the fake bids. Guess you've got some moving to do, Takeru."
+    
     TAKERU: "The deal was I'd help you with one piece of furniture. That's it."
     NATSUMI: "That's not quite how I remember the wording. Care to clarify, Meiko?"
     Meiko hesitates for only a second before pushing back her hair and pronouncing judgment.
@@ -1777,12 +1836,12 @@ label day15:
         Mana wasn't worried, but when I met Hagami earlier today...
         I'm still worried. Did she just practice the whole festival away?
     
-    We're on the path out to the field when Meiko pauses.
+    The path to the field passes the empty display tables then cuts through some low woods. We're about halfway there when Meiko pauses.
     At first I'm confused then I spot where she's looking: the the side door, next to Hikari's shrine. The candles went out sometime during the day, but it looks like there are a few more notes on the open page of the book.
     TAKERU: "We should probably have a few minutes to spare if you want to..."
     I trail off. I'm really not sure what it is Meiko's got on her mind, but she walks towards the shrine.
         
-    if hikari_route
+    if hikari_route:
         As I watch, she flips through the pages of the memory book. Only the first two pages have anything written at all.
         I take a step towards Meiko when I notice someone else watching the shrine. They're far off by the trees, but I can recognize her even at this distance.
         Hikari, for sure.
