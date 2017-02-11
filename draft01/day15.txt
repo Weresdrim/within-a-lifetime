@@ -1877,7 +1877,8 @@ label day15:
         HIKARI: "I'll follow. You go on ahead and catch up to Meiko."
         TAKERU: "You'll be watching?"
         HIKARI: "Well I wasn't planning on blinding myself before I get the chance to see the show."
-        TAKERU: "Right, obviously... That's still kind of creepy."
+        HIKARI: "Remember... I'm always watching."
+        TAKERU: "That's still kind of creepy."
         HIKARI: "I'm a ghost, I get to be creepy. Hurry up or you'll miss Hagami's show."
         TAKERU: "Oh. Right. See you later, Hikari."
         She half-salutes, half-waves in sendoff, and I take off back down the trail.
@@ -2101,6 +2102,26 @@ label day15:
     
     if hagami_route:
         KENTA: "At least the fireworks are soon."
+        Fireworks. That's the furthest thing in my mind. Something inside me is just as frozen as Hagami was up on that stage. I can't shake a tumbling feeling.
+        Next to me, Mana's eyes are wide open.
+        TAKERU: "Mana, come on."
+        MANA: "W-what..."
+        TAKERU: "Shouldn't we go find her?"
+        MANA: "I don't know, I don't know..."
+        MANA: "She worked so hard for... What did..."
+        Strange. She just looks stunned. Meanwhile I'm having trouble hearing her over the sound of my heart beating in my head.
+        TAKERU: "Should we? Go find her, I mean?"
+        MANA: "Hagami... No way... Hagami..."
+        MANA: "Yeah..."
+        She rises.
+        TAKERU: "Are you alright? Don't fall over on me."
+        MEIKO: "You're going? Take care, and give Hagami my regards."
+        TAKERU: "Will do."
+        MANA: "Hagami... We'll go meet her, yeah..."
+        Walking towards the stage, Mana keeps her gaze on the ground. She must be crushed. Hagami trusted me enough to say she didn't feel confident, but Mana, who was expecting something amazing... She sniffs.
+        I still feel like someone socked me in the stomach. Nevertheless, we head towards the stage.
+        Mana clears her throat.
+        MANA: "Sorry. I... Okay, let's just go meet Hagami. Okay."
     
     if hikari_route or hagami_route:
         We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana is right beside me. 
@@ -2109,6 +2130,62 @@ label day15:
         TAKERU: "Sorry... We were just looking for someone."
         He rearranges his glasses then hunches back over the program.
         MANA: "Have you seen Hagami? She just finished! When she came off stage where'd she go? Did you see if - "
+        
+    if hagami_route:
+        He just just shakes his head. I'm about to press him for more info, but Mana suddenly turns around.
+        TAKERU: "Mana?"
+        She just sighs. I follow her away from the stage.
+        MANA: "It's like I thought..."
+        TAKERU: "Are you alright?"
+        MANA: "She doesn't..."
+        It's not until I hiccup that I realize that I realize she's crying. Before I can think of anything to say, she throws her arms around me and pushes her head into my chest. There's nothing I can do but pat her back.
+        TAKERU: "Hey... Mana, what are you..."
+        MANA: "How did this..."
+        MANA: "I don't get it, Takeru. Hagami trusts me, and I've always been there for her, and how could something like this happen to her..."
+        MANA: "She said it was fine, a sure thing... And she was making so much progress! She got to know you, and she was practicing the piano again, and she came out today to be with us all..."
+        MANA: "So why did this happen? It doesn't make sense."
+        MANA: "And now, she... doesn't want to see me."
+        TAKERU: "Of course she'd want to see you."
+        MANA: "Then she'd be here. I know her. She probably..."
+        MANA: "I don't know where she went, but if she's not here... She doesn't want to see me. I let her down, I just figured this whole thing was a done deal, and then, and then..."
+        She lets go of me and sniffles, but her eyes are dry.
+        TAKERU: "Shouldn't we go find her?"
+        MANA: "I'm sure she'll be somewhere, watching the fireworks, and..."
+        MANA: "Aah, it's all too much. I hate this! How did this happen? Hagami, why aren't you here?"
+        I look over my shoulder, expecting to see the stage crew staring at us, but they're all busy clearing the stage and hooking up the sound system. There's only one person walking towards us.
+        HIKARI: "'Evening."
+        MANA: "H-Hikari?"
+        HIKARI: "It's not your fault, Mana."
+        MANA: "M-my what?"
+        TAKERU: "You were watching?"
+        HIKARI: "I'm always watching."
+        HIKARI: "Mana, Hagami went through all this, setting up the performance in secret, practicing alone, all of that, because she didn't want to disappoint you."
+        HIKARI: "She knows always wanted her to perform again, but it looks like she just wasn't ready. And she didn't want you to get down about it."
+        MANA: "H-how do you know all this?"
+        HIKARI: "I'm always watching. Listening, too. And she said as much to Takeru."
+        MANA: "What? Takeru? And you didn't tell me? H-how long did you know she was going to try to play tonight?"
+        TAKERU: "I put in the paperwork for her... Sorry."
+        HIKARI: "I know she cares about you, Mana. I had a friend like that once."
+        Meiko. There's a twinge when she says "once."
+        HIKARI: "Come on. Let's got watch the fireworks."
+        MANA: "Oh, that's..."
+        MANA: "Hikari, I'm such a lousy friend, worrying about me and all that when this is supposed to be a happy night, and Hagami's night, and crying into Takeru, and - "
+        She blushes.
+        MANA: "Sorry Takeru! Hagami would kill me, a-and..."
+        HIKARI: "Here. Come on. We'll go find Kenta and Natsumi."
+        Mana takes a few steps away, breathing heavy. But I'm not sure if I should follow. Hikari keeps looking back at me, but I can't make sense of her.
+        TAKERU: "What? Should I..."
+        HIKARI: "Go on. You know what you have to do."
+        TAKERU: "Right. I guess..."
+        TAKERU: "Right, I do. See you later, Hikari. Enjoy the fireworks."
+        HIKARI: "That won't be a problem. Say thanks to Hagami for me."
+        TAKERU: "I will."
+        Hikari and Mana disappear around the corner of the stage, leaving me in an unlit corner off the path.
+        I thought I guessed at what Hikari wanted me to do, but...
+        It seems dumb to me. If Hagami didn't meet us after her recital, she obviously wants to be alone, like Mana said. What Hikari asked me to do...
+        Go find Hagami. Right. It's obvious to me where she'll be, even if Mana didn't know. I catch my breath, take one last look at Hikari and Mana's shadows, and start down the path. I'm headed to Mirako, old wing. She's in the piano room.
+        
+    if hikari_route:
         TAKERU: "I've got a guess. Come on."
         MANA: "Let's go then! Do you think... I hope Hagami's alright!"
         TAKERU: "Yeah."
