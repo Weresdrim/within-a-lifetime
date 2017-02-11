@@ -2090,7 +2090,7 @@ label day15:
     KENTA: "Why did they announce that as Beethoven? Is that part of the presentation? In my opinion performance art should be clearly labeled."
     NATSUMI: "I wonder, Kenta..."
     
-    if hikari_route
+    if hikari_route:
         MANA: "Takeru."
         TAKERU: "Huh?"
         I'm still staring at the piano, even as the tech comes back to wheel it offstage. Mana tugs at my sleeve.
@@ -2098,6 +2098,11 @@ label day15:
         TAKERU: "Come on?"
         MANA: "We've got to go find Hagami!"
         MEIKO: "See you guys later."
+    
+    if hagami_route:
+        KENTA: "At least the fireworks are soon."
+    
+    if hikari_route or hagami_route:
         We pass through the rows of folding chairs, sometimes stepping over the legs of the occupants. I cut across the field at a diagonal, heading for backstage. Mana is right beside me. 
         It takes a few minutes to reach the back. Hagami should be somewhere around here.
         But the only people here are the guy I saw moving the piano, a girl clutching a violin, and that student council member, perched on a stool and paging through the program. When he sees us, he gives me a suspicious glare.
