@@ -332,7 +332,10 @@ label day14:
     When she notices I'm looking her way, Hagami gestures for me to come over.
     TAKERU: "Hey."
     HAGAMI: "Hi."
-    TAKERU: "You said you found something. You know what the cure is? For Hikari's memory?"
+    TAKERU: "You said you found something."
+    HAGAMI: "A breakthrough."
+    TAKERU: "You know what the cure is? For Hikari's memory?"
+    HAGAMI: "A bit of a breakthrough..."
     HAGAMI: "First..."
     HAGAMI: "The first step is to know her nature."
     HAGAMI: "Can't do anything without that. That's what..."
@@ -447,7 +450,7 @@ label day14:
     HIKARI: "Thank you."
     HIKARI: "I don't know if I've said that before..."
     HIKARI: "And if I'm honest... I really would like to see the fireworks again, even if I forget it ever happened."
-    HIKARI: "If I'm going to forget all my old memories anyways, might as well try and make some new ones."
+    HIKARI: "If it turns out I'm going to forget all my old memories anyways, might as well try and make some new ones."
     
     I leave early to catch Meiko before class starts up again. When I get back to the classroom, there should be at least ten minutes.
     And she's not there when I show up.
@@ -747,7 +750,7 @@ label day14:
     HAGAMI: "I'm worried."
     TAKERU: "It can't be worse, right?"
     HAGAMI: "Bathilde, in the opera. She's made out to be the villain, but I've never understood."
-    HAGAMI: "She's engaged to Albrecht. With Giselle gone, they're the only ones there for each other. But when Albrecht remembers Giselle, and Giselle disappears, Albrecht drowns himself in the late. There's no happy ending for them either."
+    HAGAMI: "She's engaged to Albrecht. With Giselle gone, they're the only ones there for each other. But when Albrecht remembers Giselle, and Giselle disappears, Albrecht drowns himself in the lake. There's no happy ending for them either."
     TAKERU: "Well you even said it's a tragedy."
     HAGAMI: "It's so pointless."
     HAGAMI: "I don't know why. I sympathize with her."
@@ -764,7 +767,7 @@ label day14:
     TAKERU: "Right."
     TAKERU: "You probably have a lot more to deal with than me anyway. You've got your performance."
     TAKERU: "Sorry if I distracted you, thanks again for going through those books with us when I know you could've been practicing."
-    HAGAMI: "I'd do it all over againl Even if the result was..."
+    HAGAMI: "I'd do it all over again. Even if the result was..."
     TAKERU: "I'll see you tomorrow, I guess. I should just go home."
     HAGAMI: "And Hikari? What will - "
     TAKERU: "I have no idea. I don't want to run into her. I just want to think. Bye. Good luck tomorrow."
