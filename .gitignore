@@ -60,3 +60,17 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Ren'Py
+tmp/*
+traceback.txt
+game/cache/*
+game/saves/*
+*.rpyc
+log.txt
+traceback.txt
+errors.txt
+game/script.rpy
+
+# Java
+*.class

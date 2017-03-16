@@ -243,7 +243,7 @@ label day03b:
     She closes her eyes, then returns to her usual smiling, serence self.
     MEIKO: "You don't owe me anything Takeru. But I'd be glad for any kind of assistance with the festival work. It'd be rude of me to decline, especially after I asked..."
     MEIKO: "Ah, it's so painful to ask in the first place..."
-    MEIKO: "But thank you. That would be much appreciated.
+    MEIKO: "But thank you. That would be much appreciated."
     TAKERU: "What can I do for you then?"
     MEIKO: "Come find me tomorrow. We have a bunch of applications that need corrections before we can use them on the programs."
     TAKERU: "Okay. I'll see what I can do."

@@ -57,7 +57,7 @@ label day03a:
     TAKERU: "Yeah."
     MEIKO: "Well first why don't we figure out where we're going?"
     TAKERU: "I'm sorry if I'm not much help deciding."
-    MEIKO: "Don't worry about that. There's a good cafe in town I know. Let's start walking now though, it'd be a shame to get there and it turns out they've stopped serving lunch.
+    MEIKO: "Don't worry about that. There's a good cafe in town I know. Let's start walking now though, it'd be a shame to get there and it turns out they've stopped serving lunch."
     We head back the way I came.
     The conversation isn't as bad as I'd expect. Meiko seems to know all about the acquaintances I left behind at the old middle school we used to attend together. She remembers a lot more of them than I do.
     But I notice she confines herself to those short years between when I left and when she must've come to Mirako.
@@ -220,7 +220,7 @@ label day03a:
     MEIKO: "It almost reminds of that time we got lost on the train, remember? And we got to the park late?"
     TAKERU: "...Not really."
     ...
-    TAKERU: "My memory's shaky, sorry. We've got some time, so why don't you tell me?
+    TAKERU: "My memory's shaky, sorry. We've got some time, so why don't you tell me?"
     MEIKO: "Alright. It was a pretty important day for me after all."
     
     VOICE: "We were both twelve. It was about a month after the accident. Mom and Dad were resting with my dad's side of the family, the rich ones."
@@ -305,8 +305,7 @@ label day03a:
     From the top of the terrace I watch myself start up the stairs.
     ...
     This is going to be a cold walk back to the station. The wind is bad enough up here as is.
-    When I reach the top of steps, my breath is ragged. I almost don't notice Meiko at the top,
-    gazing over the fence into the clouds.
+    When I reach the top of steps, my breath is ragged. I almost don't notice Meiko at the top, gazing over the fence into the clouds.
     In the direction of her gaze...
     There's a streak of violet in the sky as the sun goes down.
     TAKERU: "Are you all set?"
@@ -321,11 +320,13 @@ label day03a:
     It fits her like the last puzzle piece. The color suits her perfectly. It's...
     
     menu:
-        "Turquoise, just a shade lighter than her eyes"
+        "Turquoise, just a shade lighter than her eyes":
+            MEIKO: "Thank you so much."
         
-        "Pearl gray, a match to the clouds behind her"
+        "Pearl gray, a match to the clouds behind her":
+            She pauses.
+            MEIKO: "It's beautiful."
     
-    MEIKO: "Thank you so much."
     TAKERU: "It's just a small thing..."
     MEIKO: "I'll treasure it."
     TAKERU: "Right. Aren't you cold?"

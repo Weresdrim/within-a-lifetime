@@ -127,11 +127,11 @@ label day09a:
     Hagami starts to pack her things but I wave at her to stop.
     TAKERU: "I've got it. I need to track down some senior about his terrible handwriting on this application form before heading back to class anyway."
     HAGAMI: "Alright."
-    MANA: "Sorry, Takeru... Maybe I shouldn't have come in today after all.
+    MANA: "Sorry, Takeru... Maybe I shouldn't have come in today after all."
     I follow Mana out the door to the hall, quickly, because it looks like she'll topple over at any minute.
     We start downstairs to the sound of Mana's sniffling. Eventually she turns to look at me.
     MANA: "I hate being sick. It's such a pain."
-    TAKERU: "At least it's temporary.:
+    TAKERU: "At least it's temporary."
     MANA: "I guess, but in the meantime it sucks. I hate not being their for Hagami, too."
     MANA: "Oh, I meant to say..."
     MANA: "I don't know what you did for Hagami yesterday while I was out, but..."
@@ -157,7 +157,7 @@ label day09a:
     TAKERU: "I guess?"
     I'm thinking of the older guys on the Tohoku team. Guys who'd gotten offers from the major leagues already. You respected your elders on our team, or you paid the price.
     Or is she talking about people like... Meiko? Someone so well put together you just feel inferior talking to them.
-    MANA: "It's easier to talk through someone else, right?
+    MANA: "It's easier to talk through someone else, right?"
     MANA: "Everyone's a bit like that in Hagami's world."
     MANA: "Everyone but me. But... now maybe you too."
     Should I be flattered?

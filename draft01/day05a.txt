@@ -47,7 +47,7 @@ label day05:
     TAKERU: "Good morning. I wasn't expecting you for another hour or two."
     NATSUMI: "Har har. I've decided I need to be a model student now if I've gotta pull my hopeless study buddy through all his classes."
     TAKERU: "Never again."
-    NATSUMI: Aw you're no fun."
+    NATSUMI: "Aw you're no fun."
     She tosses a pencil at me. I bat it away.
     NATSUMI: "Aha! So you are left-handed. I thought so."
     TAKERU: "I'm ambidextrous, actually."
@@ -158,7 +158,7 @@ label day05:
     TAKERU: "Honestly I don't know how my coming here would help her at all..."
     NATSUMI: "Oh yeah?"
     TAKERU: "Why would I ever go into this with you... I don't know, but I guess she's pretty fast to forgive."
-    NATSUMI: "Yep! That's my Meiko.
+    NATSUMI: "Yep! That's my Meiko."
     NATSUMI: "Wait, but what's that you're talking about exactly? More secrets, huh?"
     TAKERU: "Speaking of secrets, why did you throw that eraser at me?"
     NATSUMI: "I wanted to see what hand you catch with."
@@ -487,7 +487,7 @@ label day05:
     HIKARI: "Hm?"
     TAKERU: "Nothing."
     I take a sip of tea.
-    TAKERU: "It does remind me though...
+    TAKERU: "It does remind me though..."
     TAKERU: "Do you know anyone named Natsumi?"
     HIKARI: "No."
     The first ping of panic hits.

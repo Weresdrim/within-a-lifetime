@@ -70,7 +70,7 @@ label day09c:
     TAKERU: "Sorry, I... I should probably pay attention to class is all."
     HIKARI: "I doubt you could even tell me what class this is."
     It's physics. I know I have physics right after homeroom. I remember that much. But I keep quiet so I don't end up embarassing myself if that turns out wrong.
-    HIKARI: "I'm starting to think it's that you'd rather not see me.
+    HIKARI: "I'm starting to think it's that you'd rather not see me."
     TAKERU: "That's not..."
     HIKARI: "Think about it. I told you what stacks up to be my biggest secret. That I'm not actually here. That took a lot of faith. I had to trust you wouldn't up and leave me."
     HIKARI: "Well you didn't jump out of your chair and run screaming immediately, but..."

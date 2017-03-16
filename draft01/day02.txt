@@ -83,7 +83,7 @@ label day02:
     HIKARI: "Afraid not."
     HIKARI: "I know it's a little taboo to ask, but what brings you to Mirako? You said you were a transfer, right?"
     TAKERU: "Yeah, I transfered in for health reasons, but..."
-    HIKARI: "It's alright if you don't want to talk about it.
+    HIKARI: "It's alright if you don't want to talk about it."
     I don't know why I'm so self-conscious about my schizophrenia. As long as I take those pills once a day, it's supposed to be a small part of my life.
     But every once in a while I start to see the corners fray.
     That dream this morning for instance. Or those times I'm left alone and my thoughts get wrapped into some tangled mobius.
@@ -190,7 +190,7 @@ label day02:
     MEIKO: "Wow, you're already busy. I'm glad you're adjusting well."
     Her smile looks genuine enough.
     TAKERU: "Er, thanks."
-    MEIKO: "How about tomorrow then? There aren't any classes but I'll need to come in to school for the student council meeting. I should be free afterwards though. How about it?
+    MEIKO: "How about tomorrow then? There aren't any classes but I'll need to come in to school for the student council meeting. I should be free afterwards though. How about it?"
     TAKERU: "That sounds fine. Don't feel obligated to do anything for me, though. I know we didn't well, when..."
     She only laughs in return. Am I the only one that finds this at all uncomfortable?
     MEIKO: "You worry too much. How about I meet you at Mirako after lunch and we'll walk to town?"
