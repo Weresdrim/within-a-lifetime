@@ -23,7 +23,7 @@ public class Main {
 	
 	private static String DEFAULT_INIT_FILENAME = "init.rpy";
 	private static String DEFAULT_IN_DIRNAME = ".";
-	private static String DEFAULT_OUT_FILENAME = "game.rpy";
+	private static String DEFAULT_OUT_FILENAME = "script.rpy";
 
 	/**
 	 * Entry point. Usage:

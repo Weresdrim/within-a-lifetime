@@ -62,7 +62,7 @@ label day01:
     It feels like I've been hit in the gut. There's no going back.
     
     I pick up the other card.
-    "Welcome to Mirako High School - A Sanctuary from the World"...
+    "Welcome to Mirako High School - A Sanctuary from the World..."
     There's a winding road pictured. That's right, it's in the countryside somewhere. I think up north.
     Greenery lines the guardrail, and above on a hill, a school of glass and white walls.
     I wonder if that was intentional. The polished look almost reminds me of the sterile interior of my current room, this holding cell where I'm confined.
@@ -142,7 +142,7 @@ label day01:
     This is all a collosal mistake. I should be back at Tohoku right now, scorned by everyone but at least being able to dress myself in the morning.
     KENTA: "When I woke up your clothes were everywhere, so I helped you out. It wouldn't be good if you woke up on your first day and didn't know where any of your clothes were."
     TAKERU: "Kenta I have no idea where my clothes are."
-    KENTA: Everything's right there."
+    KENTA: "Everything's right there."
     He gestures at his dresser like it's the most obvious thing in the world.
     KENTA: "This drawer is for darks."
     He tosses me a uniform top.
@@ -282,43 +282,43 @@ label day01:
     TAKERU: "There we go... Let's get the curtains opened."
     And I leap back in shock. Please tell me I'm not seeing things again.
     TAKERU: "H-hello."
-    GIRL: "Hello?"
+    ???: "Hello?"
     TAKERU: "Sorry, I could've sworn there was nobody in here, I don't know why I needed to open the curtains, but truth is I'm just a little lost, and..."
     She doesn't seem to be paying me any attention.
     If someone had wandered into my room, tripped over the furniture, then missed with the curtains, I think I'd at least pay attention to their stuttering introduction.
     TAKERU: "I'm Ichiro Takeru. This is my first day here."
-    GIRL: "Welcome."
+    ???: "Welcome."
     She doesn't introduce herself, nor does she put any sort of inflection into her voice at all.
     I really don't think I'm welcome here.
     She's seated at the low table, so I figure if I'm about to ask for instructions on how to get out of this run down wing of the building and back to my homeroom, I might as well seat myself as well.
     TAKERU: "Sorry I barged in. I was just looking for someone who knew their way around. You look like you're here a lot."
-    GIRL: "..."
+    ???: "..."
     She does look like the sort of person that would wait out their mornings in this dusty room. Her whole being seems to sum up the concept of dust.
     Her uniform is clearly Mirako, but it seems almost as faded as the surrounding bookshelves and cabinets.
     And maybe lurking in these unlit classrooms is how she managed to pick up her complexion.
     TAKERU: "I'm in 3B. Do you know how I'm supposed to get there from here? I know it's a bit late..."
     Actually, it'll definitely be late. Is it okay for her to sit around here? What was she even doing when I walked in?
-    GIRL: "Hm, well... It's a little unfamiliar, but you saw the stairs at the end of the hall?"
+    ???: "Hm, well... It's a little unfamiliar, but you saw the stairs at the end of the hall?"
     TAKERU: "Yeah."
-    GIRL: "Go upstairs and head left and you'll be in the new building. It's the first door on the right."
+    ???: "Go upstairs and head left and you'll be in the new building. It's the first door on the right."
     She gestures upwards in the general direction. It's a weird motion, not weak, but like she doesn't have great motor control. Or maybe only someone with my background would notice that.
-    GIRL: "Does that make sense?"
+    ???: "Does that make sense?"
     TAKERU: "Definitely. Thanks, you're a lifesaver... and you didn't mention anything about meter distances either."
-    GIRL: "Hm?"
+    ???: "Hm?"
     TAKERU: "Sorry, it wasn't anything."
     She doesn't seem like she'd be particularly interested in an explanation.
     In fact she looks positively disinterested. Is she really staring out the window?
     Now that I at least know where I'm going, I start to feel a little more like myself.
     TAKERU: "So this is a tea room I guess? Do you come here every morning?"
-    GIRL: "It's not like there's anywhere else to be."
+    ???: "It's not like there's anywhere else to be."
     TAKERU: "Er, right."
     TAKERU: "I should really get to homeroom. Thanks again."
-    GIRL: "Any time."
+    ???: "Any time."
     Zero enthusiasm.
     TAKERU: "I'll have to return the favor later, but er, I didn't catch your name."
-    GIRL: "Even if I told you, it wouldn't matter."
+    ???: "Even if I told you, it wouldn't matter."
     TAKERU: "What?"
-    GIRL: "Goodbye."
+    ???: "Goodbye."
     I want to ask more but I'm clearly being ushered out.
     TAKERU: "Shouldn't you be getting to class as well?"
     But I more mutter it to the hallway's wall than to the strange girl behind it.
@@ -330,15 +330,15 @@ label day01:
     Finally I'm outside 3B.
     Of course, between wandering around those unused classrooms and that terse encounter with the dusty girl, I'm well past fashionably late.
     Inside, everyone is seated and I can hear the teacher addressing the class.
-    TEACHER: "...so please keep the application deadlines in mind when thinking ahead to the festival this year."
-    TEACHER: "One other bit of news -- we were supposed to have a new student today, although he doesn't seem to have shown up."
-    TEACHER: "Maybe if I could have one of you check in the office..."
+    STAFF: "...so please keep the application deadlines in mind when thinking ahead to the festival this year."
+    STAFF: "One other bit of news -- we were supposed to have a new student today, although he doesn't seem to have shown up."
+    STAFF: "Maybe if I could have one of you check in the office..."
     It's now or never. I steel myself and walk in.
     TAKERU: "Sorry, I was a little lost, and..."
     Everyone's eyes are on me now.
-    TEACHER: "Ahh, you must be Ichiro Takeru."
+    STAFF: "Ahh, you must be Ichiro Takeru."
     TAKERU: "Right."
-    TEACHER: "Right on time, how about you introduce yourself then?"
+    STAFF: "Right on time, how about you introduce yourself then?"
     TAKERU: "E-er... Hello."
     I can only stare back at these faces. I'll be spending the rest of the year with these people.
     When was the last time I talked to a big group like this that didn't already know be as the one and only Ichiro Takeru?
@@ -347,21 +347,21 @@ label day01:
     No doubt that's all they see now. Who's the new guy? He seemed weird, maybe a mute?
     Hm probably not. Maybe he has anxiety attacks? Or one of those new seizure conditions?
     Is this the reputation I want?
-    TEACHER: "You could start with your name."
+    STAFF: "You could start with your name."
     TAKERU: "Right. I'm Ichiro Takeru, but I guess you all already knew that. Takeru is fine. It's nice to meet - "
     Almost as soon as I remember how to talk like a human, I see one face in the sea of many.
     Turquoise eyes. Shoulder-length brown hair. 
     I know her. At least I knew her a long time ago, or someone like her.
     It can't be her, can it?
     And just like that I'm struck dumb again. I'm saved by the teacher.
-    TEACHER: "Where did you transfer from? Any hobbies?"
+    STAFF: "Where did you transfer from? Any hobbies?"
     TAKERU: "Er, it was nowhere special, just public school in my hometown. My only hobby really is base - "
     I cut myself off. I don't have hobbies any more.
-    TEACHER: "Baseball?"
+    STAFF: "Baseball?"
     TAKERU: "No, I don't do anything like that. I'm more into..."
     Into what? I've already mortally wounded my chance at a social life at this point so why does it matter if I bail myself out of this one?
-    TEACHER: "That's great Takeru. Everyone, please make Takeru feel welcome.
-    TEACHER: "Now we're a bit behind schedule, so if you'd take your seat..."
+    STAFF: "That's great Takeru. Everyone, please make Takeru feel welcome."
+    STAFF: "Now we're a bit behind schedule, so if you'd take your seat..."
     Thank the lord. Ichiro Takeru, the permanent social outcast and definitely a maladjusted psychiatric case takes his seat.
     I do my best to avoid eye contact with that green-eyed girl in the back.
     In the end my desk is in the same row, only one seat away from hers, but I do my best.
@@ -414,7 +414,7 @@ label day01:
     I was planning on maybe eating with him, at least to ease myself into daily life here, but Kenta stands there, almost at attention, waiting for the next question.
     TAKERU: "Hey, Kenta..."
     KENTA: "Hello."
-    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? Purple ribbon in her hair?
+    TAKERU: "Right. Do you know a girl in 3B, about my height, green eyes? Purple ribbon in her hair?"
     TAKERU: "She wouldn't look out of place as a doctor or maybe as a girls' school instructor somewhere."
     KENTA: "A green-eyed girl that looks like a doctor?"
     TAKERU: "That was a dumb description, I just mean she just... looks like she has everything together is all."
@@ -466,13 +466,13 @@ label day01:
     I don't even see anyone in this entire hallway.
     Nothing for it. I leave the last room in the wing and step into the hall, but no sooner then I'm a foot out the door...
     SMACK.
-    GIRL: "Woah!"
+    ???: "Woah!"
     I'm knocked to the floor by a mighty blow from behind.
     The ceiling spins.
     Am I seeing stars? Everything's so white...
     No, wait, those aren't stars. It's raining white looseleaf paper.
     With a light scuffling, finally the last piece lands on the floor, revealing a girl standing in front of me.
-    GIRL: "Are you alright?"
+    ???: "Are you alright?"
     She's a head smaller than me. She knocked me down, but stands there like it was nothing.
     TAKERU: "Just... kind of confused."
     She lends me a hand.

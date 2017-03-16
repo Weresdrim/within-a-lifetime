@@ -52,21 +52,9 @@ public class CombinatorJob {
 			
 			writer.write(DISCLAIMER_MESSAGE + "\n\n");
 			
-			File initFile = new File(initFilename);
-			BufferedReader initReader = new BufferedReader(new FileReader(initFile));
-			cat(initReader, writer);
-			
 			for (File file : recursivelyListFiles(new File(inDirectoryFilename))) {
-				// don't double-write init if it happens to be in the dir
-				if (!file.getAbsolutePath().equals(initFile.getAbsolutePath())) {
-					BufferedReader reader = new BufferedReader(new FileReader(file));
-					int extensionIndex = file.getName().lastIndexOf(".");
-					String extension = "";
-					if (extensionIndex > 0) {
-						extension = file.getName().substring(extensionIndex + 1);
-					}
-					cat(reader, writer, FilenameU);
-				}
+				BufferedReader reader = new BufferedReader(new FileReader(file));
+				cat(reader, writer, file);
 			}
 			
 			writer.close();
@@ -99,13 +87,19 @@ public class CombinatorJob {
 	 * @throws	IOException			If there's an error reading/writing or extension is unknown
 	 * @param	reader				The reader to read from
 	 * @param	writer				The writer to write to
-	 * @param	extension			The file extension of the read file, determines convert mode
+	 * @param	file				The file being converted, for extension harvesting
 	 */
-	protected void cat(BufferedReader reader, BufferedWriter writer, String extension) throws IOException {
+	protected void cat(BufferedReader reader, BufferedWriter writer, File file) throws IOException {
+		int extensionIndex = file.getName().lastIndexOf(".");
+		String extension = "";
+		if (extensionIndex > 0) {
+			extension = file.getName().substring(extensionIndex + 1);
+		}
+		
 		while (reader.ready()) {
 			String line = reader.readLine();
 			if (extension.equals(EXTENSION_CONVERT)) {
-				String convertedLine = convertLine(line);
+				String convertedLine = convertLine(line, file);
 				writer.write(convertedLine);
 			} else if (extension.equals(EXTENSION_LITERAL)) {
 				writer.write(line);
@@ -121,14 +115,15 @@ public class CombinatorJob {
 	 * simplicity's sake, just a straight if chain. Supports only literals, dialog lines, and
 	 * monologue lines.
 	 * @param	sourceLine			The source line to convert, in psy format
+	 * @param	file				The file being converted, just for context
 	 * @return						That line in rpy format
 	 */
-	protected String convertLine(String sourceLine) {
+	protected String convertLine(String sourceLine, File file) {
 		String converted = sourceLine;
 		
 		if (converted.trim().length() == 0) {
 			// whitespace lol
-		} else if (!converted.startsWith("label")) {
+		} else if (converted.startsWith("label")) {
 			// label literal, should be the /only/ thing not indented
 			if (!converted.endsWith(":")) {
 				converted += ":";
@@ -140,15 +135,21 @@ public class CombinatorJob {
 					// line began with a lowercase character, no doubt it's a rpy literal
 					// please don't do anything mega ungrammatical like this with the monologue
 					// (no need for more processing)
+				} else if (sourceLine.trim().charAt(0) == '"') {
+					// a choice, probably
 				} else {
 					// monologue line
-					converted = "\"" + converted + "\"";
+					converted = converted.replace("\"", "\\\"");
+					converted = leadingWhitespace(converted) + "\"" + converted.trim() + "\"";
 				}
 			} else {
 				// spoken line
 				String lowerSpeaker = speaker.toLowerCase();
 				converted = converted.substring(converted.indexOf(":") + 1, converted.length());
-				converted = lowerSpeaker + " " + converted;
+				converted = leadingWhitespace(sourceLine) + lowerSpeaker + " " + converted.trim();
+				if (!converted.endsWith("\"")) {
+					System.out.println("Line missing closing \"\n  " + file.getName() + " :: " + converted);
+				}
 			}
 		}
 		
@@ -202,5 +203,19 @@ public class CombinatorJob {
 		} else {
 			return speaker;
 		}
+	}
+	
+	/**
+	 * Returns the whitespace component slash indenting of a source line.
+	 * @param	line				The line to get whitespace for
+	 * @return						All leading whitespace characters in that line
+	 */
+	protected String leadingWhitespace(String line) {
+		for (int i = 0; i < line.length(); i += 1) {
+			if (!Character.isWhitespace(line.charAt(i))) {
+				return line.substring(0, i);
+			}
+		}
+		return line;
 	}
 }

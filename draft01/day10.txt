@@ -69,7 +69,7 @@ label day10:
     TAKERU: "Right. Okay. There's a ton happening, but here's a place to start."
     TAKERU: "I told you about Meiko? How I let her down?"
     HIKARI: "I heard the basics."
-    TAKERU: "I was totally wrong about her.
+    TAKERU: "I was totally wrong about her."
     Hikari has both hands out over her cup of tea. I wonder if that actually warms her up? Nevertheless, she's hanging on every word, so I might as well take this opportunity to put everything together.
     TAKERU: "She never really forgave me."
     HIKARI: "...What?"
@@ -153,7 +153,7 @@ label day10:
     TAKERU: "Is it just me or is Meiko kind of talking in circles?"
     NATSUMI: "Huh? I don't usually pay much attention, but... I guess? Maybe she's run out of material."
     TAKERU: "This isn't exactly a standup routine."
-    NATSUMI: Whatever."
+    NATSUMI: "Whatever."
     NATSUMI: "Hey! I almost forgot because you vanished yesterday, but I've got a deal for you. And it's time limited too. The tournament starts Friday."
     TAKERU: "Declined."
     NATSUMI: "You'll be intersted! I swear. So don't even think about running away at lunch."
@@ -393,7 +393,7 @@ label day10:
     HIKARI: "That's the problem. That's the other reason I came here. I needed to find you."
     TAKERU: "Oh yeah?"
     HIKARI: "This morning, I know we met..."
-    HIKARI: "It's already foggy though. Like something that happened months ago. You told me about Tohoku, and Yoshida, and Meiko, and...
+    HIKARI: "It's already foggy though. Like something that happened months ago. You told me about Tohoku, and Yoshida, and Meiko, and..."
     HIKARI: "I thought my sense of time was off, but then it turns out it's memory."
     TAKERU: "You forgot you saw me today?"
     HIKARI: "No, I know that, I know the big picture, but the details..."
@@ -405,7 +405,7 @@ label day10:
     TAKERU: "Er, I get why you're worried, but - "
     Hikari paces.
     HIKARI: "This is what I've been saying. It is the tiny things that count. That gut feeling I had that if Meiko dropped her calm, she'd already forgiven you. The surprise when you finally tricked me at chess for once."
-    HIKARI: "All the ticks that went into that conversion just now that you called confusing and boring. Those are important.
+    HIKARI: "All the ticks that went into that conversion just now that you called confusing and boring. Those are important."
     HIKARI: "Something might happen in the third act. The payoff. Fireworks. Those are all pointless without the rocky steps on the way."
     HIKARI: "There aren't any fireworks at the end for me any more. I'll just fade off. The bumps and daily drama are all I get. So understand why I'm frustrated I'm losing the details. They're all I've got."
     Hikari goes quiet for a second, but she doesn't look spent. I don't interrupt.

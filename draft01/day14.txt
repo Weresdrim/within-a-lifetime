@@ -9,7 +9,7 @@ label day14:
     Nope, definitely home. This is definitely a dorm ruled by Kenta.
     Unfortunately, with the lord and master of the laundry gone, I'll have to hunt down my clothes today.
     But then I see a shirt and pants set out on the dresser, along with a piece of paper.
-    TAKERU: "Is this a note...?
+    TAKERU: "Is this a note...?"
     TAKERU: "Of course not."
     It's a grid with today's date at the top and blocked out into hour chunks. It's a schedule. Looks like Kenta's penciled in some modifications.
     Lunch and every class is labeled, then time for other work, but in the morning blocks...
@@ -233,7 +233,7 @@ label day14:
     HAGAMI: "That's..."
     I'm used to Hagami not finishing her sentences, but something about the way she's squinting about me makes me feel uncomfortable.
     HAGAMI: "We'll be late."
-    TAKERU: "What?
+    TAKERU: "What?"
     TAKERU: "Oh right, class. I'll see you at lunch?"
     HAGAMI: "We'll talk."
     TAKERU: "Yeah. Okay sounds good. I hope you have good news."
@@ -476,7 +476,7 @@ label day14:
     TAKERU: "Huh. I didn't realize I was that annoying to her... Yeah, maybe I should just - "
     NATSUMI: "I was just kidding around. You should know not to take me that seriously."
     TAKERU: "Oh."
-    NATSUMI: "Are you really worried about pissing her off though? She's the one that seems like she's always trying to talk to you.
+    NATSUMI: "Are you really worried about pissing her off though? She's the one that seems like she's always trying to talk to you."
     TAKERU: "Really?"
     NATSUMI: "Don't tell her I said this, but she does seem different when you're around. Less, uh..."
     NATSUMI: "Tough to say. She seems more like a woman of iron than a woman of steel."
@@ -559,7 +559,7 @@ label day14:
     I tried to be helpful for once in my miserable life so no doubt I've managed to offend her and blow the fireworks things at the same time.
     But then... Meiko's not going anywhere. Almost like she fell asleep.
     Finally:
-    MEIKO: "I needed to hear that. I'll do it for her.
+    MEIKO: "I needed to hear that. I'll do it for her."
     TAKERU: "You were close, right? Friends? I guess I didn't realize just how much you really did remember her."
     MEIKO: "Friends... You could say..."
     Quiet again.

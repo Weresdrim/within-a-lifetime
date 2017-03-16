@@ -11,4 +11,8 @@ define unknown = Character('???', show_two_window=True, color="#dfdfdf")
 
 label start:
 
+    $meiko_route = 1
+    $hikari_route = 0
+    $hagami_route = 0
+
     jump day01

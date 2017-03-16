@@ -71,7 +71,7 @@ init -1 python hide:
         ## The background of the main menu. This can be a color
         ## beginning with '#', or an image filename. The latter
         ## should take up the full height and width of the screen.
-        mm_root = "Bedroom.png",
+        # mm_root = "Bedroom.png",
 
         ## The background of the game menu. This can be a color
         ## beginning with '#', or an image filename. The latter
@@ -173,13 +173,13 @@ init -1 python hide:
 
     ## Sounds that are used when button and imagemaps are clicked.
 
-    style.button.activate_sound = "click.wav"
-    style.imagemap.activate_sound = "click.wav"
+    # style.button.activate_sound = "click.wav"
+    # style.imagemap.activate_sound = "click.wav"
 
     ## Sounds that are used when entering and exiting the game menu.
 
-    config.enter_sound = "click.wav"
-    config.exit_sound = "click.wav"
+    # config.enter_sound = "click.wav"
+    # config.exit_sound = "click.wav"
 
     ## A sample sound that can be played to check the sound volume.
 
@@ -187,7 +187,7 @@ init -1 python hide:
 
     ## Music that is played while the user is at the main menu.
 
-    config.main_menu_music = "Serenity.mp3"
+    # config.main_menu_music = "Serenity.mp3"
 
 
     #########################################

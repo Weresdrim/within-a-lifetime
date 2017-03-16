@@ -100,7 +100,7 @@ label day09b:
     MEIKO: "Hm?"
     TAKERU: "For worrying about me. I'm trying to think where I'd be without you."
     MEIKO: "Without me?"
-    TAKERU: "At Mirako, I mean. 
+    TAKERU: "At Mirako, I mean."
     TAKERU: "I didn't know anyone. Coming from Tohoku, it was... I couldn't tell anyone about that, so, just having someone around that understood that..."
     TAKERU: "I'm not sure where I'm going with this, but, I was just entirely lost for a while, especially before I came to Mirako."
     TAKERU: "If I didn't run into you I'd probably be out, I don't know, catching frogs with Kenta today. Or locked up in my room feeling sorry for myself."

@@ -86,7 +86,7 @@ label d15_hikari:
     TAKERU: "What are you doing out here?"
     HIKARI: "I know what's going to happen, Takeru. I overheard all of it, with you and Hagami."
     TAKERU: "I'm a coward. Saying to your face that you... That tonight you'd probably... Why'd it have to be you?"
-    TAKERU: "I'm sorry.:
+    TAKERU: "I'm sorry."
     HIKARI: "That's alright. When I said I wanted you to be honest with me, I really did mean it back then."
     TAKERU: "You're braver than me."
     HIKARI: "I thought I could handle it, but then, I saw Meiko, and..."

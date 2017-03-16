@@ -353,7 +353,7 @@ label day15:
         Maybe not. I hope she doesn't skip the festivities, though. Maybe it's selfish of me, but I was looking forward to seeing her today, not just her performance.
         I'll have to ask Mana. I'm peering into the growing crowd looking for her, when I sense someone, something, behind me.
     
-    if hikari_route
+    if hikari_route:
         I'm left alone to man the booth while Kenta and Natsumi haul the desk. Hopefully with all her hyperventilating Mana still remembers where to lead them.
         A few of the early-comers stop by. It's tough to field questions while trying to squeeze together my two boards, but most of the visitors are just confused as to why there's a wooden bedroom set in the middle of the gym.
         Somewhere in the distance, I hear the principal on the loudspeaker. I guess that must be the opening ceremonies, but checking my watch, Kenta's boards need two more minutes of pressure. I'll stay here.
@@ -361,7 +361,7 @@ label day15:
         And of course, whenever I spot someone I know from class, I duck behind a cabinet. No way I'm trying to explain this whole setup. As long as my classmates and the Mirako residents don't show up at the same time, I'll be fine.
         That's what I'm thinking, crouched behind Natsumi's advertisement sign, when someone taps me on the shoulder.
         
-    if hikari_route or hagami_route
+    if hikari_route or hagami_route:
         TAKERU: "Gaah!"
         NATSUMI: "So what're you up to there, Takeru?"
         TAKERU: "Oh, it's just you."
@@ -1298,7 +1298,7 @@ label day15:
         MEIKO: "Hm, then keep looking out for her."
         TAKERU: "What?"
         But Meiko just smiles. Before I can ask what she means, she turns away.
-        MEIKO: "Pardon, but I need to go check on a few items. I might be a bit, so let Natsumi know.
+        MEIKO: "Pardon, but I need to go check on a few items. I might be a bit, so let Natsumi know."
         TAKERU: "Hang on, you're going where?"
         MEIKO: "Be back later."
         TAKERU: "What..."
@@ -1348,7 +1348,7 @@ label day15:
     MEIKO: "Alright. Let's go."
     NATSUMI: "I thought it'd be Takeru that'd be uncooperative, but turns out it's even harder to keep an eye on you."
     MEIKO: "I keep my promises, even if I don't have my day all planned in a schedule like Kenta."
-    NATSUMI: "Good! That'd be scary.
+    NATSUMI: "Good! That'd be scary."
     NATSUMI: "Are you set to come back in, Meiko? It's really quiet out here."
     MEIKO: "All set."
     She heads back down the path, while Natsumi and I walk behind.
@@ -1403,7 +1403,7 @@ label day15:
         TAKERU: "Good afternoon."
         KENTA: "She's repairing the chair."
         MANA: "I'm not fixing your chair, Kenta!"
-        KENTA: "Then why are you holding that?
+        KENTA: "Then why are you holding that?"
         MANA: "I was going to beat you with the chair leg!"
         KENTA: "You need to repair the chair. If sat in it and it broke, you need to fix it. That's just the way it works."
         MANA: "You were going to auction off a chair that breaks as soon as you sit down? Then what's the chair for!?"
@@ -1898,7 +1898,7 @@ label day15:
         I tap Kenta on the shoulder.
         TAKERU: "Hey."
         KENTA: "Good evening, Takeru."
-        MEIKO: "Sorry if we're late.
+        MEIKO: "Sorry if we're late."
         NATSUMI: "Yeah, you and Takeru sure took your time."
         TAKERU: "Sorry."
         
@@ -2069,8 +2069,6 @@ label day15:
     I'll be frozen to this spot for an hour, Hagami one moment away from playing that piano forever.
     Her left hand shakes, not something I would have caught the movement if she hadn't been sitting there like a statue for almost four minutes now. Mana inhales. I guess she noticed it too.
     
-    if hikari_route or meiko_route:
-    
     if hikari_route:
         It clicks. I cup my hands together and join Mana. Meiko starts clapping a second later, then Natsumi, and slowly, painfully there's applause from the rest of the audience.
     
@@ -2214,7 +2212,7 @@ label day15:
         TAKERU: "Do we knock?"
         Mana just pulls it open.
     
-    if meiko_route
+    if meiko_route:
         MANA: "Hagami, Hagami..."
         I didn't notice before, but Mana is stuck frozen in her clap, her hands clasped together.
         TAKERU: "Do you think we should - "

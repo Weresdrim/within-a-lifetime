@@ -119,7 +119,7 @@ label day12:
     That's why my heart is pounding. I realize that nothing I know is set in stone. It can all change. But do I take that choice? Can I, now, wherever I am, change what should already have happened?
     
     menu:
-        "This is just me memory. Go upstairs and open the door."
+        "This is just my memory. Go upstairs and open the door.":
             
             That's right, this is just...
             Hagami's story. I'll hear her out. I said I had to know, didn't I?
@@ -222,7 +222,7 @@ label day12:
             TAKERU: "Tonight?"
             Oh. Right. Dammit.
         
-        "It never happened. I won't hurt Hagami. Turn around."
+        "It never happened. I won't hurt Hagami. Turn around.":
     
             It's a funny feeling. Like escaping fate.
             I have no memory of it, but I turn around and walk back down the hall, away from Hagami, away from the old library.
@@ -323,7 +323,7 @@ label day12:
             Hagami smiles at me. Still low key, but not a hint of shyness in it.
             HAGAMI: "You had me worried, you know. When you didn't turn up."
             HAGAMI: "Kenta said you came this morning. And... Honestly it was a little difficult dealing with him."
-            TAKERU: "It always is. Thanks again for bailing me out.
+            TAKERU: "It always is. Thanks again for bailing me out."
             HAGAMI: "If I can help with Meiko, let me know... She put in that favor for me with the festival application so I feel like I should be grateful."
             TAKERU: "I guess."
             I try to take a moment to collect my thoughts.

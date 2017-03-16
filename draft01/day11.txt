@@ -24,7 +24,7 @@ label day11:
     KENTA: "You're back."
     TAKERU: "Yes, yes, I am. So what's with the boxes?"
     KENTA: "Oh, you missed most of the excitement."
-    TAKERU: "I'm sure there's plenty of excitement left. Is this a new hobby? Assembling cardboard boxes? Stuffing them with bubble wrap? I've never knew there was such a thing as a small parcel enthusiast.
+    TAKERU: "I'm sure there's plenty of excitement left. Is this a new hobby? Assembling cardboard boxes? Stuffing them with bubble wrap? I've never knew there was such a thing as a small parcel enthusiast."
     KENTA: "What are you talking about? They're just boxes."
     KENTA: "It's time to say goodbye to the insects. So I obviously needed a way to ship them. I wish you were here yesterday when I had to roll that bubble wrap in here."
     TAKERU: "Okay, first, you didn't actually have to roll it in here and park it behind my bed. Second, aren't your bugs already in those display cases?"
@@ -392,7 +392,7 @@ label day11:
     NATSUMI: "Let's take a walk. Or actually... Catch!"
     She tosses me a glove. Underhand, thankfully, although for a moment I have a flashback to her chucking a textbook at my face. I still don't like where this is going.
     NATSUMI: "Now catch this."
-    TAKERU: "I really wouldn't trust me with a b-baseball.:
+    TAKERU: "I really wouldn't trust me with a b-baseball."
     NATSUMI: "This one's a softball, you dope. Just catch with me a bit."
     She throws the ball overhand and my reflexes kick in. I throw it back more to get rid of the thing than anything else, but of course, Natsumi just tosses it right back.
     NATSUMI: "Don't strain yourself. Especially not if that shoulder thing is real."

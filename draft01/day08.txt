@@ -221,7 +221,7 @@ label day08:
     TAKERU: "Kenta? He's not so bad, I guess. Although sometimes I think he just assumes everyone's a clone of himself and thinks and acts the same way."
     TAKERU: "He means well, though. You just have to get to know him."
     HAGAMI: "..."
-    HAGAMI: "That's... not really something I enjoy.
+    HAGAMI: "That's... not really something I enjoy."
     She returns to her food, but, seeing me almost done, she slides a book towards me. I recognize the medical encyclopedia from yesterday.
     TAKERU: "I'm even less likely to read this than that music textbook, you know. Don't think - "
     But the book is already open, and Hagami taps on a specific page.

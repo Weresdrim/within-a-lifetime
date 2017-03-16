@@ -114,7 +114,7 @@ label d15_meiko:
     Come on, Takeru, speak up. This is where I should say something but I feel like I've just lost about 50 IQ points.
     TAKERU: "Er..."
     TAKERU: "Thanks."
-    MEIKO: "What?
+    MEIKO: "What?"
     TAKERU: "When you got me to help with the festival work, or put me into all those study sessions, I don't think that was mean of you. Er, even if you were trying to sabotage me or something, that's fine."
     TAKERU: "I didn't know anyone at Mirako and just seeing a familiar face every day was a huge help. Sometimes I still feel out of place here, but if it weren't for you I think I'd be watching the fireworks alone right now."
     TAKERU: "It was a huge comfort that I had you, and that you knew what you were doing. So... thanks."
