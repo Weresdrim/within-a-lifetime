@@ -69,6 +69,7 @@ game/saves/*
 *.rpyc
 log.txt
 traceback.txt
+errors.txt
 game/script.rpy
 
 # Java
