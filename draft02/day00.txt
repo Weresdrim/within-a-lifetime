@@ -78,28 +78,33 @@ label day00:
     TAKERU: "What, sitting in a psych ward and feeling stupid about a postcard?"
     Don't ask why I don't like this man. It's probably because he can sit there half-smiling while on the other side of the conversation, I have no idea how or if I'll ever get out of this place.
     KUNIDA: "Struggling with mental illness."
-    KUNIDA: "All of our teachers have studied psychiatry in one way or another. We're far enough out in the countryside where Mirako is a popular choice with the local kids, or anyone who doesn't quite feel like they fit in with the college testing culture that seems to be at all our schools."
+    KUNIDA: "And most of our teachers have studied psychiatry in one way or another. We're far enough out in the countryside where Mirako is a popular choice with the local kids, or anyone who doesn't quite feel like they fit in, whatever the reason."
     When I remain silent, so does Kunida, his mouth level.
-    KUNIDA: "It's your choice where you end up, but, I think Mirako can help you, if nowhere else can.
+    KUNIDA: "It's your choice where you end up, but, I think Mirako can help you, if nowhere else can."
     KUNIDA: "By the way, the front desk told me to give this to you."
     TAKERU: "Another letter?"
-    This one isn't some promotional pamphlet. It's hand-leterred, with no return address. As Kunida hands it off to me, his hand lingers for a moment, but he ultimately sighs and hands it over. We both stare at the return address, and I don't know if it means anything to him as it means to me... but the author of this letter is my old captain, Okahata Jun.
+    This one isn't some promotional pamphlet. It's hand-leterred, with no return address. As Kunida hands it off to me, his hand linger on the envelope for a moment, but he ultimately sighs and hands it over. We both stare at the return address, and I don't know if it means anything to him as it means to me... but the author of this letter is my old captain, Okahata Jun.
     KUNIDA: "Fan mail, I guess. Did you know him from... before your diagnosis?"
     TAKERU: "I only got a diagnosis a week or two ago."
     KUNIDA: "Then... I'd advise you not to open the letter."
-    I'm about to question this man, this total stranger standing in my room, when he sighs himself and says:
-    KUNIDA: "You don't have to understand, but I wouldn't open it. Most people don't have the perspective you have, admitted here, at a psych ward, at - "
-    KUNIDA: "Well, I left another of Mirako's brochures. Take a look. I promise if you decide to come to our school, we'll d everything we can to make sure you fit in here."
-    I want to hate him for condescension or for insincerity in his eyes but I can't read him at all and instead I find myself studying the Mirako brochure.
+    I'm about to question this man, this total stranger standing in my room, when he mumbles to himself then says:
+    KUNIDA: "You don't have to understand, but I wouldn't open it. Most people don't have the perspective you have, admitted here, at a psych ward, so - "
+    KUNIDA: "Well, I left another of Mirako's brochures. Take a look. I promise if you decide to come to our school, we'll d everything we can to make sure you're comfortable."
+    I want to hate him for condescension or for insincerity in his eyes but I can't read him at all.
+    Instead I find myself studying the Mirako brochure.
     TAKERU: "'A refuge away from it all...'"
     Kunida stands up.
     KUNIDA: "You'll find my number at the end of that paper if you need me. You've got an important choice ahead of you, so... If there's any doubt, I hope I can help you."
-    But I hardly here that. I'm more glad this intruder is gone.
+    But I hardly hear that. I'm more glad this intruder is gone.
     ...even if I can't help looking at this paper he left.
-    If I'm honest, it doesn't matter where I'm going, I just want to get out of this gray purgatory that I'm trapped in now, no one to talk to, nothing changing, nothing to look forward to except the wakeup howling of the woman across the hall.
-    I tear the postcard Tohoku into four pieces. The letter from "Okahata Jun" I tear down the middle.
-    Neither of those items were addressed to the real me. When I stare at the fragmented paper in the trash, I feel empowered -- leaving all that negativity behind -- but at the same time, what lies ahead?
+    It's not like there's anything else to do here... No one to talk to, nothing changing, nothing to look forward to except the wakeup howling of the woman across the hall.
+    I tear the postcard Tohoku into four pieces. The letter from "Okahata Jun" I tear down the middle, pause, then shred into ribbons.
+    It's only once the thousand pieces are in the garbage that I try to figure out why I just did that.
+    While I'd love to say it felt empowering or that I was somehow leaving that world and that author behind, but...
+    TAKERU: "Damn it."
+    I don't want to go to some new school in the mountains. I want to go back to Tohoku and my friends, before anyone told me I was schizophrenic, before I had to make decisions like these and my biggest worry was my top MPH.
+    It's not possible, obviously. My scholarship is gone. My friends have made it clear they're no longer my friends. Tohoku is behind me and Jun's letter is in the trash.
     The Mirako card flips over and over again in my hand.
-    I want to leave it all behind and start a new life. The "where" hardly matters. This clinic is a hell-world I just want to leave far behind.
+    At about the tenth flip I stop caring about where I'm going. Mirako's as good as anyplace else. It doesn't matter where I'm going, I just want to get out of this gray purgatory that I'm trapped in now.
     
-    
+    jump day01
