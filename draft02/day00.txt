@@ -1,0 +1,110 @@
+label day00:
+
+    It's not a memory, exactly. Not a dream, either. I'm just back on the pitcher's mound again.
+    If I remember correctly, it's the last practice of the year. It's Tohoku Highschool, so baseball is a big enough deal where even our practices have an audience. Especially the ones where I'm pitching. My audience sit, a few in the dugout, a few on the benches on the third base line. All watching me of course.
+    It's hard to describe the feeling when I'm up here. Everyone around me looks so small. Insects. Some of them might as well be. Anyone here without an athletic scholarship isn't worth the time. Up here on the mound, not even my teammates are good enough. In what has to be the top baseball school in the country, I'm what has to be the best propsect in a decade.
+    The wind is a dull roar in the back of my mind. The trees, barren in the winter, creak and sway in the backfield. I'm staring into the gray afternoon sky, looking at some point to the right of the catcher, Furukawa. He keeps signaling.
+    UNKNOWN: "Hey Takeru, you gonna pitch or what?"
+    UNKNOWN: "I'm freezing down here!"
+    Jun is up to bat. He's never liked me. Probably just insecure that he's the captain and I'm some first year, and I'm already attracting scouts, already better-liked than him, already have my career laid out for me. Jealousy is such an ugly thing and still I see it in all of my teammates. At least with everyone else on the team, their jealousy just drives them to befriend me. Only Jun seems to show contempt.
+    I remember him at the locker room, less than an hour ago, talking at me. I don't care what he was saying and every time I hear his words now they blend into that rush of wind. I don't care what Furukawa is signaling me to throw, either. The wind drowns him out as well as I glance to my fans on the bench, then deliver the next pitch.
+    
+    menu:
+        "Cutter":
+        "Split-finger":
+        "Four-seam":
+        
+    I'll place this one...
+    
+    menu:
+        "Middle in":
+        "Down and away":
+        "Up and in":
+        
+    All of them on the bench blur.
+    I hate being undermined and I know Jun is working against me and if he didn't want this I don't understand why he argued with me in the first place but now I know I'm justified if I deliver which is why I made my choice the way I made it and I regret nothing as the ball leaves my hand and it all irrevocably changes but at first I don't understand why -
+    For one thing, I don't understand that screaming. Nor do I understand the way my friends and teammates gawk at me.
+    I may be the most talented but I am not the most perceptive which I why I think they must have all understood this all well before me and why they must understand why I have chosen to act now and so what must be so obvious that someone who swears he is my captain and swears he is my friend but continues to undermine me is an enemy of mine so -
+    All that blurring around me stops and I just hear the wind now. The wind and screaming. Screaming? The wind is a dull roar in the back of my mind. The trees, barren in the winter, creak and sway in the backfield. I'm standing on the pitcher's mound, just trying to find out why, or what, or -
+    I can't. I don't understand that screaming.
+    
+    That woman across the hall wakes me up again.
+    It's been a week in a row that I'm up before dawn.
+    By far the worst part of being at a psychiatric clinic is the other people here. My room is decent enough, well-lit and with a TV where I could catch spring traning games if I wanted to. But if I can help it, I never leave my room here or I'll run into people like that lady across the hall who insists on waking up the whole wing by screeching at the top of her lungs at seven in the morning.
+    Without anything else to do, I stand up.
+    My schedule is sparse today. My usual shrink is out of town on holiday. The only person I have to deal with today is a Mr. Kunida, some out-of-towner that no one has mentioned before. There's a couple hours before then to kill.
+    The woman across the hall finally shuts up but I'm still trapped in here. I guess if I really wanted to I could leave the clinic, but then, where would I go?
+    There's a postcard on my nightstand. On the front is a photo Tohoku Highschool, best baseball school in the country, top in appearances at the national championship, most scouted by the majors, etc etc. I'm a student there but all they sent was this glossy postcard with a photo on the front and a form greeting on the back.
+    TAKERU: "'Wishing you the best from Tohoku Highschool! You'll be back on the field in no time!'"
+    TAKERU: "Yeah right."
+    It's the stock card they send everyone with a sports injury. I've seen over a dozen of these things, signed them all as well. The one I'm holding though doesn't even have the principal's stamp on it. How long ago was it when Furukawa broke his arm and we all doodled ourselves on his card, and came and visited him the hospital, too?
+    No one's visited me. Not even my parents, after the first week. Probably it's easier to say you have a baseball prodigy for a son, as opposed to... whatever I am now. Less than an insect.
+    I've been here long enough where I can wear something more than a hospital gown so I might as well take advantage. When I'm dressed, I take my pills.
+    TAKERU: "'Take once daily, for the rest of your natural life.'"
+    TAKERU: "Wonderful."
+    I flip through the channels on the TV. One of the doctors suggested I follow baseball spring training but it just disgusts me now. There's nothing else decent on either. I'm left to flip this stupid postcard back forth, imagining any of my friends bothered to write anything on it. That's how I'm still passing the time at noon, when Kunida shows up.
+    
+    KUNIDA: "Takeru... Hey, you're Ichiro Takeru, right?"
+    TAKERU: "Yeah."
+    KUNIDA: "Of course. Was afraid I'd gotten the wrong room there for a sec."
+    The man called Kunida smiles.
+    In the past month or so, I've seen enough people pretending to be concerned about me that I've learned to recognize when someone's faking a smile. This guy though, I'm not sure he'd be able to smile properly if he tried. I doubt he's even 30 yet but there are enough lines on his face to make his laugh sound especially forced.
+    TAKERU: "What're you here about?"
+    KUNIDA: "Ah sorry. There was a pamphlet that should've showed up."
+    KUNIDA: "I'm a science teacher at the Mirako School for the Gifted. I'd..."
+    KUNIDA: "We're prepared to offer you a spot this year, if you'd like to attend. I know changing schools can be a big experience for someone your age, and you're probably dealing with much more important - "
+    TAKERU: "Oh, yeah. Mirako? I got the pamphlet."
+    KUNIDA: "Good. If you have any questions, I - "
+    TAKERU: "I think you've made a mistake. I'm not gifted. You're in a psychiatric clinic, right now."
+    KUNIDA: "I know."
+    TAKERU: "If you think you're trying to recruit some baseball player on the cheap just because I've lost my scholarship at Tohoku, it's not going to happen. I'm not playing for you or anyone else or - "
+    KUNIDA: "Nothing like that."
+    TAKERU: "Then why are you here talking with me?"
+    KUNIDA: "Hm."
+    He's staring at the Tohoku postcard on the nightstand. I wish I'd remember to turn it around, to make it less obvious nobody signed it.
+    KUNIDA: "Takeru, did you read the brochure we sent, on life at Mirako?"
+    TAKERU: "No."
+    He's a teacher at this place, Mirako. I want him to scowl at me like all the psychologists like to do, but instead he grins with about half of his mouth.
+    KUNIDA: "Of course not. I keep trying to change the name of the place but it's a lost cause."
+    KUNIDA: "Our students are unique. Maybe not everyone's the most suited to acing their college entrance exams, but our school is for students who see there's more than that. Mirako is - "
+    TAKERU: "Sorry. You said your name was Kunida, right?"
+    TAKERU: "I know you think I'm some prodigy who got caught in a psych ward by mistake but there's something wrong with me."
+    TAKERU: "Two weeks ago they told me I'm a schizophrenic. I'm supposed to be on meds until I die or until I snap. I'm not some misunderstood genius or whatever your boss told you."
+    TAKERU: "I'm never playing baseball again for as long as I live so stop trying to recruit me to your little country school. It's not happening."
+    The other half of this guy's mouth smiles, and he takes a seat next to the nightstand.
+    KUNIDA: "I've been trying to get Mirako's name changed for as long as I've been teaching here. I'm actually a graduate myself."
+    KUNIDA: "Basically... Mirako's a place for unusual students. I don't care if 'unusual' for you means that you're talented in an area most people don't appreciate, or you think differently than most people your age..."
+    KUNIDA: "Probably a third of the student body has been where you are right now."
+    TAKERU: "What, sitting in a psych ward and feeling stupid about a postcard?"
+    Don't ask why I don't like this man. It's probably because he can sit there half-smiling while on the other side of the conversation, I have no idea how or if I'll ever get out of this place.
+    KUNIDA: "Struggling with mental illness."
+    KUNIDA: "And most of our teachers have studied psychiatry in one way or another. We're far enough out in the countryside where Mirako is a popular choice with the local kids, or anyone who doesn't quite feel like they fit in, whatever the reason."
+    When I remain silent, so does Kunida, his mouth level.
+    KUNIDA: "It's your choice where you end up, but, I think Mirako can help you, if nowhere else can."
+    KUNIDA: "By the way, the front desk told me to give this to you."
+    TAKERU: "Another letter?"
+    This one isn't some promotional pamphlet. It's hand-leterred, with no return address. As Kunida hands it off to me, his hand linger on the envelope for a moment, but he ultimately sighs and hands it over. We both stare at the return address, and I don't know if it means anything to him as it means to me... but the author of this letter is my old captain, Okahata Jun.
+    KUNIDA: "Fan mail, I guess. Did you know him from... before your diagnosis?"
+    TAKERU: "I only got a diagnosis a week or two ago."
+    KUNIDA: "Then... I'd advise you not to open the letter."
+    I'm about to question this man, this total stranger standing in my room, when he mumbles to himself then says:
+    KUNIDA: "You don't have to understand, but I wouldn't open it. Most people don't have the perspective you have, admitted here, at a psych ward, so - "
+    KUNIDA: "Well, I left another of Mirako's brochures. Take a look. I promise if you decide to come to our school, we'll d everything we can to make sure you're comfortable."
+    I want to hate him for condescension or for insincerity in his eyes but I can't read him at all.
+    Instead I find myself studying the Mirako brochure.
+    TAKERU: "'A refuge away from it all...'"
+    Kunida stands up.
+    KUNIDA: "You'll find my number at the end of that paper if you need me. You've got an important choice ahead of you, so... If there's any doubt, I hope I can help you."
+    But I hardly hear that. I'm more glad this intruder is gone.
+    ...even if I can't help looking at this paper he left.
+    It's not like there's anything else to do here... No one to talk to, nothing changing, nothing to look forward to except the wakeup howling of the woman across the hall.
+    I tear the postcard Tohoku into four pieces. The letter from "Okahata Jun" I tear down the middle, pause, then shred into ribbons.
+    It's only once the thousand pieces are in the garbage that I try to figure out why I just did that.
+    While I'd love to say it felt empowering or that I was somehow leaving that world and that author behind, but...
+    TAKERU: "Damn it."
+    I don't want to go to some new school in the mountains. I want to go back to Tohoku and my friends, before anyone told me I was schizophrenic, before I had to make decisions like these and my biggest worry was my top MPH.
+    It's not possible, obviously. My scholarship is gone. My friends have made it clear they're no longer my friends. Tohoku is behind me and Jun's letter is in the trash.
+    The Mirako card flips over and over again in my hand.
+    At about the tenth flip I stop caring about where I'm going. Mirako's as good as anyplace else. It doesn't matter where I'm going, I just want to get out of this gray purgatory that I'm trapped in now.
+    
+    jump day01
