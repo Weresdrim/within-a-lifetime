@@ -113,5 +113,83 @@ label day01:
     THUNK.
     The sound of my shinbone slamming into a low table. I fall over into the wall, tearing the curtains off the window as I barely evade a second collision with the floor.
     TAKERU: "Dammit, who put that table there, and with the window closed, practically a trap, I swear - "
-    ???: "Hello to you too. You could've at least have knocked."
+    ???: "Hello to you too."
+    TAKERU: "What the - "
+    If I wasn't already on the floor, I am now. In the light from the now curtainless window, I see the outline of a small figure seated at the table.
+    As my vision adjusts and the dust settles, I start to see her more clearly. A white-haired girl, in the Mirako uniform. She's staring at me, one eyebrow up in exasperation. Waiting for me to respond?
+    TAKERU: "Sorry, I didn't think anyone was in here."
+    ???: "You could've at least have knocked."
+    TAKERU: "I guess, I just didn't expect..."
+    ???: "You found the one closed room in this hall and decided to burst your way in without even stopping to wonder why that door was closed. Bravo."
+    TAKERU: "Er, I guess that does make sense..."
+    ???: "You'd think after two weeks all you new students would've gotten the hang of things by now."
+    TAKERU: "I'm a second year."
+    ???: "That's even worse."
+    TAKERU: "Well, I just transferred, so - "
+    ???: "Oh?"
+    She grins, but I don't think she's happy. More, she's in disbelief. I get the feeling I should probably just accept that my dignity's taken a hit and get out of here before I find out exactly what this mouthy girl was up to in here in the dark.
+    ???: "You're allowed to sit down."
+    ???: "I want to hear why exactly anyone would transfer here, to Mirako, in this day and age. It's very... curious."
+    I'm tempted to leave, but on some level I want to satisfy my own curiosity.
+    TAKERU: "It's a long story."
+    ???: "That's alright."
+    TAKERU: "It's not interesting. I used to play - "
+    I catch myself. Any time baseball comes up, these sirens go off in my head.
+    TAKERU: "I used to go to Tohoku Highschool but it turns out they'd rather not have people like me on the team so I got shipped off here."
+    ???: "Oh."
+    She's not looking at me now.
+    TAKERU: "I'm Ichiro Takeru. I didn't catch your name."
+    ???: "Not important."
+    TAKERU: "Er..."
+    ???: "You didn't catch my name because it's not important."
+    Nope, that's it. If I had more energy there'd be question marks bouncing out of my head but now...
+    TAKERU: "Alright, see you later then. I'm having a hell of a day here so I - "
+    ???: "Just call me Rin then if it's so important to you."
+    For the first time she looks on the defensive. She keeps talking like I'm intruding, but now I feel like she's afraid that I'll actually leave. I sit back down.
+    RIN: "Nice to meet you, then, Takeru. I guess you'll probably fit right in at Mirako."
+    TAKERU: "What do you mean?"
+    RIN: "Have you figured out what this place is yet?"
+    TAKERU: "No. Should I have? I've been in town for less than a day."
+    TAKERU: "Is there some joke I'm missing? Because ever since I've shown up it seems like it's been crazytown."
+    RIN: "You... kind of put your foot through it."
+    TAKERU: "What do you mean?"
+    RIN: "Crazytown."
+    She smirks. Back on offense again.
+    RIN: "The Mirako School for the Gifted is a joke."
+    TAKERU: "..."
+    RIN: "It's a school for the defective. The misfits and the mentally ill. That's why half the teachers are in psychiatry, you know..."
+    RIN: "Everyone here is too wound up in their own little world to notice, really. If you were to ask me I'd say it wasn't much better than a prison, at least when no one's paying attention."
+    RIN: "If you transferred here thinking it was some kind of special place..."
+    RIN: "Well..."
+    RIN: "Sorry if I'm boring you."
+    She doesn't look bored. She's scowling at me like I should be bored and that I'm defying her expectations is a personal insult.
+    I really should leave.
+    TAKERU: "Thanks for the... warning? Or whatever that was."
+    TAKERU: "See you around."
+    RIN: "I'm sure you won't. Goodbye, Takeru."
+    The way Rin says it, like she's throwing an accursation at me... It just seems sad. Is she trying to provoke me or am I being paranoid?
+    Either way it doesn't matter. I'm back in the hall, standing outside the old-fashioned room.
+    I pick a direction and it doesn't take me long to find the staircase up, then the staircase down, then the lobby, then the door out.
+    Maybe it was desire to get away that put me on the right direction?
+    There's something about that faint girl...
+    TAKERU: "School for the defective. huh..."
+    That's sure explain why they'd invited me.
+    I guess it sort of makes sense -- why my would-be guide ran away, why my roommate inspires bizarre notes, why this late on a Sunday I can trip over some girl camped out on campus...
+    When Kunida says "Gifted" it's just a euphemism for people like me that are too defective to be out in society or on a baseball team or wherever.
+    Right?
+    
+    That's what I'm thinking as I head down from Mirako towards the bridge back to Shizukawa. That this place isn't a refuge, it's a containment zone.
+    Maybe it's the opposite. Maybe I'm the only broken one here and that's the reason that the girl t the dorms ran away because it's so obvious to everyone around here that I'm broken and they can act however they want and behave however and I'll have no choice but to take it because I'm one of them.
+    There are those thoughts again.
+    I've come on some level to regcognize that when my ideas start to swoop in on each other and run together and feel like not my ideas at all but ideas that someone else put into my head...
+    ...that I'm starting to lose touch with what's really there. And my thinking has become confused.
+    I stop on the bridge over the river.
+    TAKERU: "Get it together."
+    It's dusk now.
+    Out on the water I spot a black ruin against the sky. Looks like some building or boathouse out on the water burned down at some point.
+    I spend at least ten minutes staring off from the bridge.
+    Like I saw from the bus, the river is completely still. There's no sound at all from the water. Nothing passes on the road, either. All I hear are crickets.
+    
+    Luckily the roads of Shizukawa are a little easier to navigate than the planless layout of the Mirako school. I'm back at the dorm within ten minutes.
+    
     
