@@ -144,30 +144,30 @@ label day01:
     ???: "You didn't catch my name because it's not important."
     Nope, that's it. If I had more energy there'd be question marks bouncing out of my head but now...
     TAKERU: "Alright, see you later then. I'm having a hell of a day here so I - "
-    ???: "Just call me Rin then if it's so important to you."
+    ???: "Just call me Hikari then if it's so important to you."
     For the first time she looks on the defensive. She keeps talking like I'm intruding, but now I feel like she's afraid that I'll actually leave. I sit back down.
-    RIN: "Nice to meet you, then, Takeru. I guess you'll probably fit right in at Mirako."
+    HIKARI: "Nice to meet you, then, Takeru. I guess you'll probably fit right in at Mirako."
     TAKERU: "What do you mean?"
-    RIN: "Have you figured out what this place is yet?"
+    HIKARI: "Have you figured out what this place is yet?"
     TAKERU: "No. Should I have? I've been in town for less than a day."
     TAKERU: "Is there some joke I'm missing? Because ever since I've shown up it seems like it's been crazytown."
-    RIN: "You... kind of put your foot through it."
+    HIKARI: "You... kind of put your foot through it."
     TAKERU: "What do you mean?"
-    RIN: "Crazytown."
+    HIKARI: "Crazytown."
     She smirks. Back on offense again.
-    RIN: "The Mirako School for the Gifted is a joke."
+    HIKARI: "The Mirako School for the Gifted is a joke."
     TAKERU: "..."
-    RIN: "It's a school for the defective. The misfits and the mentally ill. That's why half the teachers are in psychiatry, you know..."
-    RIN: "Everyone here is too wound up in their own little world to notice, really. If you were to ask me I'd say it wasn't much better than a prison, at least when no one's paying attention."
-    RIN: "If you transferred here thinking it was some kind of special place..."
-    RIN: "Well..."
-    RIN: "Sorry if I'm boring you."
+    HIKARI: "It's a school for the defective. The misfits and the mentally ill. That's why half the teachers are in psychiatry, you know..."
+    HIKARI: "Everyone here is too wound up in their own little world to notice, really. If you were to ask me I'd say it wasn't much better than a prison, at least when no one's paying attention."
+    HIKARI: "If you transferred here thinking it was some kind of special place..."
+    HIKARI: "Well..."
+    HIKARI: "Sorry if I'm boring you."
     She doesn't look bored. She's scowling at me like I should be bored and that I'm defying her expectations is a personal insult.
     I really should leave.
     TAKERU: "Thanks for the... warning? Or whatever that was."
     TAKERU: "See you around."
-    RIN: "I'm sure you won't. Goodbye, Takeru."
-    The way Rin says it, like she's throwing an accursation at me... It just seems sad. Is she trying to provoke me or am I being paranoid?
+    HIKARI: "I'm sure you won't. Goodbye, Takeru."
+    The way Hikari says it, like she's throwing an accursation at me... It just seems sad. Is she trying to provoke me or am I being paranoid?
     Either way it doesn't matter. I'm back in the hall, standing outside the old-fashioned room.
     I pick a direction and it doesn't take me long to find the staircase up, then the staircase down, then the lobby, then the door out.
     Maybe it was desire to get away that put me on the right direction?
