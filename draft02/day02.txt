@@ -1,4 +1,4 @@
-label day03:
+label day02:
 
     I wake up sweating in an unfamiliar room.
     Unfamiliar? Oh. Right, it's just my dorm. It'll be unfamiliar for a while though.
@@ -122,5 +122,3 @@ label day03:
     TAKERU: "Bye, Kenta."
     He nods at me and walks off the way we came. I'm not really sure if he thinks I'm an idiot or he just comes across as the sort of person that thinks everyone's an idiot. Tough to tell when I don't think I've seen any trace of emotion from him, either.
     This... will be a difficult living situation, to the say the least. But least he dropped me off in front of the right room.
-    
-    
