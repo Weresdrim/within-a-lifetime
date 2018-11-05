@@ -136,52 +136,65 @@ label day01:
     TAKERU: "It's not interesting. I used to play baseball at Tohoku."
     I catch myself. Any time baseball comes up, these sirens go off in my head. I make a mental note to just leave that off my little self-introduction from now on.
     TAKERU: "I used to go to Tohoku Highschool but it turns out they'd rather not have people like me on the team so I got shipped off here."
-    ???: "Oh."
-    She's not looking at me now.
+    ???: "I'm pretty good at knowing when people are lying. Not that it'd take an expert to figure out that's what you're doing right now.
+    TAKERU: "What are you talking about? I even had a scholarship at Tohoku. I was pretty damn good."
+    I feel like I'm being accused ot something. Time to change the subject.
     TAKERU: "I'm Ichiro Takeru. I didn't catch your name."
     ???: "Not important."
     TAKERU: "Er..."
     ???: "You didn't catch my name because it's not important."
-    Nope, that's it. If I had more energy there'd be question marks bouncing out of my head but now...
-    TAKERU: "Alright, see you later then. I'm having a hell of a day here so I - "
-    ???: "Just call me Hikari then if it's so important to you."
+    TAKERU: "I'm pretty sure you just didn't say it."
+    ???: "It's not important."
+    TAKERU: "Okay, that's it."
+    TAKERU: "I'll see you later. I'm having a hell of a day here so I - "
+    ???: "Just call me Hikari then if it means that much to you."
     For the first time she looks on the defensive. She keeps talking like I'm intruding, but now I feel like she's afraid that I'll actually leave. I sit back down.
-    HIKARI: "Nice to meet you, then, Takeru. I guess you'll probably fit right in at Mirako."
+    HIKARI: "Nice to meet you, then, Takeru. Maybe you'll enjoy yourself here."
+    TAKERU: "Do you not? I mean... You do go here right?"
+    HIKARI: "It's really funny to me that you ask that."
     TAKERU: "What do you mean?"
-    HIKARI: "Have you figured out what this place is yet?"
-    TAKERU: "No. Should I have? I've been in town for less than a day."
+    HIKARI: "There was a point when I was like you and thought I'd enjoy myself here, yes."
+    HIKARI: "But sooner or later you'll figure it doesn't really matter. You don't know what kind of place this is."
+    TAKERU: "No. Should I? I've been in town for less than a day."
     TAKERU: "Is there some joke I'm missing? Because ever since I've shown up it seems like it's been crazytown."
-    HIKARI: "You... kind of put your foot through it."
+    HIKARI: "You... kind of put your finger on it."
     TAKERU: "What do you mean?"
-    HIKARI: "Crazytown."
     She smirks. Back on offense again.
-    HIKARI: "The Mirako School for the Gifted is a joke."
+    HIKARI: "The reason I know you were lying about your old school..."
+    HIKARI: "Even if what you said is true, that's not why you're here. No one comes here because they're talented."
     TAKERU: "..."
-    HIKARI: "It's a school for the defective. The misfits and the mentally ill. That's why half the teachers are in psychiatry, you know..."
-    HIKARI: "Everyone here is too wound up in their own little world to notice, really. If you were to ask me I'd say it wasn't much better than a prison, at least when no one's paying attention."
-    HIKARI: "If you transferred here thinking it was some kind of special place..."
-    HIKARI: "Well..."
-    HIKARI: "Sorry if I'm boring you."
+    HIKARI "You're lying by omission. You went to some other school, you got sent to a shrink, but you were good enough at something or other that someone took pity on you and you got sent here instead of a mental hospital or wherever."
+    HIKARI: "If someone transfers in, that's their story. That's why half the teachers are in psychiatry, you know..."
+    HIKARI: "Out here everyone wants to pretend this place is a refuge, but..."
+    HIKARI: "No one is really paying attention. Whatever you were at your old school you might as well put it behind you because chances are, anyone you talk to here has they're own little narrative and their own little issues to work through."
+    HIKARI: "Enough that yours don't matter."
+    HIKARI: "If you transferred here thinking it was some kind of..."
+    HIKARI: "I don't know. You'll forget all this tomorrow when you start classes."
+    HIKARI: "Sorry to bore you."
     She doesn't look bored. She's scowling at me like I should be bored and that I'm defying her expectations is a personal insult.
     I really should leave.
     TAKERU: "Thanks for the... warning? Or whatever that was."
     TAKERU: "See you around."
-    HIKARI: "I'm sure you won't. Goodbye, Takeru."
-    The way Hikari says it, like she's throwing an accursation at me... It just seems sad. Is she trying to provoke me or am I being paranoid?
-    Either way it doesn't matter. I'm back in the hall, standing outside the old-fashioned room.
+    HIKARI: "It would surprise me if you did, but... later then."
+    I really can't tell if she's trying to provoke me by trashing the school where we're both students, or trying to warn me about something, or just having a joke at the expense of a new student.
+    She probably isn't joking though. She just seems sort of... sad.
+    Whatever. It doesn't matter. I'm back in the hall, standing outside the old-fashioned room I just left.
     I pick a direction and it doesn't take me long to find the staircase up, then the staircase down, then the lobby, then the door out.
     Maybe it was desire to get away that put me on the right direction?
     There's something about that faint girl...
-    TAKERU: "School for the defective. huh..."
-    That's sure explain why they'd invited me.
+    TAKERU: "So there are a lot of people running around here with mental issues, then..."
+    That'd sure explain why they'd invited me.
     I guess it sort of makes sense -- why my would-be guide ran away, why my roommate inspires bizarre notes, why this late on a Sunday I can trip over some girl camped out on campus...
+    While I could dismiss most of what she said, now my guard is up.
     When Kunida says "Gifted" it's just a euphemism for people like me that are too defective to be out in society or on a baseball team or wherever.
     Right?
     
-    That's what I'm thinking as I head down from Mirako towards the bridge back to Shizukawa. That this place isn't a refuge, it's a containment zone.
-    Maybe it's the opposite. Maybe I'm the only broken one here and that's the reason that the girl t the dorms ran away because it's so obvious to everyone around here that I'm broken and they can act however they want and behave however and I'll have no choice but to take it because I'm one of them.
+    That's what I'm thinking as I head down from Mirako towards the bridge back to Shizukawa. That this place is just a holding pen where they've decided to hole up all the psych cases and depressives and nutcases and baseball team rejects with loose grips on reality.
+    Maybe it's the opposite. Maybe I'm the only broken one here and that's the reason that the girl at the dorms ran away because it's so obvious to everyone around here that I'm broken and they can act however they want and behave however and I'll have no choice but to take it because -
+    Because I'm one of them and now that I'm here they recognize me as one of them but I swear I'm not I swear that -
+    That...
     There are those thoughts again.
-    I've come on some level to regcognize that when my ideas start to swoop in on each other and run together and feel like not my ideas at all but ideas that someone else put into my head...
+    I've come on some level to recognize that when my ideas start to pounce on each other and run together and feel like not my ideas at all but ideas that someone else put into my head...
     ...that I'm starting to lose touch with what's really there. And my thinking has become confused.
     I stop on the bridge over the river.
     TAKERU: "Get it together."
@@ -194,7 +207,7 @@ label day01:
     Is this what it's like out in the country? Everything dies down after dark? Who am I kidding, there probably isn't anything going on when it's light out either.
     I've forgotten the reason I'm standing here looking at nothing out on the river and decide it's time to head back.
     
-    Luckily the roads of Shizukawa are a little easier to navigate than the planless layout of the Mirako school. I could've made it back in ten minutes direct but I take my time.
+    Luckily the roads of Shizukawa are a little easier to navigate than the planless layout of the Mirako school. I could've made it back in ten minutes direct, but I take my time.
     I'm half expecting to be locked out of the dorm - (did Kunida mention a curfew?) - but the doors are open. Seems overly trusting if you ask me.
     There's only one person in the common room and she's wearing headphones.
     And she pretends not to notice me. Time to head up to my room.
