@@ -225,7 +225,7 @@ label day02:
     When it's time for lunch, I'm relieved... Until Natsumi swivels her chair with a ear-rendig screech and turns 90 degrees to face me.
     NATSUMI: "Hey Takeru."
     TAKERU: "Hi."
-    NATSUMI: "Your grabbing lunch, right?"
+    NATSUMI: "You're grabbing lunch, right?"
     TAKERU: "I guess, I mean I hadn't really thought..."
     Then I notice that the first baseman, the numbers guy, and the rest of Natsumi's team slash fan club are also turning their desks and talking that I realize I want no part in this.
     TAKERU: "Sounds great but I need to..."
@@ -250,5 +250,150 @@ label day02:
     I'm expecting stand face to face with some sort of demon but of course there's nobody there. I'd think this tearoom were long-abandoned except for the junk stacked on the corner shelves. Chess sets, paintings, papers, boxes and trinkets...
     It's extraordinaly dark. There's a window at the far end of the room, but the curtains are drawn shut.
     Taking care to avoid to low table in the center of the room, I throw open the curtains.
-    Sure enough, there's Kunida's map, sitting in the middle of the table, along with the rest of papers.
-    What I didn't expect, however, is the person sitting alongside it.
+    There's nothing on the table except a large paperback book. Which is weird enough considering I could've sworn I left all my papers there, but the weirder thing, however, is the person staring at said book.
+    In the slanted light from the window, I can only see half of her face, the rest shadowed, but it's the same girl from yesterday.
+    TAKERU: "You!"
+    HIKARI: "...Hello."
+    She's not even looking at me.
+    HIKARI: "If you were looking for someone, there's nobody else here."
+    TAKERU: "Sorry, I mean, I even knocked this time."
+    HIKARI: "This time?"
+    TAKERU: "I was here yesterday and I think I left all my papers around here. You're Hikari, right?"
+    HIKARI: "You know my name?"
+    Hikari stares at me, no longer frowning but just wide-eyed.
+    Dust drifts in the light between us. I'd probably better sit down.
+    TAKERU: "Yeah, we met less than 24 hours ago. Are you an amnesiac or something?"
+    HIKARI: "No. I guess..."
+    HIKARI: "I'm very used to other people pretending to be amnesiacs when it comes to anything to do with me."
+    TAKERU: "But you forgot me?"
+    HIKARI: "No, I remember someone was in here yesterday and dropped their things everywhere, and talking a bit, but..."
+    HIKARI: "Sorry. When everyone says the same things it starts to blend a bit."
+    HIKARI: "Your name was..."
+    TAKERU: "Takeru. I'm in 2A."
+    HIKARI: "Oh."
+    TAKERU: "And you're sure I didn't leave any papers here?"
+    HIKARI: "No, you did. You left them all over the floor."
+    TAKERU: "And a textbook?"
+    HIKARI: "No, that was definitely here at some point. You tossed it halfway across the room when you were tearing off the curtains.
+    I glance at the window. The curtains are back... or at least, halfway back. Whoops.
+    HIKARI: "It was quite the show, really."
+    It's funny, it's like some circuit clicked on and now she's smiling and bright. Just as sharp, though.
+    TAKERU: "Then what happened? You know that's what I came here for, right?"
+    It sure wasn't to run into her hiding in the dark again. In fact I took specific steps to avoid that.
+    HIKARI: "Someone took them."
+    TAKERU: "What? What do you mean? Who?"
+    HIKARI: "Oh just... somebody irrelevant."
+    TAKERU: "Well they're relevant to me if they stole all my forms! Plus my school map's in there and this place is a maze. I think I've got a lab after lunch and I have no idea where to go."
+    TAKERU: "You're sure you don't know who took them?"
+    HIKARI: "Some girl."
+    TAKERU: "That's really all you got?"
+    Hikari shrugs and offers a wry grin. It's a weirdly jerky movement.
+    HIKARI: "People tend to run together."
+    Maybe her eyesight's shot from sitting here in the dark all day. I look at the book sitting in front of her. It's full of diagrams. Some textbook?
+    TAKERU: "What are doing down here anyway? Studying?"
+    HIKARI: "No, that's just a hobby."
+    Hikari looks at the book, but makes no effort to do anything else about it.
+    TAKERU: "Well I'm sorry to intrude."
+    HIKARI: "No, I'm glad you came actually. As much as I have to do down here it can be a little monotonous."
+    TAKERU: "You enjoy it down here?"
+    HIKARI: "Not exactly but I make do. It's familiar and out of the way. It's not like I've been quarantined here."
+    TAKERU: "Not quite what I meant..."
+    I could think of several dozen places I'd rather be than down here reading in the dark.
+    One of those places would be the cafeteria, buying lunch.
+    TAKERU: "I should probably just go find my stuff."
+    HIKARI: "Before you go..."
+    TAKERU: "Huh?"
+    I've risen up to leave already, but she's still looking at where I was sitting.
+    HIKARI: "...How are things going out there, at Mirako?"
+    TAKERU: "What do you mean?"
+    HIKARI: "My perspective makes it difficult to really see how..."
+    HIKARI: "I don't see much of..."
+    She's oddly tongue-tied. And back to that monotone she had yesterday. Guess the switch turned off.
+    TAKERU: "I've only been here half a day, after all. Is this supposed to be what you were talking about yesterday? No one's accused me of belonging in a mental institution or anything."
+    HIKARI: "..."
+    TAKERU: "You were right, by the way. I was diagnosed with schizophrenia a month ago. That's when Tohoku dropped me."
+    They dropped me a bit before that, but it's all the same thing.
+    HIKARI: "I regret saying that, yesterday. Guarding your speech is an art and I've falled a bit out of practice."
+    HIKARI: "And I'm sorry to ask you such general and useless questions. Usually I'm a little more precise.
+    Hikari frowns at me for a couple seconds, but then just looks back down at her book.
+    HIKARI: "You should probably grab lunch."
+    TAKERU: "I wouldn't know how to get to the cafeteria either way."
+    HIKARI: "Grab some paper. You'll probably need this written down."
+    I get enough information from to sketch out roughly how to get to the cafeteria, back to class, to my lab, and then back to this unused room again.
+    It probably would've been easier if she had just drawn up a map but she seems to refuse to move from her spot there at the table, and I try to copy her low, rapid instructions.
+    It's funny speaking to her. I'm not ever really sure if she's talking to me or someone ten feet behind me.
+    TAKERU: "Thanks. This should keep me alive until I find whoever stole my stuff."
+    HIKARI: "You could also just ask for another map. Or for someone to show you around. Or a number of other things."
+    TAKERU: "Well, er, thanks I'll look into it."
+    HIKARI: "You'll be back, right?"
+    I'm trying to figure out how to respond to her when I notice something out of the corner of my eye.
+    Eyes... Corner...
+    There is a pair of eyes watching me from the door in the corner of the room. Someone out there is watching me.
+    TAKERU: "Hang on."
+    But when I get up and open the door, there's no one there. No one in the hall even, except for...
+    One girl at the far end, sprinting away.
+    HIKARI: "What was that about?"
+    TAKERU: "I don't know. Something about me just inspires to people run away immediately. This is the second time in two days."
+    HIKARI: "Believable."
+    HIKARI: "Enjoy your lunch."
+    TAKERU: "I'll try."
+    
+    If I have any time left, I'll try, that is.
+    Even knowing where I'm going I still have to check my notes from Hikari. I really could just ask anyone but for some reason that seems unappealing.
+    Probably just because I'm sure I must stand out now, walking around here, alone.
+    I was never the sort to just wander through the halls by myself. When I went somewhere, it was with my teammates and friends.
+    As I make my way back to class, there's chatter from groups of two or three walking here and there, but not the bustle that I always kicked off.
+    It's like that until I arrive at the entrance of our lab class, where I hear about a dozen voices all laughing and talking over each other.
+    It's Natsumi, and a bunch of guys following her around. It feels like I've stepped through a mirror and fallen on the other side. Isn't that usually... me up there?
+    Actually, I spot another familiar face. There's my roommate, Kenta, apparently halfway through an argument with Natsumi herself.
+    Guess they must know each other. I try to slip through but -
+    NATSUMI: "Hey! Hey Takeru, how's it going?"
+    TAKERU: "Oh. Alright."
+    KENTA: "Good afternoon, Takeru."
+    TAKERU: "Oh, hey Kenta."
+    NATSUMI: "Oh nice, you guys know each other?"
+    TAKERU: "Well, I wouldn't say - "
+    KENTA: "Yes, Takeru's my new roommate."
+    NATSUMI: "Neat. Shun didn't last?"
+    KENTA: "He had some very odd ideas about what being a roommate did or did not mean. I don't really know where he picked that up."
+    NATSUMI: "Some people, right?"
+    NATSUMI: "Guess you lucked into a nice situation though, eh Takeru?"
+    I want to ask her if she's joking.
+    NATSUMI: "Kenta was my math buddy last year. Top tier, would recommend."
+    KENTA: "I don't think 'buddy' the right term. That would imply an equal relationship. I think I'd call myself a tutor and you more of... I don't know. Math leech?"
+    NATSUMI: "Yep! Thanks Kenta, you're great."
+    NATSUMI: "Buuut now I'm high and dry this year."
+    KENTA: "I need to go. I don't want to be late for class."
+    NATSUMI: "Seeya."
+    He crosses the hall and enters the door across from the lab.
+    TAKERU: "Aren't there still five minutes before class?"
+    NATSUMI: "Free tip for you if you're living with Kenta: don't make him late."
+    TAKERU: "I don't know how I'm going to deal with this..."
+    NATSUMI: "What do you mean? Kenta's great, plus if you ask enough times he'll make sure you won't fail anything."
+    NATSUMI: "Did you guys grab lunch together."
+    TAKERU: "No, hardly had time to eat, I was just searching for my papers. Apparently someone stole them."
+    NATSUMI: "That explains it! I was looking for you and then you vanished."
+    NATSUMI: "Well tomorrow we'll have to catch you then."
+    For some reason she seems really literal about the whole "catch" thing.
+    Well, whatever. I find somewhere to sit and settle in for afternoon classes.
+
+    By the end of the day I'm exhausted. I was hoping that starting a couple weeks later wouldn't be such a big deal, but between the differences in Mirako and Tohoku curriculum, this is going to be an unpleasant, uphill battle.
+    At least I've sort of figured out Mirako's floor plan, at least enough to find my way out to the entrance.
+    On the way, I find myself on the second floor, on a walkway alongside the big glass paneling that make up Mirako's front.
+    It's a decent view of the school grounds. Mirako is built on what has to be the only level stretch of ground on this side of the river, and the picnic tables and odd paths that lead around the school are all on differing elevations.
+    Then past that, there's a steep drop to the road, and another drop to the river.
+    I start trying to spot that ruin I saw the other night, when I feel a sharp pressure in my shoulder, like I've been bit by an overly large mosquito.
+    TAKERU: "Ow!"
+    When I turn around, I almost don't recognize the person standing in front of me. I'm pretty sure I only caught a glance of her back as she was running away from me down in the old hallway this afternoon, but...
+    Has to be her.
+    TAKERU: "What was that for?"
+    ???: "Um er um, errr..."
+    ???: "You don't... You're actually..."
+    I'm worried she's about to take off again.
+    ???: "You're not a ghost."
+    TAKERU: "What?"
+    ???: "If you were a ghost I wouldn't have been able to touch you but..."
+    
+    
+    
+    
