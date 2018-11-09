@@ -11,8 +11,8 @@ label day02:
     KENTA: "Undou Kenta. We're roommates, remember?"
     When I refocus my eyes from the watch face to that big gray shape behind it, standing over me...
     I sit up. Sure enough, the unidentified lump from last night is now standing in the middle of the room, speaking slowly as if I'm about five yeards old.
-    KENTA: "You are Ichiro Takeru, correct? Good morning."
-    TAKERU: "Yeah... Hi. Good morning."
+    KENTA: "You are my roommate, correct? Good morning."
+    TAKERU: "Yeah... Hi. I'm Ichiro Takeru. Good morning."
     TAKERU: "You can talk to me normally, you know. I'm not stupid."
     KENTA: "Are you sure?"
     TAKERU: "What kind of a question is that?"
@@ -48,8 +48,10 @@ label day02:
     I reach for the drawer, but -
     KENTA: "Top clothes drawer. That's the top drawer of the dresser, but not the top clothes drawer, which is one below."
     TAKERU: "What's in there then?"
-    When I open it, the drawer rattles. Or rather, the contents clang rattle. Instead of socks or ties or whatever I was expecting, there's a pile of spare change.
-    KENTA: "Careful there. If you open it too fast you'll disturb my coin collection."
+    When I open it, the drawer rattles. Or rather, the contents rattle. Inside are about two hundred coins of various age, currency, and color, all sitting on stands and facing diagonally up out of the drawer.
+    There's a single second where they all gleam in the artificial light before the momentum of the opening drawer sends the first row over. Then the next, then the next, and the whole set domino collapses into a pile of change.
+    TAKERU: "What the - "
+    KENTA: "Please be careful. This is what happens when you open the collection drawer too fast."
     I'm getting that feeling again, that there's something beating into the back of my brain and I'll really wake up back in the clinic and start laughing about this terrible terrible nightmare I had.
     TAKERU: "Why? Why is your coin collection my dresser drawer?"
     KENTA: "It's technically the overflow. Most of my collection is in the other dresser over there but I ran out of room."
@@ -186,15 +188,15 @@ label day02:
     NATSUMI: "Yeah but Meiko's the best, she'd be down to switch just for exam day."
     NATSUMI: "If she weren't such an honor student I'd just copy off her but I guess no one's perfect."
     A few people behind me laugh. When did they start watching me I'm sure I didn't know these guys why are they listening in on - 
-    NATSUMI: "Oh, yeah, hey, this is Makoto, my first baseman. And back there is Hiro, he's a pinch runner but mostly just my stats guy. Moneyball, right? And - "
-    I introduce myself to about five other people. All guys, and all apparently teammates or hangers-on of Natsumi.
-    It looks like I've actually sat myself right down into the social center of 2A.
+    NATSUMI: "Oh, yeah, hey, this is Makoto, my first baseman. And back there is Hiro, he's a pinch runner but when we need a backup catcher he's great. And - "
+    I introduce myself to about five other people. All guys, and all apparently teammates or hangers-on of Natsumi. I can't make eye contact with any of them.
+    It figures that I've actually managed to seatt myself right into the social center of 2A.
     But that's to be expected, right? At Tohoku, Jun wasn't captain because he was the best player, he was the captain because everyone knew him.
     He might not have been the best but I don't think he held it against me or if he did he tried not to show it he tried but -
     No.
     I note that in addition to avoiding anything baseball-related, I should also avoid Natsumi and anything Natsumi-related.
     It always seems like that always leads to those racing thoughts.
-    NATSUMI: "So you'll come check out a practice some time, yeah?"
+    NATSUMI: "So you'll come check out a practice some time, yeah? Tryouts are through but we're pretty flexible."
     TAKERU: "Er..."
     TAKERU: "Sure."
     And by 'sure' I mean never.
@@ -292,7 +294,7 @@ label day02:
     Maybe her eyesight's shot from sitting here in the dark all day. I look at the book sitting in front of her. It's full of diagrams. Some textbook?
     TAKERU: "What are doing down here anyway? Studying?"
     HIKARI: "No, that's just a hobby."
-    Hikari looks at the book, but makes no effort to do anything else about it.
+    Hikari looks at the book, but makes no effort to do anything else about it. It doesn't look like a textbook actually. The digrams are all black and white squares with inscrutable symbols.
     TAKERU: "Well I'm sorry to intrude."
     HIKARI: "No, I'm glad you came actually. As much as I have to do down here it can be a little monotonous."
     TAKERU: "You enjoy it down here?"
@@ -349,11 +351,12 @@ label day02:
     Guess they must know each other. I try to slip through but -
     NATSUMI: "Hey! Hey Takeru, how's it going?"
     TAKERU: "Oh. Alright."
-    KENTA: "Good afternoon, Takeru."
+    KENTA: "Good afternoon."
     TAKERU: "Oh, hey Kenta."
     NATSUMI: "Oh nice, you guys know each other?"
     TAKERU: "Well, I wouldn't say - "
-    KENTA: "Yes, Takeru's my new roommate."
+    KENTA: "Yes, he's my roommate. What was your name again?"
+    TAKERU: "Takeru."
     NATSUMI: "Neat. Shun didn't last?"
     KENTA: "Who?"
     NATSUMI: "Your last roommate, silly."
@@ -482,7 +485,7 @@ label day02:
     Once in Shizukawa, it doesn't take long to walk down the river and get back to the dorms.
     The common room looks pretty sparsely populated today. Two or three guys are eating by the entrance, but apart from that the only occupant is my one and only roommate, Kenta, sitting at the shared PC.
     TAKERU: "Hey Kenta."
-    KENTA: "Good evening Takeru."
+    KENTA: "Good evening."
     TAKERU: "Thought I might as well come back here if all I'm going to be doing is - "
     KENTA: "It's considered polite to respond 'good evening' when someone greets you with 'good evening.'"
     TAKERU: "Fine, good evening Kenta."
@@ -490,7 +493,7 @@ label day02:
     TAKERU: "What're you even up to?"
     KENTA: "Checking my bids."
     TAKERU: "Bids?"
-    KENTA: "Takeru, I run a top-notch coin collection. Part of the work in maintaining a collection like this is keeping an eye out for acquisitions."
+    KENTA: "I run a top-notch coin collection. Part of the work in maintaining a collection like this is keeping an eye out for acquisitions."
     KENTA: "There's a lot of hidden work that goes into curation. I'd love to explain in detail but this sale is closing. I wouldn't be able to really show you the depth of the topic."
     TAKERU: "The depth of... online auctions?"
     KENTA: "Exactly. I'm glad you understand. I think we'll be pretty good roommates."
@@ -498,7 +501,7 @@ label day02:
     Behind me the main door opens and Hagami walks in.
     I guess she must've been the one behind me the whole way. I would've thought she would've gotten here first seeing as I wasted all that time on the bridge.
     She's made it pretty clear she doesn't see any value in talking to me so I just offer half a wave to be polite. As expected, she ignores it.
-    KENTA: "Good evening, Hagami."
+    KENTA: "Good evening."
     HAGAMI: "..."
     KENTA: "It's considered polite to respond 'good evening' when someone greets you with 'good evening.'"
     Hagami opens her mouth, but instead of saying anything, she hesitates, then walks off to the far corner of the room, where I notice a pair of headphones sit on a sidetable. 
@@ -507,7 +510,11 @@ label day02:
     TAKERU: "She can probably hear you, you know."
     KENTA: "I don't understand why that would make a difference."
     TAKERU: "You probably wouldn't..."
-    TAKERU: "So you know her?"
+    TAKERU: "So you know Hagami?"
+    KENTA: "Who?"
+    TAKERU: "The girl who just walked in. You're not very good with names, are you?"
+    KENTA: "They've never mattered much to me."
+    TAKERU: "But... you do know her?"
     KENTA: "She's my lab partner in computer science. Impossible to work with."
     I really can't imagine too people who'd work less well together than the fastidious Kenta and this girl who refuses to engage. Maybe people like us are beneath her. Whatever.
     TAKERU: "I should probably get these forms over with... And I guess I've got to read fifty pages of this awful book too..."
