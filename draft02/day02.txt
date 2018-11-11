@@ -302,7 +302,7 @@ label day02:
     TAKERU: "Not quite what I meant..."
     I could think of several dozen places I'd rather be than down here reading in the dark.
     One of those places would be the cafeteria, buying lunch.
-    TAKERU: "I should probably just go find my stuff."
+    TAKERU: "I really need to find my stuff."
     HIKARI: "Before you go..."
     TAKERU: "Huh?"
     I've risen up to leave already, but she's still looking at where I was sitting.
