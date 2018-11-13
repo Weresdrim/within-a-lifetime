@@ -59,7 +59,7 @@ label day03:
     KENTA: "Oh. So it is."
     KENTA: "Some things aren't worth worrying about. I try to focus my priorities."
     TAKERU: "You mean your single priority. You're just... concentrating on coins and nothing but coins."
-    KENTA: "No, I'm trying to do several things at once right now. We need to get to Mirako on time, I need to keep my collection running smoothly, and I focusing on welcoming you."
+    KENTA: "No, I'm trying to do several things at once right now. We need to get to Mirako on time, I need to keep my collection running smoothly, and I'm focusing on welcoming you."
     TAKERU: "You're welcoming me?"
     KENTA: "It's one of a few things I've been trying. In junior high I didn't consider that worth spending time on so I'd be very angry at other people when they were wrong."
     KENTA: "I don't pick up on sarcasm very well but I think right now that you don't have any respect for me or coins, which is an incorrect opinion, but I'm trying to convince you that it's incorrect."
@@ -83,7 +83,7 @@ label day03:
     NATSUMI: "Good to hear. We just got through with morning practice today. Good weather for it."
     NATSUMI: "So Kenta! When are you coming back and running stats for us?"
     KENTA: "I wasn't planning on it."
-    NATSUMI: "What happened to baseball card collection."
+    NATSUMI: "What happened to baseball card collection?"
     KENTA: "It became a chore. I sold it off."
     NATSUMI: "Boo. Well anyway, meet me at the field after school tomorrow, we desperately need our moneyball man if we're going for a tournament run this year."
     KENTA: "I wasn't planning on it."
@@ -455,6 +455,107 @@ label day03:
     TAKERU: "Refresh me."
     I'm glad Hikari agreed to teach me, versus trying to play me.
     It's clear she knows about ten times more than me about this game and I can't imagine she gets many opportunities to play, lurking down here by herself.
-    I
+    When we're finally set up...
+    TAKERU: "I move first then?"
+    HIKARI: "Yes."
+    TAKERU: "Alright..."
+    HIKARI: "You probably shouldn't start with that piece though."
+    TAKERU: "It's literally the first move."
+    HIKARI: "...That doesn't change it."
+    HIKARI: "Well... Pawn. E5."
+    TAKERU: "What? Oh, right your hands."
+    TAKERU: "So I move the pawn... here?"
+    HIKARI: "Yes. Good."
+    TAKERU: "And then I'll do this..."
+    HIKARI: "I wouldn't do that. I can take your pawn for free."
+    TAKERU: "Then what would you do?"
+    What follows is some sort of parody of chess with Hikari basically playing both sides, but with me moving all the pieces on the board.
+    At the end, I'm not sure which side won, but either way, Hikari is victorious.
+    TAKERU: "This is kind of exhausting..."
+    HIKARI: "You won't be winning anyone's heart with that sort of play. I may have overpromised when I said I'd be able to improve you."
+    TAKERU: "I really don't care about impressing anyone."
+    HIKARI: "And you won't with that attitude. Although I guess you just need to always be one lesson ahead of whatever-her-name-was."
+    She seems pouty but I can tell she's in higher spirits than when I first showed up.
+    TAKERU: "Why do you care about that in the first place?"
+    HIKARI: "I don't really, but... If I'm always stuck as a spectator to other people living their lives, then, I want to make things mildly more interesting."
+    HIKARI: "You'll get my actual chess set back tomorrow right?"
+    TAKERU: "Sure."
+    HIKARI: "Then I'll keep teaching you in return."
+    I'm really not sure the value of that reward. This is only mildly less aggressive than Kenta badgering me about coins, but at least Hikari is better conversation.
+    I say goodbye and head for the dorms.
+    
+    The common room is mostly empty. Kenta isn't at his battlestation on the PC, but Hagami is in position at the corner of the room, reading.
+    Sure enough, back at the dorm, I find Kenta.
+    I also find about two hundred tiny, coin-sized boxes. This miniature shipping warehouse on my floor would be almost quaint if it weren't, well, on my floor.
+    KENTA: "Good evening."
+    TAKERU: "Good evening, Kenta. Is this business as usual?"
+    KENTA: "Mostly, this is shipping day. Although I think I need to diversify soon."
+    KENTA: "You're welcome to apply stamps to the boxes if you'd like."
+    TAKERU: "Why would I want to do that?"
+    KENTA: "Some activities are intrinsically enjoyable."
+    TAKERU: "Sticking stamps on stuff isn't really my idea of a great time, sorry."
+    KENTA: "Your loss."
+    I lie down. Not to sleep, it's way too early, but more to procrastinate the studying that I know I'll need to get to at some point this week.
+    I've been here two days, why does it already feel like I'm underwater?
+    KENTA: "Oh, an order did come in today. This is yours."
+    TAKERU: "What?"
+    KENTA: "Take it."
+    He hands one of the coin boxes, but this one's already been stamped and shipped.
+    And of course, inside, is a small, copper coin.
+    KENTA: "It's a wheat pennty. From the US."
+    TAKERU: "What do you want me to do with it?"
+    KENTA: "Collect it."
+    TAKERU: "Why would I - "
+    KENTA: "Some activities are intrinsically enjoyable."
+    KENTA: "Besides, most of my friends share a hobby. It makes people much easier to relate to."
+    TAKERU: "I get it, you want someone you can talk coins with. You don't have a ton of friends, do you?"
+    KENTA: "I have hundreds. We talk every day via forums and text boards."
+    KENTA: "On the contrary you obviously don't know anyone here."
+    He's right, to some extent. Most people here are odd or inscrutable, but even the ones that aren't...
+    I've been avoiding people, basically. Don't ask me why. I used to to think I was a pretty outgoing person but, Kenta's right, I really don't know anybody here.
+    KENTA: "Now you have someone you can talk coins with."
+    KENTA: "I did say this morning I was focusing on welcoming you."
+    TAKERU: "I..."
+    KENTA: "Of course, storage is very limited but we might be able to make some room by consolidating the desk storage with dresser B."
+    TAKERU: "I'll keep my collection in my pocket for now, I think."
+    TAKERU: "But thanks, Kenta."
+    KENTA: "You're welcome."
+    While I'm not about to make sense of the shipping operation running out of my room, or meet with any of Kenta's forum-dwelling coin-collecting family...
+    I can at least keep this one coin around. Thanks, Kenta.
+    
+    My sleep is disorganized.
+    Probably trying the math right before bed wasn't a great idea but it's more than that floating around now.
+    Meiko is... back?
+    That doesn't help especially if I start coming down with that usual fogginess if I talk to her or that certain sensation that a memory is "wrong" or foreign or planted inside by head by...
+    By whom? My ex-teammates for sure would want to get back at me or maybe those thoughts just generate out of nowhere but the strongest possibility is that Jun sent -
+    Right.
+    There's a letter from Jun.
+    I wake up again in the clinic and that letter is looking at me from the trash, unopened.
+    While I promised Kunida I wouldn't open it, the temptation is strong.
+    
+    menu:
+        "How many times do I have to shred this thing?"
+        
+            The thickness of the envelope makes it hard to tear.
+            How many sheets of paper are in this thing? Is it glossy print or something?
+            I give up and search for a way to open the envelope to then shred the pages. Can't seem to find a seam.
+            In frustration, I ball the whole thing up and throw it back into the trash.
+            It'll be gone tomorrow, it has to be.
+        
+        "If it's still here then I was meant to open it."
+        
+            It takes a while to find where the enevelope opens, but I eventually tear it open and a few sheets of ordinary lined looseleaf float out.
+            I'm not sure which is actually the first page. On further examination, I'm not sure it would make a difference.
+            TAKERU: "...a sport where each competitor on a fair playing field knows advantages and disadvantages. These weigh heavily! But that was before what I was referring to. Someone who told me what I know..."
+            TAKERU: "...team players who can't follow the order of things mean I can't really say. But who's to say? It's as if I was just watching things. Did you ever stop to wonder? You were probably above certain things, but as a group..."
+            It's garbage. Incomprehensible. There are real words here, forming real sentences, but they just flow on top of each other without presenting any sort of an idea.
+            Whatever Jun wanted to say, if anything at all, is completely lost.
+            I flip through the rest of the stack. This sort of writing continues, unbroken for about a dozen pages.
+            There are the bottom:
+            TAKERU: "Best wishes, your friend and captain Jun."
+            TAKERU: "..."
+    
+    
+    jump day04
     
     
