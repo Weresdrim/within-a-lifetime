@@ -336,8 +336,8 @@ label day03:
     And on my first day at Shizukawa, it wasn't me that turned around and walked away from our little meeting. It was her. Right?
     ...Like an imposter took her place. If she hadn't known my name, that's what I'd think. That these were two separate people.
     
-    My focus is ruined for the entire rest of the day.
-    When the final class ends, I'm thrown right back into the thick of it.
+    This ruins focus is ruined for the entire rest of the day.
+    I can't concentrate on anything, and When the final class ends, I'm thrown right back into the thick of it.
     NATSUMI: "So Meiko! You and Takeru grew up together?"
     MEIKO: "We've been out of touch for for forever though."
     MEIKO: "Takeru, do you want to head down to Shizukawa? It'd be great to catch up. There's a little cafe I know that the student council always uses. If you want to grab a coffee or something I'm sure you have plenty of stories."
@@ -356,10 +356,105 @@ label day03:
     MEIKO: "Any time, Natsumi. I'll see what I can do."
     MEIKO: "Takeru, we'll have to set up a time to talk, but until then, we sit right next to each other, so don't hesitate if there's anything at all you need."
     MEIKO: "Part of my job is making sure everyone feels at home here at Mirako so as the new transfer, you can consider yourself under my wing for a while."
-    NATSUMI: "Lucky dog. Meiko, take me under your wing some time! Kunida teaches math like we're all junior Einsteins."
+    NATSUMI: "Lucky dog. Meiko, take me under your wing some time. Kunida teaches math like we're all junior Einsteins."
     MEIKO: "Haha, we'll see. You need to study just as much as you practice!"
     MEIKO: "I'll see you both later then."
     NATSUMI: "Seeya Meiko!"
+    NATSUMI: "Takeru you've got to get me the dirt."
+    TAKREU: "The dirt?"
+    NATSUMI: "Okay it's Meiko we're talking so there's no dirt, but this is like..."
+    NATSUMI: "A superhero's origin story."
+    NATSUMI: "That girl's going to be a doctor or a lawyer or in the diet or something. Maybe all three."
+    NATSUMI: "Oh and she's super nice."
+    TAKERU: "Right..."
+    TAKERU: "Well, see you tomorrow."
     
+    None of this can be right.
+    Maybe I'm misremembering things again. Or Meiko has an identical twin and they swapped places or something.
+    I'm really not looking forward to sitting next to her for the foreseeable future.
+    Almost by reflex I've walked down to the old wing.
+    While I told Meiko and Natsumi I'd promised to meet someone, I don't really remember "promising" anything to Hikari and I mostly just wanted to get out of that situation, but...
+    If I'm here I might as well see if she's around.
+    Walking in the direction of the tea room, I realize that I really need to find a club or a sport or something, anything, to fill this time after school.
+    Did I really get so used to Tohoku that I can't figure out what to do with myself without a million people always wanting to hang out all the time?
+    The door to the tearoom is closed, as usual. Knocking didn't prove useful yesterday, so, hm...
+    Even if I bend in close, I can't see anything through the crack in the door. That'd make sense if the lights were off, but Hikari hangs out in the dark so...
+    Can't hear anything either. She must be -
+    HIKARI: "What exactly are you doing?"
+    TAKERU: "Huh?"
+    Hikari is leaning on the opposite wall of the hallway, her arms crossed.
+    TAKERU: "How long have you been standing there?"
+    HIKARI: "I could watch this all day. Please continue whatever it is that you're doing."
+    TAKERU: "Do you really come hang out down here every day after school?"
+    Her mood immediately changes.
+    HIKARI: "I thought you'd forget about me, honestly. But... I'm here most days, yes."
+    TAKERU: "Why would I forget about you?"
+    HIKARI: "It's just something people do. Forgetfulness is in fashion."
+    HIKARI: "You're welcome to join me for tea, if you like. Although... I'm not in the greatest mood."
+    Why not? I slide open the door and then follow Hikari inside.
+    The place is dark as a tomb until I open the curtains. Hikari immediately sits on the far side of the table in front of some sort of laminated sheet of plastic.
+    HIKARI: "There's jasmine tea on the second shelf from the right. And a kettle in the corner."
+    TAKERU: "You don't think it's a little rude to ask a guest to prepare tea?"
+    HIKARI: "I don't worry about what's rude and what isn't. We're both students here and this is your space as much as it is mine."
+    HIKARI: "And I'm... not much good with my hands."
+    Unfortunately I'm the least cultured person in the world and Hikari practically has to walk me through the entire process.
+    Finally, I set a mug down in front of her, but she doesn't touch. Just inhales.
+    HIKARI: "That helps. Thank you."
+    TAKERU: "You're welcome."
+    TAKERU: "Tea club is probably on the same level of clubs-I-don't-want-join as the supernatural club though."
+    HIKARI: "There's a Mirako supernatural club?"
+    TAKERU: "Not really. It just has two members."
+    HIKARI: "Figures. Something as childish as that..."
+    HIKARI: "Sometimes it would be nice to blame ghosts instead of the students for the rampant theft that goes on around here."
+    TAKERU: "Theft?"
+    HIKARI: "Someone stole my chess set and the book of puzzles I was working through, right out of this room."
+    TAKERU: "Oh, er, I probably know where those are."
+    HIKARI: "Well isn't that wonderful - you're the one who stole them then?"
+    TAKERU: "No! Well, an acquaintance of mine..."
+    TAKERU: "This is kind of a long story, maybe I should just get those back for you tomorrow."
+    HIKARI: "While I'd appreciate having them back, I'd also appreciate the story."
+    TAKERU: "I'm not a very good storyteller and it's really kind of boring."
+    HIKARI: "Give it a shot. Impress me."
+    Hikari doesn't respond much as I tell her about Mana and the newly-formed supernatural club.
+    Her head stays tilted to the side, almost cute. She perks up a bit when I mention Hagami's interest in chess, but otherwise she just sits there and breathes in the scent of the jasmine tea.
+    HIKARI: "Hm. Interesting."
+    TAKERU: "Is that sarcastic?"
+    HIKARI: "No. See..."
+    HIKARI: "You probably guessed it already but I don't have much contact with a lot of Mirako."
+    HIKARI: "I don't really know what normal people are up to outside of school hours, or what absolutely average people like yourself do when they're not in class."
+    HIKARI: "Is that odd?"
+    TAKERU: "Is what odd?"
+    HIKARI: "To enjoy hearing those mundane stories..."
+    HIKARI: "Maybe I've been cooped up too long, that even your life seems interesting..."
+    TAKERU: "Y'know I didn't mind when you called me 'absolutely average' but you're pushing it a bit."
+    Hikari looks pleased with herself. I'm not exactly pleased with her though.
+    HIKARI: "I'll make it up to you then. Do you know how to play chess?"
+    TAKERU: "Someone taught me the rules once."
+    HIKARI: "Then... No, you don't."
+    HIKARI: "Here, we'll get you up to speed. If you have a good brain on you I should be able to get you to a good level pretty quickly and then you can impress that... whatever-her-name-was."
+    TAKERU: "Are you talking about Hagami? Why would I - "
+    HIKARI: "You'll teach her, bond over your mutual love of the game, and then from there..."
+    TAKERU: "You have some strange ideas in that head of yours."
+    HIKARI: "Do you want my help or not?"
+    I'm not really sure why Hikari thinks it's charitable of her to help me win the heart of a girl that hasn't said more than ten syllables to me, but...
+    I might as well humor her. It really does seem she doesn't see much of the world outside this claustrophobic room.
+    HIKARI: "Can you get the pieces? They're on the bottom shelf. No, over there."
+    HIKARI: "I've had to use this backup board since mine was stolen, but it works."
+    The plastic mat in front of her is, it looks like, a chess board, printed and laminated.
+    TAKERU: "I don't really remember how to set up."
+    HIKARI: "A true beginner, hm..."
+    TAKERU: "So... You're going to set up?"
+    HIKARI: "I would rather not."
+    TAKERU: "Well it's not like I can."
+    HIKARI: "I'm not... good with my hands."
+    As if to emphasize, she holds them up.
+    They're small hands, but that makes sense as Hikari is a small person. But there's something... off in the way that her fingers twist and she doesn't seem to be able to hold her fingers steady.
+    When she lowers her arms, I just catch a glimpse of her palms -- dotted with a blur of white and red welts.
+    TAKERU: "I, er, right, sorry. Just tell me where things should go, then?"
+    HIKARI: "That can be arranged. You do know how all the pieces move, don't you?"
+    TAKERU: "Refresh me."
+    I'm glad Hikari agreed to teach me, versus trying to play me.
+    It's clear she knows about ten times more than me about this game and I can't imagine she gets many opportunities to play, lurking down here by herself.
+    I
     
     
