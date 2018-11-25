@@ -111,7 +111,8 @@ label day04:
     TAKERU: "Where's Mana?"
     HAGAMI: "..."
     TAKERU: "I asked if you knew where Mana went. She floored me again and then ran off?"
-    HAGAMI: "...An accident. Was it..."
+    HAGAMI: "...An accident. 
+    HAGAMI: "Was it..."
     HAGAMI: "She said it was accidental. Is that wrong?"
     TAKERU: "I don't really care, she just has a talent for concussing me is all."
     I sit opposite Hagami, head throbbing to much to stand.
@@ -119,27 +120,115 @@ label day04:
     TAKERU: "For the time being. At what point were you going to get the nurse?"
     HAGAMI: "..."
     TAKERU: "And Mana went... where?"
-    HAGAMI: "Her club."
-    HAGAMI: "They have lunch, sometimes."
-    TAKERU: "Great, a hit and run, perfect. She aims to kill and then leaves you to watch over me to make sure the mortal blow was clean."
+    HAGAMI: "I think... to get help?"
+    TAKERU: "How long ago was that?"
+    Hagami shrugs.
+    TAKERU: "Great, so it was a hit and run, perfect. She aims to kill and then leaves you to watch over me to make sure the mortal blow was clean."
     HAGAMI: "It... I wanted to make sure you were alright."
     HAGAMI: "Just wasn't sure how to help."
     The whole time, she won't look at me. Or rather, she won't look up from another hardcover, an ancient-looking book that if she wanted to, she could effectively hide behind.
     It's now that she draws fully behind it.
     HAGAMI: "I'm sorry."
-    TAKERU: "I'm not really that angry, my head just hurts. Some help would be nice though."
+    TAKERU: "I'm not really that angry, my head just hurts. A hand would be nice though."
     I'm looking at all the chess pieces scattered on the floor. The little green and orange miniatures that had once been packed and ordered inside the box seem to have made their way to every corner of the library.
     HAGAMI: "Oh."
     HAGAMI: "Is that..."
     We start fishing up the pieces around the table.
-    TAKERU: "Yeah Mana got the chess set for you, but, even if you're interesting, it already has an owner."
-    HAGAMI: "I'm not interested."
+    It takes a few minutes to scrounge up some of the pawns that rolled under the shelf, but we eventually have a full set.
+    Well, almost a full set. I recheck all the corners of the library, but there's finding one of the knights.
+    TAKERU: "There's no finding it. Guess we'll have to call it a loss."
+    HAGAMI: "..."
+    TAKERU: "I'm taking this back, by the way."
+    TAKERU: "Mana got the chess set for you, but, it already has an owner. Sorry if you were interested."
+    HAGAMI: "I really wasn't."
     HAGAMI: "That's just... a hypothetical."
     HAGAMI: "Something I told her would be more appealing than a supernatural club but she..."
     HAGAMI: "Mana can sometimes take things very literally or jump on the littlest things."
     HAGAMI: "She really just wanted to start a club, that I'd show up to, and it didn't matter what the club actually did."
-    HAGAMI: "Sorry."
-    TAKERU: "What're you apologizing for?"
+    HAGAMI: "I suggested chess, a literature club, a..."
+    HAGAMI: "Now there's... supernatural club."
+    It's fast but I swear Hagami rolls her eyes.
+    HAGAMI: "Ah. I'm really sorry."
+    TAKERU: "What are you apologizing for?"
+    Hagami doesn't respond though... just vanishes behind her book.
+    I'm left sitting here, staring at the cover. It's titled 'Post-Hume Metaphysics: A Brief Summary.'
+    TAKERU: "That hardly looks brief."
+    HAGAMI: "..."
+    So much for humor. Then again she seems about as humorless as Kenta. Surprising they don't get along.
+    It's not a bad room to eat in, really. This time of day, the sun through the picture window is enough to see (and read) by without turning on the lights.
+    That said... I'm here with one of the world's worst conversationalists, and I'm pretty much obligated to wait for Mana if she really went to get help.
+    I'm beginning to think she never really intended to come back at all. Or else got distracted on the way tot he nurse or something. That's probably more likely.
+    Something keeps buzzing in my ear.
+    Or it's more static than a buzz. Is that old radio on? I fight with a knob, trying to get it to turn off, but it's a mystery to me how this thing works. It's as much of an antique as the rest of this room.
+    In response to my fiddling, a hand shoots out from behind Post-Hume Metaphysics and turns a dial on the side. The volume turns up. It's... a symphony?
+    Listening to scratchy old music isn't helping the time pass any faster.
+    Out of boredom I flip through the magazines and looseleaf littering the table.
+    There's a whole volume of that weird manga Mana was reading strewn around. Most of the covers are illustrated with flower-looking boys and the thing is titled "My Rose-colored Life (even though I'm already dead!!)"
+    While I'm pretty sure I know what this is about, I open one at random. Yep, this page is some sort of girls' manga first kiss scene, except the couple involved have ghost tails instead of legs.
+    After a second I realize... I'm being watched.
+    HAGAMI: "..."
+    TAKERU: "Hey I just opened it because it was here, I don't read this stuff."
+    HAGAMI: "..."
+    TAKERU: "You have any suggestions instead?"
+    I thought my tone made it clear I was joking, but Hagami sets down her tome (with accompanying dust cloud) and marches to the bookshelves.
+    There's no way there's anything I'd be interested in reading exists on those shelves. In fact I can't think of anything I'd want to read for pleasure anyway, let alone that mess of abandoned textbooks and whatever Mana managed to steal from unsuspecting students.
+    WHUMP.
+    HAGAMI: "There."
+    I almost jump out of my chair when Hagami puts down this... brick in front of me.
+    At first I think it's a dictionary, but it's... "Post-Hume Metaphysics: A Briefer Summary."
+    TAKERU: "I, er..."
+    HAGAMI: "...Read it."
+    This has to be a joke, right? But the way Hagami is staring at me...
+    She can't be serious.
+    I open the front cover but can't help but cringe. I'd be lying if I said I knew half of these words. And this is the table of contents.
+    TAKERU: "Er, when I said I wanted suggestions, I sort of meant..."
+    TAKERU: "Are you laughing at me?"
+    HAGAMI: "!"
+    She hides behind the Brief Summary again but I saw her snickering.
+    So she does have a sense of humor... just one where I'm the butt of the joke.
+    TAKERU: "Personally I don't find that very funny."
+    HAGAMI: "Time for class."
+    TAKERU: "What? Seriously? By my watch there's still at least then minutes until..."
+    Hagami starts sweeping her part of the table into her bag. I notice she's blushing for whatever reason.
+    But before she can open the door, Mana skids in.
+    MANA: "Hagami! Where are you going? Look, I've got the club charter forms! And the club festival application forms! We're doing this!"
+    MANA: "Oh hi Takeru!"
+    MANA: "Wait oh Takeru I'm so sorry I went to get the nurse but then I ran into Yumi and she said the festival deadline was coming up and I went back to homeroom to grab my - "
+    MANA: "I totally forgot!"
+    TAKERU: "About knocking me out cold?"
+    MANA: "Yeah! I forgot about that."
+    TAKERU: "Wish I could forget about this headache..."
+    MANA: "But Hagami took good care of you right. Hagami where are you going?"
+    Guess she won't manage to sneak out after trying to trick me into reading that metaphysics thing.
+    HAGAMI: "Oh. Yeah."
+    MANA: "But yeah we're an official club now! Once we get another member, I mean. We need four."
+    MANA: "You, me, and Takeru aren't quite enough."
+    TAKERU: "Hang on, when did I get roped into this?"
+    Mana and Hagami look at each other.
+    HAGAMI: "It really is time for class though."
+    MANA: "No way! I haven't even eaten!"
+    She takes off the opposite direction. I stare down the hall as she takes a corner too fast and almost trips.
+    HAGAMI: "...Figured."
+    Hagami shakes her head and starts walking.
+    But of course, I'm headed the same direction. We're in the same class after all. Though the whole time, she doesn't say a word. And without any book to hide in, she just stares straight ahead, as if I wasn't walking there two steps behind her.
+    She fumbles with her bookbag for a moment, and reemerges wearing those headphones.
+    I guess now it's less awkward for her to pretend that I don't exist.
+    
+    At least there's some normalcy when we get back to the classroom. Kenta and Natsumi are bickering outside, with Kenta only stopping from his argument to glare dagger at Hagami as she slips into the room. I'm less successful.
+    NATSUMI: "Takeru! Yeah hey, Takeru!"
+    TAKERU: "Huh?"
+    NATSUMI: "Kenta's not studying for Kunida's test! Can you believe it?"
+    KENTA: "I'm not in his class. It makes no sense."
+    NATSUMI: "Because I'm studying for it! You've gotta help me."
+    KENTA: "I can't help you if I'm not in the class. That's just how it works. This shouldn't be so hard to understand."
+    NATSUMI: "Fiiine, Takeru will help me then."
+    TAKERU: "It's not like I know more than you."
+    NATSUMI: "Great fit then. See you at the study session this afternoon? The one Meiko's putting together?"
+    TAKERU: "I guess I've already been goaded into going anyway."
+    NATSUMI: "Perfect. Kenta, you've been replaced!"
+    KENTA: "That's not what 'replaced' means. You can't replace me if I was never - "
+    I ignore them and take my seat.
+    Meiko doesn't seem to be back yet. 
     
     
     
