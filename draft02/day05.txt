@@ -1,0 +1,157 @@
+day05:
+
+    Something hits me in the head.
+    No something's hitting me all over I'm kicked in the ribs mostly but my arm is broken as well as the collarbone -
+    Mainly something is hitting me in the head. Directly in my forehead. Repeatedly.
+    TAKERU: "Kenta!"
+    KENTA: "Good morning."
+    TAKERU: "Next time you can just push me out of the bed or whatever, just not the poking, please, I beg you."
+    KENTA: "When someone says 'good morning,' it's considered polite to - "
+    TAKERU: "Right, right, good morning Kenta."
+    TAKERU: "Oh and when you're surfing the net for coin deals, find me an actual alarm clock. Please."
+    KENTA: "Why would I be looking for coin deals?"
+    TAKERU: "Isn't that all you do all day?"
+    KENTA: "I sold the last coin yesterday. You might want to get your memory checked. I explained all of this in depth last night."
+    TAKERU: "Must've missed it."
+    TAKERU: "Did you explain why?"
+    KENTA: "It's time to move on."
+    TAKERU: "You spend hours telling me all about the virtues of coins, collect them into my dresser, then decide that yesterday is 'time to move on.' Great."
+    TAKERU: "Well, at least that means there will be some room for my shirts in the - "
+    TAKERU: "Kenta, what are all these wooden boxes doing in my dresser?"
+    KENTA: "Those are display cases, not wooden boxes."
+    TAKERU: "Why do you..."
+    TAKERU: "You know what, I'm tired. Where do I find my pants?"
+    KENTA: "The pants drawer."
+    TAKERU: "Where - "
+    KENTA: "Other cabinet, second drawer from the top. You really should get your memory checked out. I'm starting to get worried."
+    TAKERU: "Thanks for your concern but right now I'm more worried about wear to find my shirt."
+    KENTA: "All of our shirts were getting wrinkly so I ironed them, but they're still in the shirt drawer."
+    TAKERU: "You know, you make it very difficult for me to complain about you. You might hide my clothes but you also do my laundry."
+    KENTA: "It's technically our laundry."
+    TAKERU: "Never mind, I'll still complain then. Still, who irons anything these days?"
+    KENTA: "Attention to detail is important."
+    TAKERU: "Then where's your tie?"
+    KENTA: "It's uncomfortable."
+    TAKERU: "It's part of the uniform! So having an ironed shirt is important, but following the dress code is not?"
+    KENTA: "See, you understand these things when you put your mind to it. I wish you'd try this hard all the time."
+    TAKERU: "Kenta if I tried any harder I think my brain would give up and go back to sleep."
+    KENTA: "Is that sarcasm? What's that supposed to mean?"
+    TAKERU: "It means it's way too early in the morning for me to deal with this."
+    
+    I think I vaguely remember Kenta going on about selling lots of coins last night, but I didn't imagine that he'd shipped everything off.
+    ...or reorganized the room.
+    Regardless, it takes double the time I would've liked to get out the door this particular morning, so, it's just about the time that normal people would start walking to school.
+    Slightly abnormal people too.
+    NATSUMI: "Yo! Kenta, Takeru!"
+    KENTA: "Good morning."
+    NATSUMI: "'morning, Kenta."
+    We're not at the bridge yet when she catches up with us.
+    NATSUMI: "No morning practice today. Do you guys always walk?"
+    TAKERU: "Yeah."
+    KENTA: "We're late today though."
+    NATSUMI: "What a coincidence, I'm super early."
+    TAKERU: "I didn't know you lived in the dorms."
+    NATSUMI: "Can you imagine taking the train out here every day? Pretty much everyone who isn't from Shizukawa lives in the dorms."
+    NATSUMI: "You probably just don't see me because I'm hanging around the field all the time."
+    NATSUMI: "Speaking of which! Takeru!"
+    TAKERU: "Huh?"
+    NATSUMI: "You're a shameless liar! You totally did play baseball at Tohoku?"
+    TAKERU: "Who told you that?"
+    NATSUMI: "A little bird."
+    A little bird named Meiko, no doubt. I should probably tell her to not spread that around.
+    TAKERU: "I washed out. I don't play any more."
+    NATSUMI: "Dude, if you were good enough to even warm a bench at the might Tohoku Industrial School, home of ten summer tournament pennants, then you're more than good enough for Mirako's team!"
+    NATSUMI: "Don't be so humble about it."
+    TAKERU: "Look, I'm sure your team is great and all..."
+    NATSUMI: "Well we're nothing like Tohoku but I swear we're gonna make a run this year. And the team is great. We're like family. Kenta can tell you, he ran our numbers last year."
+    KENTA: "It was briefly interesting."
+    NATSUMI: "Yeah, so Takeru if you're briefly interested, come down to the field after classes today and I can - "
+    TAKERU: "I'm not playing."
+    NATSUMI: "Just like that?"
+    TAKERU: "I'm... self-conscious about it."
+    That's true enough, although more, I just desperately need an out of this conversation.
+    We're on the bridge now. Talking to Meiko I swear it could be me and Jun back then. I have to stare at our reflections in the water to rid myself of the image.
+    NATSUMI: "...can at least come to a game some time."
+    TAKERU: "Yeah."
+    NATSUMI: "Awesome! Maybe I'll see you this Sunday then?"
+    I doubt it.
+    
+    Kenta wanders off when Natsumi and I reach our classroom.
+    I notice in the back that Hikari hasn't bothered to show up -- her desk is empty. So is the one between me and Natsumi.
+    TAKERU: "...Weird. Meiko seems like the type that'd always be early."
+    NATSUMI: "Nah, she's always running around in the mornings. But she'll be here before Kunida, for sure."
+    Natsumi snaps and as if on cue, Meiko walks in and takes her seat between us.
+    NATSUMI: "Hi Meiko! Right on cue."
+    MEIKO: "Cue? Well, good morning."
+    TAKERU: "You look out of breath."
+    MEIKO: "I had to talk with the principal over at the staff office on the third floor."
+    NATSUMI: "Now that's a workout."
+    MEIKO: "Takeru, you're still good for lunch today?"
+    TAKERU: "Yep."
+    NATSUMI: "Wait, you guys have some sort of lunch date?"
+    TAKERU: "Well I wouldn't call it - "
+    NATSUMI: "That is insanely cute."
+    TAKERU: "Oh shut up."
+    MEIKO: "Takeru and I were really close growing up. There's a lot of catching up to do."
+    MEIKO: "Ah, Mr. Kunida is here. I'd better get things rolling."
+    Meiko delivers the morning address as Kunida pulls out his notes and shuffles them around in the background.
+    It's annoying looking at the man. He seems like an absentminded goof but he's the reason I'm going to going to be stuck in study sessions from here until next week.
+    Maybe I could just flunk out. That'd solve a lot of problems.
+    Of course once the lesson starts, I'm completely lost.
+    NATSUMI: "What is this..."
+    TAKERU: "Dunno."
+    NATSUMI: "Takeru, let's flunk out together."
+    TAKERU: "I'm kind of ashamed that we basically have the same thought process."
+    MEIKO: "Shhh!"
+    
+    At lunch, all rise. Most yawn.
+    The peace doesn't last long, with small talk about the upcoming festival and upcoming exam dominating.
+    And the room is downright noisy once Natsumi's other teammates show up.
+    I soon find myself outside with Meiko.
+    TAKERU: "You said you know a place?"
+    MEIKO: "That's right, it's a cafe on the main road just over the bridge to Shizukawa. I'm sure you'll like it."
+    It's a beautiful day.
+    This far north, or maybe this far up on the side of the mountain, the summer heat seems less severe. The woods this side of the river are in full green. But the river, as always, remains still.
+    MEIKO: "Turn left. That's the place, right there."
+    TAKERU: "The Lotus Room?"
+    MEIKO: "That's it."
+    For such an eastern name, it seems like a very western cafe.
+    Everything is in dark hardwood, and the main attraction seems to be a coffee bar.
+    The patrons are mostly elderly Shizukawa residents, seated with a river view in booths elevated a few inches off the floor. There are one or two thirty-somethings with laptops, but Meiko and I are the youngest here by a mile.
+    TAKERU: "This is your usual spot?"
+    MEIKO: "I can't really afford to come here much wihtout the student council, but it's a nice break once in a while."
+    MEIKO: "And this is a special occassion after all."
+    Unsure what else to do, I try a forced laugh.
+    TAKERU: "I'm really not all that special."
+    MEIKO: "Maybe. You don't have to be special to make a difference."
+    TAKERU: "What do you mean?"
+    MEIKO: "I'm not anyone important. You know that right? But I like to at least think I make life better for everyone I know at Mirako."
+    MEIKO: "And even if you don't think that much of yourself... You came along at the right time for me."
+    MEIKO: "Without you I definitely wouldn't be here at Mirako."
+    MEKIO: "That has to count for something."
+    TAKERU: "I'm not sure."
+    I'm trying hard to find in my memory anything that would make Meiko have this positive impression of me.
+    I'm interrupted.
+    MEIKO: "Do you know what you're ordering?"
+    TAKERU: "A sandwich, I guess. It's all that's for lunch, right?"
+    MEIKO: "I'll just have a coffee maybe..."
+    MEIKO: "I'm curious, though."
+    TAKERU: "About what?"
+    MEIKO: "You said you remember a 'me' that was so different than who I am now..."
+    TAKERU: "I wouldn't put much faith in that. There have been a lot of people questioning what I remember lately."
+    MEIKO: "No, that's... alright. When I moved in with my aunt and uncle, when Mom and Dad first left, it..."
+    MEIKO: "Do you remember that day we took the train up north?"
+    TAKERU: "The train? No."
+    MEIKO: "Mom and Dad were buried on top of the same mountain as Granddad and his family. We went that far up north, you and me.""
+    MEIKO "You don't..."
+    TAKERU: "Sorry."
+    I can't remember anything, except that her parents died in that accident. Any trains, graves... It's a fog.
+    MEIKO: "Then can I tell you a story?"
+    TAKERU: "Good by me."
+    
+    It's hard for me to tell if's it's the atmosphere or else her words that settle me into Meiko's tale.
+    Not that it's a story. It's also my memory, from something inside me that really would prefer not to remember when I was like this.
+    But I remember it anyway... Meiko and I...
+    What's she's saying goes something like this.
+    
+    

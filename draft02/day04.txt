@@ -295,7 +295,7 @@ label day04:
     It seems a little far-fetched to me.
     Maybe Hikari is just a forgettable person? And she said she only sometimes even bothers to show up to class.
     But something feels wrong.
-    That discomfort hangs with me as we walk down to the library. Nastumi keeps talking about something or other, the team's next game, how I should definitely come cheer them on, how great friends everyone is with each other...
+    That discomfort hangs with me as we walk down to the library. Nastumi keeps talking about something or other, the team's next game, how great friends everyone is with each other...
     I manage to tune her out until we reach the library.
     TAKERU: "Wow... It's a lot bigger than I was expecting."
     NATSUMI: "You like it?"
@@ -336,7 +336,7 @@ label day04:
     TAKERU: "Just lost in thought a bit."
     MEIKO: "Hm."
     I realize the rest of the room has cleared out. Meiko looks about ready to go, but instead she takes a seat.
-    MEIKO: "You know, seem a lot different than I remember from when we were young. It's strange seeing you not constantly on the move."
+    MEIKO: "You know, you seem a lot different than I remember from when we were young. It's strange seeing you not constantly on the move."
     TAKERU: "Things have changed a bit."
     TAKERU: "But I guess it's the same for you, right? I used to be the one pulling you through the homework."
     MEIKO: "Really?"
@@ -348,7 +348,7 @@ label day04:
     TAKERU: "But I guess, you're completely different than what I remember. I don't think I'd ever heard you speak up in class and now you're class rep?"
     MEIKO: "Haha, I do what I can at Mirako. I want to have a good future ahead of me."
     MEIKO: "I'm looking at law schools so I'll need the grades, for a start. And there's a lot of people here relying on me."
-    MEIKO: "Mirako's a good place for that. You can depend on people."
+    MEIKO: "Mirako's a good place for that. You can depend on everyone."
     TAKERU: "Guess it's a change for the better, then."
     MEIKO: "Haha, except I've always been like this."
     TAKERU: "Maybe I'm misremembering..."
