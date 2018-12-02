@@ -364,7 +364,7 @@ label day04:
     And I guess that would've been it if she hadn't been orphaned in a traffic accident. I visited her at her aunt's a few times after that, but...
     That's the extend of my memory.
     Am I wrong?
-    MEIKO: "It's a miracle you're back, really. How was Tohoku? Why are you at Mirako?"
+    MEIKO: "It's a miracle you're back, really. What brings you to Mirako?"
     TAKERU: "Tohoku was..."
     TAKERU: "I didn't work out. I lost my scholarship so now I'm at Mirako."
     MEIKO: "Haha, that's a funny choice, to come to Mirako afterwards, all the way out here."
@@ -440,15 +440,15 @@ label day04:
     Hagami takes a deep breath.
     HAGAMI: "What I meant to ask... Mana is..."
     HAGAMI: "I owe her a lot so I'm trying to look out for her, and she really wants to start a club here. That's..."
-    HAGAMI: "It's sort of her dream of highschool, of being a club president and having friends that run around and...
+    HAGAMI: "It's sort of her dream of highschool, of being a club president and having friends that run around and..."
     HAGAMI: "I don't know. It all seems very exhausting to me, but, it means a lot to her."
-    HAGAMI: "She's just starting out but it'd mean a lot to her if you'd agree to join."
+    HAGAMI: "She's just starting out but it'd be a huge help to her if you'd agree to join."
     HAGAMI: "You don't even have to come after school. Just put your name on the paper so she can recruit."
     HAGAMI: "You have every reason to think I'm strange or offputting but... You could do Mana the favor?"
-    TAKERU: "I can probably do that."
+    TAKERU: "I could probably do it."
     HAGAMI: "...Just like that?"
-    TAKERU: "I mean it doesn't cost me anything, does it? You're not asking me to tell fortunes at the festival or anything, I just have to be a name on a page."
-    HAGAMI: "No fortunetelling, I'd die before I - "
+    TAKERU: "I mean just putting my name down doesn't cost me anything. You're not asking me to tell fortunes at the festival or anything, I just have to show up on a list."
+    HAGAMI: "No fortunetelling, for sure, I'd die before I - "
     HAGAMI: "Yeah..."
     HAGAMI: "Well..."
     HAGAMI: "Thank you. Really!"
