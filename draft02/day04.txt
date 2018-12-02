@@ -295,7 +295,7 @@ label day04:
     It seems a little far-fetched to me.
     Maybe Hikari is just a forgettable person? And she said she only sometimes even bothers to show up to class.
     But something feels wrong.
-    That discomfort hangs with me as we walk down to the library. Nastumi keeps talking about something or other, the team's next game, how I should definitely come cheer them on, how great friends everyone is with each other...
+    That discomfort hangs with me as we walk down to the library. Nastumi keeps talking about something or other, the team's next game, how great friends everyone is with each other...
     I manage to tune her out until we reach the library.
     TAKERU: "Wow... It's a lot bigger than I was expecting."
     NATSUMI: "You like it?"
@@ -336,7 +336,7 @@ label day04:
     TAKERU: "Just lost in thought a bit."
     MEIKO: "Hm."
     I realize the rest of the room has cleared out. Meiko looks about ready to go, but instead she takes a seat.
-    MEIKO: "You know, seem a lot different than I remember from when we were young. It's strange seeing you not constantly on the move."
+    MEIKO: "You know, you seem a lot different than I remember from when we were young. It's strange seeing you not constantly on the move."
     TAKERU: "Things have changed a bit."
     TAKERU: "But I guess it's the same for you, right? I used to be the one pulling you through the homework."
     MEIKO: "Really?"
@@ -348,7 +348,7 @@ label day04:
     TAKERU: "But I guess, you're completely different than what I remember. I don't think I'd ever heard you speak up in class and now you're class rep?"
     MEIKO: "Haha, I do what I can at Mirako. I want to have a good future ahead of me."
     MEIKO: "I'm looking at law schools so I'll need the grades, for a start. And there's a lot of people here relying on me."
-    MEIKO: "Mirako's a good place for that. You can depend on people."
+    MEIKO: "Mirako's a good place for that. You can depend on everyone."
     TAKERU: "Guess it's a change for the better, then."
     MEIKO: "Haha, except I've always been like this."
     TAKERU: "Maybe I'm misremembering..."
@@ -364,7 +364,7 @@ label day04:
     And I guess that would've been it if she hadn't been orphaned in a traffic accident. I visited her at her aunt's a few times after that, but...
     That's the extend of my memory.
     Am I wrong?
-    MEIKO: "It's a miracle you're back, really. How was Tohoku? Why are you at Mirako?"
+    MEIKO: "It's a miracle you're back, really. What brings you to Mirako?"
     TAKERU: "Tohoku was..."
     TAKERU: "I didn't work out. I lost my scholarship so now I'm at Mirako."
     MEIKO: "Haha, that's a funny choice, to come to Mirako afterwards, all the way out here."
@@ -440,15 +440,15 @@ label day04:
     Hagami takes a deep breath.
     HAGAMI: "What I meant to ask... Mana is..."
     HAGAMI: "I owe her a lot so I'm trying to look out for her, and she really wants to start a club here. That's..."
-    HAGAMI: "It's sort of her dream of highschool, of being a club president and having friends that run around and...
+    HAGAMI: "It's sort of her dream of highschool, of being a club president and having friends that run around and..."
     HAGAMI: "I don't know. It all seems very exhausting to me, but, it means a lot to her."
-    HAGAMI: "She's just starting out but it'd mean a lot to her if you'd agree to join."
+    HAGAMI: "She's just starting out but it'd be a huge help to her if you'd agree to join."
     HAGAMI: "You don't even have to come after school. Just put your name on the paper so she can recruit."
     HAGAMI: "You have every reason to think I'm strange or offputting but... You could do Mana the favor?"
-    TAKERU: "I can probably do that."
+    TAKERU: "I could probably do it."
     HAGAMI: "...Just like that?"
-    TAKERU: "I mean it doesn't cost me anything, does it? You're not asking me to tell fortunes at the festival or anything, I just have to be a name on a page."
-    HAGAMI: "No fortunetelling, I'd die before I - "
+    TAKERU: "I mean just putting my name down doesn't cost me anything. You're not asking me to tell fortunes at the festival or anything, I just have to show up on a list."
+    HAGAMI: "No fortunetelling, for sure, I'd die before I - "
     HAGAMI: "Yeah..."
     HAGAMI: "Well..."
     HAGAMI: "Thank you. Really!"
