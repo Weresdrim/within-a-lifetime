@@ -1,0 +1,206 @@
+day06:
+    
+    I lie starting at the ceiling.
+    Any moment I expect Kenta's shadow to loom over me, but it's too early even for that.
+    I must be really out of sort of I'm looking forward to seeing Kenta of all people.
+    TAKERU: "Just forget it... Only a dream."
+    It must be before dawn. Sitting up, I can barely make out the river from the window.
+    I start rummaging through the dresser.
+    While I can tell myself I'm only looking for socks in this messed up sorting system, I pass over the drawer where Kenta's probably hidden them.
+    What I'm really looking for is that duffel bag, the one that I showed up with a week ago.
+    When I left for Mirako, that's all I took: one bag of clothes.
+    Maybe the item I'm looking for wound up in the box of junk Tohoku sent when they cleaned out my old dorm, but I doubt it. I have a very clear memory that I put it into this bag.
+    It's in the bottom drawer. Kenta must've put it here the first night I arrived.
+    Nothing in the bag itself. Nothing in the front pocket, rear pocket.
+    On the far side of the room, Kenta snores.
+    TAKERU: "This is pointless..."
+    But when I unzip the last pocket on my old bag, a piece of paper slides out. This one is addressed to Ichiro Takeru. From: Takeda Jun.
+    I stare at it.
+    Do I have enough light to read this right now? Do I want to read this right? Do I want to think how this got there?
+    So I keep staring at it.
+    Until something just beyond my focus stares back.
+    Is that... eyes? Reflecting the dawn light? Eyes from the bottom of the dresser drawer?
+    Eight tiny dots.
+    I lunge for the lights.
+    Yep sure enough there is something hideous in that drawer with eight eyes like a spider and a body like an ant and claws like a scorpion and behind it in that drawer are eight more eyes, eighty more, an army of -
+    TAKERU: "What the hell are those?"
+    KENTA: "Oh, good morning."
+    TAKERU: "Kenta there's some sort of infestation. They're in the dresser, there's like a hundred of them. I'll try and crush them with my bag, you go call pest control or - "
+    KENTA: "When someone says - "
+    TAKERU: "Maybe you stay here and fight them and I'll go call the army. But that's weird why aren't they..."
+    TAKERU: "Are they dead?"
+    KENTA: "The camel spiders?"
+    TAKERU: "The... what? You knew we had a spider infestation and you just throw them my old duffel bag?"
+    KENTA: "They're not technically spiders. They're arachnids, to be sure, which is why I'm interested in them, because I figured in a field that broad I needed to start with a specialty, and - "
+    TAKERU: "You're..."
+    All of the bugs appear to be dead. And they're all sitting in a plastic tub with a mailing label stuck to the top.
+    TAKERU: "You're collecting hell-spiders. In the dresser."
+    KENTA: "The display dresser, yes. But again, they aren't spiders. And I could think of several more descriptive terms than -"
+    TAKERU: "When were you going to tell me about this?"
+    KENTA: "I tried last night, but I definitely meant to get to it today. Tomorrow is Sunday and I was planning to preserve them then, if you'd like to help."
+    TAKERU: "You're asking me to help you dunk these things in spider embalming fluid?"
+    KENTA: "Arachnid embalming fluid, yes. Or was that sarcasm?"
+    TAKERU: "More like disbelief."
+    KENTA: "I figured you'd be happy the coins were gone. This is a pleasant surprise?"
+    TAKERU: "No, Kenta. I don't think I've ever woken up in terror that a 100 yen coin was going to eat me alive."
+    KENTA: "I'd be pleasantly surprised if I found a box of camel spiders. Especially considering how much I paid for that one. Almost a quarter of the proceeds from the coin collection."
+    TAKERU: "I..."
+    You know, I'm going to go back to bed, wake up, and pretend I wasn't just traumatized for life this morning.
+    TAKERU: "Wake me up when it's time for school."
+    ...
+    ...
+    TAKERU: "Ow! What was that for?"
+    KENTA: "It's time for school."
+    TAKERU: "It's been less than a minute!"
+    KENTA: "You're very hard to understand sometimes. You say one thing and then get angry when I do what you ask."
+    TAKERU: "Alright, let's call it even then with the whole stealth spiders thing."
+    KENTA: "You'll help me preserve and mount them tomorrow then?"
+    TAKERU: "That is not at all what I said."
+    When we head out the door, Kenta is still talking alternately about insect preservation techniques and the going rates for different frozen samples. I can't say I'd ever imagine I missed antique coin chat.
+    Still, I'm distracted enough by the letter. It may still be unopened, but now it's sitting in the bottom of my bookbag. Just waiting.
+    I didn't imagine it.
+    
+    As usual on Kenta's schedule, I'm at homeroom well before classes begin.
+    Natsumi's nowhere in sight, but Meiko has papers spread out all over her desk.
+    MEIKO: "Hello Takeru."
+    TAKERU: "Hey Meiko."
+    MEIKO: "You look a bit dazed this morning."
+    if ribbon_given:
+        Am I staring at her ribbon a bit too obviously?
+        It's still there, isn't it?
+    else:
+        Somewhere in my head that memory-that-didn't-used-to-be-a-memory is replaying.
+        She can't know that, can she?
+    It's an old feeling that my thoughts are leaking which while I know they can't it isn't comforting as Meiko tilts her head but she smiles nonetheless as if to -
+    MEIKO: "Your eyes, I mean. Didn't sleep well?"
+    TAKERU: "Oh."
+    TAKERU: "No, just my roommate. He's a bit... eccentric?"
+    He's a bit annoying, is what he is.
+    MEIKO: "Who are you rooming with? There's a good chance I know them."
+    NATSUMI: "Kenta! Undou Kenta!"
+    TAKERU: "When did you get here?"
+    NATSUMI: "I was right behind you this whole time, you just sorta looked lost in thought."
+    NATSUMI: "You're lucky you have such an interesting roommate. Mine is hardly ever around."
+    TAKERU: "Oh, if you're around the dorms tomorrow, tell Kenta you're looking for a more interesting roommate and maybe he'll let you help him freezedry spiders."
+    MEIKO: "Yeah, I know Kenta... I think I put through a roommate transfer for him."
+    TAKERU: "So you're the one I have to blame for this."
+    NATSUMI: "What're you working on, Meiko? Don't tell me you left homework until right before class."
+    MEIKO: "Oh this?"
+    TAKERU: "If all those pages on your desk are Kunida's math homework then I definitely do any of it."
+    MEIKO: "No, just more festival planning. I was here anyway for the meeting this morning so I figured I'd get started."
+    MEIKO: "None of it's very hard, it's just... work."
+    I don't think I've ever seen Meiko tired, but her smile immediately reappears.
+    MEIKO: "It'll be worth it, of course."
+    MEIKO: "Ah, Mr. Kunida's here! I almost lost track of time."
+    She leaves her papers to head to the podium, and the day begins.
+    
+    Why does Kunida have to teach first thing in the morning? With my head hurting like this right off the bat, I'll be lucky to recover by lunch, let alone in time for the next class.
+    Two seats down Natsumi looks like her brain's been fried too. Meiko, though, still has her papers and notebooks spread over desk.
+    I've written about ten lines in my own notebook, although half of them are just "???" repeated the width of the page.
+    It really would save some time if I just left now to become a janitor or cashier instead of pretending I belong here.
+    By the time lunch rolls around, I've added another dozen lines, most of them still "???," but lunch is lunch all the same.
+    NATSUMI: "That was brutal."
+    NATSUMI: "See you later guys, team lunch today!"
+    MEIKO: "See you later, Natsumi."
+    TAKERU: "...I guess you usually stick around here for lunch, then?"
+    MEIKO: "You can tell?"
+    The forms and notes still cover every inch of Meiko's desk.
+    MEIKO: "Ah. It's usually a working lunch."
+    MEIKO: "It's rare I get the time to just eat quietly without something else going on."
+    TAKERU: "Always busy, huh?"
+    MEIKO: "Seems to work out that way. But then again..."
+    She glances at her pencil. The tip is broken.
+    MEIKO: "Did you have lunch plans?"
+    TAKERU: "Not really."
+    MEIKO: "Want to find someplace quiet? I could use a break."
+    My immediate instinct is to question her motive or question my motive or generally just to back out, but, she smiles.
+    MEIKO: "Let's go."
+    After a detour to the cafeteria, we end up on the roof.
+    Or, part of the roof, anyway. Mirako is such a sprawling school that only part of the roof is accessible. The rest is either closed off, undeveloped, Japanese-style, or accessible probably only by hidden staircase, knowing the rest of this place.
+    At least there are proper tables.
+    The "quiet" spot Meiko finds isn't so much quiet as much as all sounds are present, but muffled. The chatter of students down below in front of the school, the wind in the surrounding forest...
+    But not the river. Even if it is visible from up here, in all its glory.
+    MEIKO: "You like the view?"
+    TAKERU: "It's not bad."
+    MEIKO: "It's an advantage of having the school on the hill."
+    TAKERU: "I never realized Mirako was this... big."
+    The grounds seem to stretch on longer than they need to, and over a hill I can make out fields and a baseball diamond.
+    Best to watch the river, I figure.
+    MEIKO: "You like Shizukawa?"
+    TAKERU: "It's alright, I guess. I mean, I haven't been around town yet. Just the dorms and your Lotus Room place."
+    MEIKO: "Oh, no, I mean the river. The town's named after the river, of course."
+    TAKERU: "You saw me looking at it? I'm just trying to find something..."
+    The ruin of course. It must be visible from up here.
+    MEIKO: "Then if you don't know about the town, and you don't know about the river..."
+    MEIKO: "How about Mirako? Hard to think you've been here a week already."
+    TAKERU: "Mirako... Well..."
+    Meiko.
+    I wish I could find the answer to why I don't want to answer her honestly, but it's fleeting and hard to pin down and I suspect it's just one of my flaws.
+    TAKERU: "It's alright."
+    MEIKO: "You can't really be indifferent about everything, now can you?"
+    TAKERU: "No, not..."
+    TAKERU: "Sorry."
+    MEIKO: "It's alright. Trust is a difficult thing. You probably expected to meet me here even less than I expected to meet you."
+    She seems so open with everyone that the guilt gets to me. Guilt? Or a feeling that metaphorically Meiko has been waiting, hand outstretched, and I'm being an idiot in the corner refusing to shake it.
+    TAKERU: "Mirako's great and all but I don't think I really belong here."
+    MEIKO: "You think?"
+    TAKERU: "Well, I mean... I hardly know anyone. I can barely keep up with classes."
+    TAKERU: "I'm pretty sure when Tohoku let me go, they only referred me to this place as kind of a mercy killing, like letting me out to pasture."
+    TAKERU: "Sure it's better than them just kicking me out, but I keep hearing everyone say it's supposed to be a sanctuary or a place for like-minded people. I don't really think I have a 'like mind' to begin with."
+    MEIKO: "..."
+    TAKERU: "If this is a second chance, I'm in the process of blowing it."
+    MEIKO: "That's funny. That's almost exactly what I thought the first day I was here."
+    TAKERU: "You? I figure you showed up and everyone acknowledged you as some sort of like, platonic ideal of the Mirako student."
+    MEIKO: "Haha, I'm glad you think of me like that but I was as anxious and unsure as anyone else starting a new school, away from home, with no one I'd ever met."
+    MEIKO: "You're a star athlete, so I'm sure you learned early to put those nerves behind you, but..."
+    TAKERU: "Not as much of a star as you'd think."
+    Or as good at getting used to this place. I'd start a thousand games before I set foot in Mirako.
+    MEIKO: "I'm not talented like you or Natsumi, or gifted with brains like Kenta or any of our other classmates. My only skill is that I learned to channel all that unease into hard work."
+    TAKERU: "So now you're top of the class, just like that."
+    MEIKO: "It wasn't an easy thing, but anyone could do it, if they tried. I'm confident about that."
+    MEIKO: "Maybe you just need someplace to put your focus. Have you found a club yet? Natsumi is a good friend but I know she can be ferocious when she's recruiting, so ignore her if you want. Find something you're passionate about."
+    TAKERU: "No clubs. I've got an invite to the supernatural club but that's barely meets the club definition."
+    MEIKO: "Haha, I didn't know we even had one."
+    MEIKO: "Maybe that can be your mission, to bring it to fame at Mirako."
+    TAKERU: "I think I'd rather jump off this roof than be remembered as the savior of the supernatural club."
+    MEIKO: "I'm sure you'll find something. For me it was the student council. I wanted to become someone that could help guide everyone else."
+    I glance at the bundle of notebooks Meiko's still holding against the wind.
+    Even during lunch, up here, with me, she can't put those away?
+    TAKERU: "How much do you need to know to get the festival work done?"
+    MEIKO: "Hm?"
+    TAKERU: "I mean, let's say your average underclassman off the street decided to help the great festival planning committee. Would that be at all helpful?"
+    MEIKO: "It's simple stuff, it really is. I just end up with all of it because I'm there to pick it up."
+    MEIKO: "...You're not saying you'd like to join the festival planning committee? After never seeing the Mirako School Expo before?"
+    TAKERU: "No, I really don't care about it that much, but if you're breaking your back doing legwork for them every day, and I'm sitting here moaning about being useless, it seems pretty obvious."
+    MEIKO: "I really don't mind. You shouldn't feel obligated."
+    TAKERU: "I mean, I owe you one, right?"
+    MEIKO: "For what? It's the other way around, isn't it?"
+    TAKERU: "For up and disappearing on you."
+    MEIKO: "You're still caught up on that?"
+    There's a brief moment where Meiko is unreadable. She's staring down at the river, not at me, but I can still see a tremor, before she closes her eyes, then turns toward me to smile once again.
+    MEIKO: "You shouldn't worry about it. It all worked out in the end."
+    TAKERU: "Humor me then. What would I have to do to help out?"
+    MEIKO: "You're serious about this?"
+    TAKERU: "Serious as the grave?"
+    MEIKO: "Where do I start..."
+    MEIKO: "Alright, so my real headache these days is the budget request forms. But you have to understand how we hand out the funds and the space to..."
+    MEIKO: "I'm ahead of myself."
+    MEIKO: "You're sure you want in on this, Takeru? It'd be a relief to me and I'd be thrilled to be working with you on this, but it's a lot of boring work for someone who just came to Mirako this week."
+    TAKERU: "Maybe that's what I need."
+    MEIKO: "Haha, alright, then it might just be a working lunch for you from now on. Got a pencil handy?"
+    TAKERU: "Yep. What needs to get done?"
+    I finish my lunch.
+    Somewhere between explaining all the politics that go into something as innocent-sounding as the Mirako festival, Meiko finishes hers as well.
+    It sounds like a huge mess to me: student groups and clubs on one side fighting for real estate and funding, and then the school administration and the Shizukawa town bureacrats trying to dictate things from up top.
+    And they put Meiko in the middle of this?
+    
+    I'm somewhat relieved that the only responsibility I come away with is that to track down some club leaders and team captains to actually submit their forms correctly.
+    Which, to be fair, will be pain because half of these people are my seniors and I know none of them, but it sounds like a breeze compared to what Meiko and the committee have to deal with.
+    Meiko leads us back down into Mirako while pulling out one page at a time from her set of festival materials.
+    MEIKO: "...and if they don't sign here, we have to go back and redo it, because the guys down at the municipal building can't file it."
+    TAKERU: "Alright, so make sure they sign."
+    MEIKO: "I tried to mark off what's wrong with the original form, but I might've missed some spots. Review them if you have time."
+    TAKERU: "Okay. Got it."
+    We near the classroom.
+    There's the usual bickering voices outside: Kenta and Natsumi. But something about the tone seems different today.
+    
