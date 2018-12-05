@@ -202,5 +202,105 @@ day06:
     MEIKO: "I tried to mark off what's wrong with the original form, but I might've missed some spots. Review them if you have time."
     TAKERU: "Okay. Got it."
     We near the classroom.
-    There's the usual bickering voices outside: Kenta and Natsumi. But something about the tone seems different today.
+    Next to me, Meiko pauses.
+    There's the usual bickering voices outside: Kenta and Natsumi. But is there someone else too?
+    NATSUMI: "Oh come on, Kenta's fine, you've just got to be a little flexible."
+    KENTA: "I still don't understand why she isn't here in person."
+    MANA: "Because you're terrible! Who would want to see you?"
+    NATSUMI: "That's a bit of stretch. How about we just, y'know, take a step back. Don't make a big deal out of it."
+    MANA: "This is a big deal!"
+    KENTA: "Can you please just explain what I did wrong?"
+    MANA: "You must've done something awful because Hagami hates you! So if you don't apologize - "
+    KENTA: "Your reasoning doesn't work. If whoever you're talking about - "
+    NATSUMI: "Kenta, hang on - "
+    It's hard to tell what they're all going on about, but Mana is standing in middle of the hallway bellowing at a puzzle Kenta.
+    Natsumi is standing between them, but judging by all the curious students (and Natsumi's teammates) now watching, this doesn't look like it's going to break up any time soon.
+    Only one of my classmates has the guts to elbow through it all though.
+    MEIKO: "Natsumi! What's going on?"
+    NATSUMI: "This girl shows up and starts yelling at Kenta about something or other. Search me if I can figure it out. It's damn noisy."
+    NATSUMI: "Kenta's a friend, and he's pretty relaxed, so I can't have you shouting at him out in the hall, okay?"
+    MANA: "He's being mean to Hagami! I know it!"
+    KENTA: "Stop just assuming - "
+    MEIKO: "Alright, everyone inside. Natsumi, Kenta, come with me."
+    NATSUMI: "But - "
+    MEIKO: "I'll sort things out, don't worry. Just come on inside."
+    MEIKO: "What did you say your name was?"
+    MANA: "I'm Kunida Mana."
+    MEIKO: "And I'm Kotaru Meiko. Please hold on a minute while I get this settled."
+    Meiko all but pushes Natsumi into our classroom, while Kenta just wanders off. With Natsumi gone, the ball players disperse, and Mana is left there fuming at nothing.
+    TAKERU: "Mana?"
+    MANA: "Takeru! What're you doing here?"
+    TAKERU: "That's my class, you know."
+    MANA: "You have class with that jerk?"
+    TAKERU: "You mean Kenta? No, he's just my roommate."
+    MANA: "Your roommate? You're friends with that guy? You, you - "
+    MANA: "You're not welcome at supernatural club! Don't come to lunch with us! I can't believe - "
+    TAKERU: "I've known the guy a week, Mana. We're just roommates by chance."
+    MANA: "Oh."
+    TAKERU: "Why are you up here yelling at him?"
+    MANA: "Hagami doesn't like him and it's affecting her grades. They're lab partners! And if Hagami doesn't like someone, they must be trouble. He's the worst!"
+    While I'm really tempted to agree...
+    TAKERU: "Maybe I'll talk to him at some point..."
+    TAKERU: "I'm sure Meiko's got it handled."
+    MANA: "That student council member?"
+    TAKERU: "Meiko's good, she's a professional. Trust me."
+    MANA: "I dunno..."
+    She glares at the open classroom door.
+    TAKERU: "Class is going to start soon. Guess I'll see you around?"
+    MANA: "You'll see me this afternoon you fruitcake!"
+    TAKERU: "...Didn't you just uninvite me from your club?"
+    MANA: "I take it back! Sorry!"
+    MANA: "Wait, I've got a lab in the basement, what time is - "
+    MANA: "Dammit Takeru why didn't you tell me it was so late? I've gotta..."
+    MANA: "Bye!!"
+    Mana takes off down the hall.
+    Looks like it's finally cleared out around here. My head is still spinning a bit but I return to class.
+    When I take my seat, Meiko already has her papers spread all over her desk. Natsumi, however, sits there with her arms crossed.
+    NATSUMI: "Well, if it isn't Takeru."
+    TAKERU: "Hey Natsumi."
+    NATSUMI: "Here I was, thinking you were such an upstanding guy, and you don't stick up for your friends. For shame, Takeru."
+    TAKERU: "I bet Meiko told you off."
+    NATSUMI: "...Maybe she did, maybe she didn't."
+    MEIKO: "I did."
+    NATSUMI: "Come on, Meiko, at least let me be mad at Takeru if I'm not allowed to be mad at that random girl."
+    MEIKO: "No can do. Sorry."
+    TAKERU: "I actually know her, anyway. I've bumped into Mana a couple times."
+    NATSUMI: "Ahh, that explains it. Caught between two friends, the valiant Takeru couldn't decide whose side to take."
+    NATSUMI: "...wait, Kenta and I were on one side, versus just Mana on the other. Seems pretty obvious to me whose side you should be on."
+    MEIKO: "Some of us prefer finding a just solution instead of just taking the majority opinion, Natsumi."
+    NATSUMI: "Hmph."
+    MEIKO: "I'll find Kenta after class and we'll see what's going on. It's kind of you to jump to his defense but, well, Kenta can be Kenta sometimes."
+    TAKERU: "Tell me about it..."
+    MEIKO: "Shh, class is starting."
+    Not that I really care about this history lecture.
+    It seems Natsumi doesn't either. She sulks into her notebook for a minute before staring at some spot just beyond the window. My guess is she forgot about the whole thing.
+    Strangely enough though, that seat in the back row is empty. Hagami was here this morning, wasn't she? But now there's nobody in the back row, except for -
+    I accidentally make eye contact with a nonplussed Hikari.
+    Oh well. Time to salvage what's left of afternoon classes.
+    
+    Spirits are high as classes end.
+    Which I guess is natural. Tomorrow's Sunday.
+    But for me, there's still one big obstacle before the day off.
+    TAKERU: "Supernatural club... Why'd I have to go and get reinvited..."
+    NATSUMI: "Hey, did you say something Takeru? Stop muttering."
+    TAKERU: "Nothing."
+    NATSUMI: "Well I've got a game to get to, so I'll see you guys later. Ciao!"
+    Meiko waves as Natsumi exits.
+    MEIKO: "Although I should probably head to the student council room..."
+    MEIKO: "You have the festival club forms, Takeru?"
+    TAKERU: "Yeah. I'll try to start this weekend, if I can find anyone."
+    MEIKO: "It's a real help, thank you again. If you need anything, I'll try to be around the common room, alright?"
+    TAKERU: "I almost forgot you lived in the dorms too..."
+    TAKERU: "Sounds good."
+    MEIKO: "Enjoy your Sunday."
+    I take my time pushing the contents of my desk into my bag.
+    There are plenty of other dawdlers hanging around the classroom, but I guess when I was talking with Meiko, I missed Hikari on her way out.
+    That's fine I guess. I'm not sure if there's anything I actually wanted to talk to her about. More that she's the only one I've told about my uncertain memories when it comes to Meiko.
+    And instead of working those issues out today I've just managed to dive further in. It doesn't make any sense. How could I have two sets of memories?
+    TAKERU: "Snap out of it..."
+    There are bigger issues to tackle right now. Specifically: surviving Hagami and Mana's supernatural club.
+    I find my way to the door by the old library easily enough.
+    The problem is going through it.
+    Probably there's no one even in there, so why do I feel like I've been set up? At least this time I make sure to keep a few feet back in case it swings open in my face.
+    
     
