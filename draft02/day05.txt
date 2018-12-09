@@ -217,7 +217,8 @@ day05:
     
     menu:
         "Head down to the shop. Maybe they'll have a gift for Meiko or something."
-            $meiko += 1
+            $ meiko += 1
+            $ ribbon_given = true
             I have nothing better to do. This time down the stairs, I try three at a time.
             The shop looks much less inviting from this angle. Vintage dresses sit on display in the window.
             I enter anyway.
@@ -308,7 +309,7 @@ day05:
     By my math it's only been about four since I've seen Meiko. My year at Tohoku, and before that the time at the feeder junior high, where the scouts sent me.
     It's nostalgic talking to her about those people I used to know. I don't think I ever went back after I left.
     We reach the bridge. I notice Meiko slows down, but she faces upriver, away from the ruin downstream, and towards the sun.
-    if $meiko > 0:
+    if ribbon_given:
         As she stands there, leaning over the railing - that's when I see it.
         She still has that ribbon.
         When did that happen?
@@ -368,7 +369,7 @@ day05:
     MEIKO: "I wonder what I did to deserve this."
     It seems like an odd choice of words, but...
     In the time I've been here at Mirako, she's the most sincere person I've met. Maybe now I can drop the uncomfortability that follows her.
-    if $meiko > 0:
+    if ribbon_given:
         But, still, as we walk up the road to Mirako, something seems off.
         It's that ribbon in her hair.
         It can't have been there before, no way. I remember very clearly that she's never worn that before. Not now, not today, not back before I came to Mirako.
@@ -391,7 +392,7 @@ day05:
     MEIKO: "Class is starting! Shh!"
     
     I don't get much done during afternoon classes. There's an uneasiness I can't shake.
-    if $meiko > 0:
+    if ribbon_given:
         It's not just that dumb ribbon of hers.
     That story Meiko told, about the cemetary on the hill... I have no memory of it whatsoever.
     Meiko, next to me, is writing something into her notebook. Looks like she's got basically the entire board down there, in her small, neat handwriting.
@@ -528,7 +529,7 @@ day05:
     TAKERU: "Whatever Meiko said happened, or I mean, whatever I remembered in the moment, I felt that would become the truth."
     TAKERU: "And now that I'm telling you all this I realize I have two sets of memories. The first is what I would've told you any other day: that Meiko is just some acquaintance I forgot when I went off to play ball at Tohoku."
     TAKERU: "But now all the evidence seems to point to that we were basically best friends and..."
-    if $meiko > 0
+    if ribbon_given > 0
         TAKERU: "And I gave her a ribbon that doesn't show up in any of memories, except for today."
         TAKERU: "Or maybe it's in all of them and I never noticed.
     TAKERU: "So what gives? It's either..."
@@ -599,7 +600,10 @@ day05:
     MANA: "And it looks like she's alright with you."
     TAKERU: "She played a practical joke on me, then got visibily uncomfortable after about ten minutes and hid."
     MANA: "That's progress for her! Especially if she's going around asking you to sign up."
-    MANA: "Can I tell you a secret?"
+    TAKERU: "Look... You guys are nice and all but half the time I've had lunch with you guys, it's been to get away from my even more obnoxious classmates who also want to have lunch."
+    TAKERU: "If you've met Natsumi, you'd understand."
+    MANA: "That, well, um..."
+    MANA: "That's okay. Can I tell you a secret?"
     TAKERU: "I guess."
     MANA: "I don't care that much about the supernatural. I even told Hagami I'd found a chess club with her if that's what she wanted! But she's a super great person and she deserves to be happy so I want her to have a place where she can feel at home, and that will be my club."
     TAKERU: "Didn't you just start school here a few weeks ago? How do you know her?"
@@ -613,8 +617,8 @@ day05:
     MANA: "What're you doing that for? It's not like I'll attack you."
     TAKERU: "Well you've done it two times already."
     MANA: "Those weren't intentional! Take that back!"
-    TAKERU: "Ow! Ow, quit hitting me with your back. Fine, I'll come to one meeting. Tomorrow?"
-    MANA: "Yeah the old library."
+    TAKERU: "Ow! Ow, quit hitting me with your bag. Fine, I'll come to one meeting. Tomorrow?"
+    MANA: "Yeah the old library. Right after class!"
     MANA: "Thanks Takeru! I know Hagami will be happy!"
     I rub my head on the way out of Mirako.
     The irony isn't lost at me.
