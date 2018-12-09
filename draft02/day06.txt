@@ -375,31 +375,44 @@ day06:
     MANA: "Here! Read! You'll fall in love with Seiji, I know it!"
     TAKERU: "I'm not, er, actually a teenage girl, you know."
     MANA: "He's just that good!"
-    Mana hands me the notebook, but I slide across the table to Hagami...
+    Mana hands me the notebook, but I slide it across the table to Hagami...
     ...who immediately whisks it out of sight. My guess is that thing is going to be burned as soon as Mana is out of sight.
     MANA: "Takeru! You traitor!"
     TAKERU: "I'll read it once you guys have the definitive edition out."
-    HAGAMI: "That's fair."
+    HAGAMI: "...See? Takeru agrees."
     MANA: "Hagami, you too? Do you want this published or not?"
-    MANA: "Never mind, I need new concept art anyway. Takeru, you'll give me your opinion on these? I want to get the girls' design going. You'll tell me what's cute and what's not, okay?"
+    MANA: "Never mind, I need new concept art anyway. Takeru, you'll give me your opinion on these? I want to get the Mei's design. You'll tell me what's cute and what's not, okay?"
     TAKERU: "What...? I don't - "
     MANA: "Her dress has to be fantastic! But I don't know what boys like these day so you'll have to help me out."
     TAKERU: "I didn't agree to - "
-    MANA: "But if you're not going to help with the lettering, and you're not going to help Hagami to write the boy, you've at least got to help me with the girls, don't you?"
-    While I'm almost too busy trying to figure out how to extricate myself from this dumb situation Mana's put me in, I don't miss Hagami's grin.
+    MANA: "But if you're not going to help with the lettering, and you're not going to help Hagami to write for Seiji, you've at least got to help me with the girls, don't you?"
+    While I'm almost too busy trying to figure out how to extricate myself from this dumb situation with Mana, I don't miss Hagami's grin.
     She just enjoys watching me flounder, doesn't she?
-    TAKERU: "You know what? Let me see what you've got so far."
-    HAGAMI: "Mana, pass me your drawings. Now."
-    MANA: "Huh? Hagami? You haven't seen the latest?"
+    Then Hagami clears her throat.
+    HAGAMI: "Mana, pass me your drawings."
+    MANA: "But I'm showing Takeru! He won't tell me if this suit is cuter than - "
+    HAGAMI: "Here. Show me instead."
+    MANA: "Huh? Well, I guess, if you haven't seen them either..."
     MANA: "It's going great! I upped Seiji's aura, and Mei is so much prettier, and - "
-    I've been defeated.
-    Nevertheless, while Hagami pretends to care about this project, I'll go ahead and get back to cramming for Kunida's test. It seems only fair.
-    We fall into stasis, eventually.
+    HAGAMI: "Thanks."
+    MANA: "Hey! Don't hide those too!"
+    TAKERU: "Thanks, Hagami."
+    Guess she felt guilty after I bailed her out earlier. Now we're even.
+    MANA: "Hagami! You're terrible!"
+    MANA: "If you won't let even Takeru see this stuff, how are we ever going to sell this out at the festival?"
+    MANA: "Or do you not actually want to do this?"
+    It's the first time I think I've heard Mana actually angry... Or an real enmity at all between these two.
+    ...and I feel guilty that I've sort of instigated it.
+    HAGAMI: "Sorry, Mana."
+    HAGAMI: "I... would really no one did see this. At least right now."
+    HAGAMI: "I'm working on it."
+    MANA: "No, it's alright, I get it."
+    MANA: "Sorry I yelled at you."
+    But there's silence after that.
+    I'll just go ahead and get back to cramming for Kunida's test. The tension eases, eventually, as the radio speakers continue to drone out that grainy orchestra, and we each close off.
     Mana draws extra sparkles around Seiji the Spellhearted. Hagami catches up on common 16th century French operatic devices. I figure out what it's going to take not to fail out in my first week of Kunida's math class.
-    While I try to immerse myself in my notes, Hagami spends the better part of an hour lecturing Mana on how exactly their manga series is supposed to work.
-    At least, that's what I assume must be going on. Hagami is speaking too low for me to pick up the specifics, but Mana seems deadly serious.
-    I'll leave them to it.
-    At this point, background bickering is almost comfortable at Mirako.
+    After the better part of an hour, I surface from my notes and notice that the pages of drafted manga cells are now back in front of Mana, safe from Hagami's clutches.
+    The two girls are going on about... something or other? Hagami is speaking too low for me to pick up the specifics, but Mana seems deadly serious. At this point, background bickering is almost comfortable at Mirako.
     Finally, Mana settles back with her arms crossed, and Hagami takes cover behind her book. Is that how an argument works around here?
     The light from the window has almost faded when Mana rises up and stretches.
     MANA: "I should probably get going or my uncle's going to be mad."
@@ -408,32 +421,41 @@ day06:
     MANA: "Then the lettering, you'll help out with - "
     HAGAMI: "No."
     Mana and Hagami go into deep conference once again. Mana waves her arms around, but Hagami just shoots me the occassional glare.
-    MANA: "You're kdding."
-    MANA: "Really, Hagami? You would? No joke?"
-    MANA: "Okay, that's even better."
+    MANA: "But I feel bad! I made him come here and now - "
+    MANA: "...Yeah, I know, I know, but can you - "
+    MANA: "..."
+    MANA: "Please?"
+    MANA: "..."
+    MANA: "You would?"
+    MANA: "..."
+    MANA: "No that sounds fantastic."
+    MANA: "Okay, that's even better!"
     MANA: "Takeru, are you still there?"
-    By this time it's been an hour or so, and the natural light isn't quite enough to keep the library lit.
-    It'd hard for me to lose focus though, on guard as I am.
-    MANA: "I'm really sorry this wasn't the whole club experience!"
-    TAKERU: "That's fine."
+    By this time i the natural light isn't quite enough to keep the library lit. It'd be hard for me to lose focus though, on guard as I am.
+    MANA: "Hagami and I are really sorry this wasn't the whole club experience!"
+    MANA: "This isn't what supernatural club's about so we apologize that certain, uh, issues spoiled your first meeting!"
+    TAKERU: "It's fine, really. I actually got a lot done."
     MANA: "And Hagami tells me that boys your age probably don't really care about ghosts and romance with ghosts and the perfect ghost boyfriends and ghosts in love triangles that - "
-    HAGAMI: "Mana. Please, I'm begging you, don't - "
+    HAGAMI: "Mana. Please, I'm begging you, just stay on - "
     MANA: "So, you probably won't join, will you?"
     TAKERU: "Er, I can't say that right off the bat, but..."
-    I don't mind spending lunch with Mana or Hagami, but this is a bit much to expect.
+    Lunch with Mana and Hagami, I could probably manage. This... well...
     MANA: "Come with us tomorrow."
     TAKERU: "Tomorrow? Isn't tomorrow Sunday?"
-    MANA: "Yeah! But that's it! Takeru I really owe you one because you finally convinced Hagami to do it."
+    MANA: "Yeah! But that's it! Takeru I really owe you one because you finally convinced Hagami to - "
+    Hagami is giving Mana a very point look, but when she notices me staring at her, she drops back down behind the opera book.
+    HAGAMI: "In return for sort-of-maybe joining, you're invited to the auxiliary secret after-hours meeting."
     TAKERU: "What, meet on Sunday? Most normal people wouldn't be happy, you know. That's pretty intense, meeting on everyone's day off."
-    MANA: "It's the only day to do it."
+    MANA: "Well it's the only day to do it, so we have the super-secret auxiliary - "
     TAKERU: "Do what?"
     MANA: "The ghost hunt!"
     TAKERU: "The... what?"
     HAGAMI: "Field. Expedition."
     MANA: "Oh whatever."
-    MANA: "Hagami says to call it a field expedition but it's really a ghost hunt."
+    MANA: "Hagami says to call it a field expedition but it's really a ghost hunt. She's the one that used to call it an auxiliary - "
+    MANA: "Okay okay I get it Hagami, I'll stay on topic.
     MANA: "I know you probably don't care about our manga and our club vision, so..."
-    MANA: "This one last shot."
+    MANA: "This is one last shot."
     TAKERU: "Last shot?"
     HAGAMI: "She... Takeru, Mana still wants to recruit you, so..."
     MANA: "Hagami has decided that the Mirako Supernatural Club will have its first ghost hunt no later than tomorrow!"
@@ -446,24 +468,58 @@ day06:
     MANA: "Will you accept?"
     TAKERU: "Will I... what?"
     I look to Hagami.
-    While she's not cowering behind the opera compilation, Mana's whole speech does seem to be causing her some pain.
+    While she's not cowering behind the opera compilation, by the expression she's wearing Mana could've just slapped her.
     HAGAMI: "Mana, I really only meant..."
-    HAGAMI: "If you want to have a supernatural club, this is better than the manga, but..."
-    HAGAMI: "Please..."
     MANA: "You must show up tomorrow! After lunch!"
-    TAKERU: "That's supposed to be our day off..."
+    TAKERU: "My first day off..."
     MANA: "But think about it! We're going to explore Old Mirako! We're going to flush out the ghosts. We're going to find Seiji - I mean, uh, the ghosts - just like old times in middle school. Right, Hagami?"
     HAGAMI: "..."
-    MANA: "Hagamiii!" Stop glaring at me! This is your idea in the first place!"
-    MANA: "Takeru, you've got to show up tomorrow."
-    TAKERU: "Why?"
-    MANA: "The ghost hunt! It's really happening, after all these years."
-    MANA: "You wouldn't..."
-    Mana can try to convince me all she likes. I'm not budging an inch without the approval of that girl who's shielding herself with French opera.
-    MANA: "Come with us tomorrow! And we'll hunt all those ghosts! Okay?"
-    TAKERU: "Okay?"
-    HAGAMI: "It's alright, Takeru. It's..."
+    MANA: "Hagamiii! If you're unhappy about it you could've just not agreed! I've been trying to get you to put one together for a month so don't back out now, please!"
+    HAGAMI: "No, let's go ahead."
+    HAGAMI: "You just... don't need to go into ancient history about it. Takeru would probably enjoy it without all the details."
+    Hagami grins. There's something... sinister about it.
+    But then drops back down into the French opera.
+    This... Yeah this is probably a trap.
+    MANA: "You don't have to come to any more supernatural club meetings. You can feel free to eat up here with us any time you like."
+    MANA: "And I totally don't blame you if you're only having lunch here to get away from your classmates because after meeting them today, you're right, they're terrible people!"
+    TAKERU: "I don't remember saying that..."
+    TAKERU: "But sounds like a good offer to me."
+    It's probably fine. A "ghost hunt" is probably Mana reading from a spellbook while Hagami sits around reading. Which is fine. I'll join her and sit around studying.
+    MANA: "Then you're in?"
+    TAKERU: "Yep."
+    MANA: "Awesome! Great! I'm really looking forward to it!"
+    MANA: "And now I've really got to run because I'm really late. See you guys tomorrow!"
     
+    When the door slams behind her, Hagami and I are left blinking at each other.
+    HAGAMI: "...Sorry about that."
+    HAGAMI: "Didn't think you'd actually show up."
+    TAKERU: "You have a good friend apparently. I wish anyone had my back like that."
+    We walk down the hall and out of the school. It's a full minute before she responds.
+    HAGAMI: "Sometimes I may have taken her for granted."
+    TAKERU: "I know what you mean."
+    Sorry, Meiko.
+    When we come to the bridge, I notice Hagami hangs back. Is she looking for that ruin again?
+    But when I turn back, she's facing me again.
+    HAGAMI: "Sorry. If you don't want to come tomorrow... Don't."
+    TAKERU: "You'd prefer if I didn't?"
+    HAGAMI: "No. No, sorry that's not what I mean... I got ahead of myself."
+    HAGAMI: "I'm looking forward to it, but you've done a lot already, so..."
+    TAKERU: "I'll be there."
+    HAGAMI: "See you, then."
+    There's that grin again. It's an expression probably better suited for Mana, so out of step with the flat Hagami I'm used to.
+    HAGAMI: "Bye."
+    And she walks on ahead to the dorms.
     
+    There's no pitcher's mound in my dream. No hospital rooms either, and none of those memories of my invertebrate insect teammates.
+    But of course there's... someplace.
+    I hate this. Of all the side effects to my meds, this is the worst.
+    Never mind that the meds turned me from someone charismatic and outgoing into someone suspicous of strangers and guarded around friends or that everything I thought was crystal clear is now just fog I just hate seeing things in my sleep.
+    The place I see is Mirako's roof, that one open-air spot Meiko showed me today.
+    She's sitting there hersef, beside me.
+    The sky is black, only lit by an occassional flash. At first I think those must be fireworks, but the flashes are just flickers, projections of flames that rear up from some burning shack down on the waterfront.
+    I also realize that the person next to me isn't Meiko at all.
+    It's that someone I used to know a long time ago, also named Meiko, but scared, and alone. There's a groan and splash as something huge below falls into the river. The girl next to me shivers.
+    I recognize this imposter. It's the feeling of revelation without any knowledge gained. She's a stranger. Then I wake up.
     
+    jump day07
     
