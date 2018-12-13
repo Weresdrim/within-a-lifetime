@@ -299,11 +299,11 @@ day07:
     ...
     TAKERU: "Are you talking to me?"
     MANA: "You're the only initiate and the only Takeru, right?"
-    MANA: "Initiate Takeru, your job is to locate the matches. When you find them, bring them to Master Hagami for the traditional lighting of the ghost-hunting candles."
+    MANA: "Initiate Takeru, your job is to locate the matches. When you find them, bring them to Magus Hagami for the traditional lighting of the ghost-hunting candles."
     HAGAMI: "..."
     MANA: "Uhhh, the lighting of the field expedition candles."
     HAGAMI: "..."
-    MANA: "Uhhh, bring the candles to Master Mana then I guess. I'll help you look."
+    MANA: "Uhhh, bring the candles to Magus Mana then I guess. I'll help you look."
     Mana starts searching the pile of candles, then moves on to the cabinets. I'm left to comb the shelves of the old library.
     There's nothing resembling matches. Plenty of foreign language novels, outdated textbooks, and worn sheet music though.
     The one box I haven't checked is on a top shelf in the corner. That's probably the one Hagami carried in earlier?
@@ -412,21 +412,142 @@ day07:
     Mana pushes open the door to the stairs and we walk downwards to the old wing. I do my best not to trip over the chain of the rabbit censer.
     We finally come to that familiar corridor. I think at this point I could count the doors to Hikari's tea room even by the feeble candlelight.
     MANA: "Slow down."
-    She starts to pause a second or two before each step, right after left. Am I supposed to keep time like a marching band or something? I almost trip over the hem of the robe dragging behind her.
+    She starts to pause a second or two before each step, right after left. Am I supposed to keep time like a marching band or something? I almost trip over the hem of the sack/robe dragging behind her.
     MANA: "Follow my lead."
     MANA: "...Kind of tough to see."
     She holds the candle over head. I raise my hand with the censer chain to match before realized that this accomplishes nothing except to make me look even dumber.
     Mana's candle flickers. The only noise is the rattle of the rabbit censer as it swings back and forth. I take another step behind Mana.
+    She takes a left turn around the tea room that I've never seemed to notice, then another right.
     MANA: "This is the part where Hagami's book would come in handy. Those Rosicrucians had some good ghost chants. Too bad that couldn't save their civilization though, huh?"
     TAKERU: "Mana I've got to be honest, half the time you sound sincere but when you start talking like that it's really hard for me to take anything you say - "
     MANA: "Shh!"
-    We're at the stairwell on the opposite end of the hall, in front of a door I've never really noticed before.
-    Mostly because it's always been closed. And it looks like it hasn't been opened in a decade.
-    TAKERU: "Isn't that locked?"
+    Tucked around the corner of the tea room is a stairwell. And down those doors with no window and a dusty knob.
+    And it looks like it hasn't been opened in a decade.
+    TAKERU: "Isn't that locked? That's got to be locked."
     In response, Mana shushes me... but also holds up a key.
-    TAKERU: "Where do you keep getting these keys..."
-    TAKERU: "And since when does Mirako have a basement..."
+    TAKERU: "And since when does Mirako have a basement...?"
     MANA: "Sub-basement."
+    TAKERU: "And where do you keep getting these keys...?"
+    MANA: "Don't doubt me! Your Magus has her secrets."
+    TAKERU: "If you say so."
+    My working theory is that she "found" them somewhere and unknowingly stole them.
+    But I don't have much time to think about it - Mana wastes no time on the stairs and starts fiddling with the lock. One metallic scratch later, the door is open.
+    And when she shines the flashlight, there's an unexpected sight.
+    It's just... nothing. The beam of light just vanishes in the dark. A few specs of dust, two support columns far in the back, but... that's it.
+    TAKERU: "Just how big is this place?"
+    MANA: "Goes under the whole school. Or the old parts."
+    Mana whispers so I whisper back.
+    TAKERU: "And you've been down here before."
+    MANA: "Um, no."
+    MANA: "This..."
+    She takes a few steps into the dark. Mana's got more guts than I thought. 
+    I follow, holding up my censer again. Not like this thing is going to do much good if we run into ghosts.
+    But that's just silly, there are no such thing. Still... I keep close behind Mana, censer swinging.
+    There's a very distinct illogical feeling that something I can't see is behind those arches or else behind me and they can see the flashlight, but I can't see it whatever it is in the shadows.
+    Whatever's watching has to know my name doesn't it but I get the feeling that it's behind me and not really part of this empty space at all and in fact I'm not part of this space either and I've been unchained from -
+    Mana stops short and I trip over her robe.
+    MANA: "Takeru!"
+    TAKERU: "What're you - "
+    MANA: "Look!"
+    No doubt about it. Just at the edge of the light is a shadow that shouldn't be there. Something low, hunched over, dark.
+    MANA: "I-initiate Takeru! You first! You've got the censer!"
+    TAKERU: "You've got the flashlight!"
+    MANA: "Y-you're going to make me g-go - "
+    TAKERU: "Fine."
+    I take a step forward. If that... shape... moves, then I'm going to smack it with the rabbit censer.
+    Two steps. Three steps. Mana keeps waving the light around behind me and I can't see straight. Another step. Then -
+    MANA: "Ow! Takeru don't just stop without warning."
+    TAKERU: "Mana. Stop grabbing on to me."
+    TAKERU: "It's a chair."
+    MANA: "Huh?"
+    TAKERU: "The only thing in this entire basement is a stupid wicker chair. Look."
+    It's upside down and one leg is broken off, but apparently what's been watching me is a piece of furniture.
+    MANA: "But then... Who left it here? It must the chair of the prisoner of this basement, locked up in here until their death, and now they haunt - "
+    TAKERU: "I'm going back upstairs. The ceiling's so low I can barely stand up straight."
+    MANA: "Wait. Wait! I'm coming!"
+    TAKERU: "Make sure you re-lock the door."
+    MANA: "Got it!"
+    I think we only managed to progress ten yards into the empty basement, for a rate of about two feet a minute. Not exactly a courageous performance but in my defense I showed up here expecting to study math for a few hours then go home.
+    While Mana's fiddling with the lock, I ascend the stairs, holding out the bronze rabbit in front of me to find the steps.
+    MANA: "Stop running ahead! You'll trip!"
+    TAKERU: "Hang on a sec."
+    The last step.
+    Darkness.
+    In the stillness...
+    ...there's something ahead.
+    Eyes.
+    Eyes staring.
+    Eyes staring at me.
+    No warning no shadows no watching two eyes there is something no someone standing right in front of me -
+        HIKARI: "Takeru?"
+    The censer hits the ground with a clang.
+    HIKARI: "Takeru, that is you. Nice outfit by the way."
+    TAKERU: "W-w-what are..."
+    TAKERU: "Hikari you scared the hell out of me! What are you doing here?"
+    HIKARI: "Fetching the book I left here yesterday. What're you up to? Setting the school on fire with that smoking thing you've got there? Or are you kidnapping that girl?"
+    TAKERU: "Why are you assuming I'm a criminal?"
+    This is a total disaster.
+    MANA: "Wow..."
+    MANA: "You must be..."
+    HIKARI: "Can you get that flashlight out of my face, please?"
+    MANA: "A ghost... A ghost!"
+    HIKARI: "What are you muttering about?"
+    TAKERU: "I'm sorry, Mana, I should introduce you to my friend Hikari. She spends a lot of time down here during the day. And apparently at night too."
+    HIKARI: "I've told you I'm here during some evenings as well. Didn't you meet me here before on a Sunday?"
+    TAKERU: "Er, well..."
+    TAKERU: "Hikari, this is Mana, she - "
+    HIKARI: "I'm not all that interested."
+    MANA: "Not interested? B-but I finally meet a ghost and she's at least moderately cute, I mean, not boy-ghost cute, and a guess a bit of a rude ghost, but you won't even say hi?"
+    MANA: "I could've sworn that rabbit censer would attract the friendly ghosts, too..."
+    HIKARI: "Rabbit censer? Takeru, is that what you're carrying around? Doesn't that belong in the tea room?"
+    TAKERU: "Does it?"
+    MANA: "I moved it up to the library a couple weeks ago. It's not like anyone uses any of the rooms down here."
+    HIKARI: "I do."
+    MANA: "Well of course! But you use it in the afterlife! That's not really - "
+    HIKARI: "To be  crystal clear, I'm your fellow classmate and senior at Mirako. Not a ghost."
+    HIKARI: "And you are apparently the thief that keeps taking things from my room."
+    MANA: "Sorry! If I'd had known there was a vengeful ghost - "
+    HIKARI: "Vengeful human. In the future please don't take others' belongings without asking. I made pretty much everything in the tea room myself, you know. By hand."
+    HIKARI: "Anyway... I'm going to go pick up my books."
+    TAKERU: "Do you want us to come with you? Mana's got the flashlight."
+    MANA: "And also candles if you need one!"
+    HIKARI: "I really think I'll be fine."
+    Hikari shields her eyes from the light Mana still holds only a foot or so from her face.
+    HIKARI: "I don't know what you're doing wandering around here dressed like the inquisition but I'd rather not have any part in it."
+    I was really, really hoping there wasn't enough light for Hikari to see this ridiculous getup. It better be at least too dark for her to notice my blushing.
+    TAKERU: "Er, right. We were uh..."
+    MANA: "Field expedition. Very serious stuff."
+    HIKARI: "You two have fun with that. I'll see you Monday, Takeru, hopefully dressed like a normal person."
+    TAKERU: "For sure. Sorry about this whole thing."
+    HIKARI: "Your hobbies are your own business, so I don't mind. Bye."
+    She vanishes off behind us as quickly as she came, footsteps not so much as echoing in the hall.
+    This... Yeah I don't think I'm going to be able to look Hikari in the eye any time soon.
+    MANA: "I'm almost giddy. I've just seen my first ghost."
+    TAKERU: "Oh knock it off."
+    MANA: "Sorry. What did you say her name was again?"
+    TAKERU: "Hikari. She's a bit of an odd one. She might seem a bit prickly, and she spends all her time cooped up down here, but..."
+    MANA: "Maybe I'll Hagami we found a ghost, anyway. That'll make her jealous. Then next full moon, for sure, she can do those chants, and I'll have my pick of ghosts, and they'll be so much more polite..."
+    I sigh.
+    TAKERU: "That's right, don't get discouraged. There's a ghost out there that's waiting for you."
+    MANA: "Thanks Takeru!"
     
+    Hagami is waiting for our return.
+    I leave Mana to recount the night's encounter and instead busy myself with removing my robe as quickly as possible.
+    Trying to find something other to do than light the now-removed robe on fire, and with my paperwork for Meiko at a standstill... I guess there's no harm in sticking around here to study as well.
+    I push some candles out of the circle and open an identical copy of the textbook Hagami also has propped up opposite me.
+    Hagami may not have had to suffer through tonight's indignity first hand, but at least she's the one that has to deal with the blow-by-blow replay from Mana. I don't remember being chased around the basement, or Hikari emitting an holy light.
+    Finally the tale ends with Hikari vanishing into the darkness and Mana settles into another volume of that manga with the ghost-tailed guy on the front.
+    The circle of candles gradually burns down.
+    Hagami and I gradually eventually give up on the two separate copies of Intermediate Mathematics and start checking each others' work on the practice problems.
+    When the last of the candles burns out, I glance over to where Mana is asleep with her face on the table. She blinks awake when I stand.
+    TAKERU: "I'm headed out. It was nice ghost-hunting with you."
+    MANA: "You too Takeru! Thanks for being a good sport! Hope we didn't embarrass you too much in front of your friend!"
+    TAKERU: "Yeah, thanks a million. This is going to be fun to try to spin tomorrow..."
+    TAKERU: "And Hagami, you don't have to hide. I can tell you're laughing over there."
+    She turns away from me instead, then turns back stonefaced.
+    HAGAMI: "Have a good evening, high spirit inquisitor Takeru."
+    MANA: "Good night, Takeru!"
+    TAKERU: "You too."
     
+    jump day08
     
