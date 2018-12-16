@@ -1,0 +1,45 @@
+label day08:
+
+    Maybe I'm finally getting used to the Kenta schedule.
+    I'm up way earlier than necessary, and on the road to Mirako way earlier than necessary.
+    Next to me, Kenta is telling me more about spiders than is at all necessary.
+    KENTA: "...but because of the vacuum seal on the delivery packages, prices can be unreasonable."
+    TAKERU: "Uh huh."
+    KENTA: "My first shipment I wasn't as lucky, but I think the per-specimen cost on this most recent batch was closer to 8000 yen."
+    TAKERU: "Uh huh."
+    TAKERU: "Wait, you're paying how much for a spider?"
+    KENTA: "They're arthropods. Different taxon."
+    TAKERU: "How much per arthropod?"
+    KENTA: "On average, 8,000 yen."
+    TAKERU: "How on earth do you afford all that? Is your family loaded or something?"
+    That'd make sense. They shipped Kenta off here and then gave him a budget to shut him up.
+    KENTA: "Well I sold the coins for about 200,000. So that's maybe 20% profit but I'd have to be looking at the spreadsheet to get you exact numbers."
+    TAKERU: "You actually make money off this stuff?"
+    KENTA: "Given the time invested in auction sites I wouldn't call it much of a return."
+    KENTA: "And you have to keep careful track of everything."
+    TAKERU: "Maybe Meiko should've contracted this festival junk out to you instead..."
+    KENTA: "Festival junk?"
+    We're on the Shizukawa bridge now.
+    I pause to pull the notebook and assorted forms out of my bookbag.
+    TAKERU: "Yeah. Look at this stuff."
+    KENTA: "You're joining the student council?"
+    TAKERU: "No? Meiko's a friend of mine, she's apparently in charge of the festival committee. Somehow I volunteered to handle some of this."
+    TAKERU: "Speaking of which... Do you know where I can find Mitani Mitsuo?"
+    KENTA: "Who?"
+    TAKERU: "He's president of the math club."
+    KENTA: "No. Why?"
+    TAKERU: "You'd think he'd be able to add up a bunch of numbers correctly but he totally screwed up this budget form. I need to find him and make him redo it."
+    TAKERU: "How about... Ito Naoji?"
+    KENTA: "Never heard of him."
+    TAKERU: "According to this he's in you're class. Come on..."
+    TAKERU: "Okay, you ever meet a Haruki Natsumi?"
+    KENTA: "No. Sorry."
+    TAKERU: "That was a trick question. You argue with Natsumi outside my classroom like every day!"
+    KENTA: "That doesn't mean I should pay her any attention."
+    TAKERU: "And she was the one helping you dunk all those spiders in formaldehyde yesterday! Come on Kenta, you have to pay more attention to other people."
+    KENTA: "Things like names aren't important to me. If her name's Natsumi, then fine. I appreciate her for helping me out and occassionally changing her opinions to better ones."
+    TAKERU: "But other people sure care if you remember their names. It makes it seem like you don't care about them."
+    KENTA: "I don't follow."
+    TAKERU: "Like... Where is your tie right now? Your shirt's inside-out again too."
+    KENTA: "Is that important?"
+    TAKERU: "It sure makes it seem like you don't care about 
