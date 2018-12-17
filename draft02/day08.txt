@@ -42,4 +42,70 @@ label day08:
     KENTA: "I don't follow."
     TAKERU: "Like... Where is your tie right now? Your shirt's inside-out again too."
     KENTA: "Is that important?"
-    TAKERU: "It sure makes it seem like you don't care about 
+    TAKERU: "It sure makes it seem like you're lazy. Or that you're some delinquent that doesn't care about Mirako or its rules."
+    KENTA: "I don't mind if other people think I'm lazy. I do like our school. Its rules I don't really care about."
+    KENTA: "I guess you do if you're going through all of those papers. Unless the details work has to do with arthropods, I don't care about it. What you have there seems very dull."
+    TAKERU: "No kidding it's dull."
+    TAKERU: "I'm just doing it as a favor to my friend though."
+    KENTA: "Yes, it's very odd that you'd go through all that trouble when you've never even been to Mirako's festival before."
+    TAKERU: "True enough..."
+    TAKERU: "What's it like?"
+    KENTA: "I'm not sure."
+    TAKERU: "Weren't you here for last year?"
+    KENTA: "Yes but I'm not sure it was a normal festival as there was quite a commotion. The accident might've changed how things work. That thing burned down."
+    TAKERU: "Hang on... 'That' thing?"
+    KENTA: "The boathouse. You can be very thick sometimes but you do see that, don't you?"
+    He's pointing at the ruin.
+    TAKERU: "That burned at the festival last year?"
+    KENTA: "That's what I just said. You can be very thick some - "
+    I ignore Kenta.
+    For some reason the ruin has always seemed just like that... A 'ruin.' Imagining it not burned down out there is screwing with me. Seems like it's been standing there deserted for decades.
+    TAKERU: "What happened?"
+    KENTA: "It burned down."
+    TAKERU: "Yeah, but... how? Why?"
+    KENTA: "Presumably it caught fire."
+    TAKERU: "Never mind. I'll ask Meiko or someone."
+    KENTA: "Who?"
+    TAKERU: "I'll also ask her where I should go to find all these people for the paperwork because it's pretty obvious you're not going to be helpful there."
+    KENTA: "I'm a helpful person. Try me."
+    We walk up the hill to Mirako, but of course Kenta can't place a single one of the names I give him.
+    Yeah, maybe Kenta's helpful, in a roundabout way.
+    I can't think too deeply about it though, too much to do today. Getting distracted by that charred building on the river won't help.
+    
+    I manage to track down two or three people on my list before it's time for homeroom, mostly by asking random upperclassmen if they know who so-and-so.
+    Most of these people are a year ahead of me, but I guess that figures, if they're in charge of clubs.
+    You'd never think there were this many student groups at Mirako, given the sleepiness of the towns. There are a surprising amount of students here.
+    ...And it seems like everyone's involved. Unlike Tohoku. We only had sports teams, basically.
+    Or maybe I just didn't see beyond my own immediate surroundings.
+    Regardless, I arrive at class with a few minutes to go. A few of my classmates are milling around chatting, and Meiko has her desk covered in papers, as usual.
+    TAKERU: "Hey. Busy with festival stuff?"
+    MEIKO: "Hi Takeru, good morning. Of course. I'll probably have my hands full for this whole month."
+    MEIKO: "How are things going on your end?"
+    TAKERU: "Found a few people this morning. But still a lot to go. Everyone's terrible at filling out these forms, apparently."
+    MEIKO: "Ah, haha, well I'm glad you're making progress, but I meant to ask if you enjoyed your day off. I didn't see you around."
+    TAKERU: "Oh."
+    TAKERU: "I guess so."
+    TAKERU: "Did you know Mirako has a basement below the basement?"
+    MEIKO: "Well that's news to me. What's that have to do with your day off?"
+    TAKERU: "Oh, nothing. I just met up with my club is all."
+    I instantly regret mentioning the supernatural club and 'my' in the same sentence.
+    MEIKO: "Ah, neat, so you've found a group you're interested in. Now I won't need to open up room on the festival committee. So did Natsumi finally convince you to join the baseball team?"
+    TAKERU: "No, nothing like that. It's not really my club, really, I just sort of put my name down because they're short on members and one of the leaders is in my class, I don't really - "
+    MEIKO: "Interesting. So you joined the supernatural club?"
+    TAKERU: "Wait, hang on, how do you know that?"
+    MEIKO: "That's the only club application I had to turn down for being short on members."
+    MEIKO: "Good on you for helping them off the ground, though. I'm sure Hagami appreciates it."
+    TAKERU: "You know her?"
+    MEIKO "I know that she's in our class."
+    We both look backwards at the same time. Hagami is there at her desk in the back row, sure, but her headphones are on.
+    She doesn't notice us looking her way.
+    MEIKO: "...As a transfer student, she must feel out of place, so I've reached out to her a bit, but..."
+    TAKERU: "Didn't get much of a response?"
+    MEIKO: "No..."
+    TAKERU: "Sounds about right."
+    MEIKO: "I guess it's impossible to please everyone, isn't it?"
+    TAKERU: "Yeah. Too bad, Meiko, you'll have to settle for 95% of our class idolizing you instead of 100%."
+    MEIKO: "Oh, haha, I'm sure it's nothing like that."
+    
+    
+    
