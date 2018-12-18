@@ -86,7 +86,7 @@ label day08:
     TAKERU: "Oh."
     TAKERU: "I guess so."
     TAKERU: "Did you know Mirako has a basement below the basement?"
-    MEIKO: "Well that's news to me. What's that have to do with your day off?"
+    MEIKO: "Hm, I guess no I didn't. What does that have to do with your day off?"
     TAKERU: "Oh, nothing. I just met up with my club is all."
     I instantly regret mentioning the supernatural club and 'my' in the same sentence.
     MEIKO: "Ah, neat, so you've found a group you're interested in. Now I won't need to open up room on the festival committee. So did Natsumi finally convince you to join the baseball team?"
@@ -106,6 +106,41 @@ label day08:
     MEIKO: "I guess it's impossible to please everyone, isn't it?"
     TAKERU: "Yeah. Too bad, Meiko, you'll have to settle for 95% of our class idolizing you instead of 100%."
     MEIKO: "Oh, haha, I'm sure it's nothing like that."
+    NATSUMI: "Hii, good morning."
+    NATSUMI: "Guess what?"
+    TAKERU: "What?"
+    NATSUMI: "I'm on time."
+    TAKERU: "Am I supposed to be impressed?"
+    MEIKO: "Ah! Then that means I'm running late!"
+    NATSUMI: "Sheesh, good morning to you too."
+    Meiko takes her spot in front of the class as the noise dies down.
+    MEIKO: "Good morning everyone! Hope you're looking forward to another week at Mirako."
+    MEIKO: "Don't forget we have a math test tomorrow. I'm hoping we can all - "
+    MEIKO: "Yes, Natsumi?"
+    NATSUMI: "That means there's study session tonight, yeah?"
+    MEIKO: "Right. I'll be hosting in the library."
+    There's some cheering, mostly from Natsumi.
+    MEIKO: "And another reminder, the first round of club applications are due by the end of this week."
+    MEIKO: "The student council will be considering budget requests for the festival until - "
+    MEIKO: "Yes, Natsumi?"
+    NATSUMI: "I heard the fireworks are back and better than ever, yeah?"
+    MEIKO: "You must have heard wrong. Those are still canceled." 
+    ...there's some grumbling, mostly from Natsumi.
+    MEIKO: "But I'm sure we can come together as a school and enjoy..."
+    Meiko continues but Natsumi is no longer interested.
+    TAKERU: "Where'd you hear that from?"
+    NATSUMI: "Oh, nobody, but I figure if I bug Meiko enough she'll eventually change her mind."
+    MEIKO: "Change my mind about what?"
+    NATSUMI: "You're back! Takeru was just saying he was going to change your mind about the fireworks now that he's on the festival planning committee."
+    TAKERU: "I'm not - "
+    MEIKO: "Sorry, that's straight from the staff. I'm on your side for this one, but we're just students. There's only so much influence we have."
+    NATSUMI: "Hmmm..."
+    NATSUMI: "Then I guess you'll have to get them to change their minds. That should be easy for the great Meiko."
+    MEIKO: "Flattering me won't work either."
+    NATSUMI: "Takeru, you'll at least promise me you'll get the principal and them to get the fireworks back."
+    TAKERU: "I'm just Meiko's secretary but I'll pass your feelings along."
+    NATSUMI: "Don't betray me like that. I thought we were on the same - "
+    MEIKO: "Shh! Mr. Kunida's here."
     
     
     
