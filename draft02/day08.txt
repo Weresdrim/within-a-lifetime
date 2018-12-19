@@ -142,5 +142,34 @@ label day08:
     NATSUMI: "Don't betray me like that. I thought we were on the same - "
     MEIKO: "Shh! Mr. Kunida's here."
     
+    An hour of nothing. Then another, another --
+    NATSUMI: "Hey Takeru..."
+    TAKERU: "Yeah..."
+    NATSUMI: "Did you get any of that?"
+    TAKERU: "No not really."
+    TAKERU: "We're doomed tomorrow, aren't we?"
+    NATSUMI: "Definitely."
+    NATSUMI: "I've got a deal for you."
+    TAKERU: "Oh yeah?"
+    NATSUMI: "You con Meiko into helping you, and I'll get Kenta to write up the answers for me. Divide and conquer."
+    TAKERU: "Brilliant plan."
+    MEIKO: "I don't know what you're signing me up for there but I don't like the sound of it."
+    NATSUMI: "Go for it Takeru. It'll be easy for you to win her over."
+    MEIKO: "You two just come to the study group tonight and you'll do fine, I promise."
+    NATSUMI: "Thaaanks Meiko."
+    I make a note not to pair with Natsumi again. It'd be embarassing to fail my first exam here.
+    NATSUMI: "Hey Takeru, speaking of Kenta, I finally got him to agree to run our numbers for the tournament."
+    NATSUMI: "Come have lunch with us. You can be the mediator while we hash out the deal."
+    TAKERU: "So you were just trying to get in his good books by bringing the baseball around to help with the spiders, were you?"
+    NATSUMI: "They're arthropods, not - "
+    TAKERU: "Don't you start on me. I've got other plans anyway."
+    NATSUMI: "Oh ho, eating with Meiko again?"
+    MEIKO: "I need to check in with the student council. I'll see you all later."
+    NATSUMI: "Hmmm..."
+    She squints at me as I walk out the door.
+    NATSUMI: "If you're secretly joining the swim team or something I'm going to be mad, you hear?"
+    TAKERU: "Bye, Natsumi."
+    
+    
     
     
