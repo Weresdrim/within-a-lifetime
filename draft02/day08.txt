@@ -153,7 +153,7 @@ label day08:
     TAKERU: "Oh yeah?"
     NATSUMI: "You con Meiko into helping you, and I'll get Kenta to write up the answers for me. Divide and conquer."
     TAKERU: "Brilliant plan."
-    MEIKO: "I don't know what you're signing me up for there but I don't like the sound of it."
+    MEIKO: "I'm going to pretend I didn't hear that."
     NATSUMI: "Go for it Takeru. It'll be easy for you to win her over."
     MEIKO: "You two just come to the study group tonight and you'll do fine, I promise."
     NATSUMI: "Thaaanks Meiko."
@@ -169,6 +169,23 @@ label day08:
     She squints at me as I walk out the door.
     NATSUMI: "If you're secretly joining the swim team or something I'm going to be mad, you hear?"
     TAKERU: "Bye, Natsumi."
+    
+    When I show up at the old library, the door is open for me. I can hear Hagami inside, but she quiets down when I enter and greets me with a smile, then looks to Mana.
+    MANA: "Takeru! Hi! You made it!"
+    TAKERU: "Did you think I wasn't going to show back up?"
+    MANA: "Well we thought maybe..."
+    She glances at Hagami.
+    MANA: "Maybe after you ran into the ghost last night, you wouldn't want to show up at the supernatural club again."
+    TAKERU: "Very funny."
+    While the huge circle of candles is mostly gone, the table is still as cluttered as ever. I clear away some looseleaf paper, a stray wax blob, two illustrations of Seiji the Somethinghearted, then pull out a chair and sit down.
+    While Hikari pages through some huge book. Mana chatters about people I've never heard of. Hagami nods.
+    All in all going on the ghost hunt was worth it if I can just eat here and doze off every day instead of getting wound up with Natsumi or her accomplice Kenta.
+    MANA: "...but Hagami, it'd be great if you got more involved. I'm appointing you the warden for the next ghost hunt. Maybe next week?"
+    HAGAMI: "Sorry."
+    MANA: "Okay, you're warden for the field expedition next week?"
+    HAGAMI: "Sorry."
+    MANA: "You don't need to pretend you didn't have fun just because Takeru's here."
+    
     
     
     
