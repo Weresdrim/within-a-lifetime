@@ -72,7 +72,7 @@ label day08:
     Yeah, maybe Kenta's helpful, in a roundabout way.
     I can't think too deeply about it though, too much to do today. Getting distracted by that charred building on the river won't help.
     
-    I manage to track down two or three people on my list before it's time for homeroom, mostly by asking random upperclassmen if they know who so-and-so.
+    I manage to track down two or three people on my list before it's time for homeroom, mostly by asking random upperclassmen if they know so-and-so, getting redirected to go find some other so-and-so, and so on.
     Most of these people are a year ahead of me, but I guess that figures, if they're in charge of clubs.
     You'd never think there were this many student groups at Mirako, given the sleepiness of the towns. There are a surprising amount of students here.
     ...And it seems like everyone's involved. Unlike Tohoku. We only had sports teams, basically.
@@ -151,7 +151,7 @@ label day08:
     NATSUMI: "Definitely."
     NATSUMI: "I've got a deal for you."
     TAKERU: "Oh yeah?"
-    NATSUMI: "You con Meiko into helping you, and I'll get Kenta to write up the answers for me. Divide and conquer."
+    NATSUMI: "You con Meiko into passing you the answers, and I'll get Kenta to write up the answers for me. Divide and conquer."
     TAKERU: "Brilliant plan."
     MEIKO: "I'm going to pretend I didn't hear that."
     NATSUMI: "Go for it Takeru. It'll be easy for you to win her over."
@@ -178,14 +178,109 @@ label day08:
     MANA: "Maybe after you ran into the ghost last night, you wouldn't want to show up at the supernatural club again."
     TAKERU: "Very funny."
     While the huge circle of candles is mostly gone, the table is still as cluttered as ever. I clear away some looseleaf paper, a stray wax blob, two illustrations of Seiji the Somethinghearted, then pull out a chair and sit down.
-    While Hikari pages through some huge book. Mana chatters about people I've never heard of. Hagami nods.
+    While Hagami pages through some huge book. Mana chatters about people I've never heard of. Hagami nods.
     All in all going on the ghost hunt was worth it if I can just eat here and doze off every day instead of getting wound up with Natsumi or her accomplice Kenta.
     MANA: "...but Hagami, it'd be great if you got more involved. I'm appointing you the warden for the next ghost hunt. Maybe next week?"
     HAGAMI: "Sorry."
-    MANA: "Okay, you're warden for the field expedition next week?"
-    HAGAMI: "Sorry."
+    MANA: "Oh whoops I mean not ghost hunt, you're warden for the field expedition next week?"
+    HAGAMI: "...Sorry."
     MANA: "You don't need to pretend you didn't have fun just because Takeru's here."
-    
+    MANA: "But it was fun, Takeru, right?"
+    TAKERU: "That's probably the weird initiation rite I've seen. And I thought Tohoku was bad. I didn't think a two-girl club would go in heavy on the hazing."
+    MANA: "What?"
+    HAGAMI: "Don't underestimate us."
+    MANA: "Wait, what, Hagami?"
+    MANA: "Oh never mind."
+    Hagami is fully sheltered behind a book at this point, so Mana turns back to me.
+    MANA: "I've never seen a ghost myself before. Sure there are sometimes hauntings and that sort of thing, but I had mostly thought those were rumors."
+    MANA: "And didn't you say you had a friend that knew about some of this too? Like she had a chess set go missing?"
+    TAKERU: "Hang on, back up. You met her last night, didn't you?"
+    MANA: "Who are you talking about again?"
+    TAKERU: "Hikari."
+    MANA: "Oh, I don't think I know her. I may have been around Mirako a lot but I still only really know people in my own year."
+    MANA: "Her name's Hikari though?"
+    TAKERU: "...She introduced herself."
+    I feel a headache coming on and not a mundane one from physical illness but like I missed the last step on the stairs and somehow ended up somewhere very different and I need to backpedal to find my footing.
+    TAKERU: "Alright. Let's figure this out. What exactly happened last night? You and I were about to go up the stairs, and then..."
+    TAKERU: "Hikari showed up."
+    MANA: "Uhh... I'm not sure who you mean."
+    Another pause.
+    The only sound is the low orchestra from the radio.
+    TAKERU: "My friend. You stole her chess set. Came late to pick up some books or something."
+    MANA: "Oh, you mean when the ghost showed up!"
+    MANA: "Well, it could've been anything, I guess! Just a stray shadow. I would've thought ghosts were a lot cuter, right? I mean, otherwise what's the point?"
+    TAKERU: "We ran into her. I almost literally ran into her."
+    MANA: "You were very brave!"
+    TAKERU: "Well, I'd say I was more very embarassed then very brave. That rabbit incense, and..."
+    Mana just looks confused. Hagami's still hiding but I can tell she's not paying any attention to her book.
+    MANA: "The only people I saw last night were you and Hagami. Sorry, Takeru."
+    TAKERU: "Why..."
+    MANA: "Or sorry! I should count ghosts as people too!"
+    TAKERU: "I'm sick of this. There's not..."
+    TAKERU: "There are no ghosts in Mirako. There aren't any ghosts anywhere. Please, just cut it out. I feel like I'm going crazy."
+    MANA: "No... No ghosts?"
+    MANA: "Then what were you doing last night? Why were you so spooked? I don't - "
+    TAKERU: "Look, Mana. I know you guys are trying to scare me or something, or maybe you have something against Hikari, but..."
+    TAKERU: "It's not funny any more."
+    TAKERU: "I don't want to get into details but there's a reason I transferred into Mirako. I've had some trouble telling what's real and what's in my head. So if you're trying to screw with me..."
+    TAKERU: "You've made your point. Just tell me what really happened. I don't like it when my so-called friends screw with me or lie to me or - "
+    MANA: "Takeru, I don't... What - "
+    I jump. We're cut off by a blast of music.
+    When I turn around, I see Hagami has her finger on the radio volume control. After a few seconds, she lowers it back.
+    ...And then she flips another page in that oversized book.
+    Mana and I stare at each other, when Hagami finally speaks.
+    HAGAMI: "Hm."
+    HAGAMI: "I knew that incense was a little shady."
+    She pulls over the copper rabbit burner from across the table, crosses the room, and empties its contents into the trash.
+    For once she doesn't break eye contact. I gulp, but it seems that's all she wanted to say.
+    Hagami just sits down and turns another page.
+    MANA: "Oh. Okay that must've been it. You're right Hagami."
+    MANA: "Let's talk about something else. Do you have any plans for the festival, Takeru?"
+    TAKERU: "Not really, but it's still almost a month out, isn't it? Must be a big deal around here."
+    MANA: "Of course! That's why it's important that we get the first draft of Seiji done to have ready to sell. But before that we need to be an official club! And that means recruiting! And that means..."
+    MANA: "Phew. It's a headache, is what it is."
+    MANA: "Takeru! Do you know anyone interested in the supernatural?"
+    TAKERU: "I hardly know anyone, and I'm hardly interested in the supernatural myself."
+    MANA: "That's okay. Hagami and I will find someone."
+    HAGAMI: "Takeru can fudge it for us."
+    MANA: "Huh? Takeru, you could get us official club status? Do you have secret identity? Or do you have blackmail material on the student council? Or - "
+    TAKERU: "Er, I have a friend on the planning committee, but she's kind of a by-the-book person."
+    MANA: "Oh..."
+    MANA: "But either way, you've got to come. Hagami and I will run an illegal booth if we have to!"
+    HAGAMI: "...I might not be there."
+    MANA: "Hagami?"
+    HAGAMI: "Sounds crowded. Too many people."
+    MANA: "Well I've still got a couple weeks to convince you!"
+    MANA: "But I guess that'll have to wait until tomorrow... Class is almost starting."
+    MANA: "Hagami, Takeru, you better hurry too or you'll be late. Bye!"
+    Hagami and I both sit as the door slams behind Mana. I speak first.
+    TAKERU: "So that blank form you put in for the festival..."
+    TAKERU: "Are you going to sign up with Mana's club? Or on your own?"
+    HAGAMI: "Not sure."
+    TAKERU: "Look, I can push Meiko a bit but I don't think she's going to accept a half-filled page from a half-baked club."
+    HAGAMI: "...I'll figure it out."
+    HAGAMI: "Thanks for not mentioning it to Mana."
+    TAKERU: "No problem."
+    I stand and gather my things as Hikari puts down her book.
+    But she doesn't rise to follow.
+    HAGAMI: "About Hikari."
+    TAKERU: "Er, what?"
+    HAGAMI: "Hikari, last night."
+    HAGAMI: "Takeru... We're you're friends. If Mana says she didn't meet anyone, she's saying that because that's what she believes."
+    HAGAMI: "We're not... Nobody's trying to mess with you."
+    TAKERU: "That's good to know... I guess."
+    As I open the door - 
+    HAGAMI: "And..."
+    HAGAMI: "If you say you met Hikari, I believe you."
+    HAGAMI: "I..."
+    Hagami avoids my eyes. I want to ask her what she means, but she slinks off down the hall as I hold open the door.
+    It seems pointless to speculate but I'd guess she had more to say.
+    While I trace my steps down the unused wing back to class, I add another item to my mental to-do list: find out exactly what Hagami knows about Hikari.
+    Apart from Mana, it's only Kenta and Natsumi that I've seen pretending like Hikari doesn't exist. I could see Kenta being unintentionally rude like that and maybe Natsumi holds a grudge.
+    Mana might be a first-year student, but she lives in Shizukawa. Maybe she's trying to fit in with the older girls by not acknowledging the pariah? But that seems weird...
+    Hagami, at least, is a transfer like me. If there's some reason everyone else would rather forget about Hikari, Hagami at least will give me a straight answer.
+    And I should ask Meiko. Meiko wouldn't lie.
+    I'll find some time after afternoon classes.
     
     
     
