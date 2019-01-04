@@ -282,6 +282,118 @@ label day08:
     And I should ask Meiko. Meiko wouldn't lie.
     I'll find some time after afternoon classes.
     
+    But the time doesn't come.
+    When I arrive back at class, I'm just in time to catch the beginning of our English class, and there's hardly time to talk to anyone.
+    ...and then Meiko is gone as soon as class lets out.
+    I mean to catch her, but from her all I get is a quick wave before she vanishes into the chaos. I'd tail her but there's someone standing in my way.
+    NATSUMI: "Hey."
+    TAKERU: "Oh, Natsumi. I was about to talk to Meiko about - "
+    NATSUMI: "About the test tomorrow?"
+    TAKERU: "No, about - " 
+    NATSUMI: "Then you're talking about the wrong thing! We've got study group."
+    TAKERU: "Oh. I kind of forgot about that."
+    NATSUMI: "This is why you're going to fail."
+    TAKERU: "Don't remind me."
+    NATSUMI: "Well come on, let's get going. This is so unfair anyway. What kind of teacher just throws tests into the middle of the year? Midterms are good enough for everyone else, but no, Kunida's got to..."
+    We take the stairs down to the library as Natsumi gripes.
+    I kind of wish she'd walk faster or else I'll be forced to pair up with her again. And in that case I'd get just as much studying done as if I'd stayed home and helped Kenta embalm his bugs.
+    When we arrive, my worst fear is realized. Everyone's already sitting down, paired up. It looks the whole class is down here too, although I don't spot Hagami. The only ones not sitting are Meiko at the front, and...
+    TAKERU: "Hikari!"
+    HIKARI: "Oh. Hello Takeru."
+    I run over before Natsumi can claim my partner.
+    TAKERU: "Hey. I don't know why I didn't expect to see you here."
+    HIKARI: "Probably because I've gotten antisocial."
+    TAKERU: "Er..."
+    TAKERU: "Well, whatever. Do you want to get started on the practice problems?"
+    HIKARI: "The what?"
+    TAKERU: "Kunida handed them out this morning. Were you not in class again?"
+    HIKARI: "No."
+    HIKARI: "And I'm more hear to watch people than study, really."
+    TAKERU: "You're not worried about tomorrow?"
+    I'm interrupted by a tap on the shoulder.
+    NATSUMI: "Takeru. I hope some of Kenta has rubbed off on you since last time."
+    TAKERU: "What?"
+    NATSUMI: "We're partners again, so you better not be as useless as before or I'm toast."
+    TAKERU: "Is there seriously no one else you can team up with?"
+    I scan the room but the only two who notice are a pair of guys I recognize as baseball players, sitting in the back row. They both quickly pretend not to notice me. Guess Natsumi has a reputation.
+    TAKERU: "You'll have to find a group of three or something."
+    NATSUMI: "Why? Who are you working with?"
+    TAKERU: "I - "
+    While I was looking away, Hikari must've slipped out of the room. She's now outside, watching us through the glass.
+    TAKERU: "Damn it anyway."
+    
+    As expected, Natsumi and I are only productive when Meiko or some other kind soul has a spare moment to guide us along.
+    I'm about to call it early and just go back to the dorms when stands up and stretches.
+    NATSUMI: "Takeru, what happened? Weren't you supposed to steal Kenta's brain for me? What went wrong?"
+    TAKERU: "I forgot. Sorry."
+    NATSUMI: "Useless, useless..."
+    NATSUMI: "Let's just get Meiko to show us how to do this one. Once she's done with those traitors over there, of course."
+    Natsumi glares at her teammates across the aisle.
+    NATSUMI: "Those guys, not jumping in to help out their captain..."
+    TAKERU: "Can't blame them..."
+    NATSUMI: "You want to say that a little louder?"
+    TAKERU: "I'm good."
+    NATSUMI: "That's what I thought, especially when this is the second time you've let me down in the info-gathering department. Third, if you count last study session."
+    TAKERU: "Then what was the first?"
+    NATSUMI: "You never got me the dirt on Meiko!"
+    TAKERU: "There's do dirt. Besides, do you really care about that?"
+    NATSUMI: "Kind of. I mean, she obviuosly does. You're sure you don't have some scoop you're hiding from everyone?"
+    TAKERU: "Yeah. We grew up in the same neighborhood. That's about it."
+    TAKERU: "What do you mean Meiko cares about it?"
+    NATSUMI: "Listen, I know you guys go way back but Meiko and I have been best buds since day one here at Mirako so I've been able to mostly piece together when something's on her mind."
+    NATSUMI: "And since you showed up she's been weirder, somehow."
+    TAKERU: "It's probably just the festival."
+    NATSUMI: "Maybe. But if you're holding out on me and there actually is something juicy... I won't forgive you."
+    MEIKO: "What're you two arguing about."
+    NATSUMI: "Oh! Hey Meiko! Takeru keeps saying number 23 is unsolveable but I know I'm right about this one and he just can't say he's wrong."
+    TAKERU: "Don't throw me under the bus like that. Weren't you the one that - "
+    NATSUMI: "So if you can show us how to solve it I'm sure Takeru would love it."
+    MEIKO: "Sure, which problem again?"
+    Meiko demonstrates.
+    I still fail to learn anything useful.
+    It's a pretty crystalized summary of the entirety of today.
+    NATSUMI: "I'm going to be cramming all night at this rate. This sucks."
+    NATSUMI: "Maybe we should give up and go back to that blackmail plan."
+    TAKERU: "Blackmail plan?"
+    NATSUMI: "Yeah, the one I had this morning. You get leverage on Meiko, get the answers from her, then pass them to me."
+    TAKERU: "Okay, first, what leverage? And second why would I pass anything to you?"
+    NATSUMI: "It's my idea so you owe me."
+    TAKERU: "Brilliant idea, Natsumi."
+    NATSUMI: "Thanks."
+    TAKERU: "I should've forced Hikari to stick around..."
+    NATSUMI: "What're you muttering about?"
+    TAKERU: "Oh, I forgot, there's some sort of code of Hikari silence."
+    NATSUMI: "Still not reading you."
+    TAKERU: "That's fine. I'll ask Meiko later."
+    Natsumi still has her eyes on the math textbook.
+    NATSUMI: "...You know."
+    NATSUMI: "I really wouldn't do that."
+    TAKERU: "Do what? Talk to Meiko?"
+    NATSUMI: "Yeah."
+    NATSUMI: "Like I said she's been..."
+    NATSUMI: "Well. Something's on her mind. The Mirako festival, your showing up out of nowhere, or something else, I don't know, maybe she secretly is worried about Kunida's dumb test."
+    NATSUMI: "But something's got her gears grinding recently, so..."
+    NATSUMI: "I just wouldn't bring that up. If you care about Meiko."
+    TAKERU: "Bring up Hikari?"
+    NATSUMI: "I mean, that's what I said, yeah?"
+    She looks up but I still can't read the look in Natsumi's eye. Something about it is... off.
+    NATSUMI: "I know I joke around a lot but I'm serious for once."
+    NASTUMI: "Don't bring up uncomfortable stuff for no reason."
+    TAKERU: "..."
+    TAKERU: "I actually think I'm going to head out. See you Natsumi."
+    NATSUMI: "Hey, good luck tomorrow."
+    But she still doesn't look me in the eye as I walk out the door.
+    What was that about? She's really going to just sit there?
+    Fine.
+    I find it difficult to believe anything could get under Meiko's skin. My thought is more that Natsumi is the ringleader of some sort of clique-y group or... something around here.
+    That's what sports team captains are supposed to be like, right?
+    But this is some backwater specialty school, not Tohoku. These things don't happen here.
+    Tohoku...
+    Was it like this back there? Unspoken codes about unspeakable students? I don't really remember it like that but who can say if I remember anything.
+    After all... There's still that letter burning a hole in my backpack.
+    I wonder if it's Jun telling me that I'm now an unmentionable in the Tohoku locker room. Whatever. I shouldn't care about them any more.
+    Nevertheless, I'm still lost enough in my head that I wander down a familiar staircase into the unused wing.
+    Isn't that the tearoom on the left?
     
     
     
