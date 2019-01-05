@@ -414,6 +414,146 @@ label day08:
     TAKERU: "With what?"
     HIKARI: "Studying, I mean. I don't mind math."
     TAKERU: "Thanks, but that's not it really. I'm just distracted."
+    HIKARI: "Oh? By what?"
+    TAKERU: "Nothing much, I guess. Maybe I'll take you up on that offer to help though."
+    HIKARI: "Sure."
+    HIKARI: "Actually, one condition. You tell me what's got you making that weird face."
+    TAKERU: "It's not all that interesting."
+    HIKARI: "I'm interested in the not-all-that-interesting. Everyone always underestimates what a difference all the small things make."
+    TAKERU: "I swear you're the weirdest person in this school..."
+    TAKERU: "Okay. Here it is."
+    HIKARI: "Is that an envelope?"
+    TAKERU: "Yeah. From my old captain on the baseball team, Jun."
+    HIKARI: "It's not opened."
+    TAKERU: "Well that's the thing. I can't remember how long I've been carrying this thing around."
+    TAKERU: "It's the same thing as when I couldn't remember Meiko's story about visiting her parents. It sort of makes me wonder how much more of what I know is just made up."
+    HIKARI: "Hard to tell if you don't open the letter."
+    TAKERU: "Mr. Kunida said I shouldn't."
+    HIKARI: "How should he know anything?"
+    HIKARI: "Are you sure what doesn't have you down is the burden of carrying some mysterious letter around with you all the time?"
+    TAKERU: "...Maybe not."
+    TAKERU: "Are you sure you're not just curious?"
+    HIKARI: "Of course I'm curious. I'm practically mad at you for not being curious."
+    HIKARI: "Or is there something you're afraid of?"
+    TAKERU: "You can try and belittle me all you want. I'm afraid of plenty of things."
+    HIKARI: "Then tell me."
+    TAKERU: "Has anyone ever told you you're really nosy?"
+    HIKARI: "No."
+    TAKERU: "Well... you are. Sorry."
+    TAKERU: "I guess I sort of figure my time at Tohoku didn't really go as I wanted it. Tohoku's my old school, before I transfered here."
+    HIKARI: "I know, you told me. You played baseball."
+    TAKERU: "Yeah."
+    TAKERU: "It's been weird here, not having everyone know me. Or really that I don't have the friends I used to."
+    TAKERU: "Guess you'd know about that, right?"
+    HIKARI: "Maybe."
+    HIKARI: "Don't think I was some antisocial outcast last year though. I come from a good family. Everyone liked me."
+    TAKERU: "It's kind of obvious that's not true any more. Right?"
+    HIKARI: "...Yeah."
+    TAKERU: "Same here."
+    We both stare at nothing for a few moments.
+    There seems like nothing else to say, so I do all I can think of to do. I advance the king's pawn forward by two squares on the board in front of us.
+    Hikari responds with the same. While I consider my next move, she considers her next words.
+    HIKARI: "But that's not what you're worried about."
+    TAKERU: "No."
+    TAKERU: "I kind of think that..."
+    TAKERU: "Never mind."
+    HIKARI: "Knight. C3."
+    HIKARI: "Read the letter, Takeru, or you'll just keep sitting here and I'll never get to hear what it's about anyway."
+    TAKERU: "I don't know why I even come down here..."
+    I listen to Hikari anyway.
+    Despite my best judgment. How many times did I throw this letter away?
+    Even looking at the thing makes me dizzy.
+    If I left this thing behind then there must be a reason it's here now in front of me that points to someone planting it but the suspect list in my head is empty except for those I know can't have put it here or - 
+    Concentrate.
+    Tear open the envelope. Unfold the page.
+    There's Jun's handwriting. It's legible. I know Hikari want me to read it aloud but I'll leave her to go over the chessboard while my eyes skip between the lines.
+    To my 'friend' Takeru...
+    ...Everyone told me to leave you alone...
+    ...And they all said that you were a lunatic, a crazy person, and the sort of deviant they only let into Tohoku because the talent scout was having a good day...
+    ...and I remember telling them all off because I was the captain, and the captain is on his team's side, no matter who those teammates are...
+    ...so even if they called you names behind your back, when I was proud to call you my friend while everyone else mocked you in the locker room...
+    ...and I put my neck out for you when you were the laughingstock...
+    ...and I gave you a change when no one else gave you the time of day...
+    That's why I have to wonder, Takeru, what the hell you were thinking.
+    No, actually, I wonder what the hell I was ever thinking to defend a stuck-up, delusional idiot like you.
+    I guess I got what I deserved. I should've listened to everyone else who told me you were an unstable freak.
+    I can't forgive you and I never will. Burn and die. You had one friend on the Tohoku baseball team and now you have none. If you come back here after all this, I swear to you...
+    ...swear to you I'll do everything we can to drive you out...
+    ...no longer welcome here...
+    ...burn and die...
+    ...
+    HIKARI: "You're in another pin, Takeru. You need to notice when I threaten a piece in front of your king."
+    HIKARI: "Takeru? If you're not even listening to me, you can at least narrate what you're reading."
+    TAKERU: "Sorry."
+    TAKERU: "It's kind of..."
+    I slide it across the table. While I'm not particularly proud of the letter's contents, trying to explain the message they convey would be harder than just letting Hikari read herself.
+    HIKARI: "Well..."
+    She doesn't touch the unfolded letter. I just watch her eyes darting back and forth as she scans the lines.
+    HIKARI: "Well."
+    TAKERU: "Yeah."
+    TAKERU: "Jun and I didn't really part on good terms."
+    HIKARI: "That..."
+    TAKERU: "I mean I didn't think Jun was my friend actually. He was always - "
+    TAKERU: "Never mind. It's more that everyone else..."
+    TAKERU: "To me, Tohoku was home. Everyone there thought I was some sort of baseball god, and the teammates I thought were friends, I mean, they would've been flattering themselves to claim I was their friend, I - "
+    Hikari doesn't respond, just gesture where I'm supposed to move her knight.
+    I suppose I'm being boring.
+    That's fine, if it's boring to her, that my old captain Jun hates me guts.
+    TAKERU: "You probably know the feeling."
+    TAKERU: "I shouldn't be complaining, when you're well, you know..."
+    HIKARI: "I'm what?"
+    TAKERU: "No one here wants to admit that you exist. Or at least Natsumi and Mana and the rest of them."
+    TAKERU: "It's fine if my old guys at Tohoku want to hate me after I leave. It must be tougher knowing there are people here that ignore you even while you go to class with them."
+    HIKARI: "Then you noticed that?"
+    TAKERU: "How would anyone not notice? Pratically everyone I've run into claims they've never met you and then says I'm seeing things if I bring it up later."
+    TAKERU: "I gave you that letter. So do you think you can give me a straight answer on why everyone here at Mirako is dead set on pretending you don't exist?"
+    HIKARI: "Castle."
+    TAKERU: "Er...?"
+    HIKARI: "I'm castling. King to B1, then - "
+    TAKERU: "I know, I know, I'm not that dumb."
+    TAKERU: "You're just going to ignore me? You're pretending I don't want to know what it is you did that caused everyone to give you the silent treatment?"
+    HIKARI: "I'm not pretending. I already told you."
+    HIKARI: "This is the Mirako school. If everyone is caught up in their own problems, there's no time to remember anyone else."
+    HIKARI: "It's for the best if I... fade into the background. That's all."
+    TAKERU: "That's not an answer."
+    HIKARI: "Maybe not."
+    HIKARI: "Play a better game of chess next time and maybe I'll have some more details."
+    TAKERU: "That's a lie. You were hardly even paying attention this game. You'll just crush me next time if you really don't want to tell."
+    HIKARI: "You seem unhappy."
+    TAKERU: "Of course I'm unhappy. I read a mystery message from my last contact at Tohoku and it turns out every last person there hates me. And I decided to tell you about this, for some reason. And you don't trust me still."
+    HIKARI: "I trust you."
+    TAKERU: "Not enough to tell me what's actually going with you at Mirako."
+    TAKERU: "It's like it was with Jun again, isn't it? Everyone laughing at me behind my back."
+    Silence.
+    Hikari just looks at nowhere and breathes in and out.
+    Did I hurt her? I don't understand how, but there's something profoundly sad about her eyes refused to focus anywhere, near, far...
+    HIKARI: "No, I don't."
+    TAKERU: "What?"
+    HIKARI: "Don't trust... That... Well..."
+    HIKARI: "Last week when you were talking about Meiko. You said your memory was wrong."
+    TAKERU: "Right."
+    HIKARI: "And I said maybe it wasn't you, it was just the past changing around you."
+    TAKERU: "I thought you were joking."
+    HIKARI: "That's it."
+    HIKARI: "It's not a joke to me. I was being serious there and you just think I'm a joke."
+    HIKARI: "I don't trust you, Takeru. Don't take that the wrong way."
+    TAKERU: "Is there a right way to take that? You're saying that I - " 
+    HIKARI: "It's a relief to me to have someone that makes me tea and plays chess down here and doesn't pretend forget me within a day. I would prefer it stays that way."
+    HIKARI: "I'm very glad you're open with me, because it gives me a window if what does on out there."
+    HIKARI: "I'm afraid that if I were as open with you, that you'd stop coming here."
+    TAKERU: "That..."
+    HIKARI: "Is that honest enough for you?"
+    TAKERU: "Yeah."
+    HIKARI: "Then let's go over some of what Kunida's got coming up tomorrow. Is that better than chess?"
+    TAKERU: "Less fun but probably more useful."
+    HIKARI: "Chess is infinitely useful and I'm offended that you say that. It's very short term. But I'll help anyway."
+    Some of the spark is back in her eyes as Hikari continues to badger me about the upcoming math test.
+    Maybe it's just cover for the weirdly distant look she had before.
+    Still, I shouldn't care so much about her. I have my own issues. Specifically, this letter from Jun.
+    Who knows why he sent it. To declare himself my mortal enemy? To kick me while I'm down? Why's he claiming he did so much for me when I know (or rather, remember) that he was my biggest rival?
+    I'm still afraid, but I can't put my finger on the 'what.'
+    Are Hikari and I similar like that? She's the outcast here. Was that me back at Tohoku, and I was just too stupid and starry-eyed to see it?
+    I have to concentrate. Leave that for tomorrow or some other time far far away, after I've passed this test, and don't have the short term barreling down on me. I'll worry about all this then.
     
     
     
