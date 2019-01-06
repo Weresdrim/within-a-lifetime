@@ -495,12 +495,12 @@ label day08:
     HIKARI: "That..."
     TAKERU: "I mean I didn't think Jun was my friend actually. He was always - "
     TAKERU: "Never mind. It's more that everyone else..."
-    TAKERU: "To me, Tohoku was home. Everyone there thought I was some sort of baseball god, and the teammates I thought were friends, I mean, they would've been flattering themselves to claim I was their friend, I - "
+    TAKERU: "To me, Tohoku was home. Everyone there thought I was some sort of baseball god, and the teammates I thought were friends, I mean, they would've been flattering themselves to claim I was their friend."
+    TAKERU: "If we didn't see eye to eye before, why send my this after I'd already left Tohoku?"
     Hikari doesn't respond, just gesture where I'm supposed to move her knight.
     I suppose I'm being boring.
     That's fine, if it's boring to her, that my old captain Jun hates me guts.
-    TAKERU: "You probably know the feeling."
-    TAKERU: "I shouldn't be complaining, when you're well, you know..."
+    TAKERU: "Well I guess I shouldn't be complaining, when you're well, you know..."
     HIKARI: "I'm what?"
     TAKERU: "No one here wants to admit that you exist. Or at least Natsumi and Mana and the rest of them."
     TAKERU: "It's fine if my old guys at Tohoku want to hate me after I leave. It must be tougher knowing there are people here that ignore you even while you go to class with them."
@@ -514,7 +514,7 @@ label day08:
     TAKERU: "You're just going to ignore me? You're pretending I don't want to know what it is you did that caused everyone to give you the silent treatment?"
     HIKARI: "I'm not pretending. I already told you."
     HIKARI: "This is the Mirako school. If everyone is caught up in their own problems, there's no time to remember anyone else."
-    HIKARI: "It's for the best if I... fade into the background. That's all."
+    HIKARI: "If I'm supposed to drift off and and be forgotten then that's fate."
     TAKERU: "That's not an answer."
     HIKARI: "Maybe not."
     HIKARI: "Play a better game of chess next time and maybe I'll have some more details."
@@ -526,7 +526,7 @@ label day08:
     TAKERU: "It's like it was with Jun again, isn't it? Everyone laughing at me behind my back."
     Silence.
     Hikari just looks at nowhere and breathes in and out.
-    Did I hurt her? I don't understand how, but there's something profoundly sad about her eyes refused to focus anywhere, near, far...
+    Did I hurt her? I don't understand how, but there's something profoundly sad about her eyes refusing to focus anywhere, near, far...
     HIKARI: "No, I don't."
     TAKERU: "What?"
     HIKARI: "Don't trust... That... Well..."
@@ -538,22 +538,114 @@ label day08:
     HIKARI: "It's not a joke to me. I was being serious there and you just think I'm a joke."
     HIKARI: "I don't trust you, Takeru. Don't take that the wrong way."
     TAKERU: "Is there a right way to take that? You're saying that I - " 
-    HIKARI: "It's a relief to me to have someone that makes me tea and plays chess down here and doesn't pretend forget me within a day. I would prefer it stays that way."
-    HIKARI: "I'm very glad you're open with me, because it gives me a window if what does on out there."
-    HIKARI: "I'm afraid that if I were as open with you, that you'd stop coming here."
+    HIKARI: "It's a relief to me to have someone that makes me tea and plays chess down here and doesn't pretend to forget me within a day. I would prefer it stays that way."
+    HIKARI: "I'm very glad you're open with me, because it gives me a window of what goes on out there."
+    HIKARI: "You see how this works? You can say whatever weird stuff you want to me, and I'll still be here. But if I suddenly start saying bizarre things, you'd probably make up your mind and leave."
+    HIKARI: "Then I'd be stuck down here in the dark again. I'm trying not to blow this."
     TAKERU: "That..."
     HIKARI: "Is that honest enough for you?"
     TAKERU: "Yeah."
     HIKARI: "Then let's go over some of what Kunida's got coming up tomorrow. Is that better than chess?"
     TAKERU: "Less fun but probably more useful."
-    HIKARI: "Chess is infinitely useful and I'm offended that you say that. It's very short term. But I'll help anyway."
+    HIKARI: "Long term chess is way more useful. I'll teach you to start seeing the bigger picture and not just all the little pieces."
+    TAKERU: "I guess what I mean is I'm not going to have a bigger picture if I flunk out within a month of showing up here."
+    HIKARI: "True enough. I'm glad you can see that far ahead, at least."
     Some of the spark is back in her eyes as Hikari continues to badger me about the upcoming math test.
     Maybe it's just cover for the weirdly distant look she had before.
     Still, I shouldn't care so much about her. I have my own issues. Specifically, this letter from Jun.
-    Who knows why he sent it. To declare himself my mortal enemy? To kick me while I'm down? Why's he claiming he did so much for me when I know (or rather, remember) that he was my biggest rival?
+    I can't even guess why he sent it. To declare himself my mortal enemy? To kick me while I'm down? Why's he claiming he did so much for me when I know (or rather, remember) that he was my biggest rival?
     I'm still afraid, but I can't put my finger on the 'what.'
     Are Hikari and I similar like that? She's the outcast here. Was that me back at Tohoku, and I was just too stupid and starry-eyed to see it?
     I have to concentrate. Leave that for tomorrow or some other time far far away, after I've passed this test, and don't have the short term barreling down on me. I'll worry about all this then.
+    The last of the practice problems is done. And somehow I didn't need to bug Hikari about it.
+    Which is probably a good thing. She's staring off into space, scowling.
+    TAKERU: "Hey, I'm all done."
+    TAKERU: "Hikari?"
+    HIKARI: "Oh. Sorry. You actually managed to get that last one?"
+    TAKERU: "Don't sound so surprised."
+    HIKARI: "Your brain must be having a growth spurt. So before you go, do you want to play again?"
+    TAKERU: "Chess?"
+    HIKARI: "Shogi also works but you'd lose faster."
+    TAKERU: "Let's make it chess then. I'm feeling good."
+    Playing any sort of competitive game against Hikari seems to be a good recipe for not feeling good.
+    Isn't beating down beginners supposed to be unsportsmanlike? I don't miss that smirk when Hikari knocks off one of my pieces.
+    Actually, even though I'm beaten, again, handily... I still feel alright.
+    While I unfortunately haven't become a genius under Hikari's guidance, at least tomorrow shouldn't be a disaster.
+    And there's some foreign feeling too. I keep in mind what Hikari said earlier, that no matter how crazy I sounded she'd be down here to listen. Then smile and say our goodnights.
     
+    Again?
+    It's not a memory, exactly. Not a dream, either. I'm just back on the pitcher's mound again.
+    Before that, wait - practice at Tohoku. I think it's my last? Right before the end of last year.
+    The locker rooms at Tohoku are top-notch of course. I think half the minor league teams would be envious of this place. Hell, my locker even has my name on it.
+    Then again, half the other guys have unmarked doors. You probably have to be like me to get your name printed on everything.
+    My guess is it's another half year, I'll be in the ads, fall tournament - I've been here before. Twice. Probably more times but those were all dreams and I know that now this time I'm standing here, in front of my locker, must be the actual thing.
+    Right, Hifumi. Our old ace. Made an ass of himself in the tournament. Now I have his locker and his spot in the rotation.
+    Hifumi himself, now, is consigned to one of the anonymous lockers. Next to mine.
+    HIFUMI: "Oh, Takeru. Didn't see you. It's scrimmage day, are you pitching?"
+    TAKERU: "Of course."
+    HIFUMI: "Damn, Jun really has a thing for charity cases this season, eh?"
+    TAKERU: "Shut up, Hifumi. You got what, seven outs last game? As a starter?"
+    HIFUMI: "Keep making up numbers, Takeru. You're hopeless."
+    TAKERU: "I'm saving that for the actual games, okay? Don't want to blow out my arm on a practice game."
+    HIFUMI: "What are you even talking about?"
+    HIFUMI: "I think Kaz was right about you. I really was going to give you a shot but you're even more unhinged than most of the cocky first years that we get here."
+    HIFUMI: "Thank the lord you're on red team and not with me."
+    KAZUMI: "Hang on, Takeru's with me?"
+    HIFUMI: "Ha! You're the one that picked him, Kaz. You deal with him."
+    KAZUMI: "I never picked him. Who would volunteer for that?"
+    KAZUMI: "Look Takeru, you're okay. I'm not pitcher, but next to guys like Hifumi, you're just okay."
+    KAZUMI: "So don't talk all this crap to me and everyone else."
+    TAKERU: "That's what Jun's always saying."
+    KAZUMI: "Yeah well he's nicer than the rest of us, so take his word for it."
+    KAZUMI: "Because trust me, you could pitch at 80 mph and I'd still pass on you for my team. I never picked you."
+    HIFUMI: "Jun's playing a joke on you, Kaz."
+    TAKERU: "Better luck next time."
+    HIFUMI: "Hey, you want to bet? Takeru, I'll strike you out, three pitches. Just for that quip about the fall tournament, I'll do it."
+    TAKERU: "Fine. Do I have to bet or - "
+    KAZUMI: "Get lost, Takeru."
+    The captain sidles over.
+    Jun.
+    I wouldn't bet against him, obviously.
+    Not just because he's my senior by two years, or the captain, or that he's probably the only one on this team more heavily scouted than me.
+    He just... doesn't like me. Hifumi, Kaz, the rest... They're all my friends.
+    Friends?
+    JUN: "Takeru. You're on red team today?"
+    TAKERU: "Obviously."
+    KAZUMI: "It's not like you gave me a choice, Jun!"
+    HIFUMI: "Ha."
+    JUN: "Hifumi, Kaz... give me a second here."
+    I'm left facing the captain in this corner of the locker room.
+    I can read it in his eyes that he means me harm on some instinctual level but I don't know why I fear him like I fear Kazumi or Hifumi or any of the cocky upperclassmen who breed in the filth of the corners of this godforsaken team -
+    That's what repulses me to be sure that Jun stands there and looks at me blank like he's concerened while Hifumi and Kaz and everyone they laugh and laugh at me but he just shakes his head and his gaze is cold with concern so why do I - 
+    No.
+    He. He is the enemy.
+    JUN: "You've been a bit off lately Takeru."
+    TAKERU: "I'm not sure what you mean."
+    JUN: "Don't listen to Hifumi, he just took the tournament loss a little hard."
+    JUN: "But we have to be a team. You'd be a little more well-liked around here if you didn't lash out at everyone."
+    JUN: "Of course he's going to be upset if you bring up this fall. Anyone would."
+    JUN: "So I'm saying, don't hold it against Hifumi, if you can."
+    JUN: "Not everyone might see it but I know you've got some talent. So let's make the most of it, yeah?"
+    TAKERU: "..."
+    JUN: "Kaz is gonna pick me for blue team, you know. So I'll be first up, I hope."
+    JUN: "Show me what you got, okay?"
+    TAKERU: "Always."
+    JUN: "Oh..."
+    JUN: "This might sound weird but screw it. If there's anything on your mind it's my job as captain to make sure you can do your job."
+    JUN: "So... Talk to me. I don't judge. We're a team here, and I think you've got a bit of me in you. So you're like my little brother, right?"
+    JUN: "Just give the word. Got it?"
+    TAKERU: "Thanks. Captain."
+    JUN: "Any time. And I'm calling home run to right, first pitch. You got that? Give it your best out there."
+    I nod at him.
+    I hate him.
+    Everyone else mocks me because they envy me they want to know me because I'm better than them and they know is why they laugh at me and push me around but the only one here who talks to me like an equal is my captain Jun.
+    I hate him for it.
+    I don't want to be his equal.
+    I want to surpass him and everyone in this room and I'm not sure whether I have that talent or not as it seems hard to judge but I want to have that over them and because they're so self-sure and cocky and because I'm not I need that guaranteed plus over them.
+    No matter what I do here at Tohoku, I'll never be better than Jun.
+    He sees everyone as his teammate, even me, the unlikeable first year Takeru.
+    And I see him as an enemy, like everyone else.
+    That's why I hate him.
+    Because he's my only friend.
     
-    
+    jump day09
