@@ -37,6 +37,36 @@ label day09
     And maybe he has a point. Hell, why am I even bringing up these pointless old not-memories of mine, with him?
     I knew he'd respond like this. Maybe that's why.
     
+    Class is empty. Not even Meiko is here this early.
+    I'm almost tempted to try to find more of the club leaders on my festival hitlist, but it's not like they'd be here either. Instead, it's time to cram.
+    And slowly the room fills up. The ball players, chatting nervously, the guy in front of me, also last-minute studying, Hagami, headphones on... No sign of Hikari though.
+    Finally Natsumi shows up, and offers me a salute.
+    TAKERU: "What's that for?"
+    NATSUMI: "Isn't that a thing? You know, between condemned? 'We who are about to die salute something something?'"
+    TAKERU: "I have no idea what you're talking about."
+    NATSUMI: "Fine. Then... Let's try this."
+    TAKERU: "You're waving your arms around. What's that supposed to be?"
+    NATSUMI: "The sign of the cross. May you rest in peace."
+    TAKERU: "I think I'll do fine."
+    NATSUMI: "Seriously?"
+    TAKERU: "Maybe if you'd spent more time studying instead of picking up these weird comedy routines you'd be more confident too."
+    NATSUMI: "If I fail my excuse is that I spent all my time at batting practice. Besides, I don't really care that much as long as I'm not bottom of the class, so, I'm all set."
+    TAKERU: "You're saying you think that I'm going to be bottom of the class? That's just cruel."
+    NATSUMI: "I mean, I wouldn't complain if you were, that'd make me a look a ton better."
+    TAKERU: "So this is why you always wanted to pair up with me..."
+    MEIKO: "Natsumi, are you distracting Takeru?"
+    NATSUMI: "Huh uh what? No! Hi Meiko, good morning! Takeru and I were just going over the strategy for uh..."
+    NATSUMI: "Don't you have an inspirational speech to give?"
+    MEIKO: "I was going to pass seeing as we have Mr. Kunida's test first thing this morning..."
+    NATSUMI: "You have to go rally the troops! I know Takeru and I were counting on you to motivate us."
+    TAKERU: "Leave me out of this."
+    MEIKO: "Maybe you're right. I'll try to encourage everyone. That's my job as class rep, isn't it?"
+    NATSUMI: "You're the best, Meiko."
+    NATSUMI: "...Stop glaring at me Takeru. While she's speaking we've got a whole extra two minutes to study."
+    TAKERU: "You're smarter than you - "
+    NATSUMI: "So quick, get this down: when I elbow you twice I need an answer, but when I elbow three times I've got an answer for you, so - "
+    TAKERU: "Rest in peace, Natsumi."
+    NATSUMI: "Jerk."
     
     
     
