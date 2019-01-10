@@ -176,3 +176,85 @@ label day09
     The radio hum is interrupted by more German narration, and I get back to work.
     Oh well.
     
+    For the next couple of hours, I pay approximately zero attention.
+    English, chemistry, history... It's all the same to me: 100% irrelevant because I'm pretty sure I passed today's math test and that's enough for one day.
+    That seems to be how everyone else is approaching today too. The only one paying attention to this pointless lecture on chemical bonds is Meiko.
+    And one desk away from her, Nastumi snores peacefully. The only thing that could wake her would be... There it is. The bell announcing the end of day.
+    NATSUMI: "Hua?"
+    MEIKO: "Classes are over. Don't worry, it wasn't anyone calling on you."
+    TAKERU: "Go home and get some rest, Natsumi. You were up all night studying, weren't you?"
+    NATSUMI: "Studying our tournment bracket, sure. Just came out yesterday! There's nothing like summer baseball to get your blood pumping."
+    TAKERU: "And here I was thinking you were actually worried about today..."
+    NATSUMI: "Me? Worried?"
+    NATSUMI: "Ha!"
+    MEIKO: "Takeru's priorities are in the right place."
+    NATSUMI: "They're also boring priorities. See you guys later, I've got practice."
+    MEIKO: "Take care."
+    MEIKO: "Takeru, I meant to catch you at lunch, but you vanished on me. Everything went alright with the test this morning?"
+    TAKERU: "It wasn't as bad as I was expecting. Kunida talks big but that wasn't too bad."
+    MEIKO: "Haha, I'm glad you think so."
+    MEIKO: "Anyway, I just wanted to thank you for going through all those festival papers at the same time as studying. It was a lot to ask from someone who just transfered here."
+    TAKERU: "No problem, I've gotten a good start on - "
+    TAKERU: "Wait, when did you say you needed all these forms?"
+    MEIKO: "Today. I was going to run them by the school staff one last time."
+    MEIKO: "...You do have them all corrected, don't you?"
+    My stomach is about two feet down off and to the left. That small sense of accomplishment I've been carrying since this morning's test is nowhere to be found.
+    TAKERU: "Er..."
+    TAKERU: "I'm sorry, I must've forgotten how soon you needed it done."
+    TAKERU: "Here's what I've got so far."
+    It's about a third of the whole stack, but I can tell by Meiko's wince it's not exactly what she expected.
+    MEIKO: "This... Hm..."
+    TAKERU: "I'm sorry, it's been a nightmare for me to try and find these people as a transfer. They're all upperclassmen and..."
+    MEIKO: "It's fine."
+    TAKERU: "Yeah... Guess I screwed up. I shouldn't have put this on the back burner."
+    MEIKO: "It was a lot to ask. It's my fault for mismanaging - "
+    TAKERU: "No, it's not your fault. I volunteered for this so I should've been able to do whatever you needed me to do."
+    TAKERU: "I've got a debt to make up to you, right?"
+    I really am sorry, Meiko.
+    Vanishing on you like that, back when were both in middle school, and you were going through the roughest time of your life.
+    Past me was an insensitive idiot.
+    I just wish present me wasn't such an insensitive idiot. I tried to help out with the festival work and now I've just thrown a wrench in things and I feel like crap.
+    That's why I'm confused when Meiko's face shows a flash of a grin.
+    For a second. Probably just imagining it.
+    Because then she sighs and starts paging through the papers.
+    MEIKO: "I mean it's not a bad start. I can explain to the staff why these aren't on time."
+    TAKERU: "I'll do it."
+    MEIKO: "Hm?"
+    TAKERU: "Let me talk to the principal or whoever about all this. I wouldn't want you to take the heat for my screwup."
+    MEIKO: "Haha, don't worry about it. It's my job."
+    TAKERU: "Then let me make it up somehow. There's got to be more to planning the Mirako festival than just signing off on papers, right?"
+    TAKERU: "I'm not really cut out for the desk job stuff, so if it turns out there are heavy objects to carry, or you need a warm body to sort stuff, or if you want me to intimidate some guys into signing something, I could - "
+    MEIKO: "Really, haha, don't worry about."
+    MEIKO: "It's funny to me that you're so into this."
+    TAKERU: "Why should it be? I gave you my word so it'd be slimy of me to weasel out with half the job done."
+    MEIKO: "I..."
+    Meiko glances somewhere off out to the corner of the empty classroom.
+    MEIKO: "Actually I had a few errands to run in Shizukawa tomorrow afternoon to find some of the supplies we'll need for the festival. If you're not doing anything..."
+    TAKERU: "Sure thing. Even if I'm just standing their carrying what you want, I still need to - "
+    NATSUMI: "Oh ho, what's this?"
+    TAKERU: "Natsumi? I thought you left."
+    NATSUMI: "Maybe, maybe not. But tell me more about what you and Meiko are going to be up to tomorrow afternoon. Sounds... Interesting."
+    MEIKO: "Well, if Takeru doesn't change his mind, I have a few spots in Shizukawa I'd like to visit for - "
+    NATSUMI: "Aha! She admits it. You see that, Kenta? Shameless."
+    TAKERU: "Kenta?"
+    KENTA: "Excuse me, I'm still not sure what you brought me here for."
+    TAKERU: "Kenta, it's Natsumi. Get out while you can, it can't be anything pleasant."
+    NATSUMI: "Takeru! Shut up! Kenta's here because you're going to explain to him how important it is that he runs analytics for the Mirako baseball team during the tournament."
+    KENTA: "It's marginally important. To you it might be vital but to me the return on investment for the time means that - "
+    NATSUMI: "Help me out here guys! I'm losing him."
+    TAKERU: "Sounds like you've got the right idea, Kenta. Leave Natsumi out to dry."
+    MEIKO: "What's this about statistics?"
+    NATSUMI: "Ahhh, Meiko, you'd never get it. Baseball's a numbers game! And Kenta's my numbers guy! Except even though I got Ken and Hiro his spiders for him he's getting all cagey about crunching the tournament numbers!"
+    NATSUMI: "You guys! Your job is to convince him!"
+    KENTA: "Don't talk about me like I'm not standing right here."
+    MEIKO: "Sorry, Natsumi. We've got to get going, so I hope you can handle whatever it was on your own."
+    MEIKO: "You're coming, right Takeru?"
+    TAKERU: "What?"
+    MEIKO: "Right? Takeru?"
+    TAKERU: "Oh, yeah, of course I'm coming. Important business. Sorry Natsumi, you'll have to talk to Kenta yourself."
+    NATSUMI: "You two! I knew Meiko was this devious but this a stab in the heart Takeru! I'll make sure everyone knows about your little getaway tomorrow, just you..."
+    KENTA: "Your plan was flawed to begin with. If I don't think your opinion is worth listening to, then why would..."
+    NATSUMI: "How can you say that about your captain!"
+    KENTA: "Who's captain? I thought..."
+    The traditional Kenta vs. Natsumi argument fades into the background as Meiko and I escape into the hallway.
+    
