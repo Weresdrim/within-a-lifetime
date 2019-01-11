@@ -254,7 +254,28 @@ label day09
     TAKERU: "Oh, yeah, of course I'm coming. Important business. Sorry Natsumi, you'll have to talk to Kenta yourself."
     NATSUMI: "You two! I knew Meiko was this devious but this a stab in the heart Takeru! I'll make sure everyone knows about your little getaway tomorrow, just you..."
     KENTA: "Your plan was flawed to begin with. If I don't think your opinion is worth listening to, then why would..."
-    NATSUMI: "How can you say that about your captain!"
+    NATSUMI: "How can you say that about your captain?"
     KENTA: "Who's captain? I thought..."
     The traditional Kenta vs. Natsumi argument fades into the background as Meiko and I escape into the hallway.
+    
+    TAKERU: "So where are we going again?"
+    MEIKO: "I'm headed up to the staff office. I just figured you might a bit of a break of Natsumi."
+    TAKERU: "You were right. I guess I'll tag along then, the office is on my way."
+    MEIKO: "Your way? Where are you headed?"
+    TAKERU: "Oh, just down to the old wing."
+    MEIKO: "You found a club? The supernaturalist girls, right?"
+    TAKERU: "Oh please no, don't associate me with them. I'm not really club, I just meet up with a friend after classes some days."
+    MEIKO: "A friend?"
+    When I don't respond, Meiko just smiles.
+    The staff office is on the ground floor, not too far from the school entrance. It's packed around here as classes just let out, and there are a couple teachers I recognize passing throug the door. One of them flags me down.
+    KUNIDA: "Ah, Takeru. You're early. Do you mind giving me a few minutes before our checkin?"
+    TAKERU: "Our... checkin?"
+    KUNIDA: "Of course, every week. I'm glad you didn't forget."
+    Oh. Right. That. Yes, I forgot, and no, I'm not really glad about it.
+    TAKERU: "Sure, I can wait."
+    KUNIDA: "Thank you."
+    MEIKO: "Mr. Kunida, so you mind if I drop some papers off for Mr. Nishimura?"
+    KUNIDA: "Of course, come in. Actually, I'd wanted to talk to you as well."
+    I get a look from Kunida -- cheerful as ever, but I guess they want privacy.
+    The hall outside is still bustling so I take a few steps away and lean against the wall.
     
