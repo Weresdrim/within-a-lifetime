@@ -263,8 +263,8 @@ label day09
     TAKERU: "You were right. I guess I'll tag along then, the office is on my way."
     MEIKO: "Your way? Where are you headed?"
     TAKERU: "Oh, just down to the old wing."
-    MEIKO: "You found a club? The supernaturalist girls, right?"
-    TAKERU: "Oh please no, don't associate me with them. I'm not really club, I just meet up with a friend after classes some days."
+    MEIKO: "I forgot you've found a club. Going to hang out with the supernatural girls right?"
+    TAKERU: "Oh please no, don't associate me with them. I'm not really in any club. I just meet up with a friend after classes some days."
     MEIKO: "A friend?"
     When I don't respond, Meiko just smiles.
     The staff office is on the ground floor, not too far from the school entrance. It's packed around here as classes just let out, and there are a couple teachers I recognize passing throug the door. One of them flags me down.
@@ -275,7 +275,120 @@ label day09
     TAKERU: "Sure, I can wait."
     KUNIDA: "Thank you."
     MEIKO: "Mr. Kunida, so you mind if I drop some papers off for Mr. Nishimura?"
-    KUNIDA: "Of course, come in. Actually, I'd wanted to talk to you as well."
+    KUNIDA: "Of course. Come in! Actually, I'd wanted to talk to you as well."
     I get a look from Kunida -- cheerful as ever, but I guess they want privacy.
     The hall outside is still bustling so I take a few steps away and lean against the wall.
+    While I recognize one or two people from class, it's still overwhelming to me. How does a school this deep in the country have this many students? Or maybe I'm just spoiled from the small classes at Tohoku.
+    Kenta goes by, staring resolutely ahead and nearly crashing into three first-years on the way out the door.
+    Then Natsumi appears, surrounded by a mix of ball players and some other guys I don't recognize. She's gesturing about something or other and the boy she's yelling at looks to be shrinking. I sympathize.
+    The noise dies down fast enough. Within fifteen minutes, I'd guess. Long enough that I'm starting to get stiff out here though.
+    This must be one of the older parts of the school, because leaning against the wall here, I can almost make out the conversation inside the staff office.
+    It's just the usual chatter at first - a few students talking grades, some teacher requesting a file from another. Then there's a voice I know well.
+    MEIKO: "No, I understand..."
+    MEIKO: "Thanks, sir... We should be able to handle it."
+    KUNIDA: "I have to say, it's nice to be able to rely on you all so much. You and the rest of the council have really stepped up this year, Meiko."
+    MEIKO: "Well, the festival is a student celebration, right?"
+    KUNIDA: "Of course. And I know how much you're doing this year, and you probably don't need the opinion of your old teacher..."
+    KUNIDA: "But traditions can be a source of strength. Even when times are tough."
+    MEIKO: "I understand, but, the circumstances..."
+    KUNIDA: "You're really sure about skipping the fireworks this year?"
+    MEIKO: "I know it's important to Mirako, but it'd be, well..."
+    KUNIDA: "It's your call to make. If that's how you and the rest of the council feel, then you have my signoff."
+    Wait, canceling the fireworks? Hang on, whose call to make?
+    KUNIDA: "I know this must be harder for you more than anyone. Don't hesitate to reach out if you need help."
+    MEIKO: "I'll be fine."
+    KUNIDA: "...You will. Of course."
+    MEIKO: "Thanks for your confidence. We'll put on a good festival this year with or without fireworks, so leave it to me."
+    KUNIDA: "Well thanks for filling me in, Meiko. You're free to go."
+    The girl in question emerges from the staff room, some ineffable smile on her face.
+    While I've never listened to Natsumi too closely... Didn't Meiko claim this whole issue with no fireworks this year was because of the staff?
+    Is it actually Meiko blocking that?
+    More likely I've just remembered wrong. Where Meiko is concerned it seems like I can never keep anything straight.
+    MEIKO: "Takeru?"
+    TAKERU: "Huh?"
+    MEIKO: "You were looking at me funny."
+    TAKERU: "Oh. Sorry."
+    MEIKO: "Don't worry about it. I'll see you tomorrow, right?"
+    TAKERU: "R-right."
+    MEIKO: "Take care."
+    And she leaves with another smile. Why do I always feel exposed when she's talking to me?"
+    KUNIDA: "Sorry Takeru. Thanks for waiting."
+    TAKERU: "Ah!"
+    KUNIDA: "Oh, did I startle you?"
+    TAKERU: "No, just distracted is all."
+    KUNIDA: "If now isn't a good time, let me know. It wouldn't do either of us any good to meet if you had your head somewhere else, would it? Ha!"
+    TAKERU: "No, I'm good."
+    Although I'd prefer not to do this at all.
+    KUNIDA: "Why don't we head down to my office? There's a lot more room to talk than up here."
+    TAKERU: "Alright."
+    I know the path well, by this point. A left at the first fork, down the stairs, then hang right.
+    Why does it seem like I spend all my free time at Mirako in the least populated parts of the school? There's no way I've become that antisocial, right?
+    Worse is Kunida next to me trying to start up a conversation.
+    KUNIDA: "Everything going well, Takeru?"
+    TAKERU: "Fine."
+    KUNIDA: "What'd you think of today's test?"
+    TAKERU: "Oh. It was, er... Fun."
+    KUNIDA: "Ha! Well, I'll be grading them tonight. Don't worry too much about it though. You're new here so I'll be cutting you a break, obviously."
+    Obviously? That would've been nice to know before I broke my back studying for your stupid test, Mr. Kunida.
+    TAKERU: "Thanks."
+    KUNIDA: "Everything is going well with you? You're fitting in here well?"
+    TAKERU: "Yeah. Fine."
+    He holds open the door to his bizarre office. The jumble of furniture looks like it could've been salvaged by buying one piece each at garage sales stretching back at least five decades. I take a seat on the chair that looks least likely to fall apart.
+    KUNIDA: "Sorry about the office. I keep asking Mana to find furniture a little more fitting, but this is the best we've got here at Mirako, it looks like..."
+    TAKERU: "Yeah, having Mana furnish a room seems like you'd end up with a bunch of useless - "
+    TAKERU: "Hang on, you mean Mana, the first year here? In the supernatural club?"
+    KUNIDA: "Oh, I'm sorry. I shouldn't have let that slip. I'm her uncle, you know. Legal guardian, too."
+    TAKERU: "What... You..."
+    A few puzzle pieces start sliding into place. Not ones I'd like to be next to each other, either. While this would explain why Mana seems to have keys to every room in the building, and why both of the Kunidas seem to share a love of oddly furnished rooms in the old wing...
+    This would also mean...
+    KUNIDA: "I've heard a lot about you. Are you enjoying the supernatural club?"
+    Yes. That. That's what I was afraid of.
+    Passing information on me to my homeroom teacher.
+    Dammit, Mana.
+    TAKERU: "I'm... Not..."
+    KUNIDA: "Sorry, she always hates it when I bring that up."
+    TAKERU: "I'm not in the supernatural club! Really! I just got bullied into coming on their... Their..."
+    But Kunida's still laughing.
+    KUNIDA: "Well I'm glad you've found some place here that's truly yours. That's the number one indicator if a student will do well here at Mirako, if they find a student group they can be proud of."
+    TAKERU: "I'm really not sure if you could call me proud of - "
+    KUNIDA: "Anyway, it doesn't matter. I'll leave that to you and Mana."
+    KUNIDA: "How are things going?"
+    TAKERU: "..."
+    KUNIDA: "I know it's such a stock question. But you think you're understanding how Mirako works?"
+    TAKERU: "Yes."
+    KUNIDA: "And there's nothing bothering you?"
+    TAKERU: "No."
+    KUNIDA: "And you're taking your meds every day? Following the doctor's orders?"
+    TAKERU: "Yes."
+    KUNIDA: "...It's funny, Takeru. If what you're saying is true than you're adjusting very well, much better than 90% of our transfers."
+    KUNIDA: "And I know it isn't always easy."
+    KUNIDA: "Especially for someone with your background. No one's going to hold it against you if there are any issues, or you have any questions about - "
+    TAKERU: "Okay. I have a question then."
+    KUNIDA: "Go ahead."
+    TAKERU: "Why did you show up in my hospital room, back when I was first admitted? After Tohoku?"
+    KUNIDA: "Oh, that?"
+    He laughs again. I don't like it, it's too close to Mana's.
+    KUNIDA: "Almost everyone on staff here has a psychiatry qualification, if not a degree. Sometimes the school administration asks us to go visit students they feel would be a fit for Mirako."
+    KUNIDA: "Our backgrounds are similar enough where - "
+    TAKERU: "I mean, what did you know about Jun?"
+    KUNIDA: "Who?"
+    TAKERU: "You told me to throw away his letter."
+    KUNIDA: "Oh..."
+    KUNIDA: "I can't really speak to specifics. It's just a school policy we have not to trust outside opinions so much, especially for students in your position."
+    KUNIDA: "What brings this up?
+    TAKERU: "Nothing. I was just sort of..."
+    I should've known there was no magic to Kunida. He was just following some sort of teachers' guideline. He didn't know Jun or any of what Jun wrote or any of what poison he sent me.
+    Kunida doesn't know anything.
+    TAKERU: "One other question."
+    KUNIDA: "Fire away."
+    TAKERU: "What does everyone have against Hikari?"
+    KUNIDA: "Hikari..."
+    KUNIDA: "Who told you about her?"
+    TAKERU: "No one. Hikari told me about Hikari."
+    KUNIDA: "I guess it's impossible that you wouldn't hear anything..."
+    TAKERU: "No one else says anything about her anyway, even though she's in our class."
+    Kunida just looks at me. 
+    I don't think I've ever caught him lost in thought, looking through me.
+    TAKERU: "Never mind. Sorry I asked."
+    KUNIDA: "
     
