@@ -387,8 +387,85 @@ label day09
     TAKERU: "No one. Hikari told me about Hikari."
     KUNIDA: "I guess it's impossible that you wouldn't hear anything..."
     TAKERU: "No one else says anything about her anyway, even though she's in our class."
-    Kunida just looks at me. 
+    For once Kunida is quiet.
     I don't think I've ever caught him lost in thought, looking through me.
     TAKERU: "Never mind. Sorry I asked."
-    KUNIDA: "
+    KUNIDA: "As far as I know, no one should have anything against Hikari."
+    KUNIDA: "If you hear anyone badmouthing her or spreading rumors, you talk to me right away. We don't tolerate that sort of thing at Mirako."
+    KUNIDA: "While I've only been teaching here a few years, it's something I push for, personally. You should understand. Here, there shouldn't be any stigma for..."
+    KUNIDA: "Ha. I'm sorry. It's a little difficult for me. But if you hear things you're not comfortable with, talk to me, or someone on the staff, or your student council rep. Meiko has her ways of dealing with things."
+    TAKERU: "Talk to Meiko, huh..."
+    TAKERU: "I don't know. No one's been talking about Hikari, but that's sort of the thing. No one even mentions her. I'm sure she doesn't feel welcome if..."
+    ...if everyone pretends that she doesn't exist the moment she leaves their line of sight.
+    That's what I want to say. I also want to say that I suspect there's some massive student conspiracy to blackball Hikari and ostracize her until she drops out.
+    Saying that, though, will make me look insane. And I really, really do not want to go back to the clinic.
+    And I really, really don't like the way Kunida keeps wincing. He always seemed like a straightforward person, even if an uninteresting person, but seeing him uncomfortable is setting off all my alarm bells.
+    TAKERU: "It's fine. Forget I mentioned it."
+    KUNIDA: "You're sure?"
+    TAKERU: "Yeah, I'm sure Meiko's got it under control."
+    KUNIDA: "Is there anything else you wanted to ask?"
+    TAKERU: "...I don't think so."
+    KUNIDA: "No problems with your medication? Symptoms all under control?"
+    Now I'm the one wincing.
+    I can't keep track of my memories from back home with Meiko, to my letter from Jun, to my ghosthunting night at Mirako just days ago.
+    TAKERU: "Yeah, it's fine."
+    TAKERU: "Just some trouble sleeping is all."
+    KUNIDA: "Ahh, that can happen."
+    KUNIDA: "Well, just remember to take your prescriptions regularly and everything will normalize."
+    TAKERU: "Normalize..."
+    Not taking my meds had never occurred to me, but, to be sure, things were a lot more normal before - 
+    KUNIDA: "You're free to go then."
+    KUNIDA: "Let's meet same time next week?"
+    TAKERU: "Sure. Got it. Thanks, Mr. Kunida."
+    KUNIDA: "Enjoy the rest of your afternoon."
+    KUNIDA: "Oh, and if you want to go ghost hunting again, I've got a spare key set and ready to go."
+    TAKERU: "W-what, don't tell me Mana told you about - "
+    KUNIDA: "Bye!"
+    I want to sink into the floor as my Kunida walks out and grins like this was any other day, as opposed to the say I got outed to my homeroom reacher as a lunatic that stalked Mirako by night waving around bronze rabbits.
+    Fine, fine. I've learned a lesson from this: never trust Mana again.
+    
+    That's where I am, leaning against the wall, trying to forget my humiliation...
+    When I notice I'm being watched.
+    TAKERU: "Hikari!"
+    HIKARI: "Oh. I didn't see you there."
+    TAKERU: "Like I'd believe that. How long have been skulking around here?"
+    HIKARI: "It's been a busy day. I only came downstairs a moment ago."
+    TAKERU: "Yeah. Right. How long were you eavesdropping on me and Kunida?"
+    HIKARI: "Just a few minutes."
+    TAKERU: "I really wish you wouldn't."
+    TAKERU: "How much of your time do you spend just wandering around in the dark, anyway? You always show up out of nowhere."
+    HIKARI: "You're just not very observant."
+    TAKERU: "Are you kidding me? My peripheral vision is great. I used to pick off guys at first base all the time. It's a skill all starters have, at least the good ones, with a quick delivery. If someone's creeping around I'll definitely - "
+    HIKARI: "They threw you out."
+    TAKERU: " - definitely - "
+    HIKARI: "You're not a pitcher any more and your team threw you out. You're not as good as you think, and I could probably sneak up on you in my sleep."
+    TAKERU: "..."
+    HIKARI: "Was that cruel of me?"
+    TAKERU: "Only a little."
+    HIKARI: "I'm not sorry."
+    HIKARI: "Don't go behind peoples' backs. You shouldn't just go asking about me to everyone you meet. That's sort of a betrayal of trust."
+    TAKERU: "Then you were eavesdropping after all."
+    HIKARI: "Of course I was. What's the point of sneaking around otherwise?"
+    TAKERU: "You're a miserable person to hang out with. Did you know that?"
+    HIKARI: "I knew that. To me it looks like you must enjoy being miserable or you wouldn't come down here to the old wing so much."
+    HIKARI: "Did you want to play chess?"
+    I look Hikari up and down.
+    She does look fragile there, standing in the hall, in the bad light.
+    It must be the anti-psychotics, or maybe the mood stabilizers, or one of the other half-dozen meds the quacks at the clinic decided that I need to take for the rest of my natural life.
+    I used to be outgoing and well-liked, and now the person I most sympathize with in this worthless school is an outcast girl standing here opposite me, that can't find a single other person to play a simple board game.
+    Probably I sympathize because everyone else would prefer if neither of us existed. If I've got all of Tohoku against me, looks like even the staff at Mirako finds Hikari to be inconvenient.
+    I still can't make eye contact.
+    TAKERU: "Maybe tomorrow. It's been a long day."
+    HIKARI: "It looks like it."
+    HIKARI: "You're easy to read."
+    TAKERU: "You just heard about it by listening in on me and Kunida."
+    HIKARI: "...No, you really just look worn out."
+    HIKARI: "Come and have tea at least. That should at least be relaxing."
+    TAKERU: "You think?"
+    TAKERU: "Well... It can't make things worse, anyway."
+    HIKARI: "I thought so."
+    HIKARI: "There should be good jasmine tea on the bottom shelf. I'm not happy about giving any to you, though, if you won't appreciate it."
+    Being isolated must've hurt Hikari's ability to hide her emotions, because her tiny frown is gone as I follow her into the tea room.
+    Who knows? The company could probably do me some good as well. I forget about Kunida or medication or conspiracies and just follow Hikari.
+    
     

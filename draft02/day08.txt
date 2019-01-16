@@ -261,7 +261,7 @@ label day08:
     HAGAMI: "...I'll figure it out."
     HAGAMI: "Thanks for not mentioning it to Mana."
     TAKERU: "No problem."
-    I stand and gather my things as Hikari puts down her book.
+    I stand and gather my things as Hagami puts down her book.
     But she doesn't rise to follow.
     HAGAMI: "About Hikari."
     TAKERU: "Er, what?"
