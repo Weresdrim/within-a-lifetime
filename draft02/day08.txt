@@ -63,7 +63,7 @@ label day08:
     TAKERU: "What happened?"
     KENTA: "It burned down."
     TAKERU: "Yeah, but... how? Why?"
-    KENTA: "Presumably it caught fire."
+    KENTA: "I assume it caught fire."
     TAKERU: "Never mind. I'll ask Meiko or someone."
     KENTA: "Who?"
     TAKERU: "I'll also ask her where I should go to find all these people for the paperwork because it's pretty obvious you're not going to be helpful there."
@@ -261,7 +261,7 @@ label day08:
     HAGAMI: "...I'll figure it out."
     HAGAMI: "Thanks for not mentioning it to Mana."
     TAKERU: "No problem."
-    I stand and gather my things as Hikari puts down her book.
+    I stand and gather my things as Hagami puts down her book.
     But she doesn't rise to follow.
     HAGAMI: "About Hikari."
     TAKERU: "Er, what?"
@@ -477,6 +477,8 @@ label day08:
     That's why I have to wonder, Takeru, what the hell you were thinking.
     No, actually, I wonder what the hell I was ever thinking to defend a stuck-up, delusional idiot like you.
     I guess I got what I deserved. I should've listened to everyone else who told me you were an unstable freak.
+    When I came here to Tohoku two years ago I imagined I'd have a run in the big leagues, maybe not a star, but a reliable guy, someone everyone could count on.
+    But you stole that from me. Compound fracture in the cheek, nose... I've lost my sight in my right eye. I have no depth perception. No one will take me any more.
     I can't forgive you and I never will. Burn and die. You had one friend on the Tohoku baseball team and now you have none. If you come back here after all this, I swear to you...
     ...swear to you I'll do everything we can to drive you out...
     ...no longer welcome here...
@@ -593,7 +595,7 @@ label day08:
     KAZUMI: "Hang on, Takeru's with me?"
     HIFUMI: "Ha! You're the one that picked him, Kaz. You deal with him."
     KAZUMI: "I never picked him. Who would volunteer for that?"
-    KAZUMI: "Look Takeru, you're okay. I'm not pitcher, but next to guys like Hifumi, you're just okay."
+    KAZUMI: "Look Takeru, you're okay. It's against my nature to judge anyone, let alone our pitchers... but next to guys like Hifumi, you're just okay."
     KAZUMI: "So don't talk all this crap to me and everyone else."
     TAKERU: "That's what Jun's always saying."
     KAZUMI: "Yeah well he's nicer than the rest of us, so take his word for it."
@@ -605,7 +607,7 @@ label day08:
     KAZUMI: "Get lost, Takeru."
     The captain sidles over.
     Jun.
-    I wouldn't bet against him, obviously.
+    I wouldn't bet against Jun, obviously.
     Not just because he's my senior by two years, or the captain, or that he's probably the only one on this team more heavily scouted than me.
     He just... doesn't like me. Hifumi, Kaz, the rest... They're all my friends.
     Friends?
@@ -649,3 +651,4 @@ label day08:
     Because he's my only friend.
     
     jump day09
+    

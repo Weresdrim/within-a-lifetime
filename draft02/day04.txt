@@ -514,7 +514,7 @@ label day04:
     TAKERU: "Always."
     JUN: "Oh..."
     JUN: "This might sound weird but screw it. If there's anything on your mind it's my job as captain to make sure you can do your job."
-    JUN: "So... Talk to me. I don't judge. We're a team here, and I think you've got a bit of me of you. So you're like my little brother, right?"
+    JUN: "So... Talk to me. I don't judge. We're a team here, and I think you've got a bit of me in you. So you're like my little brother, right?"
     JUN: "Just give the word. Got it?"
     TAKERU: "Thanks. Captain."
     JUN: "Any time. And I'm calling home run to right, first pitch. You got that? Give it your best out there, Red Captain!"
