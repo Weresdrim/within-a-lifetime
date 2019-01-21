@@ -508,3 +508,5 @@ label day09
     I'm not responsible for any of this, and none of these people I'm watching are "me."
     So why should the pain be real?
     
+    jump day10
+    
