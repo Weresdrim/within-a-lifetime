@@ -53,7 +53,8 @@ label day10:
     TAKERU: "You know, it's not the worst thing in the world if we don't show up to school an hour before classes start."
     KENTA: "Of course not. The point is that even if we're delayed in our commute, there's still time to spare before we need to be at Mirako."
     TAKERU: "It's pouring out. I'll take the bus today."
-    KENTA: "That just means the bus will be even more off-schedule! You're really risking it."
+    KENTA: "That just means the bus will be even more off-schedule! You realize Shizukawa is so small the bus only passes through three times a day?"
+    KENTA: "You're really risking it."
     TAKERU: "I'll be fine. Just go on your own."
     KENTA: "You know, you're quite a difficult person to get along with."
     TAKERU: "Tell me about it."
@@ -104,5 +105,37 @@ label day10:
     The entire walk to Mirako is these two bickering and sniping at each other all while shoulder-to-shoulder trying to shelter under me.
     And because we're now trying to squeeze three people under one umbrella, they're both catching stray rain when they forget to follow me and instead stand still to point at each other.
     Yeah. I really should've taken the bus.
+    
+    The rain doesn't let up as Meiko gives her daily report, and it's falling strong as ever all through Kunida's lecture.
+    In fact, I think it's putting me to sleep. Either that or it's just sleep loss catching up with me.
+    Looking around the room, no one but Meiko is really paying much attention either. Natsumi might as well be asleep with her eyes open. Hagami, head phones on, in the back... some unfixed point out the window has her attention.
+    Hang on, since when did Hikari sit next to Hagami?
+    I turn away.
+    So this is one of the few classes where Hikari decided to show up. Fine. I guess that's normal, or as normal as it gets for Hikari.
+    But then shouldn't Hagami have known who I was talking about? Even someone as closed off as Hagami couldn't go a month and a half not knowing the name of the severely delinquent girl sitting next to them... could they?
+    Hikari sticks in my mind.
+    I stop paying attention altogether. It seems bizarre to me to picture Hikari anywhere but downstairs in the school's forgotten rooms.
+    Have I ever seen her outside the school? She must run into people if she took the bus in from out of town, right? Or if she lives in the dorms, wouldn't I see her walking around Shizukawa?
+    Of course... if everyone treats her like a ghost... it wouldn't matter if they saw her not. They'd just pretend she was someone that didn't exist. And keep walking.
+    When morning classes are over, I look over my shoulder again, but she's gone.
+    NATSUMI: "Takeru! Are you even paying attention?"
+    TAKERU: "No, I'm not. Stop jabbing me in the back."
+    NATSUMI: "Come on, let's go find Kenta."
+    TAKERU: "For what?"
+    NATSUMI: "To get him to do the opposition research, obviously! Weren't you listening this morning?"
+    TAKERU: "No."
+    NATSUMI: "I need him to tap into his network of baseball nerds at our rivals in the district. I bet there's guys like Kenta across the country, keeping spreadsheets on even the lowliest highschool baseball teams."
+    TAKERU: "I don't think even Kenta does that."
+    NATSUMI: "He's not? Then you need to come help me get him to start!"
+    MEIKO: "Natsumi, I know you keep your own numbers."
+    NATSUMI: "Yeah but if I talk Kenta into it, then I don't have to. And I still need the enemy's info too!"
+    MEIKO: "Why don't you do some networking yourself then?"
+    NATSUMI: "Good idea. Meiko, you're like link number one in my network, so you'll be even more convincing to Kenta. Come help me!"
+    MEIKO: "That's not quite what I - "
+    TAKERU: "Later, guys, I've got places to be."
+    MEIKO: "See you after lunch, Takeru."
+    NATSUMI: "'Place to be?' Give me a break! Get back here."
+    But the chatter in the hall drowns out her voice.
+    
     
     
