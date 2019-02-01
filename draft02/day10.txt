@@ -132,9 +132,12 @@ label day10:
     MEIKO: "Why don't you do some networking yourself then?"
     NATSUMI: "Good idea. Meiko, you're like link number one in my network, so you'll be even more convincing to Kenta. Come help me!"
     MEIKO: "That's not quite what I - "
+    NATSUMI: "Oh I get it, you're always busy in the morning. How about after class?"
+    MEIKO: "Takeru and I had some errands to run for the festival, but I'd be happy to - "
+    NATSUMI: "Ah yes, these mysterious errands. Takeru, care to fill me in? Is one of these errands talking to Kenta?"
     TAKERU: "Later, guys, I've got places to be."
-    MEIKO: "See you after lunch, Takeru."
-    NATSUMI: "'Place to be?' Give me a break! Get back here."
+    MEIKO: "Enjoy your lunch, Takeru."
+    NATSUMI: "'Places to be?' Give me a break! Get back here."
     But the chatter in the hall drowns out her voice.
     
     I escape to the old wing.
@@ -355,5 +358,91 @@ label day10:
     While I don't really "get" Hagami, she's at least easier to tail around than anyone else around here.
     I'm not sure exactly what it is we have in common, but it's enough we both sense it. We head upstairs, side by side, to the next class.
     
-    
+    Chemisty passes uneventfully. The gray outside also spreads to the hall when we all trudge back down from the labs to the classroom.
+    Then sit through English.
+    Then sleep through history.
+    When Natsumi pokes me awake at the end of the day, it's still so dark out I almost think I've slept for hours and it's nighttime already.
+    TAKERU: "Ugh..."
+    NATSUMI: "What are you doing, snoozing like that?"
+    TAKERU: "You doze off in class all the time, that's not why you woke me up. What do you want?"
+    NATSUMI: "What? I don't want anything. I was just doing you a favor."
+    TAKERU: "Oh. Thanks, I guess."
+    NATSUMI: "...Could you repay the favor my loaning my your umbrella?"
+    TAKERU: "No, go away."
+    NATSUMI: "You know, everyone else in this class would kill for a chance to lend the school idol Natsumi something as small as an umbrella in her time of - "
+    TAKERU: "Then go ask everyone else."
+    NATSUMI: "Everyone else left."
+    Sure enough, the classroom is almost empty at this point. Meiko and Mr. Kunida are holding a conversation in the corner, there's one or two boys passing through the door...
+    Oh, and Hikari, sitting in the back, eyes open but looking even more tired than I feel.
+    TAKERU: "Hikari! Hey."
+    HIKARI: "Oh. Hello."
+    TAKERU: "I meant to let you know I probably won't be around this afternoon because I signed up to help with some festival stuff. Unless the rain's going to put things off. I'd have to ask Meiko if she's still..."
+    TAKERU: "Hikari?"
+    HIKARI: "I didn't see you there."
+    TAKERU: "Didn't see me? I sit practically right in front of you. What are you..."
+    Although... It's Natsumi she's staring at, not me.
+    NATSUMI: "Oh, hey! You must be new here if I haven't met you."
+    HIKARI: "I'm not new, Natsumi."
+    NATSUMI: "That's really funny."
+    NATSUMI: "Seriously though, nice to meet you. You already know my name, I guess, but who doesn't? You said you were Hikari?"
+    HIKARI: "Don't humor me."
+    NATSUMI: "I mean, you don't have to shake my hand or anything, but we're gonna have to be in the same class from now on, so..."
+    NATSUMI: "Hey, where are you going?"
+    HIKARI: "Maybe we'll catch up some other time, Takeru."
+    HIKARI: "Have fun. Looks like it's time for me to go."
+    TAKERU: "Hikari? Hey, wait up a sec."
+    She's gone before I can even run up to her.
+    NATSUMI: "Takeru! Where are you going?"
+    TAKERU: "After Hikari, obviously."
+    NATSUMI: "I mean, sure, but isn't there a helpless maiden here that needs your umbrella?"
+    TAKERU: "Can you be serious for once? Like I care about that when you..."
+    TAKERU: "You people are terrible. What'd Hikari ever do?"
+    NATSUMI: "Hikari?"
+    NATSUMI: "Oh, you mean the new girl? Funny, isn't she?"
+    TAKERU: "She's not new. You and I both know that."
+    NATSUMI: "Then why have I never met her before today?"
+    TAKERU: "I saw you talking to her. Earlier this week, even. She's not knew."
+    NATSUMI: "Calm down, Takeru. I've known a Hikari or too, but that's the first time I've ever run into... that girl. Whoever she was."
+    NATSUMI: "Don't get so defensive over the new students. We're at the Mirako school. You should just be more accepting."
+    TAKERU: "More accepting? When you're saying that Hikari is some mystery person after getting all mean at her the other day as well..."
+    TAKERU: "Look, I get that I'm the new guy here and highschool girls are all vindictive and secret and catty, but don't lie to my face."
+    TAKERU: "It's hard for me to tell when someone's lying or I'm just seeing things different. But this time I know you're lying."
+    NATSUMI: "Cool down a second, Takeru. I'm not lying. The new girl seems familiar as anyone, and I'm trying to be friendly, but she's new. No one's met her. Yeah?"
+    TAKERU: "Cut it out."
+    NATSUMI: "I know I was being a bit of a jerk asking for your umbrella but that's just me being myself. Don't take it so seriously."
+    TAKERU: "How can stand there and say that, acting so casual? You're even more cruel than I - "
+    MEIKO: "Is everything alright?"
+    NATSUMI: "Ah hey Meiko. Yeah we're good."
+    MEIKO: "I thought I heard - "
+    NATSUMI: "Oh, heh, yeah Takeru was mad I asked him if he had his umbrella because I definitely leeched off his this morning on the way to school, and now if I don't figure something out I'm gonna get soaked on the way home."
+    NATSUMI: "Or wait for the bus, but that'll take forever. Man, I hate the rain."
+    TAKERU: "I know what you're doing. You're changing the subject."
+    NATSUMI: "Takeru, that's all I got to say. I'd never met that girl before, until today. Sorry if I rubbed you the wrong way."
+    NATSUMI: "And I hope it doesn't come between us."
+    MEIKO: "If it's that big of a deal, I brought my umbrella today."
+    NATSUMI: "Really? You're the best Meiko."
+    MEIKO: "Here you go."
+    She takes off. There's a few moments where the room is noiseless except for the patter on the roof.
+    MEIKO: "You're scowling."
+    TAKERU: "Oh. Sorry."
+    MEIKO: "That's alright. Is Natsumi under your skin?"
+    TAKERU: "That's one way to put it."
+    MEIKO: "You should forgive her, despite her flaws. I know she's only trying to help you adjust here."
+    TAKERU: "...That's not really it."
+    I want to explain this whole thing, or ask for a straight answer, so why can't I do it?
+    There was that warning from Natsumi. That I should probably ignore. But I just want to steady things. I speak, trying to smile.
+    TAKERU: "It's fine. What was it you wanted to get done today?"
+    MEIKO: "I almost forgot. I need to speak to a few business in town about their role in the festival, and that means a visit to town hall too, of course."
+    TAKERU: "Town hall?"
+    MEIKO: "It's rural enough around here that the old temple and town hall are one and the same. What I need to do is make sure the school and the town are the same page on how the festival will play out."
+    TAKERU: "Sounds complicated."
+    MEIKO: "It's not that bad."
+    TAKERU: "I mean, it sounds like there's a lot of walking around involved."
+    MEIKO: "Of course."
+    TAKERU: "And it's pouring."
+    MEIKO: "Oh. And I just..."
+    TAKERU: "You just gave your umbrella to that ungrateful Natsumi. I hope you've got a raincoat tucked away here somewhere."
+    MEIKO: "I'm sorry, Takeru, I didn't mean to force you to walk around with me in the rain."
+    TAKERU: "No, no, that's not it. I've still got my umbrella, I guess..."
+    TAKERU: "So where are we headed first?"
     
