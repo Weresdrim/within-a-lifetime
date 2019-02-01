@@ -275,52 +275,75 @@ label day10:
     TAKERU: "You're not seriously planning on..."
     Hagami just shrinks behind today's book, lunch abandoned.
     I'm left with only the form.
-    Which does describe, for sure, that Otome Hagami intends to perform for fifteen minutes, on stage, alone, without any club affiliation.
+    Which does describe, for sure, that Otome Hagami intends to perform for twenty minutes, on stage, alone, without any club affiliation.
     TAKERU: "You have to at least put down a description of what you want to do."
     TAKERU: "Meiko can be a bit of hardass about this sort of thing. Trust me."
     TAKERU: "...You're really not setting me up for some joke?"
     HAGAMI: "...No."
     TAKERU: "Oh."
-    TAKERU: "Well..."
-    TAKERU: "You do realize to get anywhere you do have to fill this thing out though?"
+    TAKERU: "It's just weird to me."
+    Hagami turns a page.
+    HAGAMI: "What did you do before you came to Mirako?"
+    TAKERU: "Huh?"
+    HAGAMI: "Rumors. Heard some things. Mana said you used to be..."
+    TAKERU: "I used to be a baseball player, if that's what you're talking about."
+    TAKERU: "I'm not sure what that has to do with anything."
+    HAGAMI: "You'd rather not talk about it."
+    TAKERU: "Oh, I get it. You're telling me this is something where you'd rather not answer too many questions."
     HAGAMI: "...Yeah."
+    HAGAMI: "But it's... If you suddenly joined the baseball team and lead the team to the championship or something..."
+    HAGAMI: "It wouldn't be such a huge surprise. I'd just think 'Oh, Takeru has finally reincarnated as his past self.'"
+    TAKERU: "Now you've lost me."
+    HAGAMI: "You don't want to suddenly remember your past self? And be heroic ancestor Takeru instead of lowly student Takeru?"
+    TAKERU: "Go back a step, my head hurts."
+    HAGAMI: "Poor Takeru. Trapped in the cycle of samsara, never remembering who he was."
+    TAKERU: "You're terrible, Hagami. If you're going to pull my leg you're not allowed to keep a straight face about it."
+    HAGAMI: "...That wouldn't be very fun."
+    TAKERU: "Next time you start talking like Mana I'm just going to pretend I'm 100% into it though. Watch out."
+    HAGAMI: "...I'll be on guard."
+    There's a rare smile before she ducks down again.
+    TAKERU: "Really though. If you want to reincarnate or whatever, you realize you have to fill out this form?"
+    TAKERU: "At least you have to do it if you want stage time. The way Meiko's pushing me on all these little details there's no way she'd let a blank page like this slide."
     She's mute for a minute, just the soft rapping on the window behind me to keep away the silence. The book is down now, but Hagami's focus is somewhere miles away.
+    TAKERU: "Hi?"
+    HAGAMI: "...Yeah."
     HAGAMI: "I'll make another copy, if you don't tell Mana."
-    TAKERU: "I mean, I guess I can do that."
-    TAKERU: "I just don't really get what you want, trying to submit all these half-forms."
-    HAGAMI: "That's alright."
-    HAGAMI: "You understand?"
-    I nod, but... I don't really understand, 
+    TAKERU: "I mean, sure, that's easy enough."
     She goes back to reading all the same. I search my bag and find some homework to struggle with.
-    After a few moments there's a hiss and click from the radio, and a duo starts up, grayed and muted with the sounds of rainfall, but even I can make out a piano and some sort of string instrument.
+    After a few moments there's a hiss and click from the radio, and a duet starts up, grayed and muted with the sounds of rainfall.
+    Sounds pretty old. Musically illiterate as I am, I can at least make out a piano and some sort of string instrument.
     Is Hagami not reading any more? Instead, she scratches away with a pen.
     HAGAMI: "...Did you put that CD in?"
     TAKERU: "What? Er, yeah. I was in here earlier before I came to look for you."
     HAGAMI: "Just wanted to make sure it wasn't Mana."
-    TAKERU: "No, I swear I haven't told her anything."
-    The rain continues.
+    TAKERU: "No. Why'd it matter if she was the one who loaded the CD?"
+    HAGAMI: "She gets funny ideas sometimes."
+    TAKERU: "For sure."
+    But I'm not sure how that relates either. The rain continues all the same.
     I just eat in silence as on the radio, there's a click, and another piece starts up, just as archaic as the first.
     My only surprise is that this feels natural. Like I could be here in the semi-dark all day with this girl I barely speak to, and it'd still be alright.
-    The end of the lunch hour approaches regardless.
+    Especially when every other minute in this school seems to trigger my fight-or-flight these days.
+    Still... The hour comes to an end.
     TAKERU: "I should get going. Chemistry next. That's two floors up, right?"
     HAGAMI: "Yeah."
     HAGAMI: "I'm in that class too."
-    TAKERU: "Oh, ha. Guess I didn't notice."
+    TAKERU: "Oh, ha. The way you keep your head down I forget we're in the same class sometimes."
     HAGAMI: "Here."
     TAKERU: "Huh?"
     She passes me the piece of paper she's been scribbling at this whole time.
-    TAKERU: "This is the festival application. Didn't you already give me one of these?"
+    TAKERU: "Oh, hey, it's the performance application. You actually filled it out."
     HAGAMI: "Yes, although... Well..."
-    TAKERU: "Oh, I get it. This one has the specifics..."
-    TAKERU: "For some sort of music thing? You're trying to hold some sort of recital?"
-    Hagami just stares at me, but against the backdrop the the tinny radio orchestral, it sort of makes sense. It's not Mana that's been stockpiling old CDs in here.
+    TAKERU: "Let's see, so you're going to - "
+    HAGAMI: "You're not supposed to read it."
+    TAKERU: "..."
+    HAGAMI: "I'm not trying to trick you."
+    TAKERU: "Fine, I'll just hand it off to Meiko. I only caught a glimpse anyway."
+    That glimpse - she's going to put a something recital something?
+    Hagami just stares at me, but against the backdrop the the tinny radio orchestral, it sort of makes sense that she'd be into something musical. It's not Mana that's been stockpiling old CDs in here.
     HAGAMI: "Just don't tell..."
     TAKERU: "Yeah, Mana, I know. I won't say anything."
-    TAKERU: "Hey, don't you have chemistry next?"
-    HAGAMI: "How'd you...?"
-    TAKERU: "I know because we're in the same class. It's not really that hard to figure out."
     HAGAMI: "..."
-    TAKERU: "Come on, let's get going before we're late and end up assigned as partners together."
+    TAKERU: "Come on, let's get going to chem before we're late and end up assigned as partners together."
     HAGAMI: "Yeah."
     HAGAMI: "Thanks for dealing with your friends."
     TAKERU: "Kenta?"
