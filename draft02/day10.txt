@@ -1,6 +1,6 @@
 label day10:
 
-    There's an agony of time before that shattering feelign coalesces to a single point.
+    There's an agony of time before that shattering feeling coalesces to a single point.
     The center of my forehead.
     Because my idiot roommate is jamming his finger into me like it's a coin return.
     TAKERU: "Kenta! Quit it! I'm awake."
@@ -419,7 +419,8 @@ label day10:
     TAKERU: "I know what you're doing. You're changing the subject."
     NATSUMI: "Takeru, that's all I got to say. I'd never met that girl before, until today. Sorry if I rubbed you the wrong way."
     NATSUMI: "And I hope it doesn't come between us."
-    MEIKO: "If it's that big of a deal, I brought my umbrella today."
+    MEIKO: "Take a deep breath."
+    MEIKO: "If it's that big of a deal, Natsumi, I brought my umbrella today."
     NATSUMI: "Really? You're the best Meiko."
     MEIKO: "Here you go."
     She takes off. There's a few moments where the room is noiseless except for the patter on the roof.
@@ -441,8 +442,79 @@ label day10:
     MEIKO: "Of course."
     TAKERU: "And it's pouring."
     MEIKO: "Oh. And I just..."
-    TAKERU: "You just gave your umbrella to that ungrateful Natsumi. I hope you've got a raincoat tucked away here somewhere."
+    TAKERU: "You just gave your umbrella to that ingrate Natsumi. I hope you've got a raincoat tucked away here somewhere."
     MEIKO: "I'm sorry, Takeru, I didn't mean to force you to walk around with me in the rain."
     TAKERU: "No, no, that's not it. I've still got my umbrella, I guess..."
     TAKERU: "So where are we headed first?"
+    
+    The answer does turn out to be town hall.
+    But this is Shizukawa's town hall, so of course I should've expected it to be as foreign and rural as the rest of this town.
+    True to Meiko's word, it's a converted shrine. Amidst the pouring rain, follow a main street down to a side street and then to a staircase set into one of the many Shizukawa hills. I could definitely see a torii hanging over this place sometime in the past.
+    But when we come to the top of the hill, there's a modern building at the top, joined with a a parking lot and half a dozen portable trailer buildings.
+    When I stop short at the sight, Meiko takes a step further than my umbrella and ends up in the rain.
+    MEIKO: "Are you coming?"
+    TAKERU: "That's where we're going? Town hall?"
+    MEIKO: "Yes. Were you just going to stand there?"
+    TAKERU: "No, but, well..."
+    TAKERU: "What's it we're here to do again?"
+    MEIKO: "I want to close the bridge to Mirako this year, except for foot traffic. It'd give us the whole road by the school for clubs to set up their displays."
+    MEIKO: "But that takes a permit, of course."
+    TAKERU: "Of course..."
+    MEIKO: "And the secretary here already knows me after I poked around here last year."
+    Something tells me Meiko would make quite the impression on any mid-level bureaucrats that got in her way.
+    MEIKO: "...This might be a lost cause. But I wouldn't be doing my duty if I didn't give it my best, right?"
+    TAKERU: "Right..."
+    TAKERU: "Should I be helping?"
+    I feel awkward enough as it is just escorting Meiko around through the rain. She wanted me here for some reason other than moral support, right?
+    MEIKO: "The secretary... He's a bit of an old-fashioned man."
+    MEIKO: "Mirako is a bit of an odd fit for this town. The people here, every once in a while, they can  seem, well, a little... traditional?"
+    TAKERU: "You've been here before?"
+    MEIKO: "Sure. Last year I tried for the same permit but it never went anywhere with me on my own."
+    TAKERU: "Oh... Because this geezer wasn't going to give anything to some outsider girl."
+    MEIKO: "Maybe."
+    MEIKO: "Something like that."
+    TAKERU: "Okay. I sort of get it."
+    ...Although.
+    ...I really don't get it.
+    MEIKO: "Are you coming?"
+    TAKERU: "Oh. Yeah."
+    MEIKO: "I'm not really sure what I exptected you to... Well..."
+    TAKERU: "Hang on, I've got a plan."
+    This plan relies almost entirely on my being a bit taller, a bit more manly, a bit more manly, and a bit more "traditional kid" than Meiko.
+    ...which is ridiculous considered how much of a obvious failure I am compared to her, but maybe it'll be enough to foil whatever old geezer is holed up in this shrine.
+    MEIKO: "A plan?"
+    TAKERU: "I'll go in first."
+    ...
+    It's a stupid, plan, really.
+    I just assume the worst about whatever mid-level civil servant I'm about to face. That he'll prefer this idiot that at least looks like he could be the most shallow sports star if he weren't already proven to be an imbecile.
+    Hang on though, isn't that my advantage? That everyone knows Meiko is the wunderkid of Mirako vs me, who's a total unknown? Who just enough looks the part that maybe I got could get through to whatever bureaucrat mans this station?
+    I'll give it my best.
+    Meiko walks behidn me.
+    Trying not to give her any attention, I walk to the nearest bulding. Even if I have no idea what I'm doing, maybe if I walk with my head high enough, with my hands behind my back, bluffing as I must know how...
+    Maybe these backwards paperpushers and biased townspeople would be more inclined to listen to someone like me, than to someone like Meiko, strange as it seems.
+    Especially if Meiko is about twice as smart as me and three times as good as presenting herself.
+    But I have to do something, right?
+    TAKERU: "Er... Hello."
+    SECRETARY: "Yes, hello."
+    SECRETARY: "How may I help you?"
+    TAKERU: "Um, er, hello."
+    SCERETRARY: "You've already said that. Or did you want me to do something for you?"
+    TAKERU: "I'm from the um, er..."
+    MEIKO: "You're from the student council."
+    TAKERU: "Yes hello, my name is Takeru Ichiro."
+    TAKERU: "I'm president of the Mirako School student council and I've been authorized to negotiate with you on behalf of my executive vice president, Kotaru Meiko."
+    SECRETARY: "You're from the Mirako school?"
+    TAKERU: "The Mirako school is the most important source of out-of-town culture for Shizukawa."
+    TAKERU: "Isn't it?"
+    SECRECTARY: "I'm not sure what you mean?"
+    MEIKO: "Hint that..."
+    TAKERU: "Of course the Mirako school..."
+    TAKERU "Hang on, hint what?"
+    SECRETARY: "Hang what?"
+    MEKIO: "Hang... I mean..."
+    MEIKO: "This is the single most important time of the year."
+    
+    
+    
+    
     
