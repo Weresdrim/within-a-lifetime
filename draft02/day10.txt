@@ -1,6 +1,628 @@
 label day10:
 
-    There's an agony of time before that shattering feelign coalesces to a single point.
+    There's an agony of time before that shattering feeling coalesces to a single point.
     The center of my forehead.
     Because my idiot roommate is jamming his finger into me like it's a coin return.
     TAKERU: "Kenta! Quit it! I'm awake."
+    KENTA: "Are you sure?"
+    TAKERU: "Yes I'm sure! What're you still poking me for?"
+    KENTA: "Well before you were rolling all over and talking in your sleep, so just because you started talking doesn't mean you woke up."
+    TAKERU: "Oh..."
+    TAKERU: "Is that why you decided to go and wake me up? Because it's still dark out."
+    KENTA: "How light or dark it is outside doesn't have anything to do with the time you need to get up."
+    KENTA: "In fact, depending on the season, sunrise and sunset can vary by hours. While I understand you'd rather have a schedule that followed daylight, that wouldn't be feasible because - "
+    TAKERU: "Oh, it's just raining out, that's why it's so dark. You could've just said that."
+    KENTA: "I was getting there."
+    TAKERU: "Could've fooled me."
+    I spend a few seconds at the window of our room, looking out over the river. 
+    While on most days the surface is perfectly still, today, what little of the water isn't obscured by mist is perturbed by thousands of tiny waves as raindrops fall. It's actually quite the storm.
+    The gray space out there starts reflecting on me and the longer the stare the more the haze is the same vagueness I just woke up from where I can't quite place myself but I know that someone probably several people were in pain and was I back at Tohoku again? Or -
+    I turn away.
+    KENTA: " - and you know how deliveries can be so inconsistent up here. If the weather delays my shipment by more than a day I'll get a bad review. This is bad."
+    KENTA: "Are you even listening?"
+    TAKERU: "No, not really."
+    TAKERU: "Kenta, you have medications you take, right?"
+    KENTA: "Yes, several. Why?"
+    TAKERU: "Where do you fill them? Is there a pharmacy in town or something?"
+    KENTA: "A small one. Personally I take the bus to the city every once in a while, but I can show you if you like, on a slightly nicer day."
+    TAKERU: "But I mean, the school doesn't keep track of whether you go there or not? They don't have anything set up with doctors to keep tabs on you?"
+    KENTA: "Of course not. You're being paranoid."
+    KENTA: "What're you worried about?"
+    TAKERU: "Nothing really. I just want to be sure if I decide to go back to getting a few nights of good, dreamless sleep again that Mr. Kunida won't be immediately over my shoulder."
+    KENTA: "And by that you mean... not taking your prescriptions?"
+    TAKERU: "That'd be the easiest solution, yeah."
+    KENTA: "You can't just decide to do that on your own. You should talk to a doctor, or your point of contact at Mirako. That's not good thinking, Takeru. You should - "
+    TAKERU: "I can decide for myself."
+    KENTA: "You're not an expert. You can't do whatever you want just because you feel like it. You - "
+    TAKERU: "Forget I mentioned it."
+    KENTA: "Talk to someone at Mirako if you have an issue. Don't go doing weird things on your own."
+    TAKERU: "Really, forget it."
+    Between Kenta hounding me about my meds and the beat of the rain on the roof, it's a dreary morning.
+    I regret mentioning anything to this guy, ever.
+    Even if it's not Kunida staring over my shoulder, my roommate sure as hell is, as I eye those three bottles on the bathroom table.
+    I shut the door.
+    Maybe it's only one of these stupid things that keeps me seeing nonsense every night.
+    If I'm honest with myself, I don't really see what was wrong with me from back before then, when the doctors at the sports clinic decided it was schizophrenia.
+    Well, not the guys at the sports injury center. Those doctors just treated the broken arm, fractured ribs, and so on. And then when they were done passed me on the shrinks at the mental health clinic.
+    I check the mirror.
+    It's Takeru. A little underbuilt, a little too tall. Usually in a bad mood, and never comfortable with people, especially the people of Mirako. Who can tell that something's off.
+    A year ago the Ichiro Takeru looking back at me would be charismatic, poised, ready to take on the world. Not the sort of person to beat himself up every morning in front a bucnh of bottle of pills.
+    Was I "schizophrenic" even back then?
+    Something's fake, I just can't tell what.
+    KENTA: "Takeru, you need to hurry up or we're going to be late."
+    TAKERU: "You know, it's not the worst thing in the world if we don't show up to school an hour before classes start."
+    KENTA: "Of course not. The point is that even if we're delayed in our commute, there's still time to spare before we need to be at Mirako."
+    TAKERU: "It's pouring out. I'll take the bus today."
+    KENTA: "That just means the bus will be even more off-schedule! You realize Shizukawa is so small the bus only passes through three times a day?"
+    KENTA: "You're really risking it."
+    TAKERU: "I'll be fine. Just go on your own."
+    KENTA: "You know, you're quite a difficult person to get along with."
+    TAKERU: "Tell me about it."
+    Somehow Kenta manages to drag me down to the common room, but I'm not biting on the whole walk-to-school thing today. I'd just be sitting there in homeroom for an extra half hour, probably wet too.
+    Only a few are up this early, and there's no one sitting down or studying - most are running in and out of the kitchen, probably used to a warm breakfast. Not my style. I've just grabbed my usual fruit and toast by the time Kenta is already out the door.
+    Out the door...
+    The morning's still dull and gray, but it's light enough to tell that he's getting soaked out there.
+    I run up the entryway and open the door. Outside the sound of the rain on the road is almost enough to drown out my shout.
+    TAKERU: "Kenta! Hey!"
+    KENTA: "Good morning?"
+    TAKERU: "Aren't you forgetting your umbrella or something?"
+    KENTA: "I don't own one."
+    TAKERU: "By the time you get up the hill to Mirako you'll be so wet you'll start wrinkling up."
+    KENTA: "Whether you're wrinkled or not doesn't have any effect at all on how you do at school."
+    KENTA: "I don't mind being wet."
+    TAKERU: "Yeah but what's everyone going to think of the guy who's dripping all over the floor?"
+    TAKERU: "Kenta, you have your flashes of genius sometimes but most of the time, I swear..."
+    TAKERU: "Do you even own an umbrella?"
+    KENTA: "No."
+    TAKERU: "Go figure..."
+    TAKERU: "Come on. Let's go."
+    KENTA: "You're coming?"
+    TAKERU: "My umbrella's big enough for two."
+    KENTA: "You don't need to."
+    TAKERU: "You've been on my case the whole morning so I can at least return the favor."
+    Kenta's more broad-shouldered than me, so he's probably still going to take some rain, but if his plan was to just hike to Mirako through this storm, he'd be at least half water weight by the time he showed up.
+    Sometimes I wonder how he's even managed to survive this long on this earth.
+    As I'm contemplating just what makes a person this bright in some areas and critically stupid in others, there's someone else by my side, running out of the rain.
+    NATSUMI: "Hey, if it isn't Takeru. Kenta too!"
+    TAKERU: "Natsumi? What're you doing - "
+    NATSUMI: "I cancelled practice this morning. No way we'd get anything done in this weather."
+    TAKERU: "I sort of meant... Why exactly are you... Here? Right beside us?"
+    KENTA: "By design, umbrellas are made for one person. While Takeru was probably foolish for trying to use one for two people, a third person isn't - "
+    NATSUMI: "Oh I loaned my umbrella to Tetsu last month when we had practice in the snow, and my coat is way out of fashion, really I wouldn't be caught dead wearing a raincoat, so I figured - "
+    TAKERU: "You figured you'd ambush the first person to leave the dorms?"
+    NATSUMI: "Basically. You're smart when you want to be, Takeru."
+    TAKERU: "Not really. You're you just extremely easy to read."
+    NATSUMI: "Hey! Even if I'm easy to read, I'm still dry today, right?"
+    TAKERU: "..."
+    NATSUMI: "Right?"
+    TAKERU: "You both owe me, you hear? I'm going to put this down. Kenta: too weird to get an umbrella. Natsumi: same, but too lazy."
+    KENTA: "Don't lump me in with her when she's the one that - "
+    NATSUMI: "You're saying I'm as weird as Kenta, plus being lazy? That's harsh, Takeru. At least pick one when you - "
+    KENTA: "I don't like what you're implying."
+    NATSUMI: "Yeah? While I don't like..."
+    TAKERU: "Dammit."
+    I should've never done this.
+    The entire walk to Mirako is these two bickering and sniping at each other all while shoulder-to-shoulder trying to shelter under me.
+    And because we're now trying to squeeze three people under one umbrella, they're both catching stray rain when they forget to follow me and instead stand still to point at each other.
+    Yeah. I really should've taken the bus.
+    
+    The rain doesn't let up as Meiko gives her daily report, and it's falling strong as ever all through Kunida's lecture.
+    In fact, I think it's putting me to sleep. Either that or it's just sleep loss catching up with me.
+    Looking around the room, no one but Meiko is really paying much attention either. Natsumi might as well be asleep with her eyes open. Hagami, head phones on, in the back... some unfixed point out the window has her attention.
+    Hang on, since when did Hikari sit next to Hagami?
+    I turn away.
+    So this is one of the few classes where Hikari decided to show up. Fine. I guess that's normal, or as normal as it gets for Hikari.
+    But then shouldn't Hagami have known who I was talking about? Even someone as closed off as Hagami couldn't go a month and a half not knowing the name of the severely delinquent girl sitting next to them... could they?
+    Hikari sticks in my mind.
+    I stop paying attention altogether. It seems bizarre to me to picture Hikari anywhere but downstairs in the school's forgotten rooms.
+    Have I ever seen her outside the school? She must run into people if she took the bus in from out of town, right? Or if she lives in the dorms, wouldn't I see her walking around Shizukawa?
+    Of course... if everyone treats her like a ghost... it wouldn't matter if they saw her not. They'd just pretend she was someone that didn't exist. And keep walking.
+    When morning classes are over, I look over my shoulder again, but she's gone.
+    NATSUMI: "Takeru! Are you even paying attention?"
+    TAKERU: "No, I'm not. Stop jabbing me in the back."
+    NATSUMI: "Come on, let's go find Kenta."
+    TAKERU: "For what?"
+    NATSUMI: "To get him to do the opposition research, obviously! Weren't you listening this morning?"
+    TAKERU: "No."
+    NATSUMI: "I need him to tap into his network of baseball nerds at our rivals in the district. I bet there's guys like Kenta across the country, keeping spreadsheets on even the lowliest highschool baseball teams."
+    TAKERU: "I don't think even Kenta does that."
+    NATSUMI: "He's not? Then you need to come help me get him to start!"
+    MEIKO: "Natsumi, I know you keep your own numbers."
+    NATSUMI: "Yeah but if I talk Kenta into it, then I don't have to. And I still need the enemy's info too!"
+    MEIKO: "Why don't you do some networking yourself then?"
+    NATSUMI: "Good idea. Meiko, you're like link number one in my network, so you'll be even more convincing to Kenta. Come help me!"
+    MEIKO: "That's not quite what I - "
+    NATSUMI: "Oh I get it, you're always busy in the morning. How about after class?"
+    MEIKO: "Takeru and I had some errands to run for the festival, but I'd be happy to - "
+    NATSUMI: "Ah yes, these mysterious errands. Takeru, care to fill me in? Is one of these errands talking to Kenta?"
+    TAKERU: "Later, guys, I've got places to be."
+    MEIKO: "Enjoy your lunch, Takeru."
+    NATSUMI: "'Places to be?' Give me a break! Get back here."
+    But the chatter in the hall drowns out her voice.
+    
+    I escape to the old wing.
+    The library door is closed per usual, but... dark?
+    TAKERU: "Hello?"
+    But today the room is dark, almost as abandoned as the rest of this wing. The huge window at the end of the room, normally lit at lunchtime, is opaque with a gray fog. Guess the rain still hasn't let up.
+    After five minutes, the gloomy mood isn't improved. It's only me sitting here today. My only company is the old radio sitting on the table, and it doesn't even hiss with the normal static. That leaves only the rap of the rain against the picture window.
+    Wasn't it like this yesterday? Mana was out sick, or something like that?
+    Hagami, though...
+    Even if Mana wasn't around, she'd be here by now, right? She was in class, after all? Or did I beat her up here?
+    I don't think I've ever been in this room with the radio off. With only the dullness of rain beating against glass, this place feels dead. Like a fitting meetingplace for the supernatural club.
+    As expected, varied books have already enroached on my usual eating space. I push them aside, then, on a whim, stack them up. I put the "Brief Overview of Modern Musical Trends" back on the shelf, where, with even the slightest bit of luck, I'll never have to see it again.
+    The shelves here, almost empty two weeks ago, now brim with old textbooks, foreign language novels, outdated magazines, and other dreck that Mana and Hagami managed to salvage from somewhere. This place is more of an archive than a library.
+    Hell, one corner is all vinyl sleeves and CD cases.
+    Thinking maybe I'll get that fake radio up and running, I grab the last CD on the row.
+    It's unlabeled. The disc is just blank, and the case transparent. Seeing as how all the other CDs have names of dead foreigners and titles like "Opus 312," I'll take the unknown over any of those.
+    I insert the disc and jam the play button a times, but nothing.
+    Maybe it's blank. 
+    ...This just isn't my day.
+    I wander out into the hall. It's even darker out here, but at least I can hear the voices and the normal hustle of Mirako.
+    But...
+    Yeah, that's definitely Natsumi's voice. And Kenta is there as well. That's nothing normal, to be sure. And is if to make things worse... Are they talking about Hagami?
+    What direction is that coming from? Should I go? 
+    I suppose it's better than eating alone in this gray room.
+    KENTA: "This isn't hard. Why not just tell me when you can work on this? I don't understand why you're being so weird about this."
+    HAGAMI: "..."
+    NATSUMI: "Hey you don't look too good. Want me to take you to the nurse?"
+    HAGAMI: "I..."
+    KENTA: "What exactly are you doing here again?"
+    NATSUMI: "Who me? Isn't she your lab partner in computer science? I'm being helpful, you dope."
+    NATSUMI: "You've gotta be more understanding, Kenta."
+    She turns to Hagami.
+    NATSUMI: "What'd you say your name was? Sorry about Kenta. He can be a little oblivious. But he's okay, I swear."
+    HAGAMI: "..."
+    NATSUMI: "Oh I get it, you've got a cold or something and lost your voice. That's why so you look so ill. Hold still while I take your temperature."
+    I'm still trying to make any sense of this situation, but by the way Hagami flinches as Natsumi reaches out for her forehead, I should probably hurry and speak up.
+    TAKERU: "Hey Kenta, Hagami. ...And hi, Natsumi."
+    KENTA: "Good afternoon, Takeru."
+    NATSUMI: "Takeru! What brings you up here? And wait, you know her?"
+    TAKERU: "Hagami? She's my classmate too."
+    NATSUMI: "Wait, you're in our class? No way. I don't think we've ever talked."
+    NATSUMI: "Did I do something to you? Is that why you won't talk to me?"
+    HAGAMI: "..."
+    KENTA: "No, she refused to work with me either, and I'm not a difficult person at all."
+    TAKERU: "What are you all doing up here?"
+    KENTA: "She refuses to pick a time to meet and get this lab report over with. We could've been done with this Monday. So why go through all this trouble? Doesn't make sense."
+    He glares at Hagami, whose attention is permanently fixed at a spot on the floor.
+    NATSUMI: "You know how Kenta can misread situations, right Takeru? Looks like Hagami just has a cold. Come on, I'll take you down to the nurse's office. My name's Natsumi, by the way. If you somehow hadn't heard, I'm the captain of the - "
+    TAKERU: "I'll handle it, Natsumi. You can go eat."
+    NATSUMI: "Really? I canceled Team Lunch Tuesday just to help my dearrr frienddd Kenta with his problem here."
+    NATSUMI: "Hint to dear friend Kenta: you owe your dear friend Natsumi a favor. Maybe you could - "
+    TAKERU: "No, really. We're fine."
+    NATSUMI: "Oh, hm."
+    NATSUMI: "Got it. I think my dear friend Takeru also owes me a favor."
+    NATSUMI: "See you in class Takeru. And nice to meet you Hagami."
+    She winks at me. I don't appreciate it.
+    Still though, with her gone this gets easier - that's one down, one to go.
+    KENTA: "I still don't get it."
+    KENTA: "What's this about the nurse? How do you get sick about a lab report?"
+    HAGAMI: "I'm..."
+    KENTA: "Can you speak up? You're very quiet."
+    TAKERU: "Calm down a second, Kenta. You pack your lunch, right?"
+    KENTA: "Yes, but I usually eat downstairs. It's part of my daily - "
+    TAKERU: "Come on."
+    I gesture at him to follow.
+    Hagami seems to have some idea of what's going on as she makes a pained smile at me, then heads straight for the old library. She holds the door and I follow after Kenta.
+    Kenta seems almost as out of sorts as Hagami now. He's staring at the wall-wall shelving with his mouth open.
+    KENTA: "Takeru, is this supposed to be a library?"
+    KENTA: "It's extremely disorderly. I thought the office said not to use any of the classrooms in this wing."
+    KENTA: "And isn't there a lightswitch somewhere? If it's this dark how am I supposed to - "
+    On cue, lighting flashes through the room.
+    I jump a few inches, for sure, but it's nothing compared to the way Kenta shakes.
+    Hagami just smiles in the corner... then glances at me. To continue?
+    TAKERU: "Yeah, the old library. Not that any of the books are useful. The supernatural club meets up here once in a while, but you can feel free to eat here for now while this gets worked out."
+    Kenta takes a seat at the table in front of the space I cleared a few minutes ago, but he looks more prickly than Hagami now. We both take our seats in the halflight.
+    A solid sixty seconds pass. Am I really the only one uncomfortable with the silence? I wish I'd gotten that radio set up.
+    Finally I decide I might as well get this over with while I've got Kenta on the ropes.
+    TAKERU: "So, Kenta... Hagami is your CS partner?"
+    KENTA: "Who?"
+    TAKERU: "I swear..."
+    TAKERU: "Kenta, this is Hagami. She's in our year and apparently in your elective."
+    She stands and bows her head.
+    TAKERU: "And Hagami... This guy's my roommate. Sorry."
+    KENTA: "Good to meet you. Now can we please - "
+    TAKERU: "What exactly needs to get done, Kenta?"
+    KENTA: "We're each supposed to be doing half. We need to work out a time to meet to get it done."
+    KENTA: "It's a short assigment. This is two hours of work at most but I need to schedule it in somewhere. I can't plan if we don't do that."
+    Of course. I'm sure Kenta knows exactly what he'll be working on at all times. Except for this tiny paper... because he's working with Hagami.
+    HAGAMI: "Just... divide and conquer."
+    TAKERU: "Kenta, do you have a copy of the assignment?"
+    KENTA: "Yes, obviously."
+    TAKERU: "Give it here."
+    He hands over a single page handout. I search through my bag and find a pen mixed in with the festival forms and hand it to the open-handed Hagami.
+    I don't get it for a second, but then I realize she's splitting the work.
+    TAKERU: "Okay, here's how this is going to work. You each take half of it and you don't necessarily have to get everything done at the same time."
+    KENTA: "I don't have a problem with that. Let's just get something done. And then the sooner I can get out of here."
+    It takes her less than a minute. I pass the page from her to Kenta.
+    TAKERU: "Does that look alright?"
+    KENTA: "Fine."
+    TAKERU: "Then we should be set then?"
+    Hagami nods. Affirmative. Kenta keeps staring at her but she's fixed on some point 45 degrees to his left.
+    TAKERU: "Okay. Hope that clears things up, Kenta."
+    KENTA: "It does, thanks."
+    Kenta tucks the page into his bag, then starts packing the remaining bits of his lunch back up as well.
+    KENTA: "If you don't mind I'm going to finish my lunch downstairs."
+    KENTA: "This is a very odd room, Takeru. Almost more odd than these people that you're friends with. I don't know how you keep your appetite up here."
+    TAKERU: "See you."
+    KENTA: "Goodbye."
+    That's the second problem person out of the way. Crisis resolved?
+    With a sigh of relief, Hagami finally starts in on her own lunch. For a few minutes, she just slowly eats. I notice she doesn't have that flushed, feverish look any more though.
+    Now though, she looks up.
+    HAGAMI: "You're friends with some very strange people."
+    TAKERU: "Oh trust me, I know."
+    ...Hagami and Mana included.
+    TAKERU: "Sorry about Natsumi and Kenta. They're nice enough, but... They can be really bad at reading people."
+    HAGAMI: "How can be roommates with that... person?"
+    TAKERU: "Kenta? He's not so bad, I guess. Although sometimes I think he just assumes everyone's a clone of himself and thinks and acts the same way."
+    TAKERU: "He means well, though. You just have to get to know him."
+    HAGAMI: "..."
+    HAGAMI: "That's... not really something I enjoy."
+    The rain continues against the window.
+    I unroll my lunch from the cafeteria and being to eat in hard-won peace. Hagami, though, only pokes at her food.
+    TAKERU: "Mana's still sick?"
+    HAGAMI: "Yes."
+    HAGAMI: "...You already knew?"
+    TAKERU: "Well if she was at Mirako, she'd be here right now, for one thing. And she's be the one backing you up out there to Kenta and Hagami."
+    HAGAMI: "..."
+    In reply she slides me a piece of paper.
+    TAKERU: "Is this a festival form?"
+    HAGAMI: "You said you knew someone who ran it."
+    TAKERU: "I sort of do, but..."
+    TAKERU: "This is a performance application."
+    HAGAMI: "..."
+    TAKERU: "Like, you're applying to get up on the main stage and do a speech or a song and dance routine or something."
+    HAGAMI: "..."
+    TAKERU: "You're going to do that?"
+    TAKERU: "Just you, or you and the rest of the supernatural club? Because if you're trying to get me up there to embarass myself, I'm sitting this one out. Got it?"
+    TAKERU: "You're not seriously planning on..."
+    Hagami just shrinks behind today's book, lunch abandoned.
+    I'm left with only the form.
+    Which does describe, for sure, that Otome Hagami intends to perform for twenty minutes, on stage, alone, without any club affiliation.
+    TAKERU: "You have to at least put down a description of what you want to do."
+    TAKERU: "Meiko can be a bit of hardass about this sort of thing. Trust me."
+    TAKERU: "...You're really not setting me up for some joke?"
+    HAGAMI: "...No."
+    TAKERU: "Oh."
+    TAKERU: "It's just weird to me."
+    Hagami turns a page.
+    HAGAMI: "What did you do before you came to Mirako?"
+    TAKERU: "Huh?"
+    HAGAMI: "Rumors. Heard some things. Mana said you used to be..."
+    TAKERU: "I used to be a baseball player, if that's what you're talking about."
+    TAKERU: "I'm not sure what that has to do with anything."
+    HAGAMI: "You'd rather not talk about it."
+    TAKERU: "Oh, I get it. You're telling me this is something where you'd rather not answer too many questions."
+    HAGAMI: "...Yeah."
+    HAGAMI: "But it's... If you suddenly joined the baseball team and lead the team to the championship or something..."
+    HAGAMI: "It wouldn't be such a huge surprise. I'd just think 'Oh, Takeru has finally reincarnated as his past self.'"
+    TAKERU: "Now you've lost me."
+    HAGAMI: "You don't want to suddenly remember your past self? And be heroic ancestor Takeru instead of lowly student Takeru?"
+    TAKERU: "Go back a step, my head hurts."
+    HAGAMI: "Poor Takeru. Trapped in the cycle of samsara, never remembering who he was."
+    TAKERU: "You're terrible, Hagami. If you're going to pull my leg you're not allowed to keep a straight face about it."
+    HAGAMI: "...That wouldn't be very fun."
+    TAKERU: "Next time you start talking like Mana I'm just going to pretend I'm 100% into it though. Watch out."
+    HAGAMI: "...I'll be on guard."
+    There's a rare smile before she ducks down again.
+    TAKERU: "Really though. If you want to reincarnate or whatever, you realize you have to fill out this form?"
+    TAKERU: "At least you have to do it if you want stage time. The way Meiko's pushing me on all these little details there's no way she'd let a blank page like this slide."
+    She's mute for a minute, just the soft rapping on the window behind me to keep away the silence. The book is down now, but Hagami's focus is somewhere miles away.
+    TAKERU: "Hi?"
+    HAGAMI: "...Yeah."
+    HAGAMI: "I'll make another copy, if you don't tell Mana."
+    TAKERU: "I mean, sure, that's easy enough."
+    She goes back to reading all the same. I search my bag and find some homework to struggle with.
+    After a few moments there's a hiss and click from the radio, and a duet starts up, grayed and muted with the sounds of rainfall.
+    Sounds pretty old. Musically illiterate as I am, I can at least make out a piano and some sort of string instrument.
+    Is Hagami not reading any more? Instead, she scratches away with a pen.
+    HAGAMI: "...Did you put that CD in?"
+    TAKERU: "What? Er, yeah. I was in here earlier before I came to look for you."
+    HAGAMI: "Just wanted to make sure it wasn't Mana."
+    TAKERU: "No. Why'd it matter if she was the one who loaded the CD?"
+    HAGAMI: "She gets funny ideas sometimes."
+    TAKERU: "For sure."
+    But I'm not sure how that relates either. The rain continues all the same.
+    I just eat in silence as on the radio, there's a click, and another piece starts up, just as archaic as the first.
+    My only surprise is that this feels natural. Like I could be here in the semi-dark all day with this girl I barely speak to, and it'd still be alright.
+    Especially when every other minute in this school seems to trigger my fight-or-flight these days.
+    Still... The hour comes to an end.
+    TAKERU: "I should get going. Chemistry next. That's two floors up, right?"
+    HAGAMI: "Yeah."
+    HAGAMI: "I'm in that class too."
+    TAKERU: "Oh, ha. The way you keep your head down I forget we're in the same class sometimes."
+    HAGAMI: "Here."
+    TAKERU: "Huh?"
+    She passes me the piece of paper she's been scribbling at this whole time.
+    TAKERU: "Oh, hey, it's the performance application. You actually filled it out."
+    HAGAMI: "Yes, although... Well..."
+    TAKERU: "Let's see, so you're going to - "
+    HAGAMI: "You're not supposed to read it."
+    TAKERU: "..."
+    HAGAMI: "I'm not trying to trick you."
+    TAKERU: "Fine, I'll just hand it off to Meiko. I only caught a glimpse anyway."
+    That glimpse - she's going to put a something recital something?
+    Hagami just stares at me, but against the backdrop the the tinny radio orchestral, it sort of makes sense that she'd be into something musical. It's not Mana that's been stockpiling old CDs in here.
+    HAGAMI: "Just don't tell..."
+    TAKERU: "Yeah, Mana, I know. I won't say anything."
+    HAGAMI: "..."
+    TAKERU: "Come on, let's get going to chem before we're late and end up assigned as partners together."
+    HAGAMI: "Yeah."
+    HAGAMI: "Thanks for dealing with your friends."
+    TAKERU: "Kenta?"
+    TAKERU: "Yeah I figure it's the least I can do. Letting him loose on the public would be too much."
+    TAKERU: "Or do you mean Natsumi? She's more my arch enemy than a friend but that's why I should be the one that has to - "
+    HAGAMI: "Thanks anyway."
+    TAKERU: "Hey, you looked after me when I got knocked out back on my second or third day here. This is just returning the favor."
+    She smiles. I nod back.
+    While I don't really "get" Hagami, she's at least easier to tail around than anyone else around here.
+    I'm not sure exactly what it is we have in common, but it's enough we both sense it. We head upstairs, side by side, to the next class.
+    
+    Chemisty passes uneventfully. The gray outside also spreads to the hall when we all trudge back down from the labs to the classroom.
+    Then sit through English.
+    Then sleep through history.
+    When Natsumi pokes me awake at the end of the day, it's still so dark out I almost think I've slept for hours and it's nighttime already.
+    TAKERU: "Ugh..."
+    NATSUMI: "What are you doing, snoozing like that?"
+    TAKERU: "You doze off in class all the time, that's not why you woke me up. What do you want?"
+    NATSUMI: "What? I don't want anything. I was just doing you a favor."
+    TAKERU: "Oh. Thanks, I guess."
+    NATSUMI: "...Could you repay the favor my loaning my your umbrella?"
+    TAKERU: "No, go away."
+    NATSUMI: "You know, everyone else in this class would kill for a chance to lend the school idol Natsumi something as small as an umbrella in her time of - "
+    TAKERU: "Then go ask everyone else."
+    NATSUMI: "Everyone else left."
+    Sure enough, the classroom is almost empty at this point. Meiko and Mr. Kunida are holding a conversation in the corner, there's one or two boys passing through the door...
+    Oh, and Hikari, sitting in the back, eyes open but looking even more tired than I feel.
+    TAKERU: "Hikari! Hey."
+    HIKARI: "Oh. Hello."
+    TAKERU: "I meant to let you know I probably won't be around this afternoon because I signed up to help with some festival stuff. Unless the rain's going to put things off. I'd have to ask Meiko if she's still..."
+    TAKERU: "Hikari?"
+    HIKARI: "I didn't see you there."
+    TAKERU: "Didn't see me? I sit practically right in front of you. What are you..."
+    Although... It's Natsumi she's staring at, not me.
+    NATSUMI: "Oh, hey! You must be new here if I haven't met you."
+    HIKARI: "I'm not new, Natsumi."
+    NATSUMI: "That's really funny."
+    NATSUMI: "Seriously though, nice to meet you. You already know my name, I guess, but who doesn't? You said you were Hikari?"
+    HIKARI: "Don't humor me."
+    NATSUMI: "I mean, you don't have to shake my hand or anything, but we're gonna have to be in the same class from now on, so..."
+    NATSUMI: "Hey, where are you going?"
+    HIKARI: "Maybe we'll catch up some other time, Takeru."
+    HIKARI: "Have fun. Looks like it's time for me to go."
+    TAKERU: "Hikari? Hey, wait up a sec."
+    She's gone before I can even run up to her.
+    NATSUMI: "Takeru! Where are you going?"
+    TAKERU: "After Hikari, obviously."
+    NATSUMI: "I mean, sure, but isn't there a helpless maiden here that needs your umbrella?"
+    TAKERU: "Can you be serious for once? Like I care about that when you..."
+    TAKERU: "You people are terrible. What'd Hikari ever do?"
+    NATSUMI: "Hikari?"
+    NATSUMI: "Oh, you mean the new girl? Funny, isn't she?"
+    TAKERU: "She's not new. You and I both know that."
+    NATSUMI: "Then why have I never met her before today?"
+    TAKERU: "I saw you talking to her. Earlier this week, even. She's not knew."
+    NATSUMI: "Calm down, Takeru. I've known a Hikari or too, but that's the first time I've ever run into... that girl. Whoever she was."
+    NATSUMI: "Don't get so defensive over the new students. We're at the Mirako school. You should just be more accepting."
+    TAKERU: "More accepting? When you're saying that Hikari is some mystery person after getting all mean at her the other day as well..."
+    TAKERU: "Look, I get that I'm the new guy here and highschool girls are all vindictive and secret and catty, but don't lie to my face."
+    TAKERU: "It's hard for me to tell when someone's lying or I'm just seeing things different. But this time I know you're lying."
+    NATSUMI: "Cool down a second, Takeru. I'm not lying. The new girl seems familiar as anyone, and I'm trying to be friendly, but she's new. No one's met her. Yeah?"
+    TAKERU: "Cut it out."
+    NATSUMI: "I know I was being a bit of a jerk asking for your umbrella but that's just me being myself. Don't take it so seriously."
+    TAKERU: "How can stand there and say that, acting so casual? You're even more cruel than I - "
+    MEIKO: "Is everything alright?"
+    NATSUMI: "Ah hey Meiko. Yeah we're good."
+    MEIKO: "I thought I heard - "
+    NATSUMI: "Oh, heh, yeah Takeru was mad I asked him if he had his umbrella because I definitely leeched off his this morning on the way to school, and now if I don't figure something out I'm gonna get soaked on the way home."
+    NATSUMI: "Or wait for the bus, but that'll take forever. Man, I hate the rain."
+    TAKERU: "I know what you're doing. You're changing the subject."
+    NATSUMI: "Takeru, that's all I got to say. I'd never met that girl before, until today. Sorry if I rubbed you the wrong way."
+    NATSUMI: "And I hope it doesn't come between us."
+    MEIKO: "Take a deep breath."
+    MEIKO: "If it's that big of a deal, Natsumi, I brought my umbrella today."
+    NATSUMI: "Really? You're the best Meiko."
+    MEIKO: "Here you go."
+    She takes off. There's a few moments where the room is noiseless except for the patter on the roof.
+    MEIKO: "You're scowling."
+    TAKERU: "Oh. Sorry."
+    MEIKO: "That's alright. Is Natsumi under your skin?"
+    TAKERU: "That's one way to put it."
+    MEIKO: "You should forgive her, despite her flaws. I know she's only trying to help you adjust here."
+    TAKERU: "...That's not really it."
+    I want to explain this whole thing, or ask for a straight answer, so why can't I do it?
+    There was that warning from Natsumi. That I should probably ignore. But I just want to steady things. I speak, trying to smile.
+    TAKERU: "It's fine. What was it you wanted to get done today?"
+    MEIKO: "I almost forgot. I need to speak to a few business in town about their role in the festival, and that means a visit to town hall too, of course."
+    TAKERU: "Town hall?"
+    MEIKO: "It's rural enough around here that the old temple and town hall are one and the same. What I need to do is make sure the school and the town are the same page on how the festival will play out."
+    TAKERU: "Sounds complicated."
+    MEIKO: "It's not that bad."
+    TAKERU: "I mean, it sounds like there's a lot of walking around involved."
+    MEIKO: "Of course."
+    TAKERU: "And it's pouring."
+    MEIKO: "Oh. And I just..."
+    TAKERU: "You just gave your umbrella to that ingrate Natsumi. I hope you've got a raincoat tucked away here somewhere."
+    MEIKO: "I'm sorry, Takeru, I didn't mean to force you to walk around with me in the rain."
+    TAKERU: "No, no, that's not it. I've still got my umbrella, I guess..."
+    TAKERU: "So where are we headed first?"
+    
+    The answer does turn out to be town hall.
+    But this is Shizukawa's town hall, so of course I should've expected it to be as foreign and rural as the rest of this town.
+    True to Meiko's word, it's a converted shrine. Amidst the pouring rain, follow a main street down to a side street and then to a staircase set into one of the many Shizukawa hills. I could definitely see a torii hanging over this place sometime in the past.
+    But when we come to the top of the hill, there's a modern building at the top, joined with a a parking lot and half a dozen portable trailer buildings.
+    When I stop short at the sight, Meiko takes a step further than my umbrella and ends up in the rain.
+    MEIKO: "Are you coming?"
+    TAKERU: "That's where we're going? Town hall?"
+    MEIKO: "Yes. Were you just going to stand there?"
+    TAKERU: "No, but, well..."
+    TAKERU: "What's it we're here to do again?"
+    MEIKO: "I want to close the bridge to Mirako this year, except for foot traffic. It'd give us the whole road by the school for clubs to set up their displays."
+    MEIKO: "But that takes a permit, of course."
+    TAKERU: "Of course..."
+    MEIKO: "And the secretary here already knows me after I poked around here last year."
+    Something tells me Meiko would make quite the impression on any mid-level bureaucrats that got in her way.
+    MEIKO: "...This might be a lost cause. But I wouldn't be doing my duty if I didn't give it my best, right?"
+    TAKERU: "Right..."
+    TAKERU: "Should I be helping?"
+    I feel awkward enough as it is just escorting Meiko around through the rain. She wanted me here for some reason other than moral support, right?
+    MEIKO: "The secretary... He's a bit of an old-fashioned man."
+    MEIKO: "Mirako is a bit of an odd fit for this town. The people here, every once in a while, they can  seem, well, a little... traditional?"
+    TAKERU: "You've been here before?"
+    MEIKO: "Sure. Last year I tried for the same permit but it never went anywhere with me on my own."
+    TAKERU: "Oh... Because this geezer wasn't going to give anything to some outsider girl."
+    MEIKO: "Maybe."
+    MEIKO: "Something like that."
+    TAKERU: "Okay. I sort of get it."
+    ...Although.
+    ...No I don't really don't get it.
+    MEIKO: "Are you coming?"
+    TAKERU: "Oh. Yeah."
+    TAKERU: "I don't really know what you want me to..."
+    MEIKO: "I'll handle it. Scowl and stand behind me a bit and we'll do fine."
+    She's already holding open the door.
+    This is the second time today, the hair on my neck rises in alert. It's a sixth sense, a feeling that someone is setting me up. First Hagami with her bogus paperwork, now Meiko with this obvious trap.
+    Trap?
+    It's my old friend Meiko holding open the door, what would she even be planning? Snap out of it, Takeru, you look dumb stabding out here in the rain.
+    MEIKO: "Are you alright, Takeru? Were you saying something."
+    TAKERU: "Just talking to myself. Sorry."
+    I follow her in... although not without another vision of dark figures with bats jumping out and - 
+    Idiot. I'm hopeless.
+    MEIKO: "Hello, Mr. Secretary? Good afternoon."
+    SECRETARY: "How may I help you?"
+    SECRETARY: "Oh, it's..."
+    MEIKO: "Kotaru Meiko. From the Mirako school."
+    SECRETARY: "Yess, hello again, I thought I made it clear in my letter that - "
+    MEIKO: "And this is my senior, Akita Isao. President of the student council."
+    Hang on, I'm who now?
+    My instinct was right I've been set up give it two seconds and they'll come out of the shadows to jump me and kick me with their cleats or - 
+    SECRETARY: "Oh. How may I help you, Mr. Akita?"
+    TAKERU: "Ahem, er..."
+    MEIKO: "The permit."
+    TAKERU: "Er, hello."
+    SECRETARY: "You've already said that. Or did you want me to do something for you?"
+    TAKERU: "Right. Ms. Kotaru here is our up and coming star in Mirako's student leadership and she's involved with every step of the Mirako open house and cultural festival."
+    TAKERU: "She's taking charge of the festival this year and will succeed me next year, so she's the go-to source for the permits we need this year."
+    MEIKO: "Thanks, Isao."
+    MEIKO: "Now, I know Mr. Secretary what you said in your response to my letter, but I was hoping you'd reconsider if..."
+    Great, I'm apparently some sort of prop for this whole charade. I guess this Isao guy is the actual student council president?
+    And Meiko is having me stand a few feet behind her so it looks like she has the backing of some authority figure?
+    I guess it makes sense. This is about the one thing I can do properly -- stand tall and scowl a lot.
+    When Meiko raises her voice to emphasize some detail about a street permit or some uninteresting bureaucracy, I do my best to nod in agreement and re-cross my arms.
+    MEIKO: "...so having Shizukawa's backing on all this would mean a lot to Mirako."
+    TAKERU: "Quite a lot."
+    MEIKO: "So I ask that you reconsider. I'm sure you'll do what's right."
+    TAKERU: "We're very sure."
+    Now just to keep nodding and keep scowling.
+    I guess I should've expected that some elderly low-level civil servant from this backwater would prefer to deal with some guy who looked the part of "up and coming leader" as opposed to someone as calm and unshakeable as Meiko.
+    Guess that's my advantage. Everyone might know that Meiko is the wunderkid of Mirako, and then there's me, a total unknown, good at nothing but standing here and grimacing. 
+    Trying to pass me off as the one in charge here... The irony isn't lost on me.
+    SECRETARY: "Yes, that sounds fine, fine..."
+    SECRETARY: "I'll see what I can do. I'll talk to my superior, but they'll reconsider, I'm sure... And I'll post the response to... You'll receive it, Mr. Akita?"
+    TAKERU: "Meiko will handle everything."
+    SECRETARY: "You're sure?"
+    TAKERU: "She's the best there is. Everyone in our class looks up to her."
+    TAKERU: "As far as I can tell, this year she's putting together the festival basically single-handed. If you want the job done, you can put your faith in her."
+    SECRETARY: "Good, good..."
+    SECRETARY: "You two enjoy the rest of the evening then."
+    MEIKO: "Thank you Mr. Secretary."
+    TAKERU: "Yeah, thanks."
+    MEIKO: "Our regards."
+    She bows, I file suit, and we leave the temple slash town hall.
+    
+    Meiko offers a smile as slips back under my umbrella.
+    MEIKO: "You didn't do too badly at all."
+    TAKERU: "What was that supposed to be? I mean, great plan and all, super impressive, passing me off as the student council president because I'm a guy and a bit taller and all but..."
+    TAKERU: "A little warning would've been nice."
+    MEIKO: "Warning? What do you think I was talking about the whole way here?"
+    TAKERU: "What?"
+    MEIKO: "I went over the whole plan on the walk down from Mirako."
+    MEIKO: "You pulled that off so well though, so I guess you must've been listening."
+    TAKERU: "I..."
+    ...don't remember any of that.
+    She told me to shut up and stand still. That's what I remember.
+    For the third time today I'm on high alert.
+    MEIKO: "Did you really mean that?"
+    TAKERU: "Mean what?"
+    TAKERU: "About the plan? I wouldn't bring it up if I didn't - "
+    MEIKO: "What you said about everyone looking up to me. You were just acting the part?"
+    TAKERU: "No. You think I'm that good at improvising?"
+    MEIKO: "It's so strange to me, that that's your opinion of me."
+    TAKERU: "Why? I mean it's not like I was going out on a limb there, saying your managing all this on your own."
+    TAKERU: "Go talk to Natsumi or anyone. It's pretty obvious you're the model student."
+    NATSUMI: "Thank you."
+    NATSUMI: "It's only..."
+    There's no one on this street. Shizukawa is a quiet town, but especially with the rain, no one is outside today.
+    When Meiko pauses to gather her thoughts, the only noise is the raindrops on the river, far off behind us.
+    MEIKO: "You obviously don't trust me."
+    TAKERU: "What?"
+    MEIKO: "You obviously don't trust me, so it's strange to hear you talk about me like that."
+    TAKERU: "Who says I don't... Trust..."
+    MEIKO: "The way you looked at me when you before we went in, when I was holding the door."
+    MEIKO: "Weren't you scared?"
+    TAKERU: "..."
+    MEIKO: "And then you still stuck up for me... It's very strange."
+    TAKERU: "I have to play these things as I see them."
+    TAKERU: "Really I'm not trying to play five dimensional chess here, I'm no good at that kind of stuff."
+    TAKERU: "The way I see the world is just sometimes... off."
+    Meiko is quiet.
+    TAKERU: "Like I see things wrong."
+    TAKERU: "I didn't hear you say anything about a plan."
+    Still quiet.
+    TAKERU: "And when you talk about we used to be, before I moved off to Tohoku, that memory's all screwed up for me."
+    TAKERU: "You might've been right, when you said there was more than one reason I'm at Mirako."
+    The silence is overbearing now.
+    Just the patter of rain, and Meiko stares at the ground.
+    TAKERU: "And when we first me here, out by the dorms. I could've sworn you just ran off. I don't remember what actually happened, when you say we had some sort of reunion."
+    TAKERU: "So I guess that it's not that I don't trust you, I just don't trust the way that I see things."
+    TAKERU: "You're obviously a great person now so maybe it's those old memories that are screwing me up."
+    TAKERU: "You know, back when you were the timid kid and I had everything figured out. And now it's... the opposite? If that makes sense? Like it's a completely different person I know now."
+    MEIKO: "I see..."
+    Although I'm really not sure what she sees, staring at the ground like that.
+    It takes a few moments.
+    TAKERU: "Where are we headed anyway?"
+    MEIKO: "The bus stop. I'm going to head back home."
+    MEIKO: "Thanks for helping me out today."
+    TAKERU: "Oh, I forgot didn't live at the dorms. Do you have an apartment in the city or something, or do you take the train up here from your aunt's?"
+    MEIKO: "I wouldn't... I don't live with my aunt."
+    TAKERU: "That's right, yeah. I sort of remember you two never got along."
+    MEIKO: "That..."
+    MEIKO: "Takeru every time I think you've gotten more perceptive you go and say something like that."
+    TAKERU: "Er, sorry, I'm not really sure what you're talking about."
+    MEIKO: "There's no 'old Meiko' back from where we were kids. That old person may not have gotten along her aunt and uncle and might have been a little shy and lost but, she never existed."
+    MEIKO: "You said it yourself. Your memory is broken. It's been this way forever, hasn't it?"
+    MEIKO: "Takeru, always hot-headed, but with the level-headed Meiko to back him up?"
+    By some miracle of fate we're at the bus stop that connects Shizukawa to the rest of the main line.
+    It's sheltered. Which is good, because I don't know how I'd be able to stand next to someone who suddenly seems so foreign. Is what I remember from back then really so wrong?
+    TAKERU: "I don't really know. I can't tell."
+    MEIKO: "Then trust me."
+    TAKERU: "I'll try. But with all this about middle school, and how we used to be... You're talking like the way I see things isn't just off, it's opposite."
+    TAKERU: "Like with Hikari. I can talk with her every day, and still Natsumi claims she's an alien, or you - "
+    You...
+    What did Meiko ever have to say about Hikari? Meiko... Hikari...
+    I don't think I've ever heard them mentioned in the same sentence. Except for a warning from Natsumi.
+    The warning to not ever mention one to the other, and keep my nose out of painful -
+    MEIKO: "I don't know what you're talking about Takeru."
+    MEIKO: "Wherever you heard that name, you should drop it."
+    MEIKO: "It was a surprise, today, that you said what you did, but listen to me for once. Get this through your head."
+    MEIKO: "Whatever old Meiko you thought you knew is dead. I'm the only Meiko there is or ever was."
+    MEIKO: "I don't have an aunt, or friend called Hikari, or any of those strange things you made up about me. Do you understand?"
+    TAKERU: "...Yeah."
+    No, no I don't.
+    But the bus is coming, and on Meiko's face is an expression I don't think I've ever -
+    It's just her. The effortless smile from our class rep, who has everything under control.
+    MEIKO: "See you tomorrow, Takeru. Thanks again."
+    TAKERU: "Yeah... See you."
+    The bus pulls off. She's gone.
+    Idiot me sits at the bus stop, folding and unfolding the umbrella.
+    Of what I remember, of a past life with Meiko and a past life at Tohoku, how much is real? How much did my diseased brain make up after the fact?
+    The rain is overwhelming.
+    My conclusion, after sittng there for I don't know how long - I can't trust my judgment, and I can't trust anyone else's judgment either.
+    Those times I felt like they were deceiving me, and by "they" I mean everyone not me - those instincts might've correct.
+    While I'm on these antipsychotics, reality as I see it is apparently a degree removed from the reality everyone else lives every day.
+    Even if my old certainty was misplaced, or misguided... I miss it.
+    I want that clarity back.
+    It's more muffled than ever.
+    
+    jump day11
+    
