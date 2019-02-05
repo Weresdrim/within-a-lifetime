@@ -515,16 +515,114 @@ label day10:
     TAKERU: "We're very sure."
     Now just to keep nodding and keep scowling.
     I guess I should've expected that some elderly low-level civil servant from this backwater would prefer to deal with some guy who looked the part of "up and coming leader" as opposed to someone as calm and unshakeable as Meiko.
-    Guess that's my advantage. Everyone might know that Meiko is the wunderkid of Mirako, and then there's me, a total unknown good at nothing but standing here and grimacing. The irony isn't lost on me.
+    Guess that's my advantage. Everyone might know that Meiko is the wunderkid of Mirako, and then there's me, a total unknown, good at nothing but standing here and grimacing. 
+    Trying to pass me off as the one in charge here... The irony isn't lost on me.
     SECRETARY: "Yes, that sounds fine, fine..."
     SECRETARY: "I'll see what I can do. I'll talk to my superior, but they'll reconsider, I'm sure... And I'll post the response to... You'll receive it, Mr. Akita?"
     TAKERU: "Meiko will handle everything."
     SECRETARY: "You're sure?"
-    TAKERU: "She's the best there is. As far as I can tell, this year she's putting together the festival basically single-handed. If you want the job done, you can put your faith in her."
+    TAKERU: "She's the best there is. Everyone in our class looks up to her."
+    TAKERU: "As far as I can tell, this year she's putting together the festival basically single-handed. If you want the job done, you can put your faith in her."
     SECRETARY: "Good, good..."
     SECRETARY: "You two enjoy the rest of the evening then."
     MEIKO: "Thank you Mr. Secretary."
     TAKERU: "Yeah, thanks."
     MEIKO: "Our regards."
+    She bows, I file suit, and we leave the temple slash town hall.
     
+    Meiko offers a smile as slips back under my umbrella.
+    MEIKO: "You didn't do too badly at all."
+    TAKERU: "What was that supposed to be? I mean, great plan and all, super impressive, passing me off as the student council president because I'm a guy and a bit taller and all but..."
+    TAKERU: "A little warning would've been nice."
+    MEIKO: "Warning? What do you think I was talking about the whole way here?"
+    TAKERU: "What?"
+    MEIKO: "I went over the whole plan on the walk down from Mirako."
+    MEIKO: "You pulled that off so well though, so I guess you must've been listening."
+    TAKERU: "I..."
+    ...don't remember any of that.
+    She told me to shut up and stand still. That's what I remember.
+    For the third time today I'm on high alert.
+    MEIKO: "Did you really mean that?"
+    TAKERU: "Mean what?"
+    TAKERU: "About the plan? I wouldn't bring it up if I didn't - "
+    MEIKO: "What you said about everyone looking up to me. You were just acting the part?"
+    TAKERU: "No. You think I'm that good at improvising?"
+    MEIKO: "It's so strange to me, that that's your opinion of me."
+    TAKERU: "Why? I mean it's not like I was going out on a limb there, saying your managing all this on your own."
+    TAKERU: "Go talk to Natsumi or anyone. It's pretty obvious you're the model student."
+    NATSUMI: "Thank you."
+    NATSUMI: "It's only..."
+    There's no one on this street. Shizukawa is a quiet town, but especially with the rain, no one is outside today.
+    When Meiko pauses to gather her thoughts, the only noise is the raindrops on the river, far off behind us.
+    MEIKO: "You obviously don't trust me."
+    TAKERU: "What?"
+    MEIKO: "You obviously don't trust me, so it's strange to hear you talk about me like that."
+    TAKERU: "Who says I don't... Trust..."
+    MEIKO: "The way you looked at me when you before we went in, when I was holding the door."
+    MEIKO: "Weren't you scared?"
+    TAKERU: "..."
+    MEIKO: "And then you still stuck up for me... It's very strange."
+    TAKERU: "I have to play these things as I see them."
+    TAKERU: "Really I'm not trying to play five dimensional chess here, I'm no good at that kind of stuff."
+    TAKERU: "The way I see the world is just sometimes... off."
+    Meiko is quiet.
+    TAKERU: "Like I see things wrong."
+    TAKERU: "I didn't hear you say anything about a plan."
+    Still quiet.
+    TAKERU: "And when you talk about we used to be, before I moved off to Tohoku, that memory's all screwed up for me."
+    TAKERU: "You might've been right, when you said there was more than one reason I'm at Mirako."
+    The silence is overbearing now.
+    Just the patter of rain, and Meiko stares at the ground.
+    TAKERU: "And when we first me here, out by the dorms. I could've sworn you just ran off. I don't remember what actually happened, when you say we had some sort of reunion."
+    TAKERU: "So I guess that it's not that I don't trust you, I just don't trust the way that I see things."
+    TAKERU: "You're obviously a great person now so maybe it's those old memories that are screwing me up."
+    TAKERU: "You know, back when you were the timid kid and I had everything figured out. And now it's... the opposite? If that makes sense? Like it's a completely different person I know now."
+    MEIKO: "I see..."
+    Although I'm really not sure what she sees, staring at the ground like that.
+    It takes a few moments.
+    TAKERU: "Where are we headed anyway?"
+    MEIKO: "The bus stop. I'm going to head back home."
+    MEIKO: "Thanks for helping me out today."
+    TAKERU: "Oh, I forgot didn't live at the dorms. Do you have an apartment in the city or something, or do you take the train up here from your aunt's?"
+    MEIKO: "I wouldn't... I don't live with my aunt."
+    TAKERU: "That's right, yeah. I sort of remember you two never got along."
+    MEIKO: "That..."
+    MEIKO: "Takeru every time I think you've gotten more perceptive you go and say something like that."
+    TAKERU: "Er, sorry, I'm not really sure what you're talking about."
+    MEIKO: "There's no 'old Meiko' back from where we were kids. That old person may not have gotten along her aunt and uncle and might have been a little shy and lost but, she never existed."
+    MEIKO: "You said it yourself. Your memory is broken. It's been this way forever, hasn't it?"
+    MEIKO: "Takeru, always hot-headed, but with the level-headed Meiko to back him up?"
+    By some miracle of fate we're at the bus stop that connects Shizukawa to the rest of the main line.
+    It's sheltered. Which is good, because I don't know how I'd be able to stand next to someone who suddenly seems so foreign. Is what I remember from back then really so wrong?
+    TAKERU: "I don't really know. I can't tell."
+    MEIKO: "Then trust me."
+    TAKERU: "I'll try. But with all this about middle school, and how we used to be... You're talking like the way I see things isn't just off, it's opposite."
+    TAKERU: "Like with Hikari. I can talk with her every day, and still Natsumi claims she's an alien, or you - "
+    You...
+    What did Meiko ever have to say about Hikari? Meiko... Hikari...
+    I don't think I've ever heard them mentioned in the same sentence. Except for a warning from Natsumi.
+    The warning to not ever mention one to the other, and keep my nose out of painful -
+    MEIKO: "I don't know what you're talking about Takeru."
+    MEIKO: "Wherever you heard that name, you should drop it."
+    MEIKO: "It was a surprise, today, that you said what you did, but listen to me for once. Get this through your head."
+    MEIKO: "Whatever old Meiko you thought you knew is dead. I'm the only Meiko there is or ever was."
+    MEIKO: "I don't have an aunt, or friend called Hikari, or any of those strange things you made up about me. Do you understand?"
+    TAKERU: "...Yeah."
+    No, no I don't.
+    But the bus is coming, and on Meiko's face is an expression I don't think I've ever -
+    It's just her. The effortless smile from our class rep, who has everything under control.
+    MEIKO: "See you tomorrow, Takeru. Thanks again."
+    TAKERU: "Yeah... See you."
+    The bus pulls off. She's gone.
+    Idiot me sits at the bus stop, folding and unfolding the umbrella.
+    Of what I remember, of a past life with Meiko and a past life at Tohoku, how much is real? How much did my diseased brain make up after the fact?
+    The rain is overwhelming.
+    My conclusion, after sittng there for I don't know how long - I can't trust my judgment, and I can't trust anyone else's judgment either.
+    Those times I felt like they were deceiving me, and by "they" I mean everyone not me - those instincts might've correct.
+    While I'm on these antipsychotics, reality as I see it is apparently a degree removed from the reality everyone else lives every day.
+    Even if my old certainty was misplaced, or misguided... I miss it.
+    I want that clarity back.
+    It's more muffled than ever.
+    
+    jump day11
     
