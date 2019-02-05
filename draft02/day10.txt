@@ -475,46 +475,56 @@ label day10:
     MEIKO: "Something like that."
     TAKERU: "Okay. I sort of get it."
     ...Although.
-    ...I really don't get it.
+    ...No I don't really don't get it.
     MEIKO: "Are you coming?"
     TAKERU: "Oh. Yeah."
-    MEIKO: "I'm not really sure what I exptected you to... Well..."
-    TAKERU: "Hang on, I've got a plan."
-    This plan relies almost entirely on my being a bit taller, a bit more manly, a bit more manly, and a bit more "traditional kid" than Meiko.
-    ...which is ridiculous considered how much of a obvious failure I am compared to her, but maybe it'll be enough to foil whatever old geezer is holed up in this shrine.
-    MEIKO: "A plan?"
-    TAKERU: "I'll go in first."
-    ...
-    It's a stupid, plan, really.
-    I just assume the worst about whatever mid-level civil servant I'm about to face. That he'll prefer this idiot that at least looks like he could be the most shallow sports star if he weren't already proven to be an imbecile.
-    Hang on though, isn't that my advantage? That everyone knows Meiko is the wunderkid of Mirako vs me, who's a total unknown? Who just enough looks the part that maybe I got could get through to whatever bureaucrat mans this station?
-    I'll give it my best.
-    Meiko walks behidn me.
-    Trying not to give her any attention, I walk to the nearest bulding. Even if I have no idea what I'm doing, maybe if I walk with my head high enough, with my hands behind my back, bluffing as I must know how...
-    Maybe these backwards paperpushers and biased townspeople would be more inclined to listen to someone like me, than to someone like Meiko, strange as it seems.
-    Especially if Meiko is about twice as smart as me and three times as good as presenting herself.
-    But I have to do something, right?
-    TAKERU: "Er... Hello."
-    SECRETARY: "Yes, hello."
+    TAKERU: "I don't really know what you want me to..."
+    MEIKO: "I'll handle it. Scowl and stand behind me a bit and we'll do fine."
+    She's already holding open the door.
+    This is the second time today, the hair on my neck rises in alert. It's a sixth sense, a feeling that someone is setting me up. First Hagami with her bogus paperwork, now Meiko with this obvious trap.
+    Trap?
+    It's my old friend Meiko holding open the door, what would she even be planning? Snap out of it, Takeru, you look dumb stabding out here in the rain.
+    MEIKO: "Are you alright, Takeru? Were you saying something."
+    TAKERU: "Just talking to myself. Sorry."
+    I follow her in... although not without another vision of dark figures with bats jumping out and - 
+    Idiot. I'm hopeless.
+    MEIKO: "Hello, Mr. Secretary? Good afternoon."
     SECRETARY: "How may I help you?"
-    TAKERU: "Um, er, hello."
-    SCERETRARY: "You've already said that. Or did you want me to do something for you?"
-    TAKERU: "I'm from the um, er..."
-    MEIKO: "You're from the student council."
-    TAKERU: "Yes hello, my name is Takeru Ichiro."
-    TAKERU: "I'm president of the Mirako School student council and I've been authorized to negotiate with you on behalf of my executive vice president, Kotaru Meiko."
-    SECRETARY: "You're from the Mirako school?"
-    TAKERU: "The Mirako school is the most important source of out-of-town culture for Shizukawa."
-    TAKERU: "Isn't it?"
-    SECRECTARY: "I'm not sure what you mean?"
-    MEIKO: "Hint that..."
-    TAKERU: "Of course the Mirako school..."
-    TAKERU "Hang on, hint what?"
-    SECRETARY: "Hang what?"
-    MEKIO: "Hang... I mean..."
-    MEIKO: "This is the single most important time of the year."
-    
-    
-    
+    SECRETARY: "Oh, it's..."
+    MEIKO: "Kotaru Meiko. From the Mirako school."
+    SECRETARY: "Yess, hello again, I thought I made it clear in my letter that - "
+    MEIKO: "And this is my senior, Akita Isao. President of the student council."
+    Hang on, I'm who now?
+    My instinct was right I've been set up give it two seconds and they'll come out of the shadows to jump me and kick me with their cleats or - 
+    SECRETARY: "Oh. How may I help you, Mr. Akita?"
+    TAKERU: "Ahem, er..."
+    MEIKO: "The permit."
+    TAKERU: "Er, hello."
+    SECRETARY: "You've already said that. Or did you want me to do something for you?"
+    TAKERU: "Right. Ms. Kotaru here is our up and coming star in Mirako's student leadership and she's involved with every step of the Mirako open house and cultural festival."
+    TAKERU: "She's taking charge of the festival this year and will succeed me next year, so she's the go-to source for the permits we need this year."
+    MEIKO: "Thanks, Isao."
+    MEIKO: "Now, I know Mr. Secretary what you said in your response to my letter, but I was hoping you'd reconsider if..."
+    Great, I'm apparently some sort of prop for this whole charade. I guess this Isao guy is the actual student council president?
+    And Meiko is having me stand a few feet behind her so it looks like she has the backing of some authority figure?
+    I guess it makes sense. This is about the one thing I can do properly -- stand tall and scowl a lot.
+    When Meiko raises her voice to emphasize some detail about a street permit or some uninteresting bureaucracy, I do my best to nod in agreement and re-cross my arms.
+    MEIKO: "...so having Shizukawa's backing on all this would mean a lot to Mirako."
+    TAKERU: "Quite a lot."
+    MEIKO: "So I ask that you reconsider. I'm sure you'll do what's right."
+    TAKERU: "We're very sure."
+    Now just to keep nodding and keep scowling.
+    I guess I should've expected that some elderly low-level civil servant from this backwater would prefer to deal with some guy who looked the part of "up and coming leader" as opposed to someone as calm and unshakeable as Meiko.
+    Guess that's my advantage. Everyone might know that Meiko is the wunderkid of Mirako, and then there's me, a total unknown good at nothing but standing here and grimacing. The irony isn't lost on me.
+    SECRETARY: "Yes, that sounds fine, fine..."
+    SECRETARY: "I'll see what I can do. I'll talk to my superior, but they'll reconsider, I'm sure... And I'll post the response to... You'll receive it, Mr. Akita?"
+    TAKERU: "Meiko will handle everything."
+    SECRETARY: "You're sure?"
+    TAKERU: "She's the best there is. As far as I can tell, this year she's putting together the festival basically single-handed. If you want the job done, you can put your faith in her."
+    SECRETARY: "Good, good..."
+    SECRETARY: "You two enjoy the rest of the evening then."
+    MEIKO: "Thank you Mr. Secretary."
+    TAKERU: "Yeah, thanks."
+    MEIKO: "Our regards."
     
     
