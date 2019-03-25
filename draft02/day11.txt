@@ -181,16 +181,67 @@ label day11:
     Chemistry is next. Rid yourself of these useless thoughts, and let's get to work.
     
     Right. Chemistry.
-    The lab's on the first floor, so up one flight of stairs, around two bends and through the main hall, and -
+    The lab's on the third floor, so up one flight of stairs, around two bends and through the main hall, and -
     And I have this class with Hagami. Who's walking next to me. Who I just managed to embarass by finding her hiding out in the old wing.
     If this is uncomfortable for me, it's nothing compared to Hagami, who's trying so hard not to look at me I could almost laugh.
-    TAKERU: "So, you're really planning on performing something for the school festival?"
+    But I don't. We file into the lab late, after the still-pouting Natsumi, even. Guess I was right -- we were late at lunch after all.
+    ...which means the only seat remaining is in the very back.
+    ...which is next to the second-to-last seat remaining, also in the very, next to the second-to-last person to class.
+    TAKERU: "So er... I guess we're working together today?"
+    HAGAMI: "Ah."
+    HAGAMI: "Yes. Lab partners."
+    TAKERU: "Hey, look, I'm sorry I walked in on whatever it was you were doing down there. Let's just try and get through chem, and then it's only English and we can go home. Right?"
+    No response.
+    Hagami's fishing around in her bag, and finally... she comes up with those damn headphones.
+    If she can hear me now, she's pretending not to.
+    ...I must've really annoyed her earlier. But everyone else around us is bustling around trying to set up for the day's lab, and there's not really any time to dwell on it.
+    
+    But as the hour drags on, I really wish I'd addressed this problem sooner.
+    Turns out, when you're a month behind everyone else on the curriculum, and your partner's intentionally made herself deaf, a chemistry lab is really tough.
+    I'm still trying to figure out how to turn the burner on without injuring myself (unsuccessfully - I probably won't feel my left ring finger for days) while in the meantime, Hagami's already writing some sort of report?
+    I look at the burner again.
+    Then massage the fingerpads on my left hand.
+    Yep, that settles it, time to sacrifice my pride.
+    TAKERU: "Hey, Hagami?"
+    TAKERU: "I know you can hear me. I'm embarassing myself already so don't make me peel those headphones off."
+    HAGAMI: "Hm?"
+    TAKERU: "I've been in this class all of three times and I don't have any idea what I'm doing, so if you want me to help at all, you're going to have to show me the ropes."
+    TAKERU: "And what're you writing?"
+    HAGAMI: "The lab report."
+    TAKERU: "Isn't that supposed to come after actually doing the lab?"
+    HAGAMI: "If I already know what's going to happen... then why bother heating with mixing, and heating, and that..."
+    HAGAMI: "I'll just write the report and you can do the lab."
+    TAKERU: "Wait, hang on, don't put those back on. You already know how this is going to turn out? I've been burning myself for the past half hour for nothing?"
+    HAGAMI: "...It's simple. You really didn't know what... What would happen?"
+    TAKERU: "No?"
+    TAKERU: "Why does everyone here seem to be some sort of mini-genius..."
+    HAGAMI: "Well... It is called a school for the gifted."
+    TAKERU: "If we're talking about this kind of gifted, then they can save me some trouble and kick me out already."
+    HAGAMI: "...And also we did this same thing at my last school."
+    TAKERU: "Oh. That makes more sense then... Maybe I don't have to go take my name off the student register."
+    HAGAMI: "No... Nothing like that."
+    TAKERU: "How should I help, then?"
+    HAGAMI: "Just... pretend to do the lab. So nothing seems suspicious."
+    TAKERU: "Oh I can do that just fine. Faking is a good skill to have, especially if you're in a sport with an umpire."
+    TAKERU: "I didn't expect you'd be on board with skipping an entire lab though... Isn't this supposed to last us the rest of the month?"
+    HAGAMI: "It'll last everyone else a week or two... Yes."
+    TAKERU: "You know, you can look pretty timid, but you can be really brazen when you want to be. This is some Nastumi levels of underhandedness."
+    Hagami doesn't reply, but she does turn an appealing shade of red as she tries to hide a smile.
+    I guess I should've known behind that face there's something mischevious... She's been trying to pull one over on me since day one.
+    The rest of class I spend flicking the burner on and off, watching the flame shoot up and fall back. I wish I'd stopped trying to do this honestly earlier... It'd mean I could still feel all ten fingers rather than the nine I'm working with.
+    Everyone else in class looks like they're having as much trouble as I was. Nastumi is arguing with one of the guys I recognize as a pitcher, while their solution smokes behind them. Smoke seems to be the norm, today. Except for at Meiko's station of course. Where she appears to already be done.
+    I still feel kind of useless though... Even if our group has no real work to do, it's still up to Hagami to write the report.
+    TAKERU: "Hey."
+    HAGAMI: "..."
+    TAKERU: "I won't mention to Mana or anyone that you were down practicing in that old piano room. You don't have to worry about it."
+    HAGAMI: "...Thanks."
+    TAKERU: "I guess I just hadn't realized you were performing at the festival."
     HAGAMI: "Huh? Performing?"
     TAKERU: "Something on the piano I guess?"
     HAGAMI: "Oh, um... I thought you said you wouldn't look at my form."
     TAKERU: "Oh, I didn't, but it's pretty hard not to get some ideas if you're ducking behind pianos and handing me books on music theory."
     HAGAMI: "Oh... Hm."
-    TAKERU: "And I may have caught a glimpse at the festival application."
+    TAKERU: "And also yeah I may have caught a glimpse at the festival application."
     TAKERU: "But you can't be mad about that. If you're going to perform in front of everyone, you can't really keep that a secret, right?"
     HAGAMi: "..."
     TAKERU: "Or were you only planning to reveal this 
