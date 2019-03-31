@@ -310,9 +310,66 @@ label day11:
     HAGAMI: "The report. You..."
     HAGAMI: "We each need a copy. I was the only one taking notes."
     HAGAMI: "So... here are my notes."
+    TAKERU: "Oh. Thanks!"
+    HAGAMI: "Yeah..."
+    She leaves and I'm left staring down at her notebook.
+    TAKERU: "Hagami?"
+    She's already wandered off down the hall.
+    I'll wander off as well. No point sticking around here all afternoon. The jostle of students all on their way back to the dorms, or to catch the bus, or to catch their friends at the gate...
+    I'm heading the opposite direction, into the basement, and the old wing. Eventually the crowd thins out until there are only a dozen, five, then one person in front of me.
+    ...That's one person I recognize, though. I've just followed Hagami this whole time. She's headed down here as well?
+    I pause outside the door to the tearoom as I watch Hagami ahead of me take one step, then another, silently down the hall.
+    What's she doing down here anyway? Heading back to the old library?
+    HIKARI: "Hmm, quite the mystery, isn't it?"
+    TAKERU: "Ah! Hikari! Stop creeping up behind me like that."
+    HIKARI: "I could've crept up from any direction if you're going to doze off like that in the middle of the hall."
+    HIKARI: "You're watching her?"
+    TAKERU: "What? No, I was just..."
+    TAKERU: "She gave me her notes and it's just weird to see Hagami down here this time of day, so..."
+    HIKARI: "Mhm."
+    TAKERU: "You're smirking. Stop acting like I've committed some crime."
+    HIKARI: "That's fine. What were saying about notes?"
+    TAKERU: "Nothing. We wound up lab partners, so Hagami loaned me her notes, and we left class at the same time, but it's odd that she'd..."
+    TAKERU: "I get the feeling I'm just digging myself a deeper grave, here."
+    HIKARI: "What makes you say that?"
+    TAKERU: "Stop trying to analyze me, it's annoying. Let's just play chess or something."
+    HIKARI: "I never thought the day would come where you'd be asking me to play."
+    TAKERU: "Hey, I'm just trying to get you off my case about... whatever this is about."
+    TAKERU: "You know, Hikari, I'd almost mistake you for someone high class, if you didn't keep creeping around down here and hanging out in the dark and implying weird things about people."
+    HIKARI: "Mm, interesting. How about some tea as well for our game as well?"
+    TAKERU: "You weren't even listening, were you?"
+    HIKARI: "Listening about what?"
+    TAKERU: "I'll make tea. Fine."
     
-    
-    
+    Per usual, Hikari doesn't touch my tea, instead preferring to warm her hands over the cup as she calls out her moves to obliterate me in chess.
+    HIKARI: "Knight. F6."
+    TAKERU: "Right... Hang on..."
+    HIKARI: "You've learned enough by now to force me to think once or twice. It shouldn't take you this long to work out which square on the board I'm referring to."
+    TAKERU: "Cut me at least a little slack... I've got a lot on my mind."
+    HIKARI: "Like what?"
+    TAKERU: "It's just a saying."
+    HIKARI: "No, really. I want to know."
+    TAKERU: "You're just looking for another reason to make fun of me."
+    HIKARI: "I'm not looking to mock you. If I wanted to do that I would've questioned why you just walked your rook into the most obvious fork since the - "
+    TAKERU: "I'm taking that move back."
+    HIKARI: "Fine."
+    TAKERU: "'Fine?' Really?"
+    HIKARI: "Fine."
+    She must be in a better mood than I thought.
+    TAKERU: "Never thought I'd see the day..."
+    HIKARI: "You obviously have something on your mind, so I thought I'd take it easy on you."
+    TAKERU: "I don't know. Maybe."
+    TAKERU: "Don't feel like you have to pity me or anything."
+    HIKARI: "You should tell me what's up. Whatever is happening at Mirako, you should let me know. Did you not hear that?"
+    TAKERU: "I don't exactly lead the most interesting life around here."
+    HIKARI: "That's what makes it interesting to me."
+    HIKARI: "It... Sometimes it's hard for me to really understand what's going on with all of you in Mirako second year. Most of the time I want to give up trying to work it all out."
+    HIKARI: "But sometimes I can relate to you, as a new student, and it makes me still interested in all the small gossip and drama you all go through. As a high school girl, it's healthy for that to be the sort of thing I'm into, isn't it?"
+    TAKERU: "Hell if I know..."
+    HIKARI: "Then I'm deciding that it's healthy. Queen, A2."
+    TAKERU: "Hang on, wait, if you move your queen then that means that I..."
+    TAKERU: "I'm taking that move back as well."
+    HIKARI: "Too late. If you want to stay out of checkmate, then you're explaining to me what's going on between you and Hagami."
     
     
     
