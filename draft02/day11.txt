@@ -328,7 +328,7 @@ label day11:
     TAKERU: "She gave me her notes and it's just weird to see Hagami down here this time of day, so..."
     HIKARI: "Mhm."
     TAKERU: "You're smirking. Stop acting like I've committed some crime."
-    HIKARI: "That's fine. What were saying about notes?"
+    HIKARI: "That's fine. What were you saying about notes?"
     TAKERU: "Nothing. We wound up lab partners, so Hagami loaned me her notes, and we left class at the same time, but it's odd that she'd..."
     TAKERU: "I get the feeling I'm just digging myself a deeper grave, here."
     HIKARI: "What makes you say that?"
@@ -341,14 +341,14 @@ label day11:
     HIKARI: "Listening about what?"
     TAKERU: "I'll make tea. Fine."
     
-    Per usual, Hikari doesn't touch my tea, instead preferring to warm her hands over the cup as she calls out her moves to obliterate me in chess.
+    Per usual, Hikari doesn't touch the tea I've prepared, instead preferring to warm her hands over the cup as she calls out her moves to obliterate me in chess.
     HIKARI: "Knight. F6."
     TAKERU: "Right... Hang on..."
     HIKARI: "You've learned enough by now to force me to think once or twice. It shouldn't take you this long to work out which square on the board I'm referring to."
-    TAKERU: "Cut me at least a little slack... I've got a lot on my mind."
+    TAKERU: "Sorry. There's been a lot going on."
     HIKARI: "Like what?"
     TAKERU: "It's just a saying."
-    HIKARI: "No, really. I want to know."
+    HIKARI: "I've never heard it before. Besides, I do want to know."
     TAKERU: "You're just looking for another reason to make fun of me."
     HIKARI: "I'm not looking to mock you. If I wanted to do that I would've questioned why you just walked your rook into the most obvious fork since the - "
     TAKERU: "I'm taking that move back."
@@ -358,25 +358,159 @@ label day11:
     She must be in a better mood than I thought.
     TAKERU: "Never thought I'd see the day..."
     HIKARI: "You obviously have something on your mind, so I thought I'd take it easy on you."
-    TAKERU: "I don't know. Maybe."
-    TAKERU: "Don't feel like you have to pity me or anything."
-    HIKARI: "You should tell me what's up. Whatever is happening at Mirako, you should let me know. Did you not hear that?"
-    TAKERU: "I don't exactly lead the most interesting life around here."
-    HIKARI: "That's what makes it interesting to me."
-    HIKARI: "It... Sometimes it's hard for me to really understand what's going on with all of you in Mirako second year. Most of the time I want to give up trying to work it all out."
-    HIKARI: "But sometimes I can relate to you, as a new student, and it makes me still interested in all the small gossip and drama you all go through. As a high school girl, it's healthy for that to be the sort of thing I'm into, isn't it?"
-    TAKERU: "Hell if I know..."
-    HIKARI: "Then I'm deciding that it's healthy. Queen, A2."
-    TAKERU: "Hang on, wait, if you move your queen then that means that I..."
-    TAKERU: "I'm taking that move back as well."
-    HIKARI: "Too late. If you want to stay out of checkmate, then you're explaining to me what's going on between you and Hagami."
+    TAKERU: "I don't know. It's really a bunch of things."
+    HIKARI: "Then start from the top and work down to the details. That's how to tackle any problem."
+    Can't she see I'm dodging her questions for a reason?
+    No, she probably can, and is trying to pin me just as ruthlessly as on the gameboard.
+    TAKERU: "Alright. It's just a little awkward because the biggest question I have is sort of..."
+    TAKERU: "You."
+    HIKARI: "Me? Me what?"
+    HIKARI: "Queen, A2."
+    TAKERU: "Like can you really not move your own pieces?"
+    HIKARI: "No. You wouldn't want to watch me try."
+    TAKERU: "And you won't make tea, or - "
+    HIKARI: "Do you want me to show you the scars?"
+    TAKERU: "No, that's not it, it's just that on top of the way everyone treats you."
+    TAKERU: "Sometimes I feel like I'm the only one that can see you."
+    HIKARI: "..."
+    HIKARI: "You mean, you think I'm a figment of your imagination."
+    TAKERU: "It wouldn't be the strangest thing that's happened to me. I mean, I just found out that the three dozen other guys I would've called my friends actually despised me."
+    HIKARI: "Hum."
+    She's silent for a solid ten seconds.
+    I gulp.
+    HIKARI: "Takeru if you move your king's side knight there, it's mate in two."
+    TAKERU: "What? Oh. Then er, I'll take back that move as well if you'll let - "
+    HIKARI: "This is really, extraordinarily funny to me. Just over the top. The majority of the school refuses to acknowledge that I exist, and the one person that will talk to me thinks I exist only in his mind."
+    TAKERU: "No, I mean, I'm sure - "
+    HIKARI: "If I called you a solipsist, would you know what I was talking about?"
+    TAKERU: "No."
+    HIKARI: "I didn't think so. Then..."
+    HIKARI: "Here."
+    Hikari holds out her hand, palm up, like I should grasp it. Again, I can't help but notice the lines that shouldn't be there, the curves in not quite the right - 
+    I close my eyes and reach for her hand. This will settle it. Hikari is really there, and the crazy ones are Meiko and Natsumi and Kenta and the rest that won't look me in the eye when I say her name.
+    That is... That's what would happen if I could feel her. There's nothing there.
+    I open my eyes, but Hikari's hands are by her side. She withdrew while I had my eyes closed.
+    HIKARI: "You really don't trust me."
+    HIKARI: "I thought you were pulling my leg, but you really think I'm not sitting here, having this conversation with you."
+    TAKERU: "You know that why I got sent here, right? Seeing things no one else could see. Or at least, knowing a version of events no one else remembered."
+    TAKERU: "No matter how many times I try to add things up, I don't get it. Natsumi keeps introducing herself like it's the first time she's meeting you. Meiko turns into some other person when your name comes up. Kenta can't come up with your name at all, but guess that's typical for him..."
+    TAKERU: "Even Mr Kunida acts like I've gone nuts when I try to ask him about any of this. So you can understand why I might think..."
+    HIKARI: "Why you might think this is all just a repeat of your old school."
+    TAKERU: "Exactly."
+    TAKERU: "I keep putting two and two together and getting five. I'm missing something, somewhere."
+    HIKARI: "Hum."
+    HIKARI: "I was really trying to make you spill your guts about that Hagami stealing your heart or something... This a little less..."
+    TAKERU: "Comfortable?"
+    HIKARI: "Precisely. No one is really comfortable with the 'idea' of me. That's what you've noticed."
+    HIKARI: "I can't really blame them, if I can't myself really come to..."
+    HIKARI: "You're missing a piece. Give me a second and I'll figure out where to start filling you in.
+    TAKERU: "Wasn't it, 'start from the top then get to the details?'"
+    HIKARI: "I know I said that, but that's not how I work, that's how everyone else works. It's the small things that make up the big picture. Although I think I know where to start."
     
+    I wake up an hour or two earlier, in homeroom.
+    Hang on, that's not right. I drifted off and then Natsumi elbowed me and -
+    I'm not sitting where I should be, and Natsumi is sitting in front of me, missing her trademark baseball cap. In fact, where I should be sitting, there's some other girl. Hikari? No, Hikari's hair is lighter and her eyes darker than this girl, but she seems familiar all the same.
+    She doesn't sit still at her desk though. She stands, paces, sits back down, stretches, checks her watch, opens a book, shuts it, checks her watch again... Nervous energy?
+    There isn't some test I forgot about, is there? The rest of the room seems relaxed, talking in small groups. I spot Meiko, a few rows in front of me, with the usual couple of girls asking about homework or life or other advice.
+    It must be the end of the day. But of which day, which year...
+    That, I'm not so certain.
+    From the front of the class, Mr. Kunida interrupts my thoughts.
+    KUNIDA: "Ahem. Excuse me. The votes are all tallied and I'm happy to announce that your class representative for this year will be Kotaru Meiko. Please congratulate her and the rest of the candidates."
+    There's some scattered applause, but Meiko has a blank look as she stands. Weird. It's Meiko, of course she would be expecting to win an election for class rep, so why does she look so surprised? Is that... not the strangest thing here?
+    But with only a flicker she reverts to the Meiko I know - collected, friendly.
+    MEIKO: "Hey everyone."
+    MEIKO: "Thanks for supporting me, and I'll be sure to support you as well. I know you all must be as stressed as I am starting at a new high school, for most of us far away from home."
+    MEIKO: "So don't hesitate to come to me if you need advice or a an ear or a shoulder. I'll try to become someone you can rely on. So thanks again, everyone."
+    She bows, to more applause. Kunida says something or other, but I'm not really paying attention. Meiko is headed my way. I feel like I should say something, but Natsumi intercepts her.
+    NATSUMI: "Meiko! Hey, congrats."
+    MEIKO: "Oh? Thank you. I mean, it's not much of anything to be proud of, just... being a class rep."
+    NATSUMI: "I'm still happy it's you though. You're gonna go for student council next, yeah?"
+    MEIKO: "Maybe. Maybe next year. Who knows?"
+    MEIKO: "But I think I should be the one congratulating you. Didn't baseball tryout results come out today?"
+    NATSUMI: "Yep! I'm in! If they just wanted me warming the bench then Coach and the captain screwed up, because once you give me an inch I'm taking a mile. I want to start games, for sure!"
+    NATSUMI: "And thanks so much for telling me to go for it. I'd definitely be pitching underhand down at the municipal fields or something without you."
+    MEIKO: "It really wasn't anything. Although thanks for your kind words."
+    It can't be the present.
+    I must be dreaming again, like happens every night. Just tonight (today?) this memory is something that never happened, or, something that never happened to me, at least.
+    It's possible that today's daily flashback belongs to that fidgety, pale girl in front of me, the one that I'd almost think was Hikari.
+    She's not fidgeting any more, though. Just starting at nothing as the rest of the class is either leaving, handing over papers to Kunida, or talking to Meiko or Natsumi.
+    I'm still not quite sure who I am or what I'm doing here, but I feel stupid just sitting here in the back.
+    I stand up. A lucid dream? Is that what it's called when I can just do whatever I like when I know this all happened forever ago? Like with Jun's letter, or that day Jun was up to bat and I -
+    The present. What will I do in the present?
     
+    menu:
     
+        "Join Meiko and Natsumi":
+            The girl sitting where I should be sitting stands suddenly, then vanishes out the door. I think I'm the only one that noticed, but at least this means I have my desk back. I'll take a seat.
+            NATSUMI: "Hey!"
+            TAKERU: "Natsumi? Please tell me that at least in my dream you're still not mad at me."
+            NATSUMI: "Huh? You know my name?"
+            TAKERU: "Everyone here knows you."
+            NATSUMI: "Aha! Look at that. Hey Meiko! Meiko, I've got a fan club already and I haven't even gone to a single practice yet. Does this make me a baseball star?"
+            MEIKO: "Don't get ahead of yourself."
+            TAKERU: "You have to get results before anyone's going to take you seriously as a player. No matter how good you thought you were before."
+            NATSUMI: "I thought today of all days people would just be happy for me instead of so cynical..."
+            NATSUMI: "What did you say your name was? If you're going to sit next to me and be so critical, maybe you'd make a decent rival..."
+            TAKERU: "A rival? Now it makes sense why you're always giving me such a hard time."
+            TAKERU: "I'm Ichiro Takeru, but you already knew that."
+            NATSUMI: "Maybe I did and maybe I didn't."
+            TAKERU: "Weirdo."
+            NATSUMI: "Hmph."
+            I talk with Natsumi but I can't remember any of it. Clearly she doesn't remember anything either. Or at least this version of her doesn't know anything. 
+            I'm pretty sure I'm just talking to myself.
+            But when she finally leaves, I notice there's another person staring at me, from the desk on the other side.
+            The room is empty by now. It's just me and... Meiko.
+            MEIKO: "Takeru, you said your name was?"
+            TAKERU: "Right."
+            MEIKO: "Interesting."
+            TAKERU: "I mean, you know me. You knew that already, didn't you?"
+            MEIKO: "No."
+            TAKERU: "If this is... a year ago, then..."
+            TAKERU: "You can't have forgotten me already, can you?"
+            MEIKO: "Forgotten... Hm."
+            MEIKO: "I knew a Takeru once, in middle school."
+            MEIKO: "He even looked sort of like you."
+            TAKERU: "Probably because - "
+            MEIKO: "It's a shame he's dead."
+            TAKERU: "Dead? I'm talking to you right now, what are you - "
+            MEIKO: "Dead to me. It's all the same, isn't it?"
+            MEIKO: "Sorry. I'll stop boring you with all these details of my life before I came to Mirako. I'm a completely different person now."
+            MEIKO: "So even if you share the name of someone that I..."
+            MEIKO: "Whoever you are, I'm supposed to be your representative. So let's not start things off on the wrong foot."
+            TAKERU: "The wrong foot..."
+            Meiko smiles.
+            There's something wrong with her expression. I can't place my finger on it, but it's just the last straw on this hallucination of mine, the final sign that THIS IS NOT RIGHT.
+            Something or other is lying to me and I do not have enough information to judge if the liar is in my mind or her mind or the mind the person narrating this memory (or a dream) (or a flashback) (or a flashback of a dream) (or - )
+            Doesn't matter.
+            Does not matter.
+            The actual strange thing here: didn't Hikari say she didn't know Meiko at all? It's foggy, but I'm sure I mentioned Meiko to Hikari, at least once, when - 
+            My feet almost move on their own. Out of here, out of... whatever this is.
+            
+        "Talk to not-Hikari:"
+            TAKERU: "Hey. Er..."
+            ???: "Hum?"
+            I probably should've figured what on earth I was going to say before opening my stupid mouth.
+            TAKERU: "You're... Your name isn't Hikari, is it?"
+            HIKARI: "Yes, that's me. Are you pretending not to know me? I hear that's 'in.'"
+            TAKERU: "I honestly have no idea what you're talking about."
+            HIKARI: "Who are you anyway? You realize it's kind of rude to come over make fun of me when I have no idea who you are."
+            TAKERU: "Ichiro Takeru. I'm a student here same as you. Why would you think I was here to make fun of you?"
+            HIKARI: "Because I just lost."
+            TAKERU: "Lost what?"
+            HIKARI: "Well, Ichiro Takeru, would say people would usually describe you as... dense? Inobservant?"
+            TAKERU: "If someone had said that to my face a couple months ago I would've offered to fight them, because that's what - "
+            HIKARI: "Okay, then, yes, you're not making funning of me. You're legitimately dumb.":
+            HIKARI: "Have you really never heard of the Miura family?"
+            TAKERU: "No."
+            HIKARI: "You live in Mirako and you don't even know the name of the oldest family that..."
+            HIKARI: "No, wait, that's a good thing. You haven't heard of my family at all, so you just know me. What do you know me for?"
+            TAKERU: "I don't know. You sort of lurk in the basement, and you have a thing for tea and boardgames, but..."
+            HIKARI: "Basements? I don't know what you're talking about."
+            Hikari wanders off. And I realize apart from Kunida, who's sorting through papers, I'm the only one left in the room.
+            I dodge to the hall.
     
-    
-    
-    
+    There's a conversation out here.
+    Not one I think I could normally hear, but down the hall, by the stairwell, Meiko and Hikari are talking. About...
     
     
     
