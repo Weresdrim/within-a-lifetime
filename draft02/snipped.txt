@@ -49,3 +49,13 @@
     TAKERU: "Hang on, wait, if you move your queen then that means that I..."
     TAKERU: "I'm taking that move back as well."
     HIKARI: "Too late. If you want to stay out of checkmate, then you're explaining to me what's going on between you and Hagami."
+    
+    
+    
+    KUNIDA: "Ahem. Excuse me. The votes are all tallied and I'm happy to announce that your class representative for this year will be Kotaru Meiko. Please congratulate her and the rest of the candidates."
+    There's some scattered applause, but Meiko has a blank look as she stands. Weird. It's Meiko, of course she would be expecting to win an election for class rep, so why does she look so surprised? Is that... not the strangest thing here?
+    But with only a flicker she reverts to the Meiko I know - collected, friendly.
+    MEIKO: "Hey everyone."
+    MEIKO: "Thanks for supporting me, and I'll be sure to support you as well. I know you all must be as stressed as I am starting at a new high school, for most of us far away from home."
+    MEIKO: "So don't hesitate to come to me if you need advice or a an ear or a shoulder. I'll try to become someone you can rely on. So thanks again, everyone."
+    She bows, to more applause. Kunida says something or other, but I'm not really paying attention. Meiko is headed my way. I feel like I should say something, but Natsumi intercepts her.
