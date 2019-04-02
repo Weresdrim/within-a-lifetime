@@ -2,7 +2,7 @@ label day10:
 
     There's an agony of time before that shattering feeling coalesces to a single point.
     The center of my forehead.
-    Because my idiot roommate is jamming his finger into me like it's a coin return.
+    Because my idiot roommate is jamming his finger into me like I'm a coin return.
     TAKERU: "Kenta! Quit it! I'm awake."
     KENTA: "Are you sure?"
     TAKERU: "Yes I'm sure! What're you still poking me for?"
@@ -43,10 +43,10 @@ label day10:
     I shut the door.
     Maybe it's only one of these stupid things that keeps me seeing nonsense every night.
     If I'm honest with myself, I don't really see what was wrong with me from back before then, when the doctors at the sports clinic decided it was schizophrenia.
-    Well, not the guys at the sports injury center. Those doctors just treated the broken arm, fractured ribs, and so on. And then when they were done passed me on the shrinks at the mental health clinic.
+    Well, not the guys at the sports injury center. Those doctors just treated the broken arm, fractured ribs, and so on. And then when they were done they passed me on the shrinks at the mental health clinic.
     I check the mirror.
     It's Takeru. A little underbuilt, a little too tall. Usually in a bad mood, and never comfortable with people, especially the people of Mirako. Who can tell that something's off.
-    A year ago the Ichiro Takeru looking back at me would be charismatic, poised, ready to take on the world. Not the sort of person to beat himself up every morning in front a bucnh of bottle of pills.
+    A year ago the Ichiro Takeru looking back at me would be charismatic, poised, ready to take on the world. Not the sort of person to beat himself up every morning in front a bunch of bottles of pills.
     Was I "schizophrenic" even back then?
     Something's fake, I just can't tell what.
     KENTA: "Takeru, you need to hurry up or we're going to be late."
@@ -66,7 +66,7 @@ label day10:
     TAKERU: "Kenta! Hey!"
     KENTA: "Good morning?"
     TAKERU: "Aren't you forgetting your umbrella or something?"
-    KENTA: "I don't own one."
+    KENTA: "Why would I want one?"
     TAKERU: "By the time you get up the hill to Mirako you'll be so wet you'll start wrinkling up."
     KENTA: "Whether you're wrinkled or not doesn't have any effect at all on how you do at school."
     KENTA: "I don't mind being wet."
@@ -150,7 +150,7 @@ label day10:
     Even if Mana wasn't around, she'd be here by now, right? She was in class, after all? Or did I beat her up here?
     I don't think I've ever been in this room with the radio off. With only the dullness of rain beating against glass, this place feels dead. Like a fitting meetingplace for the supernatural club.
     As expected, varied books have already enroached on my usual eating space. I push them aside, then, on a whim, stack them up. I put the "Brief Overview of Modern Musical Trends" back on the shelf, where, with even the slightest bit of luck, I'll never have to see it again.
-    The shelves here, almost empty two weeks ago, now brim with old textbooks, foreign language novels, outdated magazines, and other dreck that Mana and Hagami managed to salvage from somewhere. This place is more of an archive than a library.
+    The shelves here, almost empty two weeks ago, now brim with old textbooks, foreign language novels, outdated magazines, and other pulp that Mana and Hagami managed to salvage from somewhere. This place is more of an archive than a library.
     Hell, one corner is all vinyl sleeves and CD cases.
     Thinking maybe I'll get that fake radio up and running, I grab the last CD on the row.
     It's unlabeled. The disc is just blank, and the case transparent. Seeing as how all the other CDs have names of dead foreigners and titles like "Opus 312," I'll take the unknown over any of those.
@@ -204,11 +204,11 @@ label day10:
     TAKERU: "Come on."
     I gesture at him to follow.
     Hagami seems to have some idea of what's going on as she makes a pained smile at me, then heads straight for the old library. She holds the door and I follow after Kenta.
-    Kenta seems almost as out of sorts as Hagami now. He's staring at the wall-wall shelving with his mouth open.
+    Kenta seems almost as out of sorts as Hagami now. He's staring at the wall-to-wall shelving with his mouth open.
     KENTA: "Takeru, is this supposed to be a library?"
     KENTA: "It's extremely disorderly. I thought the office said not to use any of the classrooms in this wing."
     KENTA: "And isn't there a lightswitch somewhere? If it's this dark how am I supposed to - "
-    On cue, lighting flashes through the room.
+    On cue, lightning flashes through the room.
     I jump a few inches, for sure, but it's nothing compared to the way Kenta shakes.
     Hagami just smiles in the corner... then glances at me. To continue?
     TAKERU: "Yeah, the old library. Not that any of the books are useful. The supernatural club meets up here once in a while, but you can feel free to eat here for now while this gets worked out."
@@ -278,13 +278,13 @@ label day10:
     TAKERU: "You're not seriously planning on..."
     Hagami just shrinks behind today's book, lunch abandoned.
     I'm left with only the form.
-    Which does describe, for sure, that Otome Hagami intends to perform for twenty minutes, on stage, alone, without any club affiliation.
+    Which does describe, for sure, that Keiji Hagami intends to perform for twenty minutes, on stage, alone, without any club affiliation.
     TAKERU: "You have to at least put down a description of what you want to do."
     TAKERU: "Meiko can be a bit of hardass about this sort of thing. Trust me."
     TAKERU: "...You're really not setting me up for some joke?"
     HAGAMI: "...No."
     TAKERU: "Oh."
-    TAKERU: "It's just weird to me."
+    TAKERU: "It's just bizarre to me."
     Hagami turns a page.
     HAGAMI: "What did you do before you came to Mirako?"
     TAKERU: "Huh?"
@@ -351,7 +351,7 @@ label day10:
     HAGAMI: "Thanks for dealing with your friends."
     TAKERU: "Kenta?"
     TAKERU: "Yeah I figure it's the least I can do. Letting him loose on the public would be too much."
-    TAKERU: "Or do you mean Natsumi? She's more my arch enemy than a friend but that's why I should be the one that has to - "
+    TAKERU: "Or do you mean Natsumi? She's more my archenemy than a friend but that's why I should be the one that has to - "
     HAGAMI: "Thanks anyway."
     TAKERU: "Hey, you looked after me when I got knocked out back on my second or third day here. This is just returning the favor."
     She smiles. I nod back.
@@ -367,7 +367,7 @@ label day10:
     TAKERU: "You doze off in class all the time, that's not why you woke me up. What do you want?"
     NATSUMI: "What? I don't want anything. I was just doing you a favor."
     TAKERU: "Oh. Thanks, I guess."
-    NATSUMI: "...Could you repay the favor my loaning my your umbrella?"
+    NATSUMI: "...Could you repay the favor by loaning me your umbrella?"
     TAKERU: "No, go away."
     NATSUMI: "You know, everyone else in this class would kill for a chance to lend the school idol Natsumi something as small as an umbrella in her time of - "
     TAKERU: "Then go ask everyone else."
@@ -402,11 +402,11 @@ label day10:
     TAKERU: "She's not new. You and I both know that."
     NATSUMI: "Then why have I never met her before today?"
     TAKERU: "I saw you talking to her. Earlier this week, even. She's not knew."
-    NATSUMI: "Calm down, Takeru. I've known a Hikari or too, but that's the first time I've ever run into... that girl. Whoever she was."
+    NATSUMI: "Calm down, Takeru. I've known a Hikari or two, but that's the first time I've ever run into... that girl. Whoever she was."
     NATSUMI: "Don't get so defensive over the new students. We're at the Mirako school. You should just be more accepting."
     TAKERU: "More accepting? When you're saying that Hikari is some mystery person after getting all mean at her the other day as well..."
     TAKERU: "Look, I get that I'm the new guy here and highschool girls are all vindictive and secret and catty, but don't lie to my face."
-    TAKERU: "It's hard for me to tell when someone's lying or I'm just seeing things different. But this time I know you're lying."
+    TAKERU: "It's hard for me to tell when someone's lying or I'm just seeing things differently. But this time I know you're lying."
     NATSUMI: "Cool down a second, Takeru. I'm not lying. The new girl seems familiar as anyone, and I'm trying to be friendly, but she's new. No one's met her. Yeah?"
     TAKERU: "Cut it out."
     NATSUMI: "I know I was being a bit of a jerk asking for your umbrella but that's just me being myself. Don't take it so seriously."
@@ -606,7 +606,7 @@ label day10:
     MEIKO: "Wherever you heard that name, you should drop it."
     MEIKO: "It was a surprise, today, that you said what you did, but listen to me for once. Get this through your head."
     MEIKO: "Whatever old Meiko you thought you knew is dead. I'm the only Meiko there is or ever was."
-    MEIKO: "I don't have an aunt, or friend called Hikari, or any of those strange things you made up about me. Do you understand?"
+    MEIKO: "I don't have an aunt, or a friend called Hikari, or any of those strange things you made up about me. Do you understand?"
     TAKERU: "...Yeah."
     No, no I don't.
     But the bus is coming, and on Meiko's face is an expression I don't think I've ever -
@@ -619,7 +619,7 @@ label day10:
     The rain is overwhelming.
     My conclusion, after sittng there for I don't know how long - I can't trust my judgment, and I can't trust anyone else's judgment either.
     Those times I felt like they were deceiving me, and by "they" I mean everyone not me - those instincts might've correct.
-    While I'm on these antipsychotics, reality as I see it is apparently a degree removed from the reality everyone else lives every day.
+    Even while I'm on these antipsychotics, reality as I see it is apparently a degree removed from the reality everyone else lives every day.
     Even if my old certainty was misplaced, or misguided... I miss it.
     I want that clarity back.
     It's more muffled than ever.
