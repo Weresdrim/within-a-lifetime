@@ -20,5 +20,120 @@ label day12:
     KENTA: "Would you rather be late? Normal people would thank me."
     TAKERU: "There's a strange lack of normal people around here. What're you ordering anyway?"
     There's an auction site up on Kenta's screen, with under thirty seconds to go. Top bidder is currently e_kenta_467.
-    KENTA: "Please do
+    KENTA: "Please don't worry about it. it. You always get angry when I tell you about these things, so I have to question why you ask at all."
+    TAKERU: "Angry? I'm just trying to keep all those pickled animals out of my - "
+    KENTA: "There! I've won."
+    KENTA: "If a package shows up outside the room in the next week to week and a half, please put it in the freezer."
+    TAKERU: "The... freezer. You mean in the kitchen?"
+    KENTA: "Yes."
+    TAKERU: "That's where everyone keeps their leftover and things. What exactly did you just order?"
+    KENTA: "Sparrow eggs, fifty to be exact."
+    TAKERU: "You... What?"
+    KENTA: "Well they'll rot if they sit out for too long. I'm intending to drill them and preserve the shells for display. This is the practice round before I move on to more expensive eggs for the permanent collection I'm planning."
+    KENTA: "If you'd like, I'll be doing most of the drilling next week so - "
+    TAKERU: "Collecting literal eggshells. That sounds mind-numbing."
+    KENTA: "See, this is a character flaw of yours. You act interested and then then when I make the logical next step and offer you a hand, you decide you've changed your mind. It's manipulative."
+    TAKERU: "How is that - "
+    TAKERU: "Never mind. Fix your shirt and let's get walking, or we'll be late."
+    KENTA: "Ah! The time got away from me! Thank you for watching out for me."
+    TAKERU: "Don't mention it. Next time Mr. Kunida decides to spring a test though, don't forget it."
+    
+    It's a long walk to Mirako. Or maybe it just seems like that with Kenta talking my ear off. Of course, there's no danger of running late.
+    We cross the bridge out of Shizukawa. Of course, there's no one here but me and Kenta. Not like... whatever that was last night.
+    I try not to think of it, but it's hard not to get distracted when Kenta is trying to figure out my opinion on the market price of ostrich eggs.
+    KENTA: "I said, 'Have a good day.'"
+    TAKERU: "Huh?"
+    KENTA: "I said - "
+    Oh. Right. We're outside homeroom.
+    TAKERU: "Have a good day as well, Kenta. See you - "
+    NATSUMI: "Hey. Hey!"
+    TAKERU: "Natsumi?"
+    She almost skids down the hall.
+    NATSUMI: "Gues what."
+    KENTA: "What are we supposed to be guessing? Unless you give any context it's not possible for - "
+    TAKERU: "What?"
+    NATSUMI: "We qualified! Mirako is in!"
+    TAKERU: "Qualified for what?"
+    NATSUMI: "The regional tournament. This is all I've been talking about for a week! Don't you ever listen? "
+    KENTA: "Takeru seems to have a problem with this. I spent all morning explaining to him the history of oology but he - "
+    NATSUMI: "I can't believe we made it. Skin of the teeth, but we're in. I never thought our scrappy little team would've made it in, and we're going to be way outmatched, but we'll sure take a few games while we're there!"
+    NATSUMI: "This is going to be great."
+    Right. The summer championship tournament. I think if Tohoku ever failed to qualify for the prefectural tournmanet, we'd all die of shame. My first year, we won the first five games by the mercy rule on the fifth inning.
+    I threw a shutout for my game not that it mattered in the end after we lost in the last round when I wasn't even pitching thanks to Jun's terrible judgment at -
+    - shame I couldn't at least make it to the summer championship because looks like my first year is going to have to be the last year I ever play high school baseball -
+    NATSUMI: "Takeru? You're supposed to be congratulating me. Don't keep staring there into space."
+    TAKERU: "Oh. Right. Yeah."
+    TAKERU: "Hope you guys do well."
+    NATSUMI: "It's going to be rough, I know it, but I want to take some heads. I want people to remember Mirako."
+    NATSUMI: "Listen, you went to Tohoku High School, yeah? So this probably doesn't seem like a big deal to you, but for us it's fantastic."
+    NATSUMI: "Hey did you ever go to any tournament games to support your team? Even if you weren't a player, maybe you'll still have some good ideas. We need all the intel we can get."
+    Weren't a player...?
+    Oh, right. That's what I told her.
+    TAKERU: "Sorry. Can't help you."
+    NATSUMI: "Speaking of intel..."
+    NATSUMI: "Kenta! Get that stats! You're my numbers guy! I'll even appoint you junior manager!"
+    KENTA: "I'm not longer interested in baseball stats. I've sold all my recordbooks. My interest for baseball is only a fraction of my interest for oology."
+    NATSUMI: "Oology?"
+    KENTA: "It's the study of bird eggs. And the collection of said eggs. It's more of a material hobby than orinthology to be sure, and less demanding on the preservation front than my old work with amphibians and - "
+    NATSUMI: "I'll up your spot to co-manager. And get you a uniform. Special tournament edition."
+    KENTA: " - once the first batch of eggs show up I'll be experimenting with preservation technique if you'd like to join me."
+    NATSUMI: "Do what now?"
+    I'll leave Natsumi and Kenta to bounce off each other. 
+    I have no idea how those two stand each other, because I can't talk to either for more than five minutes without going crazy. In that way, they're a perfect fit.
+    While Natsumi and Kenta continue to talk over each other, I enter the empty classroom.
+    One by one, everyone arrives for the morning. I almost doze off staring out the window when someone lands next to me.
+    NATSUMI: "Hey, Kenta owes you a favor, yeah?"
+    TAKERU: "Huh? For what?"
+    NATSUMI: "For helping him work things out with what's-her-face, the awkward girl."
+    TAKERU: "Hagami?"
+    NATSUMI: "Yeah her."
+    TAKERU: "Don't call her 'the awkward girl.' And she's sitting right there."
+    NATSUMI: "Her headphones are in, but, fine, anyway: point is, you can call in your favor with Kenta to get him to run the tourney opposition research, then I'll owe you a favor instead."
+    TAKERU: "What's the point of that?"
+    NATSUMI: "It's me! Natsumi! There are boys that'd kill to even sit next to me and talk to me every day."
+    TAKERU: "Name one."
+    NATSUMI: "You're terrible."
+    NATSUMI: "Meiko! Hey, Meiko! Takeru owes you a favor, yeah?"
+    MEIKO: "Good morning. What's this you're talking about?"
+    NATSUMI: "I need you to call in a favor with Takeru to make him call in a favor with Kenta to - "
+    NATSUMI: "Wait! Hang on, I didn't tell you. We the letter this morning. We're in for the summer championship qualifier!"
+    MEIKO: "Congratulations. It's hard-earned."
+    NATSUMI: "I never expected it. And my first year as captain. Our results this year have been..."
+    NATSUMI: "...put the rotation together..."
+    I go back to staring out the window. All of this baseball talk makes me nauseous for some reason.
+    I wonder what's going on back at Tohoku. Are they all reviewing the tournament schedule? Choosing who will travel with the team? 
+    Where's Jun right now? Graduated, I guess.
+    Not playing any more, I guess.
+    After I broke his jaw and gave him a compound fracture in his right eye... I guess.
+    Someone called Takeru did that.
+    Threw a pitch - 
+    MEIKO: "...should talk to Takeru about pitching. He could probably tell you all about Tohoku's program."
+    TAKERU: "Huh?"
+    Are my thoughts leaking out again?
+    MEIKO: "You went on a pitching scholarship, didn't you? If Natsumi wants to research how the big baseball schools are putting things together, wouldn't you be someone to talk to?"
+    TAKERU: "I..."
+    NATSUMI: "Hang on, you pitched for Tohoku? You told me you had nothing to do with baseball there! Didn't you say you were just a fan?"
+    TAKERU: "It, er..."
+    MEIKO: "Back home, Takeru was a legend at the pickup games. Takeru, did you know even after you left, everyone still talked about you?"
+    I feel like the past month has been a bubble that's been punctured and now I'm left to drown - that other Takeru should burn and die like Jun said why don't I just - 
+    NATSUMI: "Takeru! I don't care if things worked out with you and Tohoku or not. I've got to have the inside story. They're a top school you know! I could list all the pros that graduated from the team they got there."
+    TAKERU: "Go list them to someone else then. I don't have anything to say about Tohoku."
+    NATSUMI: "Sheesh. Have you always been this grumpy in the mornings?"
+    MEIKO: "Natsumi... I know you're excited about the tournament, but remember where we are. This is Mirako. If anyone wants to leave it all at the door, that's something we accept."
+    NATSUMI: "You're a killjoy, Meiko, I was just giving Takeru a hard time. Don't take it the wrong way. You don't have to do anything you don't want, Takeru. Yeah?"
+    TAKERU: "Yeah... Right."
+    Meiko with the save again.
+    As Mr. Kunida shows up and starts to unpack, Meiko stands and gives her daily state-of-the-class talk.
+    It's strange.
+    I would love to just leave everything outside and disown that previous Takeru that occupied this body, but there are these tiny strings holding me back. Tiny strings and one big giant knot named Meiko. Why does she have to know the old me?
+    Natsumi doesn't look at me for the rest of morning classes. Probably mad at me again.
+    Still the hairs on my neck rise. But when I turn around the only one watching me is Hikari, in silence from the back row.
+    She shrugs, then returns her gaze to the math lecture.
+    Which is strange. Because I could've sworn she wasn't there before.
+    I wanted to say I was done with all of these things - Tohoku, Jun, everyone's strange treatment of Hikari - but I can't shake this sort of paranoia that nothing's resolve and everything's just a shove away from collapse.
+    
+    
+    
+    
+    
     
