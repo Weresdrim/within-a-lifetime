@@ -228,7 +228,76 @@ label day12:
     MANA: "Hagami does the dialog! She's the best at it. It's super romantic! It'll make your heart melt."
     TAKERU: "Really...?"
     I try to look to Hagami to confirmation but she's apparently disappeared. Only the top of her head is visible behind that huge French book.
-    MANA: "Hagami, I'm really sorry, I'm not sure I can keep up with you...
+    MANA: "Hagami, I'm really sorry, I'm not sure I can keep up with you. I don't want to let you down, but..."
+    HAGAMI: "It's fine."
+    TAKERU: "You could offer a preview or something at the festival."
+    MANA: "I guess.
+    MANA: "But the real problem... Grr..."
+    MANA: "The real problem is that I've let the club down! We don't have our manga and we don't even have four members. And we don't do anything. All we do is hang around here and eat lunch!"
+    TAKERU: "Works fine for me."
+    HAGAMI: "Yeah. Same."
+    MANA: "You two are so unambitious. I'm going to find a way to turn the supernatural club into a real club."
+    TAKERU: "What, like a recruitment drive?"
+    MANA: "That'd be a good start... 'Come join our club and read awesome ghost manga?'"
+    TAKERU: "Er..."
+    MANA: "What's the matter?"
+    HAGAMI: "Well... Half of our club doesn't really go for that at all."
+    MANA: "Wait, half the club? I guess Takeru might not be interested but he's only a third of the club."
+    TAKERU: "Maybe Hagami's only half interested."
+    MANA: "Or maybe Takeru is half interested. Takeru, if you're into ghost boyfriends, or I mean even boyfriends in general I guess, let me know because - "
+    TAKERU: "Pass."
+    MANA: "Darn. That would've been cute."
+    TAKERU: "Don't you think what's cute or not is a little off topic?"
+    MANA: "Maybe! But I don't know what else to do. I'm at a loss here."
+    HAGAMI: "Maybe..."
+    HAGAMI: "Would you want to try another ghost hunt?"
+    MANA: "Ghosts! Yes! That's it! That's what a supernatural club should be doing. Hunting ghosts. Summoning ghosts!"
+    TAKERU: "I'm not so sure about - "
+    MANA: "That's why you're an initiate, Takeru, and Hagami is a master."
+    MANA: "Master Hagami, I'm really happy you're interested in going after ghosts again. This is just like... It's been so long."
+    I'm glad to see Hagami duck behind her book again. Serves you right, Hagami, dragging me into this nonsense again.
+    MANA: "Should we try the Mirako basements again? You hardly even came last time."
+    HAGAMI: "Hm... I thought maybe..."
+    HAGAMI: "Do you know that old building on the river? The ruin?"
+    MANA: "The um, old boathouse?"
+    HAGAMI: "You can sort of see it from the bridge. It looks like maybe it burned at one point."
+    MANA: "Yeah, it burned, but um..."
+    MANA: "Wow... Are you sure? There are rumors that that place is... haunted."
+    HAGAMI: "That's... the point?"
+    TAKERU: "As long as it's not going to fall into the water soon as anyone steps in there, fine by me."
+    My guess is we'd end up just poking around the outside of the place anyway.
+    While we're talking about this... I know Hagami will probably think less of me but I have to ask -
+    TAKERU: "So can I get a straight answer about what actually happened over there?"
+    MANA: "Um, I guess it burned down around this time last year, at the festival."
+    TAKERU: "Wait, during the Mirako school open house thing?"
+    MANA: "Yeah. That's the only school festival we've got."
+    MANA: "It was a whole thing last year. Something happened with the fireworks and, I don't know, the old boathouse caught fire."
+    TAKERU: "Is that what that is? A boathouse?"
+    MANA: "Yeah. My uncle said Mirako owns it, but it's not like we've had a rowing team for years and years. It was part of the original land donation to found the school. But that was way back."
+    TAKERU: "Your uncle... So Mr. Kunida knows about it."
+    TAKERU: "Meiko was saying they cancelled the fireworks this year anyway."
+    MANA: "Really? That sucks... But I guess it makes sense."
+    TAKERU: "Yeah, I guess, if there was an accident."
+    TAKERU: "Then again..."
+    Who actually cancelled the fireworks?
+    Last week... it's fuzzy, but wasn't it Mr. Kunida asking Meiko if she was sure about calling off the fireworks? Why would she be involved? Wouldn't the teachers just cancel things and be done with it?
+    MANA: "No fireworks... No Seiji first edition... Maybe this festival we'll just have to spend recruiting to Mirako's premier ghost hunter society!"
+    HAGAMI: "Then... you're coming?"
+    MANA: "Coming to the first ghost hunt organized by Master Hagami? For sure!"
+    MANA: "You could've chosen someplace less haunted to start with but I wouldn't miss it for the world!"
+    MANA: "I've got some great ideas already. Takeru, can you please please talk to your friend about the deadline for clubs at the festival again? We could advertise as the ghosthunter club, and then maybe wear the robes to - "
+    TAKERU: "No robes. My condition is no robes."
+    MANA: "Then what's the point of ghost hunting?"
+    HAGAMI: "Finding ghosts?"
+    MANA: "The ghosts are secondary! Well I mean it depends on the ghost. If it's a cute ghost then - "
+    HAGAMI: "Well... what would you do if you found one?"
+    MANA: "Exorcism! Or wait... Is that cruel to the ghost? And exorcising cute ghosts would be too much... Aaah!"
+    I'm left to follow this absurd non-argument between Mana and Hagami, or more accurately, between Mana and herself, with Hagami prodding her along the way.
+    It's completely nonsensical but it's a lot more entertaining than the earlier silence. It's good to have Mana back.
+    
+    
+    
+    
     
     
     
