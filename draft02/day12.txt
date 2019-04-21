@@ -466,7 +466,7 @@ label day12:
     NATSUMI: "One who studies eggs."
     TAKERU: "Why would you even bring that - "
     TAKERU: "Oh no, you've been talking to Kenta."
-    NATSUMI: "Did you know that oology has been an established science since the 19th century? It's more a collector's thing now but - "
+    NATSUMI: "Did you know that oology has been an established science since the nineteenth century? It's more a collector's thing now but - "
     TAKERU: "Nope. Don't care. Whatver demon contract you signed with Kenta, I want nothing to do with it."
     NATSUMI: "Let's just say that the mind of Kenta and Kenta-like numbers people across the prefecture are now all working for the glory of Mirako baseball."
     TAKERU: "Fantastic."
@@ -514,3 +514,92 @@ label day12:
     Actually if she had tried some blackmail scheme like Natsumi or talked my ear off for an hour like Kenta I'd chuck this thing into the river right now, but for now...
     Can't hurt to carry it around.
     
+    I need to find a real club or something else to do after school. On days when Hikari decides not to show up, there's nothing for me to do but hang around in the common room.
+    At least I can sort of be productive.
+    Maybe two hours after the end of school, there's a wave of activity as club members trickle in. Then as the sun sets, the baseball team enters.
+    I try to make myself scarce... Still they make me uncomfortable and I can't pinpoint why.
+    After a quick meal, the dorms really are quiet. I'd normally expect to see Hagami reading by her spot in the corner, but she must've turned in early today. The only ones here are me, at my table, and Kenta at the PC.
+    I'm thinking it's time to call it a day when Kenta apparently has the same thought, and rises.
+    KENTA: "Oh, good evening."
+    TAKERU: "Good evening, Kenta."
+    KENTA: "How long have you been there?"
+    TAKERU: "Here? I've been sitting here all day."
+    KENTA: "I must not have noticed."
+    TAKERU: "Some days I'd honestly be more surprised if you did notice... Not that I've been doing anything really."
+    KENTA: "What is... that?"
+    He points at Hagami's loaner book, jumbled in with my homework and textbooks. I really should leave that thing face down.
+    TAKERU: "Oh you know. Just studying up. I've decided to become a professional occultist."
+    KENTA: "A professional... I..."
+    KENTA: "You can't be a professional occultist. Being a professional implies someone pays you. And being an occultist implies there is any legitimate about the occult. Which there is not."
+    TAKERU: "I'm thinking of founding the school supernatural club but we're a member shy. Does this mean you're not interested?"
+    KENTA: "I'm offended that you'd even suggest that."
+    TAKERU: "Ah, right, I forget you're going to be tied up with that baseball statcrunching stuff with Natsumi..."
+    TAKERU: "I don't know what you've been saying to her but she's going to become a professional oologist now."
+    KENTA: "You can't be a professional oologist either. It's a hobbyist position exclusively. Unless you want to timetravel to the nineteenth century, and I doubt you can do that at all."
+    KENTA: "Everyone is acting irrationally today. It's annoying."
+    TAKERU: "I'm sorry Kenta, I'm just messing with you. The book's just something I borrowed. And Natsumi's not planning anything with eggs."
+    TAKERU: "At least I don't think. It's hard to tell sometimes."
+    KENTA: "It's always hard to tell if you're being serious with me or not."
+    TAKERU: "Sorry, sorry. In the future just assume I don't have anything meaninful to say."
+    KENTA: "When I make that assumption people tend to get angry."
+    TAKERU: "I guess I see your point..."
+    KENTA: "Have a good night then. Before I sleep I'm planning on reorganizing the display cases to make room for tomorrow's shipment, so please talk to me if you want to find socks or pants tomorrow."
+    TAKERU: "Yep. Will do. Good night, Kenta."
+    KENTA: "Good night."
+    I stare at the Modern Science-Key even after he's gone.
+    ...Well, why not? I flip to a random page.
+    TAKERU: "'...in persisting to present the preceding circumstance as a manifestation, M.Babinet left the Academy of Sciences without a refutation of this phenomenon of sphere-shaped lightning, as in questions of testimony, certitude must...'"
+    This was clearly written by sadists for sadomasochists, in that I can't find any purpose in it than inflicting pain on whoever reads it.
+    Even when I start at the beginning, the most I can understand is that this is some book about cults who worshipped books possibly about other cults.
+    Somewhere between flipping the first few pages back and forth, I drift off.
+    
+    I drift into... well... It's not a memory exactly.
+    If I remember correctly, it's the last practice of the year. It's Tohoku Highschool, so baseball is a big enough deal where - 
+    Everyone around me looks so small. Insects. Some of them might as -
+    I've drifted right back here again dammit.
+    How many times am I going to remember this? No, it's not a memory exactly - how many times am I going to relive this?
+    Jun's up to bat. Right, what was I supposed to do? Did I have a choice here?
+    No.
+    Fastball, aim for the jaw. Fastball, aim for the jaw. Fastball, aim for the jaw.
+    A little off target but fine.
+    The first crunch should be palatine bone, followed by a fracture in the maxillary bone. Bones heal, although this would end anyone's season. Bones heal but it's really the eye damage that will end up finishing his career before it even starts.
+    I guess this is also the end my would-be career. Somehow I'm up at home plate while Jun falls.
+    I remember something Hikari mentioned.
+    That the past might be flexible.
+    But this isn't "flexible" of course. If I wasn't standing over an injured Jun right now I'd never have ended up in the hospital and from there the sports clinic and from there the psych ward and from there Mirako and -
+    I think it's Hifumi who hits me first? He's not the one with the bat though. It's the bat that breaks - 
+    Ah, right. The bat is what breaks my humerus. Plus a fractured radius, but that's not as important.
+    In retrospect it's obvious the team would defend their beloved captain from, well... someone like me. Why else would I end up in the hospital in the first place?
+    It's mostly kicks from then on. Funny, watching it from here. The pain is removed like I've slunk out of my body and I'm cheating by watching it from the far end of this tunnel from which there is a light, light switched on -
+    ...Switched.
+    HAGAMI: "Ah!"
+    TAKERU: "Hagami!"
+    She's standing in the entryway.
+    I'm...
+    Right. I'm at Mirako. Common room. Must be midnight?
+    TAKERU: "Sorry to startle you, I..."
+    TAKERU: "What are you doing out this late anyway? Isn't there a curfew?"
+    HAGAMI: "Yes, but, um..."
+    HAGAMI: "Nothing. I was just at school."
+    TAKERU: "At school?"
+    I thought Hikari was the only one around haunting that place this late.
+    HAGAMI: "Are you alright? You're..."
+    TAKERU: "Oh. I guess I'm sweating."
+    TAKERU: "I'm fine. Just a..."
+    Not quite a dream. Not quite a memory.
+    TAKERU: "Yeah, I'm fine, so you can forget about this. I'm okay."
+    HAGAMI: "You..."
+    She won't look at me.
+    HAGAMI: "If you need to... talk to..."
+    HAGAMI: "Okay. Good night."
+    Vanished.
+    I sit up straight in my chair and start to put together the mess of paper and textbooks that I've piled up all evening. The light is painful.
+    My whole evening routine is painful. Not to mention the injury to my pride having Hagami walk in on some dumb nightmare I was having the common room. I don't even care enough to wonder what she's still doing up.
+    Stupid. Why do I have to keep going through this? What is the point of anything anyway?
+    Before I sleep I stare hard at that small, innocent bottle containing two hundred doses of what's billed as an antipsychotic. And is currently causing me to lucid-dream and imagine that I can...
+    TAKERU: "...change the past."
+    TAKERU: "Change..."
+    A stupid idea. That's the sort of thing I'm sure the Academy of Pseudosciences would be covering in Hagami's occult handbook. That's what caused it, probably. Maybe?
+    Whatever. I take a pill and head off for a night's sleep. Hopefully dreamless.
+    
+    jump day13
