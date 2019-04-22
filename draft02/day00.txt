@@ -117,3 +117,4 @@ label day00:
     At about the tenth flip I stop caring about where I'm going. Mirako's as good as anyplace else. It doesn't matter where I'm going, I just want to get out of this gray purgatory that I'm trapped in now.
     
     jump day01
+    
