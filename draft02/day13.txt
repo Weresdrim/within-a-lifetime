@@ -1,0 +1,50 @@
+label day13:
+
+    Sunday classes slide by.
+    I could be sleepwalking. There's certainly nothing interesting in Kunida's class to hold my attention.
+    Really the only things to note are that Meiko doesn't seem to anywhere to be found (weren't we getting lunch today?) and that Natsumi seems to actually be taking notes (possibly a sign of the apocalypse).
+    Uusually she's just as rigorous as me about paying attention, but today she's constantly scribbling in a large, bound notebook. This continues all day through shortly after noon, when classes let out.
+    TAKERU: "You're pretty enthusiastic about math today."
+    NATSUMI: "Enthusiastic about... Math?"
+    TAKERU: "The notebook."
+    NATSUMI: "Oh this. Heheh."
+    TAKERU: "That's about the most evil laugh I've ever heard."
+    NATSUMI: "This is the first research report from Kenta. He had this thing ready this morning? Can you believe it?"
+    TAKERU: "So... you've just been scheming, not actually taking notes."
+    NATSUMI: "Hell no. You should know better than that. If I look like I'm having a good time with trigonometry then I've been replaced with an imposter Natsumi from another timeline."
+    TAKERU: "I wonder..."
+    TAKERU: "Where's Meiko, anyway?"
+    NATSUMI: "Why are you always asking about her?"
+    TAKERU: "We were supposed to meet up is all."
+    NATSUMI: "Oh. Hm..."
+    She glances around the room.
+    Everyone is slowly filtering out in the lazy summer afternoon. But there's still no sign of our class rep.
+    NATSUMI: "She was here this morning to give her pep talk but I guess she gave us the slip."
+    NATSUMI: "Probably had some appointment or errand to run or award to receive or something. You know how it is with her."
+    TAKERU: "I guess..."
+    Not keeping an appointment though?
+    KENTA: "Good afternoon."
+    TAKERU: "Hey Kenta. Good afternoon."
+    But Natsumi practically elbows me out of the way.
+    NATSUMI: "Hey! Kenta, who's Matsuyama High going to be starting? Their entire rotation is blank here."
+    KENTA: "Well I don't know."
+    NATSUMI: "Aren't you friends with their stats guy?"
+    KENTA: "No. I am explicitly not friends with him. Last year I traded him my copy of the 1979 stats book and the editions he sent in return were clearly damaged."
+    NATSUMI: "Well I need you to be friends with him!"
+    KENTA: "That's not in our terms."
+    NATSUMI: "Hey Takeru, can I still get you to call in that favor on Kenta?"
+    TAKERU: "Nope. Leave me out of this."
+    NATSUMI: "I'll let you copy all the math notes you want."
+    TAKERU: "Nice try but you already admitted you weren't actually taking notes today."
+    NATSUMI: "Oh. Right. Damn."
+    KENTA: "Fine. I'll message this Matsuyama contact of mine. But you'll show up tomorrow. On time."
+    NATSUMI: "Great. Amazing! Of course I'll be there. Takeru, you're going to be there too, yeah?"
+    TAKERU: "Where?"
+    KENTA: "The egg - "
+    TAKERU: "Nope sorry I'm booked all day."
+    NATSUMI: "Come onn, Takeru. You're no fun."
+    TAKERU: "See you guys later."
+    I wander off but I'm not particularly sure where I'm headed.
+    My hope was to wait around homeroom to see if Meiko showed up, but I guess she must've forgotten we had anything planned.
+    Where would she be if she were here but not in class? The council room? The teachers' office? Not really places I'd want to hang around
+    
