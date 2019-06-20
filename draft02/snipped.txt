@@ -64,31 +64,3 @@
 
 
     MANA: "Should we try the Mirako basements again? You hardly even came last time."
-    HAGAMI: "Hm... I thought maybe..."
-    HAGAMI: "Do you know that old building on the river? The ruin?"
-    MANA: "The um, old boathouse?"
-    HAGAMI: "You can sort of see it from the bridge. It looks like maybe it burned at one point."
-    MANA: "Yeah, it burned, but um..."
-    MANA: "Wow... Are you sure? There are rumors that that place is... haunted."
-    HAGAMI: "That's... the point?"
-    TAKERU: "As long as it's not going to fall into the water soon as anyone steps in there, fine by me."
-    My guess is we'd end up just poking around the outside of the place anyway.
-    While we're talking about this... I know Hagami will probably think less of me but I have to ask -
-    TAKERU: "So can I get a straight answer about what actually happened over there?"
-    MANA: "Um, I guess it burned down around this time last year, at the festival."
-    TAKERU: "Wait, during the Mirako school open house thing?"
-    MANA: "Yeah. That's the only school festival we've got."
-    MANA: "It was a whole thing last year. Something happened with the fireworks and, I don't know, the old boathouse caught fire."
-    TAKERU: "Is that what that is? A boathouse?"
-    MANA: "Yeah. My uncle said Mirako owns it, but it's not like we've had a rowing team for years and years. It was part of the original land donation to found the school. But that was way back."
-    TAKERU: "Your uncle... So Mr. Kunida knows about it."
-    TAKERU: "Meiko was saying they cancelled the fireworks this year anyway."
-    MANA: "Really? That sucks... But I guess it makes sense."
-    TAKERU: "Yeah, I guess, if there was an accident."
-    TAKERU: "Then again..."
-    Who actually cancelled the fireworks?
-    Last week... it's fuzzy, but wasn't it Mr. Kunida asking Meiko if she was sure about calling off the fireworks? Why would she be involved? Wouldn't the teachers just cancel things and be done with it?
-    MANA: "No fireworks... No Seiji first edition... Maybe this festival we'll just have to spend recruiting to Mirako's premier ghost hunter society!"
-    HAGAMI: "Then... you're coming?"
-    MANA: "Coming to the first ghost hunt organized by Master Hagami? For sure!"
-    MANA: "You could've chosen someplace less haunted to start with but I wouldn't miss it for the world!"

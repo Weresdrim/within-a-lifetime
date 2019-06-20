@@ -204,5 +204,18 @@ label day13:
     MANA: "Coming to the first ghost hunt organized by Master Hagami? For sure!"
     MANA: "You could've chosen someplace less haunted to start with but I wouldn't miss it for the world!"
     
+    We end up calling it a day about the same time classes would let out anyway.
+    I walk back the familiar hall to the entrance as Mana chatters to Hagami next to me.
+    MANA: "...and I'll ask Uncle about the camera."
+    HAGAMI: "Camera?"
+    MANA: "Yeah! We need some pictures of us out there if we're going to be advertising at the festival."
+    TAKERU: "Maybe keep me out of those pictures."
+    MANA: "That's no fun. But how about..."
+    HAGAMI: "You could pretend to be a ghost! And then we could stage some action shots, like Hagami, um, throwing garlic at you, or - "
+    TAKERU: "One: I'm pretty sure garlic is for vampires, and, two: vetoed. I'm not pretending to be a ghost or a vampire."
+    HAGAMI: "Then, well... I can bring the garlic anyway. In case you choose your mind."
+    TAKERU: "If you start pelting me with vegetables while we're in the middle of an abandoned building, I'm leaving on the spot. Just jumping out the window and into the river."
+    We pass our now-empty homeroom. It's lucky that no one's around to hear this non-conversation, but at least 
+    
     
     
