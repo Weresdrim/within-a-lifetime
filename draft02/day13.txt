@@ -292,7 +292,74 @@ label day13:
     HIKARI: "I don't really feel like playing at the moment. I'll concede."
     TAKERU: "Concede? You mean it's a tie?"
     HIKARI: "Technically you win."
-    Then this must be something pretty serious.
+    TAKERU: "Then this is something serious."
+    HIKARI: "Ha... I must be out of practice. Have I really gotten that bad at hiding what I'm feeling?"
+    TAKERU: "Well, if I had to guess... Now you just seem kind of angry."
+    HIKARI: "Of course I am. I'm mad at myself. I'm supposed to be above all this... drama. And now apparently I've been rattled enough that the least perceptive person I know can tell."
+    TAKERU: "Look, I'm not arguing with you that I'm a little slow to pick up on things sometimes, but you don't have to put it like that."
+    HIKARI: "No, no I don't."
+    HIKARI: "Hold on a moment."
+    She closes her eyes and inhales from the tea. When Hikari reopens her eyes, her face is level.
+    HIKARI: "I apologize."
+    HIKARI: "I think I'm starting to lose myself a little. You're the only person I've really talked to in a long time and it's starting to show."
+    TAKERU: "I'm not sure how I can help. If you want to stop lurking around down here and come hang out with Hagami and Mana and me, I'm sure they wouldn't mind. Hagami would probably love to - "
+    HIKARI: "And your other friend, Mana, won't acknowledge that she's ever met me."
+    TAKERU: "That..."
+    TAKERU: "Right."
+    HIKARI: "If you want to help, just... Keep telling me about Mirako, about how the festival preparations are coming, about class, about what's going on every day."
+    HIKARI: "Even if it seems boring. You are my eyes and ears."
+    TAKERU: "Boring. Well uh..."
+    I guess the last time Hikari and I really met up like this was Thursday. Not much has happened since."
+    TAKERU: "Yeah it really is boring."
+    HIKARI: "Maybe in your mind. I've lived in Shizukawa all my life, but you haven't even been here two weeks."
+    HIKARI: "You're getting used to the country?"
+    TAKERU: "I guess."
+    HIKARI: "And Mirako? And... everyone in class? Hagami?"
+    TAKERU: "I thought Hagami only came to Mirako this year, like me. You know her?"
+    HIKARI: "Not really. That's why I'm asking. What are you two up to?"
+    TAKERU: "We're not up to anything. I told you she put in that weird request to perform at the festival, right? But beyond that..."
+    HIKARI: "She seems like she things a lot of you. Are you sure that's all?"
+    HIKARI: "..."
+    HIKARI: "Why are you laughing?"
+    TAKERU: "Because two minutes ago you said you wanted me to see you as above all of this little stuff... And now you're drilling me on what I think of my lab partner, and pouting about it."
+    HIKARI: "You're implying something. I don't like it."
+    I really couldn't explain why I'm laughing. 
+    HIKARI: "It... Sometimes it's hard for me to really understand what's going on with all of you in Mirako second year. Most of the time I want to give up trying to work it all out."
+    HIKARI: "For the record, sometimes I can relate to you, as a new student, and it makes me still interested in all the small gossip and whatever else. As a high school girl, it's healthy for that to be the sort of thing I'm into, isn't it?"
+    TAKERU: "Hell if I know."
+    HIKARI: "Then I'm deciding that it's healthy. Queen, A2."
+    TAKERU: "The game's back on then?"
+    HIKARI: "I've decided you don't deserve to win, so, yes. Queen, A2."
+    TAKERU: "Merciless..."
+    HIKARI: "If you want mercy, then let's hear what's been happening at Mirako these past few days."
+    It's really not much.
+    What, we planned a ghost hunt? (while I explain this, I lose a knight)
+    My roommate decided that bug collecting wasn't obnoxious enough and switched to egg collecting? (the one pawn I cared about gets eaten by Hikari's queen)
+    I keep getting pestered about Mirako's baseball team? (my king is hopelessly trapped in the back row)
+    HIKARI: "Checkmate."
+    TAKERU: "...I'm not really convinced this wasn't just your strategy to salvage a win on the chessboard."
+    HIKARI: "If I really wanted to win that badly, I wouldn't have had mercy on you from the start."
+    TAKERU: "Fair."
+    TAKERU: "I guess there was only one other thing that happened, but..."
+    Which would be that dream.
+    There's a pain in my upper arm. It was only a dream, wasn't it?
+    HIKARI: "Now you're the one looking confused."
+    TAKERU: "Well I never tried to deny I was all out of sorts."
+    TAKERU: "It happened again. My memory playing tricks."
+    I want to say, "and you were the one who suggested that the past could change..."
+    ...but I'd sound insane.
+    Instead:
+    HIKARI: "Have you considered a bit more what I said?"
+    HIKARI: "That the past is flexible?"
+    TAKERU: "Maybe. I remembered something."
     
+    Was it really possible that this isn't a memory?
+    Me, here, up at a practice at Tohoku I've seen a million times before?
+    The ants, the other players, the fans, the other irrelevant details, Jun up to bat...
+    I stood here last night wondering if I had a choice.
+    Throw this fastball. Break half a dozen miniscule bones in Jun's skull. Shatter the illusion that I was ever in my right mind.
+    Get beaten.
+    Hifumi with the bat. Can I still even throw correctly? Did I ever bother to try after today?
+    After today after this pitch specifically after my decision at this moment
     
     
