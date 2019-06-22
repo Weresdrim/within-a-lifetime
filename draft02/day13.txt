@@ -571,11 +571,13 @@ label day13:
     
     if d13_changed_past:
         Hm.
+        Walking alone, back down the road..
         I wonder, about that memory I used to have, of Jun.
         It feels like I should be able to just ask anyone off the street, "Hey! Did I really flip out and put my own team captain in the hospital?"
         Just like I should be able to ask, "Hey! Why won't you acknowledge that our classmate exists? That you met her before today and she's gone to school with you for a year."
-        I'd look like a lunatic.
-        Besides, I have answers now.
+        Someone wearing the Mirako uniform walks by, headed the opposite direction.
+        I'd look like a lunatic, ambushing them, asking question like that.
+        Anyway, this is the first time where I can confidently say that I have answers.
         
     else
         Hm.
