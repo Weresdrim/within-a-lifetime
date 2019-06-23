@@ -595,4 +595,5 @@ label day13:
     As hard as I try not to look downriver at the ruin, I still know it's there, hanging precariously over the water.
     There's just something about Hikari that doesn't click and maybe I'm losing it after all.
         
+    jump day14
     

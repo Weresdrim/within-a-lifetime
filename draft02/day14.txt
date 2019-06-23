@@ -1,0 +1,21 @@
+label day14:
+
+    Sunday.
+    My one and only chance to sleep in...
+    At least in theory.
+    There's someone bellowing right outside the door. Or throwing bricks. Or something.
+    TAKERU: "Please just shut up..."
+    Voices, ones I recognize.
+    The usual suspects...
+    Every time I get a half-decent night's sleep, why does it always have to be interrupted by Natsumi - 
+    Hang on, what is Natsumi doing here?
+    TAKERU: "What the - "
+    NATSUMI: "Oh, look who's up. Great! Here, Takeru hold this."
+    TAKERU: "Ow, that's heavy. I'm still in bed, don't just drop stuff on me."
+    TAKERU: "What are you even doing in here?"
+    KENTA: "Helping me. I did tell you about this, you remember."
+    TAKERU: "No, I don't. Is she even allowed to be in here?"
+    NATSUMI: "Well I mean no one stopped me."
+    NATSUMI: "Here, can you hold this too?"
+    TAKERU: "No, I'm not even - oof!"
+    NATSUMI: "Thanks! We're still trying to even get the fridge installed in here so it's gonna be a long morning I think. It'll go faster with three people."
