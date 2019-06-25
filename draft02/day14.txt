@@ -165,8 +165,10 @@ label day14:
     She drops an overstuffed backpack onto the table. I notice a first aid kit stuffed into a pocked on one side, and on top, a flashlight bigger than Kenta's max watt model.
     TAKERU: "I really didn't need to bring anything, did I?"
     HAGAMI: "If I'm the one supposed to be organizing, then... I don't want us to miss anything."
-    TAKERU: "Right."
+    HAGAMI: "If someone gets hurt, or we need to... break in."
+    TAKERU: "Right. Is that a crowbar?"
     I don't think I was really thinking about it but this could be kind of dangerous, couldn't it? Wouldn't it make sense for the ruin to be condemned or something?
+    And hang on, "break in?" Is Hagami going to prove Kenta right?
     After the first "ghost hunt" I figured we'd be just be hanging around outside it or something else lame but the way Hagami's equipped, it seems like - 
     Thwanck. Again. What is going on out there, batting practice? Annoying. Very annoying.
     HAGAMI: "Are you...?"
@@ -177,6 +179,90 @@ label day14:
     HAGAMI: "I mean... Do you miss baseball?"
     TAKERU: "Yeah all the.. I mean, no, I could never... Who told you anything about that?"
     HAGAMI: "Sorry. I wasn't thinking before asking something like... that."
+    I mean, what can I say? I don't even know how I feel myself. On the one hand, after talking to Hikari yesterday, there's no denying I'd do some pretty out-there things to do back to my old life.
+    That just hinges on my old life being anything like I remember it. Surely I can... change that, can't I?
+    Should I?
+    If so, how?
+    It should be doable. Doesn't the letter keep changing on me? And Jun himself? Or Meiko? Meiko's ribbon?  Or -
+    Hagami's eyeing me a little strangely.
+    MANA: "Hey! Hey guys! Sorry I'm late!"
+    HAGAMI: "Hi Mana."
+    MANA: "Oof!"
+    TAKERU: "Are you alright?"
+    She drops a giant basket to the table, right next to Hagami's giant backpack.
+    MANA: "Sorry, sorry, it took me longer to get here because I was carrying all this stuff."
+    TAKERU: "You know you're going to have to carry all that down to the water, right?"
+    MANA: "Umm..."
+    TAKERU: "What even is all that?"
+    MANA: "I made everyone lunch, for one thing! Or dinner I guess."
+    TAKERU: "I thought this was a ghost hunt, not a field trip."
+    HAGAMI: "Field expedition."
+    TAKERU: "Who are we even kidding at this point..."
+    MANA: "It'll be fun, so who cares what it's called?"
+    HAGAMI: "We should... probably get moving. So we can walk while it's still light out."
+    MANA: "Please can I just catch my breath? All of this is really heavy!"
+    TAKERU: "Don't you take a bus up here?"
+    MANA: "Yeah but I still had to walk from the bus stop to - "
+    TAKERU: "Never mind. Hold this flashlight and I'm carrying the basket."
+    MANA: "Thanks Takeru!"
+    TAKERU: "I'd feel like an idiot just carrying that when you both came prepared for... I don't know, a school picnic and the apocalypse, respectively."
+    MANA: "You'll thank me when you're hungry!"
+    HAGAMI: "And you'll thank me when the world ends."
+    Once I get the hang of this revisionist history thing I'm going to choose to remember a timeline where I'm not the butt of every joke.
+    
+    There's a dirt trail leading off the road just before the Shizukawa bridge. Hagami and I pass it every day on the way to Mirako, so there's no way we'd miss it.
+    But I'd expected the path to be just that - a path. It turns out, once we leave the road and descend down to water level, the woods that surround the river take over. The path is more like a trail.
+    I'd guessed the old boathouse wasn't more than a mile from the bridge, but that estimate might've been off. At any rate, the route we're taking isn't straight and more than once there's a tight turn around some overhang into the river.
+    TAKERU: "Ha... Ha..."
+    TAKERU: "What kind of boathouse do you have to hike to? Why didn't they just build it on the road?"
+    MANA: "No one had used it in forever, even before it burned down. They built the road after the boathouse was already up, I think."
+    TAKERU: "Then why did this backwards school own it in the first place?"
+    MANA: "Dunno. I'll ask my uncle sometime. But if you read the big plaque in the school lobby it says all about the family who donated the land and the original building and all."
+    TAKERU: "Right... They're the ones to blame for building a school into a mountainside labyrinth..."
+    There's another sharp curve and I almost slip. A few pebbles tumble down the slope.
+    TAKERU: "Not that it looks like there's any better place to building anything in this backwoods."
+    HAGAMI: "Are you alright?"
+    TAKERU: "I'm fine, just out of shape."
+    TAKERU: "And Mana, you chose about the least convenient container for all this. Why couldn't you have packed a backpack like Hagami..."
+    MANA: "I thought boys were supposed to be grateful when you brought them food, and all you do is complain, complain, complain."
+    TAKERU: "Well, you brought food, and what feels like half the old library reference collection. Seriously, what is in here?"
+    MANA: "Why don't we just stop here and take a break? We can eat, and I can you guys what I found."
+    TAKERU: "Sounds good."
+    I drop the basket with a whump onto a tree stump.
+    Tree stump? None of the rest of the woods around here is clear, but...
+    HAGAMI: "Looks like it's a clearing."
+    TAKERU: "Yeah."
+    MANA: "And not a bad view!"
+    From the water's edge, the bridge is barely visible. We really did walk a ways.
+    And in the other direction...
+    Only a blackened balcony is visible above the trees. But I can hear wood creaking the wind. We can't be too far off.
+    MANA: "Here, Hagami, that's yours. And for you, Takeru."
+    A sandwich. Not bad, but not much of a dinner... I was sort of expected a bit more considering the weight of the basket I lugged all the way out to this spot.
+    MANA: "But this! This is the main attraction."
+    Mana pulls out an entire bed's worth of sheets from the basket, followed by a worn cardboard box. She fiddles with packing tape at the edges, where the paper has almost dissolved into dust. Finally she raises up...
+    MANA: "A camera!"
+    TAKERU: "That's, er, quite the antique."
+    I didn't see an older gadget today than Kenta's ancient fridge, but this camera is pre-war for sure. The whole thing is a beige box of right angles and faded metal etchings. And all the weight I've been carrying is from the film box and additional lenses that Mana continues to unwrap.
+    HAGAMI: "You found it?"
+    MANA: "My uncle had it in the back room. It wasn't even too hard to find. I'm glad you remember it though!"
+    TAKERU: "I know for a fact Kenta owns a camera I could've borrowed, in case you're looking for something a little more modern."
+    MANA: "But that's the point!"
+    TAKERU: "...and a lot lighter. Who still uses manual film? Don't you have to get that stuff developed?"
+    HAGAMI: "The film... it's..."
+    HAGAMI: "Have you ever seen ghost photography?"
+    TAKERU: "No."
+    HAGAMI: "All the old occultist societies used to experiment with these techniques that need film, like..."
+    HAGAMI: "If I took half a picture, and for half of the exposure, you were in the frame... And half the exposure you were out of frame..."
+    TAKERU: "I have no idea how a camera that old actually works."
+    HAGAMI: "You'd have a photograph where you were transparent. A ghost-Takeru."
+    HAGAMI: "Mana and I used to try things like that, but... We never did get any real results."
+    MANA: "Yeah, that's why I brought all the sheets, too! I bet we can stage some great shots!"
+    TAKERU: "So this is more like a ghost glamour shoot than a ghost hunt?"
+    MANA: "Well if we see any actual ghosts then we're still prepared! And if not, then this sheet will look stunning on you."
+    TAKERU: "I'm not wearing anything!"
+    MANA: "Calm down, calm down. You're gonna have to learn to use the camera then, though."
+    TAKERU: "That's fine. It can't be that hard, can it?"
+    
     
     
     
