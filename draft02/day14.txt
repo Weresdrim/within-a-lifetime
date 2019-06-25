@@ -151,4 +151,33 @@ label day14:
     KENTA: "If you end up vandalizing something I'm still telling the police."
     TAKERU: "I'm not vandalizing anything!"
     
+    For simplicity's sake, we've agreed to meet at the school.
+    It's a little earlier than we scheduled the last ghosthunt, if only because I don't feel like trying to walk through the woods alongside the Shizukawa just by flashlight. (Mana would probably fall in)
+    The picnic tables out front are empty, but one or two students pass through the main doors. Probably they're here for weekend club meetings, or maybe -
+    There's that thwank again, echoing from the field back behind the school somewhere.
+    ...here for weekend meetings or practices.
+    Can't the baseball season just be over already? Why do I keep wincing at that noise? Didn't I erase all that? Nobody attacked me I imagined it then why do I keep -
+    Never mind.
+    I'm about to take a seat when Hagami emerges from the school, waving.
+    TAKERU: "Hi. You beat me here."
+    HAGAMI: "Sorry, I was waiting inside. It's hot out and this is... heavy."
+    TAKERU: "What all did you pack?"
+    She drops an overstuffed backpack onto the table. I notice a first aid kit stuffed into a pocked on one side, and on top, a flashlight bigger than Kenta's max watt model.
+    TAKERU: "I really didn't need to bring anything, did I?"
+    HAGAMI: "If I'm the one supposed to be organizing, then... I don't want us to miss anything."
+    TAKERU: "Right."
+    I don't think I was really thinking about it but this could be kind of dangerous, couldn't it? Wouldn't it make sense for the ruin to be condemned or something?
+    After the first "ghost hunt" I figured we'd be just be hanging around outside it or something else lame but the way Hagami's equipped, it seems like - 
+    Thwanck. Again. What is going on out there, batting practice? Annoying. Very annoying.
+    HAGAMI: "Are you...?"
+    TAKERU: "I'm fine."
+    HAGAMI: "..."
+    HAGAMI: "Do you miss it?"
+    TAKERU: "What?"
+    HAGAMI: "I mean... Do you miss baseball?"
+    TAKERU: "Yeah all the.. I mean, no, I could never... Who told you anything about that?"
+    HAGAMI: "Sorry. I wasn't thinking before asking something like... that."
+    
+    
+    
     
