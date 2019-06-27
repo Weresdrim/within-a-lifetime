@@ -500,7 +500,9 @@ label day14:
     MANA: "Oh. Um, alright."
     MANA: "Um, do you mind dropping off the basket in the library? I don't want to bring it on the bus."
     TAKERU: "Sure. Fine."
-    MANA: "Alright. I'm gonna run and see if I can't catch the last bus. This was fun, thanks Hagami!"
+    MANA: "Here's the key. Don't lose it or my uncle will kill me."
+    HAGAMI: "Alright."
+    MANA: "I'm gonna run and see if I can't catch the last bus. This was fun, thanks Hagami!"
     MANA: "And Takeru, I hope it wasn't too much trouble..."
     TAKERU: "No, it was great."
     MANA: "Um, okay. I hope so. Have a good night."
@@ -524,8 +526,83 @@ label day14:
     HAGAMI: "Eep!"
     MEIKO: "I knew it. I knew it! Takeru!"
     TAKERU: "Meiko? What're you even doing here this late? Do you really need to shout? I mean - "
-    MEIKO: "You! Don't talk to me about late it is. What gives you the right to wander around here at all hours after, after..."
+    MEIKO: "Don't talk to me about late it is. What gives you the right to wander around here at all hours after, after..."
     MEIKO: "You."
     HAGAMI: "M-me?"
     MEIKO: "Get out of here. This is between Takeru and me."
+    HAGAMI: "Um..."
+    MEIKO: "Go!"
+    TAKERU: "Meiko, what's with you?"
+    MEIKO: "What were you doing down there?"
+    TAKERU: "Where?"
+    MEIKO: "The boathouse. I know you know what I'm talking about."
+    TAKERU: "It, er... It's complicated."
+    Not complicated, I guess, but how am I supposed to explain a ghost hunt to Meiko?
+    MEIKO: "I give up. I have to know. Is your soul purpose in life to hurt me? Do you just wake up every morning and brainstorm a thousand ways to drive me crazy? You have to be acting. I know you're acting!"
+    TAKERU: "Calm down. What's with you tonight?"
+    MEIKO: "I'm done tiptoeing around, Takeru. So congratulations, you won. You got a rise out of me. Isn't that what you've been looking for this whole time you've been here?"
+    TAKERU: "What are you even talking about? Look, Meiko, I owe you a lot but you can't blame me for getting annoyed if you start yelling at me out of nowhere."
+    MEIKO: "You can drop the charade. I saw you down there at the river, just clowning around like the whole place wasn't - "
+    MEIKO: "You're the one that keeps bringing her up name, just to needle me. Don't think I don't notice. And then to go down there, just to, to..."
+    TAKERU: "I have no idea what you're even trying to imply here."
+    MEIKO: "What was yesterday, then? You should her name, then take off down the hall?"
+    MEIKO: "This is ridiculous, why do I even humor you..."
+    TAKERU: "Are you talking about Hikari?"
+    MEIKO: "Yes! Obviously! Stop playing around. You need to cut it out. Just... Stop. I was willing to put up with a lot, I thought you were just new, confused, but I should've known better, after all you've put me through..."
+    TAKERU: "You're the one playing around. Look, I don't care if there's some feud between the two of you, and if you're trying to tell me I should blackball Hikari along with the rest of you, I'm not going to do it."
+    MEIKO: "Blackball her?"
+    TAKERU: "Pretend she doesn't exist. Reintroduce myself whenever I run into her like she's some kind of transfer instead of someone you're picking on for some reason. I don't see anything wrong with her."
+    MEIKO: "Wrong with her? Wrong with..."
+    TAKERU: "What's this fight about anyway? You have me angry now. You just keep yelling at me, and Hikari won't give me a straight answer, so what am I supposed to - "
+    MEIKO: "Stop it! Stop pretending you can talk to her. Is that the joke? Think it's funny, trying to register the supernatural club and then telling me you talk with her?"
+    TAKERU: "Almost every day."
+    MEIKO: "You can't talk to her Takeru. She doesn't exist."
+    TAKERU: "That's a lie."
+    MEIKO: "Maybe she still exists, but I'm not falling for this. I thought I'd moved on and you come here to pull me back."
+    MEIKO: "Hikari is dead. She's been gone almost a year. If you think your little spirit club can really talk to her from beyond the grave, you're more delusional than I thought."
+    TAKERU: "She's not dead. If you people want to keep saying as an excuse to not talk to her, then - "
+    MEIKO: "Where do you think you just were tonight?"
+    TAKERU: "The boathouse."
+    MEIKO: "Her grave."
+    TAKERU: "What are..."
+    I pause for breath. Or to catch my thoughts, for the first time tonight. I thought Meiko had just gone off the deep end but...
+    I did see the flowers.
+    And would someone like Meiko really hold a grudge that small? Would she get this worked up over... Over what...?
+    TAKERU: "Then who is she?"
+    MEIKO: "Who's who? Hikari?"
+    MEIKO: "She's gone. She took her own life at last year's festival. And I'll be damned if you stomp on her memory any longer."
+    TAKERU: "A suicide? No way..."
+    But... That would be why Kunida would always dance around Hikari's name. Or why Natsumi would tell me to go ask someone else. Who would want to explain that?
+    TAKERU: "Then who is she? I talk to her almost... almost every..."
+    Those discolorations and the warping of her fingers those would be burns wouldn't they - a fire a year ago down at the boathouse yes that would cause that sort of injury and come to think of it did I ever see her touch anything at all or come to class or -
+    MEIKO: "If you think you can speak with the dead, you need to be locked up for your own good. Go back to the psych ward. That is where you came from, is it not? An institution?"
+    TAKERU: "I never denied that."
+    MEIKO: "I could care less."
+    MEIKO: "I know the real truth is that you've been acting. Fairly well. Your patience outlasted mine, so, congratulations. This is just me letting you've know you've won. You can drop the pretense now. I'm not letting you hurt me any more."
+    MEIKO: "So goodnight, Takeru. If there's any humanity left in you, just stay away from her grave. That's all I'm asking."
+    MEIKO: "...See you tomorrow."
+    The school doors slam.
+    And I'm left in the dark.
+    TAKERU: "Hikari..."
+    No way it's true.
+    Everything I know about her points to a no-nonsense, earnest, analytical, logical person. Not someone who'd take their own life.
+    Those small glimpses into her past... Was that not who she was, here, a year ago?
+    I find myself wandering in the direction of the basement tea room.
+    Of course, there's no one here. The lights flicker on one by one and illuminate a hall filled with nothing but dust.
+    The room itself is empty.
+    Could Hikari really... not exist?
+    TAKERU: "I need to sit down..."
+    Then who've I been talking to? Who is she?
+    I need to figure this out. The options: that my old friend Meiko has decided to act completely out of character, claim her classmate is dead, blow up at me for no reason...
+    ...that I've been imagining for weeks that someone has taught me chess, helped me through my schoolwork, talked me through my mental illness...
+    ...or that I've been played. Someone here is leading me on.
+    Someone (multiple someones?) have led me to believe that all those afternoons I've spent down here I've been talking to someone called "Hikari."
+    An imposter? Probably. It's not like I'd be hard to fool, a schizophrenic outpatient one year behind everyone else here.
+    Or who knows? The person calling themself "Hikari" was the one that made me think any of that business with Jun's letter took place. Or brought up the idea of the flexible past.
+    The gears are turning now.
+    I grab a notebook, start to sketch out the solution. Of course there's a solution. This whole experience in Mirako has been a puzzle but it's solveable and I just need to identify that SOMEONE that's set me up.
+    Multiple SOMEONEs. Connect the pieces, Takeru. Hikari's suicide, take it for a fact, work backwards. I never injured Jun. No one ever beat me up in revenge. Who brought me here? Who is responsible?
+    It fits. I smile because I have my answer now. It's like all those misfiring puzzles pieces in my head are slowly sliding together.
+    I close the notebook, stand up.
+    Tomorrow will be fun.
     
