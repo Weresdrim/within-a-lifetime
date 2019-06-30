@@ -21,8 +21,97 @@ label day15:
     Pointless to reason about. I can't trust my memory.
     I sit back in bed again, only for a knock to sound from the door. Today's shrink, I suppose.
     TAKERU: "Yeah. Come in."
-    KUNIDA: "Hi. Takeru?"
+    KUNIDA: "Hello? Takeru?"
     Turning around... it's him again?
+    TAKERU: "Oh. It's good to see you Mr. Kunida."
+    KUNIDA: "You don't need to sound so formal about! Hi, Takeru."
+    TAKERU: "Yeah, then... hi."
+    KUNIDA: "I didn't think you'd be all that enthusiastic if it was just me showing up. And she wanted to come anyway, so..."
+    MANA: "Takeru!"
+    TAKERU: "Mana?"
+    MANA: "Hi! I heard about what happened and um well..."
+    MANA: "If you were in the hospital of course I'd come visit."
+    TAKERU: "This isn't really a hospital. More a holding pen, or, observation booth, or..."
+    MANA: "It doesn't matter. You're obviously not feeling well so I thought I'd cheer you up. Right?"
+    TAKERU: "Er..."
+    MANA: "I guess Hagami would do a better job but she um, well..."
+    TAKERU: "It's fine."
+    KUNIDA: "Did you bring his things?"
+    MANA: "Yep. Here you go."
+    TAKERU: "Oh, thanks, that's my backpack. Wish I'd grabbed that."
+    MANA: "And a change of clothes."
+    TAKERU: "Oh er, thanks. Where did...?"
+    MANA: "I had to go find your roommate and he gave them to me. He said he wasn't sure if you wanted the solid color underwear or the - "
+    TAKERU: "Dammit Kenta."
+    MANA: " - and he wanted me to be very clear with you that you had to return it and - "
+    How would I not return it? Aren't these my clothes in the first place?
+    MANA: " - and he said it'd be rude if you didn't come back."
+    Oh. I think I sort of get why Kunida is here now.
+    TAKERU: "And this is... a chess set?"
+    MANA: "It was on the shelf at the club library. I thought you might be bored and want it?"
+    It's a plastic set, with a folding board. Not anywhere near as nice as Hagami's hand-carved -
+    I mean, the hand-carved set from the old tea room.
+    TAKERU: "Thanks. Not that there's anyone to play with."
+    MANA: "Oh, um... I guess I didn't think of that."
+    TAKERU: "Thanks though. Really."
+    MANA: "Sorry! I tried, I really did!"
+    MANA: "And Hagami said to say hi! So best wishes from both of us."
+    I really kind of doubt she said anything of the sort.
+    And it sounds heartless, but I just really want Mana out of the room. I hate people seeing me down like this. Especially someone as upbeat as her.
+    TAKERU: "Yeah. Thanks."
+    KUNIDA: "Mana, I'll probably want to speak to Takeru alone for a minute or two. Do you mind?"
+    MANA: "Oh! Okay sorry I'll let you be. Come back soon though, Takeru, okay? Hope you're feeling better!"
+    TAKERU: "I'll try. Thanks."
+    It's like she thinks I'm sick with a physical illness or something. I wish I could just sleep for a week and shrug off schizophrenia forever.
+    But no, instead I'm faced with Kunida, who has now shut the door.
+    TAKERU: "So I guess I'm expelled."
+    KUNIDA: "Expelled?"
+    TAKERU: "I can't really blame you all, if you think I'm some threat to the other students."
+    TAKERU: "If you know what's going to happen to me... Just tell me. You don't need to sugar-coat it."
+    KUNIDA: "No one's expelling you. You're the type of student Mirako was made for."
+    TAKERU: "I kind of find that..."
+    TAKERU: "Are you sure?"
+    KUNIDA: "Of course I'm sure. I'm a senior teacher at Mirako. I'm supposed to be your mentor, aren't I?"
+    TAKERU: "Er..."
+    KUNIDA: "Maybe I haven't been doing as good a job as I could be."
+    KUNIDA: "Ha! Well I guess it makes sense you wouldn't trust me that much."
+    No, I don't trust you. You couldn't fake a smile for a million bucks.
+    KUNIDA: "It's a common syptom, you know?"
+    TAKERU: "Symptom of what?"
+    KUNIDA: "Ahh, well... Schizophrenia."
+    KUNIDA: "You can start seeing motives in other people when there really isn't anything there at all."
+    And what would you know about that?
+    TAKERU: "Right..."
+    KUNIDA: "Did you know I used to be in your shoes?"
+    TAKERU: "No."
+    You haven't been in my shoes, for one thing. Have you ever managed to burn not only the bridges behind you, but the ones in front as well?
+    Because I've done a pretty good job of toasting all my previous ties to Tohoku plus torching any chances I had of fitting in at Mirako.
+    KUNIDA: "Okay, maybe not me. But it's sort of the scene where me and my brother ended up."
+    KUNIDA: "Mana never told you anything about my brother?"
+    TAKERU: "Her father?"
+    KUNIDA: "Ah, right, right, he'd be more like her father to her than my brother to me."
+    I have no idea what you're talking about.
+    KUNIDA: "Maybe I mean I know more what Mana's going through. Her dad, well... I used to talk to my brother in the hospital sometimes. And it runs in the family."
+    TAKERU: "Sorry, sir. I'm really not sure I get it. If you're just here to drop off my math homework..."
+    He laughs that obviously forced laugh for a second then turns more serious than I can remember seeing my old cheery homeroom teacher.
+    KUNIDA: "Schizophrenia is partly a genetic disease. It runs in families."
+    KUNIDA: "My brother suffered through it. He... ended up, well, dying young."
+    KUNIDA: "So I look after Mana."
+    TAKERU: "...Sorry to hear it."
+    KUNIDA: "It's alright. This was a long time ago, and I think it was a bit of wake-up call for me. I wouldn't be teaching at Mirako otherwise without my niece or brother. So that's some good out of everything. Right?"
+    Please, just... Stop laughing. I can tell you're faking it.
+    KUNIDA: "My point is that the Mirako is someplace where you can belong, if you want to. Of course I can't speak to exactly what you're going through these past couple days..."
+    KUNIDA: "But I think, when you're ready to talk, you can feel free to come and find me."
+    KUNIDA: "I hope you'll be back at Mirako before the end of the week. If your doctors think you need more time to get used to your new prescriptions though, don't feel guilty about staying here. We can wait."
+    KUNIDA: "Take as much time as you need and when the docs clear you, we'll make the arrangements to get you back."
+    KUNIDA: "You're not expelled or anything close to that. The Mirako school will always have a seat for you, and if you need someone to guide you through things, I might not be your first choice, but hey, I'm better than nothing, right?"
+    KUNIDA: "Right?"
+    I can only offer him a weak thumbs-up.
+    
+    
+    
+    
+    
     
     
     
