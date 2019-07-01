@@ -171,7 +171,7 @@ label day13:
     MANA: "Yeah. That's the only school festival we've got. It was a whole thing last year."
     MANA: "I didn't go to school here, I just heard about it from everyone else. Something with the fireworks and then the old boathouse caught fire."
     TAKERU: "Is that what that is? A boathouse?"
-    MANA: "Yeah. My uncle said Mirako owns it, but it's not like we've had a rowing team for years and years. Back when the school was founded, that building was part of the original donation from the family that owned all this land."
+    MANA: "Yeah. My uncle said Mirako owns it, but it's not like we've had a rowing team for years and years. Back when the school was founded, that building was part of the original donation from the Miura family that owned all this land."
     TAKERU: "Your uncle... So Mr. Kunida knows about it."
     MEIKO: "Yeah but he doesn't like talking about it, the whole fireworks thing."
     TAKERU: "Meiko was saying they canceled the fireworks this year anyway."
