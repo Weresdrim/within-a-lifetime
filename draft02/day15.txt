@@ -120,7 +120,7 @@ label day15:
     There. I unfold the cheap chess board and put it on top, using the book as an improvised stand.
     The pieces I set up on autopilot.
     Whites moves first. I spin the board. Then black. White again.
-    It's funny.
+    It's funny. I'm just playing against myself.
     Was this really what I was doing that whole time, all those hours, down in the basement?
     I still don't know whether that would be possible.
     While I could go back and try to remember exactly which memories I have of "Hikari" were my imagination, or my confusion, or something else... I don't think it'd be possible.
@@ -131,39 +131,44 @@ label day15:
     Another knock on the door. I push the one-sided chess game to the side.
     TAKERU: "Yeah. Come in."
     The door opens but there's nobody there for a moment.
-    But after a second one of the nurses enters. Right. Nightly meds. One of the signs that the patients here aren't fully trusted... Guess they're afraid I'll suddenly down all the pills in a fit of suicidal madness or something.
-    I take my pills without protest. Just another few days of sitting around here watching dosage...
-    Only a few minutes after the door shuts, there's another knock. What did they forget this time.
+    But after a second one of the nurses enters. Right. Nightly meds. One of the signs that the patients here aren't fully trusted is we're never allowed near our own medicine. Guess they're afraid I'll suddenly down all the pills in a fit of suicidal madness.
+    I take my meds without protest. With any luck it'll be just a few more days of sitting around here watching dosage.
+    Only... a few minutes after the door shuts, there's another knock. What did they forget this time?
     TAKERU: "You can come in, it's obviously not locked."
     But there's no answer. Just another knock.
-    TAKERU: "Or maybe it is...?"
+    TAKERU: "Or at least I thought it wasn't locked?"
     I sigh and stand up.
     Opening the door...
     Upon opening the door every instinct tells me to shut it. But my visitor enters the room before I've unpetrified.
     ???: "Hello, Takeru. It's been a few days, hasn't it?"
     TAKERU: "Who are you? What are you doing here?"
+    I stand. Practically leap out of my bed.
     ???: "I came to visit you. You don't have to be rude."
-    TAKERU: "Rude? I... have to be seeing things."
+    TAKERU: "Rude? I have to be seeing things."
     ???: "You know I'm Hikari."
     TAKERU: "There was only one person by the name 'Hikari' and she died a year ago."
     ???: "And that person is me."
     TAKERU: "I give up. I've lost it."
+    She stands in the open doorway, saying these unbelievable things.
+    I should just slam the door shut. I'm hallucinating. She can't be there.
+    But it's too late. She wanders in and sits by my bedside.
     HIKARI: "A 'hello' would be nice for someone that came all this way just to see you."
-    TAKERU: "Yeah, sorry, I've got other things on my mind. Hi."
-    TAKERU: "I'm not sure what sort of welcome you were really expecting when I've just been committed to a psych ward for thinking that you exist."
-    TAKERU: "I guess I'm hallucinating."
-    HIKARI: "Wrong on both counts. From what I can tell you put yourself here by going around Mirako and talking about 'conspirators' and 'sycophants' and trying to justify why you ever saw me in the first place. When I'm not a hallucination."
-    TAKERU: "Then I was right? You're just a disguise used by - "
+    TAKERU: "Yeah, sorry, I've had other things on my mind. Hi."
+    TAKERU: "I'm not sure what sort of welcome you were really expecting when I've just been committed to a psych ward for thinking that you exist. And you're just a hallucination anyway."
+    HIKARI: "Wrong on both counts. From what I can tell you're the one that put yourself here by going around Mirako and talking about 'conspirators' and 'sycophants,' trying to justify why you ever saw me in the first place. When I'm not a hallucination."
+    TAKERU: "Then I was right? You're just a disguise. You're someone pretending to be - "
     HIKARI: "No. Don't be stupid."
-    HIKARI: "I'm just... me. Miura Hikari. I died at the Mirako school festival almost a year ago, but... it seems I'm still here."
-    TAKERU: "So you're claiming to be a ghost."
-    HIKARI: "No, I'm..."
+    HIKARI: "I'm just... me. Miura Hikari. I died at the Mirako school festival almost a year ago, but it seems I'm still here."
+    TAKERU: "Then you're claiming to be a ghost."
+    HIKARI: "No."
+    TAKERU: "Then who are you? What are you?"
     HIKARI: "I don't know what I'm supposed to be. If it helps you to think of me as a ghost, then, fine. Call me a ghost. It's not like I know what happened. I thought my life was over and then I just... woke up the next day. There was no instruction manual."
-    TAKERU: "You're... You can't really be saying that... You can't really be here."
+    TAKERU: "You're... You can't really be saying that... 
+    TAKERU: "No way. You can't really be here."
     HIKARI: "Yes, that's what I thought at first too."
     HIKARI: "But all the same, I'm still here. Stuck."
-    TAKERU: "...Yeah. I've lost it. I'll be stuck here too, in a psyhiatric institute, for life. This is it. You can't really be there."
-    HIKARI: "You never did trust me."
+    TAKERU: "Great. I've lost it. I'll be stuck here too, in a psyhiatric institute, for life. You can't really be standing there can you?"
+    HIKARI: "It seems you really never did trust me."
     HIKARI: "Hold out your hand, Takeru."
     I hesitate.
     HIKARI: "You don't want to know for sure?"
@@ -246,7 +251,7 @@ label day15:
     
     I'm not really sure where I am. Walking down the road from Mirako? When was this?
     Right, almost a year ago. The festival night. There are maybe two dozen students around me, all laughing, talking, following the road from Mirako down to the bridge over the Shizukawa.
-    There's some chattering, nervousness. Is the festival over? That seems the case. This must be the very tail end, late at night.
+    There's some chattering, nervousness. Is the festival over? Or just hasn't started yet in earnest? That seems to be the case. It's not quite night yet, but the sun is down.
     I'm still trying to get my bearings when someone elbows me in the ribs.
     NATSUMI: "Hey! What do you think she's got planned?"
     TAKERU: "Ah! Er, sorry. What was that?"
@@ -260,7 +265,7 @@ label day15:
     NATSUMI: "You just can't look away."
     MEIKO: "Shush. Don't you think you're being a bit - "
     NATSUMI: "Meiko! You're here too. Well I guess of course you are, but..."
-    NATSUMI: "How was the festival? What did you think? All the displays? And the performances and everything? Bet you're wishing you joined a club now, eh?"
+    NATSUMI: "How's the festival so far? What did you think? All the displays? And the performances and everything? Bet you're wishing you joined a club now, eh?"
     MEIKO: "Hm... Not really."
     NATSUMI: "The best part's still coming though. Everyone says the fireworks are the best part. Hands down."
     NATSUMI: "Who'd have thought, a tiny town like this, with its own legit fireworks show? Hard to believe. So you know who you're gonna watch them with?"
@@ -277,7 +282,7 @@ label day15:
     NATSUMI: "See, you guys don't take this thing seriously enough. It's the Mirako fireworks. This is the biggest event of the year!"
     I'm having trouble not getting drawn into the mood. That's the whole sense as all of us walk to the river: sort of an intoxicated, unstable energy. Unsure what's the come, eager to find out, tinged with a hint of tension.
     Can't say I've felt that before. Which is odd considering this is my memory.
-    Or... No, it can't be my memory, can it? This time last year I would have to be far away, at Tohoku High, in the first year training camp.
+    Or... No, it can't be my memory, can it? This time last year I would have to have been far away, at Tohoku High, in the first year training camp.
     But no, I'm here, now, the Mirako festival, trying to decide what our classmate Hikari invited us all here for, the hour before fireworks are scheduled to begin up on the hill.
     NATSUMI: "It's gonna be a speech. She's gonna give a speech."
     MEIKO: "I can't see it."
@@ -369,7 +374,34 @@ label day15:
     HIKARI: "I wanted to put on a private show, so I stole what I could from the Mirako basement. It wasn't hard. The company the school contracted out for the fireworks left pretty much their whole supply in the basement."
     HIKARI: "So I took what I could, brought it to the boathouse, and..."
     TAKERU: "I'm sorry. I still don't get it."
-    
+    HIKARI: "This is hopeless. Either I'm no good at explaining, or you can't listen properly, or this is just so foreign to you that you could never understand."
+    HIKARI: "Probably it's me. There's never been anyone to tell this story to."
+    TAKERU: "It's fine. I get that you took the fireworks, and everyone was there watching, and... I just don't get why."
+    HIKARI: "You know Meiko."
+    TAKERU: "Her? What does she have to do with anything?"
+    HIKARI: "Nothing. I realize now this was really all my fault, but back then, Meiko was everything I wanted to be. 
+    HIKARI: "My whole life everyone in this town had always respected me by default, just because of my family name. In high school, with all these strangers, there was a change."
+    TAKERU: "Ah. Yeah, that's Meiko for you. Hard to find anyone that doesn't look up to her."
+    HIKARI: "At first she was so shy, and then before I knew it, she was on the council, on the festival committee, the class rep... We were..."
+    TAKERU: "Rivals?"
+    HIKARI: "I don't know. Not that."
+    Hikari frowns.
+    I remember before, in that memory of hers -- she stared after Meiko as she walked down the hall, in that exact spot that I stood a year later.
+    It wasn't hatred in her eyes. Envy? Not quite, more something deeper, like -
+    HIKARI: "I've always been terrible at trying to figure out how I feel about people. It doesn't really matter anyway."
+    HIKARI: "The point is, she volunteered for a spot on the festival committee. They put her in charge of dealing with the fireworks company. So in my mind, if I could put on that private show and upstage her just a little..."
+    HIKARI: "It was almost worth the risk."
+    TAKERU: "..."
+    HIKARI: "What do you think of fireworks?"
+    TAKERU: "I don't know. They're nice, I guess."
+    HIKARI: "They're amazing."
+    TAKERU: "You think so? You always kind of seemed like a cynic to me."
+    HIKARI: "Of course I'm a cynic. That's why I think they're amazing. Simple, graceful, and they go out with a flourish."
+    HIKARI: "I would've liked to have seen the show as a student, at least once. Or even to just go out like a firework. Beautifully, instead of..."
+    She shudders. I remember her floating there, in the river.
+    HIKARI: "Guess that's why I'm still here."
+    TAKERU: "You mean, that's why you're a ghost?"
+    HIKARI: "I don't know why I'm still here, and I don't have any great answers from beyond the grave or any of that. As far as I can tell, I just never died. It's everyone else who says I have."
             
     
     

@@ -1,3 +1,57 @@
+    TAKERU: "About what happened to you... You are serious, aren't you?"
+    HIKARI: "When am I ever not serious?"
+    TAKERU: "Then, er..."
+    TAKERU: "Maybe I don't see the whole picture. Could you tell me the truth about what happened to you at Mirako?"
+    Silence.
+    TAKERU: "Sorry. Meiko said it was suicide. I shouldn't - "
+    HIKARI: "I never killed myself. I'm too much of a coward for that. How everyone thought I'd committed suicide is baffling to me. I would never."
+    TAKERU: "That's just what Meiko told me. Was she lying...?"
+    HIKARI: "Oh it's possible they all figured it was suicide, after the way I was acting. And if I'm honest I was probably depressed, but she should know better."
+    TAKERU: "Meiko, you mean?"
+    HIKARI: "Yes. Her."
+    TAKERU: "Where does she fit into all this? She's been acting strange. The night I was at the boathouse she completely blew up at me over you."
+    TAKERU: "I'm back at square one. I have no idea what actually happened to you at Mirako."
+    Hikari sighs, and for a moment it looks like she's wilting.
+    HIKARI: "I don't really like talking about it. I was a stupid, spoiled child. I embarassed myself and died a pointless death, and now everyone rightfully does their best to pretend I didn't exist."
+    TAKERU: "I'd still like to know."
+    HIKARI: "If you really do... Then I owe it to you to explain myself."
+    HIKARI: "Remember I did warn you it isn't interesting."
+    
+    I was expecting to see the festival, this time last year. Isn't that when everything happened?
+    But this...
+    At first I don't know where I am. The view... The valley... Oh. The roof of Mirako.
+    This might be the exact year to the day I was up here last week. The wind, the weather is right.
+    There's someone standing against the side of the stairwell - I jump. But she's not looking at me, she's focused on something back inside Mirako.
+    TAKERU: "Hikari?"
+    HIKARI: "Oh!"
+    She's more startled than I was.
+    HIKARI: "I didn't know you were out there."
+    HIKARI: "Have you seen Meiko?"
+    TAKERU: "No?"
+    And she turns around keep watch down the stairs again.
+    I wander back inside, but I wonder what I'm supposed to be doing here. I'm sleepy and out place, like I've overslept by hours and hours. Maybe I imagined all that with the ghost hunt, Meiko flipping out, those terrible couple days, the hospital, Hikari...
+    Then Meiko walks by, ignoring me completely.
+    TAKERU: "Hey!"
+    And by completely, I mean completely. She doesn't even glance back at me.
+    Did I really offend her that much by visiting the old boathouse?
+    Or is this...
+    TAKERU: "I'm just a pair of eyes."
+    TAKERU: "Fine. You can ignore me if you want, but I'm following you."
+    TAKERU: "You got that?"
+    No response.
+    Meiko climbs the stairs without so much as even faltering.
+    TAKERU: "You can ignore me. That's fine. I can understand that. I'll - "
+    She vanishes up the stairwell.
+    Oh well.
+    I can't decide. Can she not see me? Does she choose not to see me? Just how much did I tick her off these past few days?
+    Back before I was hospitalized again, before my break... I would've probably said she was an anchor for me. Someone that I could count on to always remain her good, reliable, self, no matter what.
+    And now I hesitate.
+    Could she really not see me?
+    I follow to the roof.
+    
+    
+    
+    
     TAKERU: "Hang on, I've got a plan."
     This plan relies almost entirely on my being a bit taller, a bit more manly, a bit more manly, and a bit more "traditional kid" than Meiko.
     ...which is ridiculous considered how much of a obvious failure I am compared to her, but maybe it'll be enough to foil whatever old geezer is holed up in this shrine.
