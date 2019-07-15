@@ -1,0 +1,608 @@
+label day14:
+
+    Sunday.
+    My one and only chance to sleep in...
+    At least in theory.
+    There's someone bellowing right outside the door. Or throwing bricks. Or something.
+    TAKERU: "Please just shut up..."
+    Voices, ones I recognize.
+    The usual suspects...
+    Every time I get a half-decent night's sleep, why does it always have to be interrupted by Natsumi - 
+    Hang on, what is Natsumi doing here?
+    TAKERU: "What the - "
+    NATSUMI: "Oh, look who's up. Great! Here, Takeru hold this."
+    TAKERU: "Ow, that's heavy. I'm still in bed, don't just drop stuff on me."
+    TAKERU: "What are you even doing in here?"
+    KENTA: "Helping me. I did tell you about this, you remember."
+    TAKERU: "No, I don't. Is she even allowed to be in here?"
+    NATSUMI: "Well I mean no one stopped me."
+    NATSUMI: "Here, can you hold this too?"
+    TAKERU: "No, I'm not even - oof!"
+    NATSUMI: "Thanks! We're still trying to even get the fridge installed in here so it's gonna be a long morning I think. It'll go faster with three people."
+    NATSUMI: "Actually, hang on."
+    There's a blessed moment of silence.
+    They... they finished?
+    I push have a dozen boxes off my bed and another off my legs and prepare to try to get back to -
+    STUDENT1: "Hey Natsumi, you don't mean in here, do you?"
+    STUDENT2: "Is this even the right room?"
+    NATSUMI: "Yep. Kenta, that corner?"
+    KENTA: "Yes, but please be careful. You're going too quickly. You'll break it."
+    NATSUMI: "Relax, relax."
+    STUDENT1: "Slow down!"
+    STUDENT2: "Well don't push me into the - "
+    By that crunching sound, I think it's safe to say there's now a dent in dresser. Or else the dorm room wall.
+    TAKERU: "I give up..."
+    
+    The common room is at least a bit quieter. Not that that says much, after having my room invaded by Meiko and her gang of a baseball team.
+    Unfortunately I don't have anything else to do than attempt my schoolwork, and much earlier in the day than I'd like to be doing anything like this.
+    In particular, the problem is that I'm going to doze off as soon as I even start to think about this mess of notes and textbooks I've scattered all over the table.
+    I guess there's no helping it. I'll just try to catch up on sleep a bit. At least I've still got that Modern Science-Key book from Hagami... about the right size for a pillow.
+    A little hard, but...
+    I didn't realie I was this tired.
+    ...
+    ...
+    The sun is shining through the window and directly onto my face.
+    Guess I can't nap after all. Dammit.
+    But if the sun is that high... It must be close to noon.
+    TAKERU: "How long was I out...?"
+    HAGAMI: "Um, I guess maybe - "
+    TAKERU: "Ah!"
+    I sit up so fast is sends a cloud of papers everywhere.
+    HAGAMI: "Sorry! I thought you were talking to me."
+    TAKERU: "I didn't even see you. How long have you been there?"
+    HAGAMI: "I've been here since this morning..."
+    TAKERU: "Seriously?"
+    Maybe I was so bleary-eyed I missed her, camouflaged in her corner behind a hardcover.
+    HAGAMI: "The book wasn't... You didn't find it interesting?"
+    TAKERU: "The what?"
+    HAGAMI: "'A Master-Key to the Mysteries of Ancient - '"
+    TAKERU: "Oh."
+    The pillow.
+    TAKERU: "No, sorry. I could only make it through a few pages."
+    HAGAMI: "It's fine."
+    HAGAMI: "I probably should've expected that..."
+    MEIKO: "Ah hey Takeru, what's up?"
+    TAKERU: "Oh no..."
+    MEIKO: "Hm, something on your mind?"
+    TAKERU: "Not really, just you storming my room on a weekend morning and now - "
+    MEIKO: "Sorry, you'll have to tell me some other time, I'm already late to practice and I'm supposed to be the one running things."
+    MEIKO: "Kenta!"
+    KENTA: "Yes?"
+    MEIKO: "What's the word on Matsuyama High?"
+    KENTA: "Checking."
+    MEIKO: "To the PC!"
+    MEIKO: "Hiro! Kouichi! Get that thing out of here! Hurry up!"
+    TAKERU: "What the - "
+    STUDENT1: "We're going..."
+    STUDENT2: "This thing's too heavy. Can't we just get to practice already?"
+    TAKERU: "Kenta, is that our dresser?"
+    KENTA: "Technically it was our display case. It's being upgraded."
+    TAKERU: "Where is it going? What are you two doing to - "
+    KENTA: "I'd love to talk later but I'm a bit of a hurry. It's all very simple anyway."
+    KENTA: "There's been no update from my contact at Matsuyama."
+    MEIKO: "You did butter him up, didn't you? Like I said?"
+    KENTA: "I'm not going to flatter him. He's an ass."
+    MEIKO: "Noo! Next time I'm writing these people, even if I have to pretend to be you."
+    MEIKO: "Never mind, never mind. Running late!"
+    And just like that, the two of them, plus the ballplayers, plus my former dresser are all out the door.
+    TAKERU: "There just can't be a quiet day around here..."
+    HAGAMI: "He... That's your roommate?"
+    TAKERU: "Yeah. Don't remind me."
+    TAKERU: "He's helpful sometimes but most mornings I'd trade him for just about anyone."
+    HAGAMI: "I just wish I lived alone..."
+    TAKERU: "Yeah, some peace and quiet might be nice."
+    TAKERU: "But if we're stuck down here, do you want to try and make some headway on that lab report? I've got literally nothing to do until the, er - "
+    Good, the rest of the room is deserted.
+    TAKERU: "Nothing to do until the ghosthunt."
+    HAGAMI: "...Me neither. Doing the report sounds fun."
+    HAGAMI: "Um, not 'fun,' but uh..."
+    TAKERU: "Right. Got to get it out of the way... So might as well get started."
+    
+    We make a decent amount of progress. Or I should say, Hagami makes most of the progress. I'm useless as usual.
+    At least working with her is quiet in pleasant, in constrast to this a morning of Meiko and Kenta.
+    ...Whatever they did to my room, I don't want to know. I'll deal with that tonight.
+    Hagami eventually heads upstairs to prepare, and I'm left to clean the mess of papers that have accumulated over the hours I've been down here.
+    TAKERU: "Probably shouldn't have slept on that one..."
+    Half the pages of my math textbook are now folded.
+    TAKERU: "Oh well."
+    I head upstairs.
+    On the third floor, I stop. The door to my room is already open. Is that what they were up to? Tearing the door off its hinges? While it'd be hard to imagine anything less convenient, whatever it was happening up here... I'm about to witness it.
+    I take a deep breath, three steps and open my eyes.
+    KENTA: "Why do you have your eyes closed?"
+    TAKERU: "Kenta?"
+    KENTA: "Yes, good afternoon. Why do you have your eyes closed?"
+    TAKERU: "Well they're open now."
+    KENTA: "But you still had them closed a second ago. Why did you do that?"
+    TAKERU: "To prepare for the schock of whatever you did to our room, I guess."
+    TAKERU: "I guess there wasn't anything really shocking in here but you, anyway."
+    KENTA: "I personally don't think I'm very shocking so I don't get - "
+    TAKERU: "Wait hang on what the hell is THAT thing?"
+    There's a man-tall red boxy thing in the near corner where the dresser used to be.
+    KENTA: "The new fridge."
+    TAKERU: "New? It... It's round and red and plastic. Is that pre-war? No way that was made less than fifty years ago."
+    KENTA: "Well I did have to purchase it used. It turns out the market for preserved amphibians deflated slightly since I invested - "
+    TAKERU: "And why do we have a fridge now?"
+    KENTA: "You're the one that suggested it."
+    TAKERU: "Er, you sure about that?"
+    TAKERU: "I meant... Not that I mind a place to store drinks and stuff up here. That's kind of neat."
+    KENTA: "You said I shouldn't store the eggs down in the kitchen because it was unsanitary."
+    TAKERU: "Of course not, putting bird's eggs in the public..."
+    TAKERU: "...the public fridge... So now we have a private fridge."
+    KENTA: "Exactly. I'm glad you learn quick."
+    TAKERU: "Well... It could be worse I guess."
+    I sit down on the bed while continue returns to his work at the desk.
+    Where on earth did he find a used fridge on two day's notice? How did he recruit an army to move it in on two day's notice?
+    I'm starting to think Kenta's a lot craftier than I had him for.
+    ...I should probably get moving though.
+    TAKERU: "Hey, do you happen to have a flashlight? I'm also looking for work gloves."
+    KENTA: "A flashlight? What for?"
+    TAKERU: "Oh, nothing. I'm heading out tonight."
+    KENTA: "What, to vandalize something? What do you need a flashlight for? Shizukawa might not be a big town but we at least have streetlights."
+    TAKERU: "Why would I need a flashlight to - "
+    TAKERU: "Never mind. I might go on a, er, field expedition tonight. So I might as well get ready now."
+    KENTA: "I've moved all the household items to the closet from the old display cabinet. Flashlights are in the emergency supply, third shelf, arranged by battery power left to right. Gloves are probably..."
+    KENTA: "Are you wearing a specific jacket? You'll probably want gloves to match that."
+    TAKERU: "I'm not trying to make a fashion statement here."
+    KENTA: "Third drawer down, in the pockets of the coats on the right half."
+    TAKERU: "How do you keep this stuff straight?"
+    KENTA: "You're a very hard to understand person. I don't know why you keep getting this mixed up."
+    I'm about to complain, but then again, this is his stuff he's lending out.
+    TAKERU: "You're the best, Kenta."
+    KENTA: "If you end up vandalizing something I'm still telling the police."
+    TAKERU: "I'm not vandalizing anything!"
+    
+    For simplicity's sake, we've agreed to meet at the school.
+    It's a little earlier than we scheduled the last ghosthunt, if only because I don't feel like trying to walk through the woods alongside the Shizukawa just by flashlight. (Mana would probably fall in)
+    The picnic tables out front are empty, but one or two students pass through the main doors. Probably they're here for weekend club meetings, or maybe -
+    There's that thwank again, echoing from the field back behind the school somewhere.
+    ...here for weekend meetings or practices.
+    Can't the baseball season just be over already? Why do I keep wincing at that noise? Didn't I erase all that? Nobody attacked me I imagined it then why do I keep -
+    Never mind.
+    I'm about to take a seat when Hagami emerges from the school, waving.
+    TAKERU: "Hi. You beat me here."
+    HAGAMI: "Sorry, I was waiting inside. It's hot out and this is... heavy."
+    TAKERU: "What all did you pack?"
+    She drops an overstuffed backpack onto the table. I notice a first aid kit stuffed into a pocked on one side, and on top, a flashlight bigger than Kenta's max watt model.
+    TAKERU: "I really didn't need to bring anything, did I?"
+    HAGAMI: "If I'm the one supposed to be organizing, then... I don't want us to miss anything."
+    HAGAMI: "If someone gets hurt, or we need to... break in."
+    TAKERU: "Right. Is that a crowbar?"
+    I don't think I was really thinking about it but this could be kind of dangerous, couldn't it? Wouldn't it make sense for the ruin to be condemned or something?
+    And hang on, "break in?" Is Hagami going to prove Kenta right?
+    After the first "ghost hunt" I figured we'd be just be hanging around outside it or something else lame but the way Hagami's equipped, it seems like - 
+    Thwanck. Again. What is going on out there, batting practice? Annoying. Very annoying.
+    HAGAMI: "Are you...?"
+    TAKERU: "I'm fine."
+    HAGAMI: "..."
+    HAGAMI: "Do you miss it?"
+    TAKERU: "What?"
+    HAGAMI: "I mean... Do you miss baseball?"
+    TAKERU: "Yeah all the.. I mean, no, I could never... Who told you anything about that?"
+    HAGAMI: "Sorry. I wasn't thinking before asking something like... that."
+    I mean, what can I say? I don't even know how I feel myself. On the one hand, after talking to Hikari yesterday, there's no denying I'd do some pretty out-there things to do back to my old life.
+    That just hinges on my old life being anything like I remember it. Surely I can... change that, can't I?
+    Should I?
+    If so, how?
+    It should be doable. Doesn't the letter keep changing on me? And Jun himself? Or Meiko? Meiko's ribbon?  Or -
+    Hagami's eyeing me a little strangely.
+    MANA: "Hey! Hey guys! Sorry I'm late!"
+    HAGAMI: "Hi Mana."
+    MANA: "Oof!"
+    TAKERU: "Are you alright?"
+    She drops a giant basket to the table, right next to Hagami's giant backpack.
+    MANA: "Sorry, sorry, it took me longer to get here because I was carrying all this stuff."
+    TAKERU: "You know you're going to have to carry all that down to the water, right?"
+    MANA: "Umm..."
+    TAKERU: "What even is all that?"
+    MANA: "I made everyone lunch, for one thing! Or dinner I guess."
+    TAKERU: "I thought this was a ghost hunt, not a field trip."
+    HAGAMI: "Field expedition."
+    TAKERU: "Who are we even kidding at this point..."
+    MANA: "It'll be fun, so who cares what it's called?"
+    HAGAMI: "We should... probably get moving. So we can walk while it's still light out."
+    MANA: "Please can I just catch my breath? All of this is really heavy!"
+    TAKERU: "Don't you take a bus up here?"
+    MANA: "Yeah but I still had to walk from the bus stop to - "
+    TAKERU: "Never mind. Hold this flashlight and I'm carrying the basket."
+    MANA: "Thanks Takeru!"
+    TAKERU: "I'd feel like an idiot just carrying that when you both came prepared for... I don't know, a school picnic and the apocalypse, respectively."
+    MANA: "You'll thank me when you're hungry!"
+    HAGAMI: "And you'll thank me when the world ends."
+    Once I get the hang of this revisionist history thing I'm going to choose to remember a timeline where I'm not the butt of every joke.
+    
+    There's a dirt trail leading off the road just before the Shizukawa bridge. Hagami and I pass it every day on the way to Mirako, so there's no way we'd miss it.
+    But I'd expected the path to be just that - a path. It turns out, once we leave the road and descend down to water level, the woods that surround the river take over. The path is more like a trail.
+    I'd guessed the old boathouse wasn't more than a mile from the bridge, but that estimate might've been off. At any rate, the route we're taking isn't straight and more than once there's a tight turn around some overhang into the river.
+    TAKERU: "Ha... Ha..."
+    TAKERU: "What kind of boathouse do you have to hike to? Why didn't they just build it on the road?"
+    MANA: "No one had used it in forever, even before it burned down. They built the road after the boathouse was already up, I think."
+    TAKERU: "Then why did this backwards school own it in the first place?"
+    MANA: "Dunno. I'll ask my uncle sometime. But if you read the big plaque in the school lobby it says all about the family who donated the land and the original building and all."
+    TAKERU: "Right... They're the ones to blame for building a school into a mountainside labyrinth..."
+    There's another sharp curve and I almost slip. A few pebbles tumble down the slope.
+    TAKERU: "Not that it looks like there's any better place to building anything in this backwoods."
+    HAGAMI: "Are you alright?"
+    TAKERU: "I'm fine, just out of shape."
+    TAKERU: "And Mana, you chose about the least convenient container for all this. Why couldn't you have packed a backpack like Hagami..."
+    MANA: "I thought boys were supposed to be grateful when you brought them food, and all you do is complain, complain, complain."
+    TAKERU: "Well, you brought food, and what feels like half the old library reference collection. Seriously, what is in here?"
+    MANA: "Why don't we just stop here and take a break? We can eat, and I can you guys what I found."
+    TAKERU: "Sounds good."
+    I drop the basket with a whump onto a tree stump.
+    Tree stump? None of the rest of the woods around here is clear, but...
+    HAGAMI: "Looks like it's a clearing."
+    TAKERU: "Yeah."
+    MANA: "And not a bad view!"
+    From the water's edge, the bridge is barely visible. We really did walk a ways.
+    And in the other direction...
+    Only a blackened balcony is visible above the trees. But I can hear wood creaking the wind. We can't be too far off.
+    MANA: "Here, Hagami, that's yours. And for you, Takeru."
+    A sandwich. Not bad, but not much of a dinner... I was sort of expected a bit more considering the weight of the basket I lugged all the way out to this spot.
+    MANA: "But this! This is the main attraction."
+    Mana pulls out an entire bed's worth of sheets from the basket, followed by a worn cardboard box. She fiddles with packing tape at the edges, where the paper has almost dissolved into dust. Finally she raises up...
+    MANA: "A camera!"
+    TAKERU: "That's, er, quite the antique."
+    I didn't see an older gadget today than Kenta's ancient fridge, but this camera is pre-war for sure. The whole thing is a beige box of right angles and faded metal etchings. And all the weight I've been carrying is from the film box and additional lenses that Mana continues to unwrap.
+    HAGAMI: "You found it?"
+    MANA: "My uncle had it in the back room. It wasn't even too hard to find. I'm glad you remember it though!"
+    TAKERU: "I know for a fact Kenta owns a camera I could've borrowed, in case you're looking for something a little more modern."
+    MANA: "But that's the point!"
+    TAKERU: "...and a lot lighter. Who still uses manual film? Don't you have to get that stuff developed?"
+    HAGAMI: "The film... it's..."
+    HAGAMI: "Have you ever seen ghost photography?"
+    TAKERU: "No."
+    HAGAMI: "All the old occultist societies used to experiment with these techniques that need film, like..."
+    HAGAMI: "If I took half a picture, and for half of the exposure, you were in the frame... And half the exposure you were out of frame..."
+    TAKERU: "I have no idea how a camera that old actually works."
+    HAGAMI: "You'd have a photograph where you were transparent. A ghost-Takeru."
+    HAGAMI: "Mana and I used to try things like that, but... We never did get any real results."
+    MANA: "Yeah, that's why I brought all the sheets, too! I bet we can stage some great shots!"
+    TAKERU: "So this is more like a ghost glamour shoot than a ghost hunt?"
+    MANA: "Well if we see any actual ghosts then we're still prepared! And if not, then this sheet will look stunning on you."
+    TAKERU: "I'm not wearing anything!"
+    HAGAMI: "I'll pass. Sorry."
+    MANA: "Calm down, calm down. I'll do it. You guys are gonna have to learn to use the camera then, though."
+    TAKERU: "That's fine. It can't be that hard, can it?"
+    ...
+    As it turns out, it can.
+    Between the three of us it takes almost half an hour to get the thing in any state to tack a photo. I think I'd rather throw this contraption into the river than drag it out of the woods.
+    MANA: "Hey! Takeru! Hurry up and take the shot."
+    TAKERU: "Hang on..."
+    SNAP.
+    TAKERU: "There."
+    MANA: "Wait, did you put in any film first?"
+    HAGAMI: "No... He did not."
+    MANA: "Nooo! And I had everything set up perfectly too."
+    TAKERU: "Why are you wearing that sheet? I thought the whole point of this was to create realistic ghost photos."
+    MANA: "This doesn't look real to you? I don't look like a ghost?"
+    TAKERU: "No, you look like a fool wearing a bedsheet."
+    MANA: "Well what's a ghost supposed to look like then? We're not going to have anything realistic unless you like, suddenly become handsome."
+    TAKERU: "What're you implying? That I'm unattractive?"
+    MANA: "Definitely not ghost-tier. That's for sure."
+    HAGAMI: "I... I'll do it."
+    MANA: "Really? You'll wear the - "
+    HAGAMI: "No."
+    HAGAMI: "I'll be the ghost. With the long exposure I shouldn't need to do anything special... Just move out of the frame for the second shot."
+    MANA: "Oh... I guess that works."
+    MANA: "Good news, Takeru! I can work the camera if Hagami's gonna be our model."
+    HAGAMI: "Model? Um, maybe..."
+    MANA: "You volunteered! Come on, let's do this."
+    At least this gets me out of doing anything important.
+    Mana tries to set up the shot again. I have to say, Hagami doesn't make for a half bad ghost. Set against the woods, or the barely visible outline of the ruin, head turned away from the camera...
+    We'll have to see when the film develops, but I'm starting to buy into this a little bit more.
+    The wind picks up after a few shots. Hagami's hair is long enough to catch in the breeze. She almost reminds me of one of those folklore spirits I can't quite remember... Drowned women emerging from the sea? Something like that.
+    It's hard to find a space for photos uninterrupted by treestumps though. It makes me wonder why anything is cut from this area at all.
+    What's more odd is that all of the cutting seems to be recent. Maybe when the fire happened?
+    That's when I notice it, on one of the stumps off to the edge of the clearing. 
+    It's not actually a stump. More like a small clump of stones all stacked on each other, to stump height. A pyramid? Cairn? It's short, only a dozen rocks or so, but...
+    Sitting on the top is a a bouquet: three white flowers, short-stemmed, bound in the middle with a slip of paper. 
+    There's that feeling again. Like I'm being tapped directly between my shoulder blades. That something invisible is here and staring me full in the back.
+    Of course, when I turn around, all I see is Mana packing the camera.
+    HAGAMI: "Odd."
+    TAKERU: "Wha - !"
+    HAGAMI: "Ah! I'm sorry. I didn't mean..."
+    HAGAMI: "Sorry if I startled you."
+    TAKERU: "It's fine. Did you bring these?"
+    HAGAMI: "The flowers?"
+    HAGAMI: "No. Would... Why would I?"
+    TAKERU: "I don't know."
+    HAGAMI: "They've probably been here a while."
+    TAKERU: "They haven't wilted too badly. And check this out. There's a card."
+    HAGAMI: "Nothing is written there."
+    TAKERU: "But when did it rain? Four, five days ago? So these must've been put here since then or this piece of paper would be soaked."
+    HAGAMI: "You're..."
+    There's a strange smile on Hagami's face as her eyebrows work in thought for a moment.
+    HAGAMI: "Hm."
+    HAGAMI: "I think you're trying to scare me."
+    TAKERU: "How would a couple of flowers be scary?"
+    HAGAMI: "Don't know."
+    HAGAMI: "You didn't put those... You're not trying to fool me?"
+    TAKERU: "Oh, okay, I get it. I didn't get very far in that book you lent me about the Rosi-whatevers - "
+    HAGAMI: "Rosicrucians."
+    TAKERU: "Yeah them, but if you're trying to get me to think they exist by sneaking out here yourself and dropping off flowers, I'm not falling for it."
+    HAGAMI: "There's only one rose in the Rosicrucian symbol."
+    TAKERU: "I'm really not sure if I should trust you with that one..."
+    HAGAMI: "..."
+    HAGAMI: "You're staring."
+    TAKERU: "Yeah I was trying to see if you'd start blushing again but I guess you're telling the truth."
+    MANA: "Hey! Are you guys done over there yet?"
+    TAKERU: "Done what?"
+    HAGAMI: "Oh."
+    HAGAMI: "We should keep moving. Before it's too dark."
+    TAKERU: "Right, wouldn't want to run out of time. How long do you think before we have to head back?"
+    I don't want to have to take that same trail back by flashlight, especially carrying Mana's antique camera.
+    We should at least have some time at the boathouse before the sun sets completely.
+    
+    Back on the trail again, there's a sharp turn around a river bend, and switchback up an incline. Did we miss the building somehow? I didn't think we were fives minutes off when we stopped.
+    We reach the top of the slope.
+    HAGAMI: "This..."
+    TAKERU: "Yeah, we missed a turn or something. What is this?"
+    MANA: "Oh! Yeah this must be the old road!"
+    TAKERU: "Old road?"
+    MANA: "Yeah. If you take a left turn after the Shizukawa bridge you'll get here eventually. I don't think anyone comes this direction any more because there's only really a couple odd villages off in the mountains this way."
+    TAKERU: "So we missed the boathouse?"
+    MANA: "Probably?"
+    HAGAMI: "If we turn around we should be able to find it. Most likely it was build along the old road."
+    Time for a 180 degree turn.
+    Hagami leads the way. The sun is almost at the horizon now. The light reflecting off the water makes the river almost painful to look at.
+    HAGAMI: "There."
+    MANA: "Good eye!"
+    TAKERU: "You mean I'm supposed to carry this... through that...?"
+    The path threads between two bent willows, creating a passage no more than foot wide. It's not a surprise we missed it on the way uphill.
+    HAGAMI: "Maybe you can just leave it there."
+    MANA: "What is someone steals our camera though?"
+    TAKERU: "If there's someone here, following us, just waiting for the opportunity to jump out and make off with a fifty year old camera... We've got bigger problems."
+    MANA: "When you put it like that..."
+    MANA: "Y'know, I think I'm just gonna stay here."
+    HAGAMI: "You're not coming on the field expedition?"
+    MANA: "This IS the expedition! Maybe my job is just guarding the supplies."
+    MANA: "Besides um... Are you sure we should be here?"
+    TAKERU: "No, but I kind of thought that was the point."
+    MANA: "Everyone has their job. Don't you think? I mean I would never chicken out of anything so um, uh..."
+    HAGAMI: "Initiate Mana, guard the camera. Initiate Takeru, come with me."
+    MANA: "Yes ma'am! I won't let you down."
+    TAKERU: "After you."
+    
+    Less than minute on the side path, through one last row of overgrown branches, and we're faced with the boathouse facade.
+    The wood is black and patched, but the structure still stands. Two stories, it stands over the still water of the Shizukawa, silent. In place of a door there's only a chain. In place of the window, an empty black. And spraypainted on the front facade is a white X.
+    TAKERU: "Then it's condemned."
+    HAGAMI: "...Yeah."
+    HAGAMI: "Expected it."
+    She undoes the chain, and the entryway lies open.
+    TAKERU: "You're not going in there, are you?"
+    HAGAMI: "...Maybe."
+    TAKERU: "That, er..."
+    To put it honestly, Hagami never struck me as the person to have the guts for this.
+    HAGAMI: "Maybe."
+    HAGAMI: "We have the flashlight."
+    I follow her to the entrance.
+    The beam of light reveals the interior one narrow circle at a time. Rotting floor. Charred wood. A gap in the ground where boats would've sat.
+    My fear is that if I as much as take one step on the floorboards, they'll collapse into the water.
+    Maybe thinking along the same lines, Hagami throws a stone.
+    And it vanishes.
+    TAKERU: "The water's shallow, isn't it?"
+    HAGAMI: "Maybe."
+    TAKERU: "Er yeah maybe you're right... If this is a boathouse it'd make sense if it were built over a deep spot."
+    HAGAMI: "That. What's that?"
+    The light is on a pile of black rubble in the far corner.
+    TAKERU: "Looks like it used to be the staircare."
+    HAGAMI: "Guess we'll never get to the second floor then..."
+    TAKERU: "Probably not."
+    What does a boathouse need with a second story anyway?
+    Still, I'm surprised. If people have been down here recently, I half expected beer cans strewn around, or graffiti, or...
+    I don't know what I expected.
+    HAGAMI: "Wish we could get a better view."
+    TAKERU: "That really doesn't look safe."
+    HAGAMI: "No..."
+    I'm glad she agrees because there's no way I'm taking a step in that place. Besides the questionable floor, there's just... Something.
+    While I wouldn't admit it, I think the flowers from earlier have me rattled.
+    HAGAMI: "Maybe..."
+    While Hagami walks away, I spend a few more moments staring into the ruin.
+    But without her flashlight, in the twilight, there's nothing visible in there. Nothing but the occassional gleam in the water.
+    I turn away.
+    TAKERU: "Hey! What're you doing?"
+    HAGAMI: "Me?"
+    TAKERU: "It's not like there's anyone else here."
+    She's standing against one of the willows, this one with one bough over the water.
+    TAKERU: "Were you going to climb that?"
+    HAGAMI: "I just wanted..."
+    HAGAMI: "From there we could see the second story."
+    The branch sways in the wind.
+    TAKERU: "I don't know..."
+    TAKERU: "Towards this end it looks stable, but... The water was pretty deep right?"
+    HAGAMI: "It... I'll be fine."
+    TAKERU: "Really?"
+    I didn't think she was this bold.
+    TAKERU: "I'll come up as well. If you slip, then I can at least..."
+    Catch you? That's not going to work. But if Hagami's going to put herself out there I feel like I'm at least obligated to try.
+    The branch is narrow.
+    Sitting like that, out above the river, at dusk...
+    It wouldn't take any special photography now for me to believe that she was a ghost.
+    When I clamber up the willow next to her, Hagami inches to the side.
+    HAGAMI: "...Hard to see anything."
+    TAKERU: "Yeah."
+    Up close, the ruin is just black.
+    What I didn't realize looking from the bridge is that there's a window set in the front wall on the second floor, facing upstream.
+    Of course, nothing is visible inside.
+    But isn't that where I saw the eyes?
+    No... Whoever was watching me...
+    They were on the bridge, weren't they?
+    Watching?
+    If they were on the bridge... Could they see me now.
+    I turn.
+    TAKERU: "Hagami. Hagami, do you - "
+    TAKERU: "..."
+    I can't be imagining it.
+    The bridge over the Shizukawa river is clear from here. Anyone crossing there could see us now, six feet up, six feet out over the water.
+    And someone IS there. Looking straight at me.
+    There's no way I could make out the details of that person or those eyes but it's like a dream where information is revealed and I know things I shouldn't as they just exist as truths in my mind -
+    - and the person up there while not a person just a set of eyes really is the same set of eyes that saw through me the night of the fire while I stood there up on the bridge with everyone else watching it burn -
+    Right. Yes. I was right in the beginning. When I felt the dagger in my back it was because I'd be spotted. By something malicious. That now stares back at - 
+    TAKERU: "Uahh!"
+    HAGAMI: "Takeru!"
+    HAGAMI: "Are you alright?"
+    TAKERU: "I... I think so."
+    HAGAMI: "Did you almost fall in?"
+    TAKERU: "Just lost my balance for a second."
+    TAKERU: "Did you see that?"
+    HAGAMI: "What?"
+    TAKERU: "On the bridge. There was someone there."
+    HAGAMI: "I was... looking at the sunset."
+    Sure enough, the sun is now fully below the horizon. The sky is lit purple and the water red below it.
+    But I can't stop staring backwards.
+    TAKERU: "Someone was there, watching us. I'm not making it up, either. Someone was up there."
+    HAGAMI: "I, um..."
+    She slides down the willow onto the riverbank.
+    HAGAMI: "I didn't realize it was so visible. I was, um, more worried about Mana."
+    TAKERU: "Worried about Mana what?"
+    HAGAMI: "I... don't know."
+    TAKERU: "Well whatever. Whoever was out there was giving me the creeps..."
+    TAKERU: "Should we go find Mana or did you want to poke around a bit more?"
+    She pauses.
+    HAGAMI: "The sunset..."
+    HAGAMI: "It's gone now. Let's go."
+    
+    I don't waste any time pushing between the sapplings that line the way back to the trail. It's less than a minute before I trip over Mana.
+    MANA: "Hey! Watch it! You almost scared me."
+    TAKERU: "You were practically lying on the ground."
+    MANA: "Turns out it's not too convenient to sit on that big basket."
+    TAKERU: "It's not convenient to carry, either."
+    MANA: "But you'll bring it back?"
+    TAKERU: "Only if you promise to never bring it again."
+    MANA: "Again? You think we'll come back here?"
+    HAGAMI: "Maybe... It might be nice."
+    TAKERU: "No, no that's not what I meant. What's the quickest way back to town?"
+    MANA: "Probably if we go uphill to the old road? I can get us back to the school from there pretty fast."
+    MANA: "You guys are headed back to the dorms?"
+    TAKERU: "Yeah, where else?"
+    MANA: "Well um I'll catch the bus from the other way, so..."
+    TAKERU: "I'll carry the basket and I'll even carry Hagami's backpack if you know a shorter way back to the school. Let's just do that."
+    MANA: "Okay! I can do that."
+    TAKERU: "And did you see anyone on the bridge?"
+    MANA: "The bridge?"
+    HAGAMI: "Over the river."
+    TAKERU: "I mean, there's only the one, right?"
+    MANA: "It's the middle of the woods. How would I have seen anyone?"
+    TAKERU: "Someone was definitely there..."
+    TAKERU: "Never mind. Let's get going. Hagami, you still have that flashlight?"
+    HAGAMI: "Yes. Right here."
+    MANA: "Then... Onwards!"
+    Mana marches up the switchbacks towards the road.
+    It's the same spot where we were an hour ago, but... The mood is completely different.
+    Maybe it's just me but I'm just anxious to be back in my own bed, away from whatever was looking at me. I'm convinced now it was the same person. Tonight, back then, in the dream, in whatever Hagami was trying to tell...
+    We take a left at the road and within minutes come to the Mirako front gates.
+    MANA: "Whew..."
+    MANA: "If we'd have known where to get off the road it would've been easier to just come this way instead of walking all that way down the river."
+    TAKERU: "I guess. Here's your basket."
+    MANA: "You don't want to stick around for a post-ghosthunt rundown? What did you guys see in the boathouse?"
+    MANA: "Oh, and there's a photography studio in the Mirako basement somewhere! We could get started developing - "
+    TAKERU: "I kind of just want to get home."
+    MANA: "Oh. Um, alright."
+    MANA: "Um, do you mind dropping off the basket in the library? I don't want to bring it on the bus."
+    TAKERU: "Sure. Fine."
+    MANA: "Here's the key. Don't lose it or my uncle will kill me."
+    HAGAMI: "Alright."
+    MANA: "I'm gonna run and see if I can't catch the last bus. This was fun, thanks Hagami!"
+    MANA: "And Takeru, I hope it wasn't too much trouble..."
+    TAKERU: "No, it was great."
+    MANA: "Um, okay. I hope so. Have a good night."
+    It's probably written on my face. I try to compose myself as I turn towards Mirako.
+    I really was enjoying myself until that last minute. Who cares who it was up on the bridge? They probably didn't even see me. It was probably just someone on their way home from a club with a late meeting. Why do I have to freak out like this?
+    I'm on autopilot the whole road up to the school.
+    Hagami next to me is equally silent until we reach the library.
+    She drops the apocalypse backpack, I drop the picnic basket. Hagami makes some sort of nondistinct sound, but she's looking out the picture window into the night rather than anything I can see.
+    HAGAMI: "Did you really see anything?"
+    TAKERU: "What? You mean on the bridge?"
+    ...No reply.
+    I feel like she's waiting for me to respond with something but after a moment, just - 
+    HAGAMI: "Then... I guess this is good night."
+    TAKERU: "Yeah. Good night."
+    Sorry, Hagami. I'm not sure what more you expected from me. There's that familiar silence again as we retrace the way to the main entrance.
+    It still feels like my brain has been transplaneted somewhere two feet to my left. Like I'm slightly beside myself, operating the remote control.
+    My self-to-left-two-steps is still on the alter for whatever spotted me. Whatever. Whoever.
+    Who -
+    TAKERU: "Who's there?"
+    MEIKO: "Takeru!"
+    HAGAMI: "Eep!"
+    MEIKO: "I knew it. I knew it! Takeru!"
+    TAKERU: "Meiko? What're you even doing here this late? Do you really need to shout? I mean - "
+    MEIKO: "Don't talk to me about late it is. What gives you the right to wander around here at all hours after, after..."
+    MEIKO: "You."
+    HAGAMI: "M-me?"
+    MEIKO: "Get out of here. This is between Takeru and me."
+    HAGAMI: "Um..."
+    MEIKO: "Go!"
+    TAKERU: "Meiko, what's with you?"
+    MEIKO: "What were you doing down there?"
+    TAKERU: "Where?"
+    MEIKO: "The boathouse. I know you know what I'm talking about."
+    TAKERU: "It, er... It's complicated."
+    Not complicated, I guess, but how am I supposed to explain a ghost hunt to Meiko?
+    MEIKO: "I give up. I have to know. Is your soul purpose in life to hurt me? Do you just wake up every morning and brainstorm a thousand ways to drive me crazy? You have to be acting. I know you're acting!"
+    TAKERU: "Calm down. What's with you tonight?"
+    MEIKO: "I'm done tiptoeing around, Takeru. So congratulations, you won. You got a rise out of me. Isn't that what you've been looking for this whole time you've been here?"
+    TAKERU: "What are you even talking about? Look, Meiko, I owe you a lot but you can't blame me for getting annoyed if you start yelling at me out of nowhere."
+    MEIKO: "You can drop the charade. I saw you down there at the river, just clowning around like the whole place wasn't - "
+    MEIKO: "You're the one that keeps bringing her up name, just to needle me. Don't think I don't notice. And then to go down there, just to, to..."
+    TAKERU: "I have no idea what you're even trying to imply here."
+    MEIKO: "What was yesterday, then? You should her name, then take off down the hall?"
+    MEIKO: "This is ridiculous, why do I even humor you..."
+    TAKERU: "Are you talking about Hikari?"
+    MEIKO: "Yes! Obviously! Stop playing around. You need to cut it out. Just... Stop. I was willing to put up with a lot, I thought you were just new, confused, but I should've known better, after all you've put me through..."
+    TAKERU: "You're the one playing around. Look, I don't care if there's some feud between the two of you, and if you're trying to tell me I should blackball Hikari along with the rest of you, I'm not going to do it."
+    MEIKO: "Blackball her?"
+    TAKERU: "Pretend she doesn't exist. Reintroduce myself whenever I run into her like she's some kind of transfer instead of someone you're picking on for some reason. I don't see anything wrong with her."
+    MEIKO: "Wrong with her? Wrong with..."
+    TAKERU: "What's this fight about anyway? You have me angry now. You just keep yelling at me, and Hikari won't give me a straight answer, so what am I supposed to - "
+    MEIKO: "Stop it! Stop pretending you can talk to her. Is that the joke? Think it's funny, trying to register the supernatural club and then telling me you talk with her?"
+    TAKERU: "Almost every day."
+    MEIKO: "You can't talk to her Takeru. She doesn't exist."
+    TAKERU: "That's a lie."
+    MEIKO: "Maybe she still exists, but I'm not falling for this. I thought I'd moved on and you come here to pull me back."
+    MEIKO: "Hikari is dead. She's been gone almost a year. If you think your little spirit club can really talk to her from beyond the grave, you're more delusional than I thought."
+    TAKERU: "She's not dead. If you people want to keep saying as an excuse to not talk to her, then - "
+    MEIKO: "Where do you think you just were tonight?"
+    TAKERU: "The boathouse."
+    MEIKO: "Her grave."
+    TAKERU: "What are..."
+    I pause for breath. Or to catch my thoughts, for the first time tonight. I thought Meiko had just gone off the deep end but...
+    I did see the flowers.
+    And would someone like Meiko really hold a grudge that small? Would she get this worked up over... Over what...?
+    TAKERU: "Then who is she?"
+    MEIKO: "Who's who? Hikari?"
+    MEIKO: "She's gone. She took her own life at last year's festival. And I'll be damned if you stomp on her memory any longer."
+    TAKERU: "A suicide? No way..."
+    But... That would be why Kunida would always dance around Hikari's name. Or why Natsumi would tell me to go ask someone else. Who would want to explain that?
+    TAKERU: "Then who is she? I talk to her almost... almost every..."
+    Those discolorations and the warping of her fingers those would be burns wouldn't they - a fire a year ago down at the boathouse yes that would cause that sort of injury and come to think of it did I ever see her touch anything at all or come to class or -
+    MEIKO: "If you think you can speak with the dead, you need to be locked up for your own good. Go back to the psych ward. That is where you came from, is it not? An institution?"
+    TAKERU: "I never denied that."
+    MEIKO: "I could care less."
+    MEIKO: "I know the real truth is that you've been acting. Fairly well. Your patience outlasted mine, so, congratulations. This is just me letting you've know you've won. You can drop the pretense now. I'm not letting you hurt me any more."
+    MEIKO: "So goodnight, Takeru. If there's any humanity left in you, just stay away from her grave. That's all I'm asking."
+    MEIKO: "...See you tomorrow."
+    The school doors slam.
+    And I'm left in the dark.
+    TAKERU: "Hikari..."
+    No way it's true.
+    Everything I know about her points to a no-nonsense, earnest, analytical, logical person. Not someone who'd take their own life.
+    Those small glimpses into her past... Was that not who she was, here, a year ago?
+    I find myself wandering in the direction of the basement tea room.
+    Of course, there's no one here. The lights flicker on one by one and illuminate a hall filled with nothing but dust.
+    The room itself is empty.
+    Could Hikari really... not exist?
+    TAKERU: "I need to sit down..."
+    Then who've I been talking to? Who is she?
+    I need to figure this out. The options: that my old friend Meiko has decided to act completely out of character, claim her classmate is dead, blow up at me for no reason...
+    ...that I've been imagining for weeks that someone has taught me chess, helped me through my schoolwork, talked me through my mental illness...
+    ...or that I've been played. Someone here is leading me on.
+    Someone (multiple someones?) have led me to believe that all those afternoons I've spent down here I've been talking to someone called "Hikari."
+    An imposter? Probably. It's not like I'd be hard to fool, a schizophrenic outpatient one year behind everyone else here.
+    Or who knows? The person calling themself "Hikari" was the one that made me think any of that business with Jun's letter took place. Or brought up the idea of the flexible past.
+    The gears are turning now.
+    I grab a notebook, start to sketch out the solution. Of course there's a solution. This whole experience in Mirako has been a puzzle but it's solveable and I just need to identify that SOMEONE that's set me up.
+    Multiple SOMEONEs. Connect the pieces, Takeru. Hikari's suicide, take it for a fact, work backwards. I never injured Jun. No one ever beat me up in revenge. Who brought me here? Who is responsible?
+    It fits. I smile because I have my answer now. It's like all those misfiring puzzles pieces in my head are slowly sliding together.
+    I close the notebook, stand up.
+    Tomorrow will be fun.
+    
