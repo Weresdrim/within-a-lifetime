@@ -177,61 +177,75 @@ label day15:
     I already know what will happen.
     And I close my hand.
     ...
-    Nothing, but then a warmth. Small. Her hand is small, faint, but I can feel a warmth between my fingers.
+    Nothing, but then a warmth. Small. Her hand is small, faint, but I can feel something alive between my fingers.
     TAKERU: "Then you - "
-    But when I open my eyes, there's nothing between my fingers.
-    The only warmth I could feel was my own hand.
+    But when I open my eyes, my hand is closed around... nothing.
+    The only warmth I could feel between my fingers was my own hand.
     If this person calling herself "Hikari" is truly in front of me... She's something I can't touch.
-    She places her hands behind her back.
+    She places crosses behind her back.
     HIKARI: "I was burned a bit before my death, but I lied to you about an injury."
     HIKARI: "My hands don't work because on some level, none of me works. It seems I'm not all here."
-    TAKERU: "You're trying to say you're actually a ghost. That's what you mean."
+    TAKERU: "Then you're trying to say you're actually a ghost. That's what you mean."
     HIKARI: "If that's how you choose to see things. I suppose that's how I'd describe myself. It's sometimes still surreal even to me..."
     HIKARI: "Do you mind if I sit?"
     TAKERU: "No... Go ahead, I guess."
-    My future has gone up in smoke. What do I do now? Act like all my classmates, say I've never met Hikari before in my life? Lie to the shrinks, get out of here? Tell the truth, live my life out in a sanitarium somewhere, forever visited by this acidic person calling herself a ghost?
+    My future has gone up in smoke.
+    What do I do now? Act like all my classmates, say I've never met Hikari before in my life? Lie to the shrinks, get out of here? Tell the truth, live my life out in a sanitarium somewhere, forever visited by this acidic person calling herself a ghost?
     HIKARI: "Who were you playing?"
     TAKERU: "What?"
     HIKARI: "The chess match. You look to be mid-game."
     TAKERU: "Nobody. I was bored so I just played both sides. I guess that's what I was doing daily all last month anyway..."
-    HIKARI: "Maybe you're more unstable than I thought... Even if I didn't move my pieces myself, you were still playing against me."
-    TAKERU: "This is just a little hard to... I don't know. Process?"
+    HIKARI: "Maybe you're more unstable than I thought..."
+    HIKARI: "Even if I didn't move my pieces myself, you were still playing against me."
+    TAKERU: "Playing against someone who's already died..."
+    TAKERU: "I can't understand it."
     Hikari sits in the chair opposite me, but she doesn't respond except to frown.
-    TAKERU: "You get that? Right? I've either got to accept that ghosts are real or that I'm permanently damaged. Psychotic. I'll probably wind up living on the streets or a drunk or..."
+    TAKERU: "You get that? Right? I'm stuck."
+    TAKERU: "I've either got to accept that ghosts are real... Or that I'm permanently damaged. Psychotic."
+    TAKERU: "I'll probably wind up living on the streets, or a drunk or..."
     HIKARI: "Hum."
-    HIKARI: "If I'm honest... No. I hadn't considered that."
+    HIKARI: "I hadn't thought about that, if I'm honest... No."
+    HIKARI: "Of course if I showed up here, you'd be forced to question yourself."
     She stands up again.
-    HIKARI: "I've acted selfishly by showing up here. And I suppose I acted selfishly by ever trying to talk to you earnestly in the first place."
-    HIKARI: "Maybe I should go. If you need to tell the doctors a story you can say I came and said a few words then left. And that's the last you ever saw of me. A lapse in your prescription caused me to appear and then I disappeared."
+    HIKARI: "It was selfish of me to ever show up here. And I suppose it was selfish of me to ever try and talk to you earnestly."
+    HIKARI: "...I should go."
+    HIKARI: "If you need to tell the doctors a story, you can say I came and said a few words and then left. And that's the last you ever saw of me. A lapse in your prescription caused me to appear and then I disappeared."
     HIKARI: "And then... That would make this goodbye."
-    HIKARI: "Would you want that?"
+    HIKARI: "That would be what's best for you."
+    HIKARI: "...Would you want that?"
     Want what? Would I prefer that Hikari had never shown up? Sure, that's an obvious answer.
     Or maybe not. Or maybe...
     Who was the first person I ever met at Mirako? Who's been my confidante since I arrived here? Could I pretend I just never -
     HIKARI: "Actually. Don't answer."
     HIKARI: "I know you probably would prefer if I'd never existed but I'm too selfish to respect that."
-    TAKERU: "I never said anything like that."
+    TAKERU: "I didn't say that."
     HIKARI: "It's what you would've said. And it makes sense to me. But try and see this from my perspective."
     HIKARI: "Takeru, my existence was pointless and miserable for a very long time."
     HIKARI: "I tried going to class like normal, carrying on my daily life."
-    HIKARI: "And everyone I met acted like they'd never seen me before. I could introduce myself and they'd think I was only an exchange student with a familiar name, and the next day the whole process would repeat again, like any memory of me had been erased."
+    HIKARI: "Everyone I met acted like they'd never seen me before. I could introduce myself and they'd think I was only an exchange student with a familiar name, and the next day the whole process would repeat again, like any memory of me had been erased."
     HIKARI: "I gave up trying to talk to anyone. I'd spend every day sitting alone in the old wing, hoping to disappear."
     HIKARI: "Do you understand why I'd care so much about one person, even you, just one person happening to remember that I exist from day to day?"
-    TAKERU: "I guess. That sounds miserable."
-    TAKERU: "So... What? Now I'm cursed too? Anyone I tell about you would think I belong right here, locked up in the loony bin."
+    TAKERU: "Yeah. That sounds miserable."
+    HIKARI: "It was. If I had known how to disappear from the world, I would've done it."
+    Hikari frowns. I realize that in all our chess matches together, she never once had to think like this. I'm seeing her her concentrate for the first time, and there's something... sad about it? Melancholy? Her chest heaves and she looks at anything but me.
+    Finally it falls to me to break the silence.
+    TAKERU: "So... What?"
+    TAKERU: "Now I'm cursed too? If I tell anyone about you, they'll think I deserve to be right where I am: locked up in the loony bin. I'm screwed."
     HIKARI: "I'm sorry. I apologize, but I am a weak person."
     HIKARI: "If I wanted to do the right thing, I would never have come back here to see you. I should've never spoken to you in the first place."
-    HIKARI: "I tried for a few days and I was just as miserable as I ever was. That's why I'm here. If you really want me to go away forever and never bother you again, then, I guess I can try."
+    HIKARI: "I tried for a few days and I was just as miserable as I ever was. That's why I'm here. If you really want me to go away forever and never bother you again, then I can try."
     HIKARI: "But it would hurt. Immensely. Please don't ask me to do that."
     TAKERU: "I..."
-    TAKERU: "You don't really give me much of a choice."
     If you backtracked a couple days, I would've said Hikari was my friend, sure as anything. If what she's saying is true, there's no way I would want to to force that on someone I cared about. So of course I can't refuse her here. Especially when she looks that desperate.
-    HIKARI: "I'm sorry again. I just..."
+    TAKERU: "You don't really give me much of a choice."
+    TAKERU: "I can't say I don't see you or hear you when you're standing there in front of me."
+    HIKARI: "You have no idea how happy it makes me to hear you say that, and I'm sorry again, but I just..."
     HIKARI: "I can't go back to that. Maybe that's why this happened in the first place and I was turned into... whatever I am now. Too weak or scared to move on to the next life."
-    HIKARI: "There's not much I can do for you in return, I'm afraid. Aside from teaching chess. I feel like that skill is a basic."
-    TAKERU: "It's... I guess it's fine. You don't have to do anything. You've been a good ear to talk to since I showed up at Mirako."
+    HIKARI: "There's not much I can do for you in return, I'm afraid. Teaching you chess, or guiding you through classes..."
+    HIKARI: "That isn't much."
+    TAKERU: "It's fine. You don't have to do anything. You've been almost the only person who's listened to me since I showed up at Mirako."
     I don't even know what I'm saying. It's nonsensical, talking to someone who's already dead.
-    TAKERU: "About what happened to you... You are serious, aren't you?"
+    TAKERU: "You're serious about what happened to you then?"
     HIKARI: "When am I ever not serious?"
     TAKERU: "Then, er..."
     TAKERU: "Maybe I don't see the whole picture. Could you tell me the truth about the night you, er, died?"
@@ -240,13 +254,15 @@ label day15:
     HIKARI: "I never killed myself. I'm too much of a coward for that. How everyone thought I'd committed suicide is a mystery. I would never."
     TAKERU: "Then why - "
     HIKARI: "A stupid mistake. Stupid, dumb, imbecilic, moronic, just..."
-    HIKARI: "I truly hate the girl I was back then. In some sense I'm still her. A year of living in the dark turned me into a realist instead, instead of someone who could die like that, and everyone would still call it a suicide."
+    HIKARI: "I truly hate the girl I was back then. Such a weak person she could die and everyone would assume it was suicide. I'm ashamed of the old me."
     I'm still confused.
-    HIKARI: "Alright. I'll go through the whole thing. I tried to tell you before but I backed out. I'm ashamed to tell you this but you're right, I owe it to you. Are you ready?"
+    HIKARI: "Alright. I'll go through the whole thing. I tried to tell you before but I backed out - I did tell you I was a coward, didn't I? And while I'm ashamed I do owe it to you."
+    HIKARI: "You've chosen to trust me, so I'll try to trust you. Are you ready?"
     TAKERU: "I think so."
     She tried to tell me before?
     Oh.
-    Right, that'd make sense. There was that fire.
+    Right. That'd make sense.
+    There was that fire.
     When was that? Almost a year ago. Festival night -
     
     I'm not really sure where I am. Walking down the road from Mirako? When was this?
@@ -365,45 +381,73 @@ label day15:
     
     Sit here and...
     Oh.
-    Right, I'm trapped somewhere in the inpatient wing of the psychiatric clinic a few hours out from Mirako. Face to face with Hikari, a someone or ex-someone who's just finished telling me about the night she concluded floating face-up in the river Shizukawa.
+    Right, I'm trapped somewhere in the inpatient wing of the psychiatric clinic a few hours out from Mirako. Face to face with Hikari, a someone (or ex-someone) who's just finished telling me about the night that she concluded as a corpse, floating face-up in the river Shizukawa.
     HIKARI: "They assumed it was suicide."
-    TAKERU: "Hang on. Go back. I think I missed half of..."
+    TAKERU: "Hang on. Go back. I think I missed half of - "
     HIKARI: "Were you paying attention?"
     TAKERU: "No, I was, I just..."
-    I just... what? Can't help but seeing these terrible things from the perspective of memories?
-    HIKARI: "I wanted to put on a private show, so I stole what I could from the Mirako basement. It wasn't hard. The company the school contracted out for the fireworks left pretty much their whole supply in the basement."
+    I just... what? Can't help but seeing these terrible things from the perspective of the narrator? Where do these memories come from?
+    HIKARI: "I wanted to put on a private show, so I stole what I could from the Mirako basement. It wasn't hard. The company the school contracted out for the fireworks left pretty much their whole supply in the old wing."
     HIKARI: "So I took what I could, brought it to the boathouse, and..."
+    HIKARI: "Boom. Goodbye Hikari."
     TAKERU: "I'm sorry. I still don't get it."
-    HIKARI: "This is hopeless. Either I'm no good at explaining, or you can't listen properly, or this is just so foreign to you that you could never understand."
-    HIKARI: "Probably it's me. There's never been anyone to tell this story to."
-    TAKERU: "It's fine. I get that you took the fireworks, and everyone was there watching, and... I just don't get why."
-    HIKARI: "You know Meiko."
+    HIKARI: "This is hopeless. Either I'm no good at explaining, or you can't listen properly. Or maybe this is just so foreign to you that you could never understand."
+    HIKARI: "It's probably my fault. I've never told this story before, because there's never been anyone to listen."
+    TAKERU: "It's fine. I get that you took the fireworks, and everyone was there watching, and... I just don't get why you did any of it."
+    HIKARI: "You know Meiko?"
     TAKERU: "Her? What does she have to do with anything?"
-    HIKARI: "Nothing. I realize now this was really all my fault, but back then, Meiko was everything I wanted to be. 
-    HIKARI: "My whole life everyone in this town had always respected me by default, just because of my family name. In high school, with all these strangers, there was a change."
+    HIKARI: "Nothing. I realize now this was really all my fault, but back then, Meiko was everything I wanted to be." 
+    HIKARI: "My whole life, everyone in this town had always respected me by default, just because of my family name. In high school, with all these strangers... It was the first time I'd ever met anyone who didn't know me."
+    HIKARI: "And everyone I met seemed to already know Meiko. And there was something about her that made her seem like she had all the answers, quiet as she was. She was the person to know, not me."
     TAKERU: "Ah. Yeah, that's Meiko for you. Hard to find anyone that doesn't look up to her."
-    HIKARI: "At first she was so shy, and then before I knew it, she was on the council, on the festival committee, the class rep... We were..."
+    HIKARI: "At first she was so shy, and then before I knew it, she was on the council, on the festival committee, the class rep..." 
+    HIKARI: "Our relationship... We were..."
     TAKERU: "Rivals?"
     HIKARI: "I don't know. Not that."
     Hikari frowns.
-    I remember before, in that memory of hers -- she stared after Meiko as she walked down the hall, in that exact spot that I stood a year later.
-    It wasn't hatred in her eyes. Envy? Not quite, more something deeper, like -
+    I remember before, in that memory of hers -- as she stared after Meiko as she walked down the hall, in that exact spot that I stood a year later -
+    It wasn't hatred in her eyes. Envy? Not quite that either, more something deeper, like -
     HIKARI: "I've always been terrible at trying to figure out how I feel about people. It doesn't really matter anyway."
     HIKARI: "The point is, she volunteered for a spot on the festival committee. They put her in charge of dealing with the fireworks company. So in my mind, if I could put on that private show and upstage her just a little..."
     HIKARI: "It was almost worth the risk."
     TAKERU: "..."
-    HIKARI: "What do you think of fireworks?"
+    HIKARI: "What do you think of fireworks, Takeru?"
     TAKERU: "I don't know. They're nice, I guess."
     HIKARI: "They're amazing."
     TAKERU: "You think so? You always kind of seemed like a cynic to me."
     HIKARI: "Of course I'm a cynic. That's why I think they're amazing. Simple, graceful, and they go out with a flourish."
     HIKARI: "I would've liked to have seen the show as a student, at least once. Or even to just go out like a firework. Beautifully, instead of..."
     She shudders. I remember her floating there, in the river.
-    HIKARI: "Guess that's why I'm still here."
-    TAKERU: "You mean, that's why you're a ghost?"
-    HIKARI: "I don't know why I'm still here, and I don't have any great answers from beyond the grave or any of that. As far as I can tell, I just never died. It's everyone else who says I have."
-            
+    HIKARI: "If I had a beautiful death instead of such an ugly one, I doubt I'd be here right now."
+    TAKERU: "You mean, you think that's why you're a ghost?"
+    HIKARI: "I don't know why I'm still here, and I don't have any great answers from beyond the grave or any of that. As far as I can tell, I just never died. Everyone else says I lost my life that night, but to me, I kept on living."
+    HIKARI: "And that leaves us here."
+    Me, sitting on a bed in a psychiatric ward. Her, somewhere around the visitor's chair, but unreal. Not really there in the first place.
+    And that leaves us here. For the first time, we see each other as what we are.
+    HIKARI: "You're angry at me, aren't you?"
+    TAKERU: "No. I'm not sure what I think."
+    HIKARI: "Just start yelling at me already. If you're angry at me, I won't feel as bad about imposing on you."
+    She sits there for a few moments, but it's not like there's anything for me to do. They way she stares at the chessboard... I'm not sure if Hikari actually studying the positions of the pieces, or she's just doing anything she can to avoid looking me in the eye.
+    TAKERU: "You should go."
+    HIKARI: "I know that."
+    HIKARI: "If I come back tomorrow... Would that be too much?"
+    TAKERU: "It doesn't matter."
+    HIKARI: "It does matter. I know what you're thinking."
+    Do you?
+    Hikari, do you know what I'm wondering? If I should tell you right here, right now, to remove yourself from my life altogether, to let me be a normal student at Mirako, free from ghosts and memories and -
+    And still I can't bring myself to say that.
+    TAKERU: "I'll see you later, Hikari."
+    HIKARI: "Maybe."
+    HIKARI: "I hope so."
+    She waves goodbye.
+    HIKARI: "Goodnight, Takeru."
+    TAKERU: "Goodnight to you too, Hikari."
+    Her form vanishes from the chair, and then from the doorway, and soon she's gone altogether, and I'm forced to come to terms with what I've just seen.
+    I can never tell anyone about her.
+    Unless I want to live out the rest of my life in a sanitized cell like this, then I can never tell anyone the truth of what I've seen here tonight.
+    ...
+    Sleep will not come easily.
+    I really have been cursed.
     
-    
-    
+    jump day16
     
