@@ -32,7 +32,22 @@ label day16:
     TAKERU: "No. Just pills."
     NATSUMI: "That's not such a bad deal. Kunida's covering logasomethings this week and I think being forcefed pills sounds like it'd be less painful. Maybe even less painful than needles. Maybe you should just hang out here another week until there's a less awful math unit up."
     TAKERU: "..."
-    NATSUMI: "Man, Takeru. You're awfully quiet for someon
+    NATSUMI: "Man, Takeru. You're awfully quiet for someone who just got handed a pastry box by Natsumi, the school's best and most desirable - "
+    TAKERU: "Sorry. Thanks."
+    I just don't know why you're here.
+    NATSUMI: "Maybe I'll have to quiz Meiko on what you like next time. You'd know all about that, wouldn't you Meiko? He does seem kind of too well-built to have a sweet tooth, yeah?"
+    MEIKO: "...Sorry, what were you saying?"
+    NATSUMI: "What's with you two? If it weren't for me you guys would stare at the wall all day and mumble at each other."
+    NATSUMI: "Well that's okay. I'm only here to say my piece and then catch the train. We've got a game down in Sayo this afternoon."
+    TAKERU: "Oh, okay, so this place is just on the way."
+    NATSUMI: "Hey, it's not on the way! It's more like a triangle. I came all the way out here to get you a very expensive piece of cake and apologize for hounding you about the baseball team the past couple weeks."
+    TAKERU: "You don't really have to - "
+    NATSUMI: "I just thought I'd say I don't think any less of you're at Mirako for psych health reasons or anything like that. Hell, some of our best players transferred out here for the same sort of thing.
+    NATSUMI: "Anyway, hope you're back soon. I wouldn't want them moving someone else up into your desk okay?"
+    TAKERU: "Thanks."
+    NATSUMI: "Catch you later Natsumi. I've got to run to make the train."
+    When the door slams behind her, I'm left facing Meiko. She no longer looks absent-minded at all. The opposite, in fact. She has that same narrow-eyed look she had that night I came back from the boathouse ruin.
+    But then in the next moment, she relaxes, and her easy smile is back.
     
     
     

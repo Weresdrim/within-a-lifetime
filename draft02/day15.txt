@@ -57,8 +57,10 @@ label day15:
     MANA: "Sorry! I tried, I really did!"
     MANA: "And Hagami said to say hi! So best wishes from both of us."
     I really kind of doubt she said anything of the sort.
+    We chat for a bit, but it's empty. Mana isn't in my year, so there isn't much to talk about, and with Kunida in the room, I definitely don't feel like going on about Hagami and the club. Especially when Kunida's her stand-in father.
     And it sounds heartless, but I just really want Mana out of the room. I hate people seeing me down like this. Especially someone as upbeat as her.
-    TAKERU: "Yeah. Thanks."
+    TAKERU: "Thanks for coming all this way."
+    MANA: "It's good to see you alright!"
     KUNIDA: "Mana, I'll probably want to speak to Takeru alone for a minute or two. Do you mind?"
     MANA: "Oh! Okay sorry I'll let you be. Come back soon though, Takeru, okay? Hope you're feeling better!"
     TAKERU: "I'll try. Thanks."
