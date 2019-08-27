@@ -15,10 +15,12 @@ label day16:
     TAKERU: "You're the one who called it a surprise..."
     NATSUMI: "But anyway I was just following Meiko."
     MEIKO: "Hello, Takeru."
-    TAKERU: "Hey Meiko... You guys really didn't have to spend your Sunday coming all the way out here."
+    TAKERU: "Hey Meiko..."
+    As they enter and sit down at the two vistors' chairs, I try to pretend like this is anything what I expected this morning. I'm kind of hoping they just leave.
+    TAKERU: "You guys really didn't have to spend your Sunday coming all the way out here."
     NATSUMI: "I spent all the time on the train copying Meiko's lab report, which is all I was going to be doing today anyway."
     NATSUMI: "Besides, we come bearing gifts! Here you go."
-    It's a take-out box from a pastry place. Actually, I'm kind of grateful. Anything beats hospital food.
+    It's a take-out box from a pastry place. Anything beats hospital food.
     NATSUMI: "Meiko. Present your gift."
     MEIKO: "These are all the worksheets and assignments you missed this week. And I've made a copy of my notes. Hopefully you won't fall too much more behind."
     TAKERU: "Oh. Thanks."
@@ -34,21 +36,88 @@ label day16:
     TAKERU: "..."
     NATSUMI: "Man, Takeru. You're awfully quiet for someone who just got handed a pastry box by Natsumi, the school's best and most desirable - "
     TAKERU: "Sorry. Thanks."
-    I just don't know why you're here.
+    Thanks but I just don't know why you're here.
     NATSUMI: "Maybe I'll have to quiz Meiko on what you like next time. You'd know all about that, wouldn't you Meiko? He does seem kind of too well-built to have a sweet tooth, yeah?"
     MEIKO: "...Sorry, what were you saying?"
     NATSUMI: "What's with you two? If it weren't for me you guys would stare at the wall all day and mumble at each other."
     NATSUMI: "Well that's okay. I'm only here to say my piece and then catch the train. We've got a game down in Sayo this afternoon."
-    TAKERU: "Oh, okay, so this place is just on the way."
-    NATSUMI: "Hey, it's not on the way! It's more like a triangle. I came all the way out here to get you a very expensive piece of cake and apologize for hounding you about the baseball team the past couple weeks."
+    TAKERU: "Oh, okay, so this clinic is just on the way."
+    NATSUMI: "Hey, it is not on the way! It's more like a triangle. I came all the way out here to get you a very expensive piece of cake and to say I'm sorry if I've been a little rough to you the past couple weeks."
     TAKERU: "You don't really have to - "
-    NATSUMI: "I just thought I'd say I don't think any less of you're at Mirako for psych health reasons or anything like that. Hell, some of our best players transferred out here for the same sort of thing.
+    NATSUMI: "I just thought I'd say I don't think any less of you're at Mirako for psych health reasons or anything like that. Hell, some of our best players transferred out here for the same sort of thing."
     NATSUMI: "Anyway, hope you're back soon. I wouldn't want them moving someone else up into your desk okay?"
     TAKERU: "Thanks."
     NATSUMI: "Catch you later Natsumi. I've got to run to make the train."
     When the door slams behind her, I'm left facing Meiko. She no longer looks absent-minded at all. The opposite, in fact. She has that same narrow-eyed look she had that night I came back from the boathouse ruin.
-    But then in the next moment, she relaxes, and her easy smile is back.
+    But she doesn't say anything. She just sits there, looking around the room, until her eyes fall on the half-completed chess game. It's still in the corner, atop Hagami's ghostopedia.
+    MEIKO: "I should've known you played chess."
+    TAKERU: "I don't, really."
+    MEIKO: "Are you sure? I don't know much about it... A friend taught me the basics a while ago, but from what I'd see, you'd be good at it. Tactics. I can never guess what you're really planning."
+    TAKERU: "I'm not planning anything."
+    MEIKO: "I've told you before that I see through, Takeru. When there's no one else around, you can stop talking to me like I'm your beloved class rep. You can't stand me and I can't - "
+    She stops and waits.
+    I have no idea what response she wants from me, but apparently "looking confused" isn't it.
+    Finally, her tense expression disappears and she's back to her easy smile.
+    MEIKO: "Never mind."
+    MEIKO: "Hopefully you're feeling well enough to come back to Mirako in the next few days."
+    MEIKO: "When you're back... The reason I came here, I wanted to say... Back on that Sunday before you left..."
+    TAKERU: "Oh, the ghosthunt."
+    TAKERU: "Hey, I'm sorry about what happened around that. I wasn't trying to make you angry or anything like that. I just didn't know about what happened to Hi-"
+    MEIKO: "Make me angry? I'm not sure what you mean."
+    TAKERU: "We fought. You yelled at me when Hagami and I got back to the school."
+    MEIKO: "No we didn't."
+    TAKERU: "Yeah we did? I'm sorry, I know you tried to hint it to me but no one ever told me the full story about Hi-"
+    MEIKO: "That never happened."
+    She cuts me off again before I can finish Hikari's name.
+    MEIKO: "I wasn't even at Mirako that day. I was at my prep school, back in the city."
+    TAKERU: "You're telling me I imagined that? How would you even know what I'm talking about? You're the one that brought this up."
+    MEIKO: "If you remember anything about me losing my composure, or me mentioning a former student here, or..."
+    MEIKO: "Look. You're a patient here, in a psychiatric clinic. People might say you're unstable if you suggested I did anything out of character."
+    MEIKO: "Maybe you should consider that what you remember never happened."
+    TAKERU: "You're telling me - "
+    That can't have been a false memory. No way. I remember her shouting at me, accusing me of only going down to the boathouse to hurt her and trample on Hikari's memory.
+    MEIKO: "If you ask anyone about it, they'll say I wasn't there."
+    TAKERU: "Hagami was there."
+    MEIKO: "And are you going to ask her about it?"
+    TAKERU: "...No."
+    MEIKO: "Good. Because I think it's best if everyone thinks the only thing between us... is that we're childhood friends."
+    MEIKO: "Right? My old friend?"
+    I can't understand it. Until a week ago, that's exactly how I would've described my relationship with Meiko. Is she mocking me? This has to be mocking me.
+    When I can't respond, Meiko just shrugs.
+    MEIKO: "And they say paranoia's a symptom of schizophrenia after all. That's fine."
+    MEIKO: "I hope you're doing better Takeru, I really do."
+    She spends a few more minutes going over her notes, the work I've missed, what I'll need to do to catch up to the rest of the class... Nothing I didn't hear from Kunida yesterday. And it's not like I can take her seriously after whatever this conversation was.
+    Was it a threat?
+    Am I just mistrusting her for no reason?
+    Then she stands to leave.
+    MEIKO: "So, see you soon, I hope. Take your time if you need to."
+    TAKERU: "Thanks. Yeah the doctors are just making sure my dosages are alright, so with any luck I'll be back at Mirako in a couple days."
+    MEIKO: "Good."
+    MEIKO: "And remember, last Sunday didn't happen. No matter what sort of chessmaster you think you are, I can be one step ahead if I need to be."
+    MEIKO: "Bye."
+    With a wave she's gone.
+    And I'm left staring at nothing, and with a lot of time on my hands, trying to piece together just what is going on.
     
+    I clear the books off my bed and organize them into a pile on my desk.
+    I pack the chess set back into its plasic baggie and tuck it into my bag.
+    I pace around the room for the tenth time but I'm still stuck on Meiko.
+    She has to be lying to me.
+    If I remember the whole argument, and Meiko brought the thing up, and she even knew Hagami was there to witness it... It can't be another one of those dreams where the whole past seems interchangeable. I can't accept that.
+    It has to be a lie.
+    Or rather, Meiko is asking me to lie that she ever brought up Hikari, or that she was ever even at Mirako that Sunday in the first place.
+    It's not like this hasn't happened before. I always remembered her as a kind of quiet, sluggish girl without much motivation, struggling to get by in school and everywhere else, probably because of what happened to her parents.
+    I remember pulling her through those days. She says she remembers her being the one looking out for me those days.
+    Wasn't she the first person I met here, on my first day at Mirako? But then we only formally met a few days aftewards...
+    What concrete proof would I have, one way or the other?
+    None.
+    I find myself staring at the window for the nth time, watching the children in the park who aren't trapped in here like me and whose thoughts don't keep eating each other in some ourobouros of crappy mental health.
+    One of the boys out there in the park has a baseball mitt. He throws underhand to girl who might be his sister, wearing a pink ribbon.
+    What was that about concrete proof?
+    A ribbon, eh?
+    That has to be it.
+    Meiko was wearing that ribbon I bought for her, years ago. She's always wearing it. A silly decorative bow I picked out when we visited her parents' graves.
+    It's just like the letter from Jun. If the letter says I was a lousy, unsportsmanlike teammate, then fine, I have to admit that no matter my memories that I was the jerk Jun outlined in his letter.
+    And if she's wearing that ribbon, then I know that no matter what Meiko is telling me happened or didn't happen, my memories of our days growing up together haven't betrayed me just yet, at least.
     
     
     
