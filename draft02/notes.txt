@@ -31,3 +31,4 @@ Surgery to hook up to d11
 TO DO
     flashback where Meiko is likeable
     humanizing weaknesses (higu#5)
+    more ellipsis of conversations
