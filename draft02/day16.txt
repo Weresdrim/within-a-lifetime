@@ -269,5 +269,3 @@ label day16:
     
     jump day17
     
-    
-    

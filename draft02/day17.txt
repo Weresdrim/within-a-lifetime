@@ -3,7 +3,7 @@ label day17:
     The ride back from the clinic.
     Back to Mirako.
     I took this same route almost a month ago, looking out the bus window, watching the countryside give way to suburb, then city, then town, the countryside again as the road following the Shizukawa the last hour or two to Mirako.
-    Back then I was apprehensive because there was a totally new life ahead of me and I was uncertain whether I'd fit in or not, and thinking back, I was nervous who I'd be now that I was no longer Takeru, the star pitcher.
+    Back then I was apprehensive because there was a totally new life ahead of me and I was uncertain whether I'd fit in or not, and thinking back... I was nervous who I'd be now that I was no longer Takeru, the star pitcher.
     Would I be able to make anything of myself?
     It all seems so stupid in retrospect.
     Why did I care about any of that? Now all I care about is if I'll be able to mend anything with all the people I left behind at Mirako, because I'm pretty sure I remember screwing just about everything with just about everyone.
@@ -18,11 +18,88 @@ label day17:
     
     I kind of wanted to say the next step was "back home" instead of "back to my dorm room" but it's hard to consider the room I shared with Kenta "home."
     Hell, I wonder if any of my stuff will still be there. Maybe Kenta will have packed it all into long-term storage and turned my half of the room into his own personal trophy gallery. Or sold all my clothes off on an internet auction to pay for a rare butterfly or something.
-    The road brings me up to the dorm building. The Shizukawa, as per its name, flows silently behind the three story building along the town's main road.
+    The road brings me up to the dorm building. The river Shizukawa, as per its name, flows silently behind the three story building along the town's main road.
     I re-met Meiko here, not too many weeks ago, even if she pretended not to know me. I'm half-expecting to run into her again as I trudge past the two or three students outside past the door and up to my old room.
     It's past the afternoon and into the evening now. I didn't see Kenta downstairs at the PC so he should be up here, right?
     But when I knock, no one responds.
     Inside, I'm expecting my bed to have been replaced by an embalming station, but my things are all there. All my shirts, pants, everything... Neatly folded and deposited by the foot of the bed. And I even have my dresser back. No bottled frogs in sight. The thing is empty.
     TAKERU: "Wow..."
     Back on Kenta's half of the room, everything is as disorganized as ever. Boxes full of wood, wooden crates full of boxes, just enough space to squeeze between things to see a bed on the other side...
-    I guess it's not disorganized, it's just organized in a way that only make sense to Kenta. I make a note what inspired him to stop trying to take over my half of the room in the same way. In the meantime, I'll just be happy to sleep in an unobstructed bed.
+    I guess it's not disorganized, it's just organized in a way that only make sense to Kenta. I make a note to find out what inspired Kenta to stop trying to take over my half of the room, but in the meantime, I'll just be happy to sleep in an unobstructed bed.
+    Without anything else to do, I unload my things from the clinic. The dresser is on my half of the room is empty. It's sort of... refreshing.
+    I'm interrupted from unpacking by the opening of the door.
+    TAKERU: "Oh, hey Kenta. I'm back."
+    KENTA: "..."
+    TAKERU: "How's it going? Anything much happen while I was gone?"
+    KENTA: "..."
+    He doesn't speak to me, just drops his bag by the door and retreats to his desk.
+    TAKERU: "Kenta?"
+    KENTA: "I think it's a bit cruel of you."
+    TAKERU: "What?"
+    KENTA: "If you tell me I'm not allowed to speak to you, but you try to start a conversation with me, then I'm not allowed to respond. It sort of seems like you're offering bait. So I won't respond."
+    TAKERU: "You're not allowed to speak to me?"
+    KENTA: "That's what you - Ah."
+    He turns away from me and back to his desk.
+    TAKERU: "Kenta?"
+    I can't really recall the circumstance or the reason, but... It does sort of come to me. I'm pretty sure I yelled at him for something or other last week. There's a day or two missing from my memory and I get the feeling I'd rather not remeber.
+    All that matters is that somewhere in there, my schizophrenia-addled self told Kenta what I thought of him.
+    TAKERU: "Kenta...?"
+    KENTA: "Hmph."
+    TAKERU: "Well, whatever."
+    It's nice, being able to organize the room like this, without caring having to worry about if my roommate is about to convert all my space into an art museum.
+    I drag my dresser onto one side, set up my bed on the other... Having Kenta watch me finally settle the room my way is a bit uncomfortable but I'm looking forward to actually having a space of my own for once.
+    TAKERU: "Done."
+    TAKERU: "Hey Kenta, I've got this corner over here emtpy if you wanted to move your display stand in here."
+    TAKERU: "Kenta?"
+    KENTA: "..."
+    TAKERU: "I forgot how stubborn you could be..."
+    TAKERU: "Well whatever. If you want to be mute, see you later."
+    I close the door behind me.
+    Why am I the one to get run out of the dorm room? Is it just that weird to have Kenta up there when he won't talk to me?
+    In any case, I settle in to a corner chair in the common room and start reviewing the homework that Meiko so thoughtfully dropped off.
+    It's pretty dire.
+    Even if I were in class all this time I doubt I'd understand any of this. Especially Mr. Kunida's assignment. Does this guy just have unrealistic expectation of high school math students, or am I just a really bad student at high school math? I bet even Kenta would have a hard time with this.
+    I find myself just watching my classmates coming and going through the common room rather than working on the assigned problems.
+    No one notices me.
+    I didn't really expect anyone to care that I was back, but... It still stings a little.
+    The reality sinks in that I really only know a handful of people here. I'm not Natsumi. I'm not the star any more, and no one would care if I was out for a week or not. Life goes on without me.
+    
+    I'm not sure when I drifted off. Somewhere between pages 147 and 149 of the math textbook, probably when I was flipping them back and forth for half an hour.
+    It can't be that late, but the common room is abandoned. The only light is from the PC monitor which flashes between a few frames of screensaver.
+    Empty chairs, empty tables, worn carpet and budget paintjob... The room flashes pink. Then orange. Then red.
+    It cycles again.
+    On the next cycle I notice a shape by the door.
+    A silhouette?
+    TAKERU: "Who's there?"
+    TAKERU: "Oh, it's just you, Hagami. Aren't you coming in kind of late again?"
+    HAGAMI: "..."
+    TAKERU: "Hagami? I mean, that is you, right?"
+    The silhouette flinches. For a moment I almost think it isn't her at all.
+    HAGAMI: "I... I'm..."
+    HAGAMI: "It's Hagami."
+    TAKERU: "What were you doing this late? Back in the Mirako basement again?"
+    HAGAMI: "Um, I..."
+    TAKERU: "Hagami?"
+    She runs off, heads towards the stairs.
+    I'm left alone in the common room, to collect my books and collect my thoughts.
+    It's like the first day I met her, where she couldn't bear to look at me straight.
+    TAKERU: "What's her problem?"
+    Of course I know the answer. It's the same reason she didn't come with Mana to see me in the hospital.
+    I don't really know the reason, it's just sort of a memory sticking in the back of my mind. Like with Kenta. I'm pretty sure if I thought hard enough about it I could remember why Kenta has divided our room in two, or why Hagami just stuttered and ran past me.
+    I'm pretty sure dredging up that useless stuff would be painful.
+    Instead I'll just sit here in the half-dark for another cycle of the PC screensaver.
+    ,,,And another cycle.
+    Wasn't I here in this same spot just last week? And when Hagami came in, we talked about dreams, about the occult, she offered to lend an ear if I needed to -
+    No, can't remember that. The good memories are just as painful as the rest.
+    This will be like a fresh start at Mirako. Yeah, a second chance.
+    That's what I tell myself as I take the stairs up to my room.
+    I open the door to my dorm and see that Kenta has placed a bunch of boxes across the dividing line between the halves of the room. Full of my clothes and other stuff, it looks like.
+    TAKERU: "Oh well..."
+    It's not really a second chance at an average life. More of a third chance. I already blew the second by blowing up at everyone last week. And I blew the first at Tohoku by being my usual mentally-scrambled self.
+    So, let's see... I said there were maybe six people I cared about here at Mirako. Of that group, Hagami is probably going to be afraid of me forever, Kenta is across the room divided by a wall of boxes, Meiko thinks I'm her mortal enemy...
+    It's not a clean start at all.
+    I roll over. Maybe it's early in the night or something but I can't sleep.
+    It doesn't seem like Mirako is an opportunity any more. Just an opportunity I've squandered, like everything else in my life, and now I'm just here to watch the pieces on the floor, left over from somoene I could've been.
+    
+    jump day18
+    
