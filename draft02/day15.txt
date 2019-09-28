@@ -57,8 +57,10 @@ label day15:
     MANA: "Sorry! I tried, I really did!"
     MANA: "And Hagami said to say hi! So best wishes from both of us."
     I really kind of doubt she said anything of the sort.
+    We chat for a bit, but it's empty. Mana isn't in my year, so there isn't much to talk about, and with Kunida in the room, I definitely don't feel like going on about Hagami and the club. Especially when Kunida's her stand-in father.
     And it sounds heartless, but I just really want Mana out of the room. I hate people seeing me down like this. Especially someone as upbeat as her.
-    TAKERU: "Yeah. Thanks."
+    TAKERU: "Thanks for coming all this way."
+    MANA: "It's good to see you alright!"
     KUNIDA: "Mana, I'll probably want to speak to Takeru alone for a minute or two. Do you mind?"
     MANA: "Oh! Okay sorry I'll let you be. Come back soon though, Takeru, okay? Hope you're feeling better!"
     TAKERU: "I'll try. Thanks."
@@ -254,9 +256,9 @@ label day15:
     HIKARI: "I never killed myself. I'm too much of a coward for that. How everyone thought I'd committed suicide is a mystery. I would never."
     TAKERU: "Then why - "
     HIKARI: "A stupid mistake. Stupid, dumb, imbecilic, moronic, just..."
-    HIKARI: "I truly hate the girl I was back then. Such a weak person she could die and everyone would assume it was suicide. I'm ashamed of the old me."
+    HIKARI: "I truly hate the girl I was back then. What a weak person. She could die and everyone would assume it was suicide. I'm ashamed of the old me."
     I'm still confused.
-    HIKARI: "Alright. I'll go through the whole thing. I tried to tell you before but I backed out - I did tell you I was a coward, didn't I? And while I'm ashamed I do owe it to you."
+    HIKARI: "Alright. I'll go through the whole thing. I tried to tell you before but I backed out. I did tell you I was a coward, didn't I? And while I'm ashamed, I do owe it to you."
     HIKARI: "You've chosen to trust me, so I'll try to trust you. Are you ready?"
     TAKERU: "I think so."
     She tried to tell me before?
@@ -276,7 +278,7 @@ label day15:
     TAKERU: "Hikari?"
     NATSUMI: "You were invited right?"
     Someone opposite Natsumi snickers, unseen in the dark.
-    NATSUMI: "Yeah who knows what's up. If it's Hikari it's probably going to be some stunt. It's sort of like a car wreck, you know what I mean?"
+    NATSUMI: "Yeah who knows what's up. If it's Hikari it's probably going to be some stunt. It's sort of like a carfire, or maybe a fistfight, you know what I mean?"
     TAKERU: "No?"
     NATSUMI: "You just can't look away."
     MEIKO: "Shush. Don't you think you're being a bit - "
@@ -285,7 +287,7 @@ label day15:
     MEIKO: "Hm... Not really."
     NATSUMI: "The best part's still coming though. Everyone says the fireworks are the best part. Hands down."
     NATSUMI: "Who'd have thought, a tiny town like this, with its own legit fireworks show? Hard to believe. So you know who you're gonna watch them with?"
-    MEIKO: "Well... No. Not with you guys?"
+    MEIKO: "Well... No. Aren't I going to watch with the two of you?"
     NATSUMI: "This the Mirako School Festival Fireworks we're talking about! This is supposed to be about romance! Excitement!"
     NATSUMI: "If I'm stuck with you guys that's just a little lame. No offense Meiko. Much offense at you though, Takeru. You're the least romantic person I know."
     TAKERU: "Hey don't drag me into this. I'm still trying to figure out - "
@@ -301,7 +303,7 @@ label day15:
     Or... No, it can't be my memory, can it? This time last year I would have to have been far away, at Tohoku High, in the first year training camp.
     But no, I'm here, now, the Mirako festival, trying to decide what our classmate Hikari invited us all here for, the hour before fireworks are scheduled to begin up on the hill.
     NATSUMI: "It's gonna be a speech. She's gonna give a speech."
-    MEIKO: "I can't see it."
+    MEIKO: "I can't see it. Hikari's been very quiet these past few weeks."
     NATSUMI: "Okay, okay, let's call it a lecture. She'll call out all us dirty peasants for fouling up Mirako in our first year."
     MEIKO: "Don't joke. I'm kind of worried."
     NATSUMI: "It's Hikari. She's harmless."
@@ -312,8 +314,11 @@ label day15:
     TAKERU: "Hikari..."
     We're at the bridge now. I sort of remember this next part. The floating words, the unheard conversations on either side of me...
     Down the river, if I squint, I can just catch the outline of a building out there, silhouetted in the moonlight.
-    The eyes on my right, in my memory of this moment -
-    Those were Meiko's? I glance to my side. It's her. Somber. Some expression I can't begin -
+    It's not a ruin. The structure down there on the waterfront is old, for sure, but it stands unburnt and unbowed in the cool night air.
+    The noise around me dims, but the tension doubles.
+    After a gulp, I glance left. No one. On the right, a presence standing next to me.
+    The eyes to my side, in my memory of this moment -
+    Those were Meiko's? It's her. Somber. Some expression I can't begin -
     Then the BOOM.
     A sound loud enough that I can feel it in my ribcage.
     Cheers, shouts. Inarticulate.
