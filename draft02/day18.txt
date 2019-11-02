@@ -29,12 +29,12 @@ label day18:
     TAKERU: "Well whatever it was you knocked the wind straight out of me..."
     NATSUMI: "Still not a hundred percent, eh?"
     TAKERU: "It was my head that was screwed up, not my lungs. Although my lungs are going to be screwed up now after you bodyslammed me..."
-    NATSUMI: "Oh who cares about that, as long as your arm's not injured. Did you know, there's three days to go?"
-    TAKERU: "Three days to what now?"
+    NATSUMI: "Well we can't have that. I'll need you cheering for us three days from now."
+    TAKERU: "Three days from now?"
     NATSUMI: "The regional tournie. Come on, I even told you about this when I came to visit. This is the first time Mirako's baseball team's been invited since - "
     TAKERU: "Oh, right, yeah, that..."
     I'm treated to a full summary of the tournament bracket, plus details about Kenta's opposition research and other triva I'd rather not hear from Natsumi at the moment.
-    It's annoying. This was Jun's favorite season too. That guy lived to scout. 
+    It's annoying. This was Jun's favorite season too. He always tried to get me more into scouting but I never really took to it.
     Why am I even thinking about that right now? It's irrelevant. More importantly - 
     TAKERU: "Hey, where's Meiko?"
     NATSUMI: "Huh? Oh, yeah I guess it's weird she's not in yet. I haven't heard anything, so I'd expect her to be in to day. I wouldn't expect her to be as thrilled that you're back as me, though. I'm pretty thrilled, you see."
@@ -42,7 +42,7 @@ label day18:
     I like Natsumi well enough as a fellow slacker and fellow victim of Kunida's math class, but when she's talking baseball, my patience is thin. And this morning, listening to her is especially offputting.
     NATSUMI: "Wait, that's Meiko now."
     NATSUMI: "Hey. Hey, Meiko! Look!"
-    Natsumi waves but Meiko ignores her and heads straight for the front of the class for this morning's speech.
+    Natsumi waves but Meiko ignores her completely. Instead she heads straight for the front of the class for this morning's speech.
     MEIKO: "Hello everyone. Good morning. I hope you're all looking forward to this year's summer festival as much as I am. If you're not involved in a club, we still have some open volunteer spots with..."
     The same old stuff. My attention drifts until I catch my name.
     MEIKO: "And if everyone could join me in welcoming Ichiro Takeru back to our class, I'd be grateful. We're all glad to see you Takeru."
@@ -61,5 +61,188 @@ label day18:
     I think I'd call it deja vu. Standing here outside a classroom, watching the school milling around, waiting for nothing, feeling like an alien... It was Hikari's memory, I think. I saw it when she showed up in the hospital. Why do I feel like I'm retracing those steps?
     NATSUMI: "Well you sure are a sorry sight."
     TAKERU: "Natsumi?"
+    NATSUMI: "So what's going on?"
+    TAKERU: "Nothing. Just thinking."
+    NATSUMI: "You've got a thousand-mile stare and there's a very solid wall about .001 miles right in front of you. I mean, it's pretty obvious something's going on."
+    NATSUMI: "It's Meiko, right? Right?"
+    Since when was Natsumi any good at mindreading? I don't answer.
+    NATSUMI: "Well whatever. You want to come grab lunch with me and the team?"
+    TAKERU: "You mean the rest of the baseball team?"
+    NATSUMI: "No, the ski team. What do you think? Come on, I'm sure the guys will be glad to see you're back."
+    TAKERU: "Sorry, I'm meeting people for lunch. See you later."
+    NATSUMI: "Suit yourself."
+    It's not like I know any of those people. Why would they be glad I'm back?
+    The only one who seems to care that I'm back at all is Natsumi and she's suddenly twice as obnoxious as usual.
     
+    The old library.
+    I guess I walked here on autopilot to get away from Meiko, but now...
+    This is where I'd usually eat, but... I don't know why I hesitate today.
+    Probably because I hear her voice.
+    HAGAMI: "...but if Seiji doesn't do it here, then when..."
+    MANA: "It's a first kiss! It has to be special!"
+    HAGAMI: "Haha, but he's a ghost. Can they touch?"
+    MANA: "You're the writer. You decide."
+    HAGAMI: "But... you clearly drew them kissing. At least, I think that's what this illustration is supposed to be."
+    MANA: "What? Maybe that's an early draft. Give me that. Hey!"
+    I turn around.
+    It's pretty clear that's not somewhere I belong.
+    Hopefully in the week that I've been away they've figured out what to do with the club at the festival, the recruitment problem, and the rest of that.
+    And Hagami...
+    MANA: "...that's just the perspective!"
+    HAGAMI: "His arm is clearly going through her chest. So..."
+    MANA: "Never mind. Never mind! We'll move the first kiss to the next chapter because clearly you understand how big moment this is for the heroine. You better write it out ahead this time."
+    HAGAMI: "Alright. She'll die and Seiji and her will have their first kiss in the underworld as the wheel of samsara - "
+    MANA: "No! What? You're nuts! We're redoing this crazy plot!"
+    Yeah, Hagami sounds happy enough. And I bet I'm the last person I see.
+    There's a sort of fog on my memory. It's like a warning sign: "don't think too hard about this." It's the same feeling I get when I think too deeply on the time Meiko and I spent as kids, or basically my whole tenure at Tohoku. "Don't think too hard about this or it'll be too unpleasant. Just forget."
+    Somewhere I know I've exhausted my welcome at the Mirako Supernatural Club.
+    I'll find somewhere else to spend my lunch hour. There's nothing left here.
+    
+    I spend a few moments wandering around the basement, but there's no one down here, not even Hikari.
+    Eventually I wind up in the classroom, right back where I started.
+    And right into a trap.
+    NATSUMI: "Ah hey Takeru. Decided to take me up on that offer after all?"
+    TAKERU: "What offer?"
+    NATSUMI: "Lunch with the team! Everyone's short on time today so we're just doing it here."
+    She's sitting at the head of a longtable formed by about a dozen desks all pushed together, occupied by one or two guys from our class, and a bunch of guys definitely not from our class.
+    One of the particularly goonish ones (the catcher if I remember) waves at me. (I really wish people would stop pretending they knew me)
+    NATSUMI: "You know, the offer where you have lunch with me and the team? Earth to Takeru. Come in. Over."
+    TAKERU: "Oh, sorry."
+    NATSUMI: "Take a seat, or a desk, or whatever. I'm sure everyone would love to hear stories about the championship run you were in back at Tohoku."
+    TAKERU: "You told everyone about that?"
+    NATSUMI: "That you used to go there? Of course! And Meiko was saying how good you were as a kid, that you could throw fastballs past guys with five years on you. You sure you never went to tryouts at Tohoku?"
+    TAKERU: "I'm sure. I really don't want to talk about Tohoku."
+    NATSUMI: "Really? Meiko was saying - "
+    TAKERU: "Where is she, anyway?"
+    NATSUMI: "Meiko? Who knows, some festival meeting probably. Just sit down already, Takeru."
+    Fine.
+    One I'm sitting, I'm ignored, thankfully, in favor of some second-hand story Natsumi's telling now about the summer tournament series, and some guy she met at a training camp with a stadium dirt collection, and I'm mostly just hoping she doesn't tell this story to Kenta so he doesn't get any ideas about collecting dirt.
+    Eating here just heres wrong as well.
+    I want to go back to the times when I was the guy at the head of the table telling these dumb stories about old games, holding everyone's attention.
+    I can't tell whether my old classmates and teammates adored me or despised me but at least I had a place to eat every day and I didn't feel very clearly unwanted every time I sat down.
+    At the end of lunch, while Natsumi's crew puts the room back in order, I slip out to the hallway to catch some peace.
+    Traffic starts to pick up as lunch ends. At least I'm anonymous out here.
+    Or I was, until someone punches me in the shoulder.
+    TAKERU: "Ow. What do you want?"
+    NATSUMI: "So what did you think?"
+    TAKERU: "What did I think about what?"
+    NATSUMI: "You know. The team."
+    TAKERU: "I didn't really think anything about them. What're you after?"
+    NATSUMI: "No one was judge-y, were they? No one cares that you spent some time in that psychiatric place. Hell, I know a couple of the guys have been in the same place. You don't have to feel embarassed about it."
+    TAKERU: "I wouldn't say I'm embarassed about the clinic."
+    I'm more worried about whatever I did immediately before going to the clinic. But nobody at lunch would've seen me then.
+    NATSUMI: "That's great. When I visited you out there, it was like, it suddenly all made sense. I felt like I understood you, Takeru. It clicked, why you'd been avoiding me and everything."
+    TAKERU: "Really?"
+    NATSUMI: "Yeah. So that's why I've got a deal."
+    NATSUMI: "Here."
+    TAKERU: "What is this?"
+    From her bag, she pulls out a spiralbound book with thick, glossy cover pages. It's a deep blue trimmed with gold, and front on the cover is a picture of...
+    Tohoku High School.
+    Not good.
+    She rifles through the pages. Snapshots of baseball players flip past, some posing, some with groups. On the opposite page is a table filled with numbers and decimal points.
+    It's a yearbook of sorts: the baseball yearbook, the only one that matters there. 
+    Each player has a dedicated page with their yearly averages, record, and any other relevant stats, almost as detailed as the majors.
+    She stops about halfway through. It's the pitching pages. This particular pitcher only posted two losses the entire season. A fastball speed that reaches the high 70s. His ERA is listed. Best in the school.
+    And only in his first year, too. He'll be unstoppable as a senior.
+    The young man in the portrait is grinning. He's confident. His hat is pulled low over his face as he gives a thumbs up to the camera.
+    Natsumi takes her index finger at jams the name at the top of the profile a few times and says it aloud, as if I had any trouble reading.
+    NATSUMI: "Ichiro. Takeru."
+    Where she got this thing I have no idea but I wish I could burn it here and now.
+    NATSUMI: "A little bird told me you had a pitching scholarship, so I did some research."
+    TAKERU: "Meiko..."
+    NATSUMI: "And the same little bird just happened to have this beauty."
+    NATSUMI: "I want this guy on my baseball team."
+    TAKERU: "That's not me."
+    NATSUMI: "You're not this goofy guy in the picture? Is he your twin or something? A clone?"
+    TAKERU: "He's not me any more."
+    Natsumi dismisses me by waving her hand.
+    NATSUMI: "Hey. Remember what I said. We're non-judgmental here. I don't care what mental illnesses you're working through, or what happened in your past, or how you wound up here at Mirako. It really doesn't matter to me, at all."
+    NATSUMI: "I understand why you think a baseball team would hold that against you, but it's fine. I get it. I really do."
+    TAKERU: "You obviously don't get anything."
+    NATSUMI: "You're really good, Takeru. Maybe you think Mirako's got a backwater team with no real chance in the tournie, and that's true, but it's about making a name for ourselves, not just winning."
+    NATSUMI: "We're short-staffed on pitching. Hiyama managed to sprain his wrist trying to rollerskate, the idiot, and he was supposed to be our ace, but long story short..."
+    NATSUMI: "With you on our side, I know we could make a run this year. We could do it, Takeru. You don't need to be ashamed about anything, no one's going to - "
+    TAKERU: "You think I didn't want to join your team because I'm schizophrenic?"
+    NATSUMI: "Well... Yeah. If Tohoku kicked you out when they got your diagnosis then obviously you wouldn't go around telling everyone you used to pitch for them."
+    NATSUMI: "But I'm saying it's fine! I really don't care."
+    TAKERU: "Obviously not. You only care that you can possibly get me to do something for you."
+    NATSUMI: "Hey now, we're supposed to be buddies, yeah?"
+    TAKERU: "Why do you think that?"
+    She points at the not-me in the yearbook again.
+    NATSUMI: "This guy! He's got a 70 mph fastball. How could I not be buddies with this guy?"
+    TAKERU: "I'm not your 'buddy' or anything else."
+    NATSUMI: "Wait, didn't you understand? Maybe I shouldn't have brought up the schizophrenia thing. I really don't care about that Takeru. Reallly."
+    TAKERU: "Yeah. It's pretty clear you don't care about that, or anything else about me, except that I can fill a hole in your roster, and the rest of me isn't relevant."
+    TAKERU: "I was wondering why you visited me when I was in the mental ward. You were just setting me up for this, weren't you? Would you even be talking to me if you hadn't seen this yearbook?"
+    NATSUMI: "What? But I mean, that is you in the yearbook, with the miracle stats. What do you care about what I'd do if you didn't have those numbers? You're Takeru, the guy with the golden arm. There's no Takeru who isn't the ace pitcher here so who cares if I'd visit that non-existent person in the hospital?"
+    TAKERU: "Hate to break it to you but that's not me any more. I don't play baseball. Tohoku didn't kick me out, I left because I couldn't play. So if you want to find a replacement for your pitcher Hiyama or whoever, go bother someone else."
+    Natsumi doesn't say anything. She looks honestly dumbfounded.
+    TAKERU: "Lunch is over. See you around."
+    I leave her open-mouthed in the hallway.
+    Even so, I'm one of the last back to class. Natsumi arrives back with only seconds to spare. She tries to say anything but I pretend to pay attention to the lecture for once.
+    I can hear her "psst" next to me. Then a few minutes left, and there's a wave on my peripheral vision. I choose to stare out the window.
+    Maybe halfway through the afternoon she gives up trying to get my attention and the rest of the day passes minute by minute, at an uneasy snail pace.
+    Meiko doesn't return. And I don't spot Hikari behind me, either.
+    For Natsumi's part, she leaves with her usual crowd and offers me a "seeya Takeru!" as if nothing had happened.
+    I don't think I'll let her get away with it.
+    I want to try to be more honest with myself. It's something I decided when I left the clinic. I don't want to be the same deluded person I was a year ago.
+    And I know someone like that wouldn't give me the time of day if she didn't think I could do something for her in return. I just chose not to see that before.
+    How long has she known who I was at Tohoku? It had to have been Meiko who gave her that information, right? Then she must've known from the beginning.
+    It wasn't a joke that all Natsumi ever wanted to do was recruit me. She wasn't ever my friend.
+    
+    I try to leave quietly. But I should've expected her to be waiting for me.
+    NATSUMI: "Takeru? Hey, Takeru! I know you can hear me."
+    TAKERU: "I'm busy."
+    NATSUMI: "You got somewhere to be? Because it sure doesn't look like it. Just hear me out."
+    MANA: "Hey!"
+    TAKERU: "Oh, Mana. Good to see you."
+    NATSUMI: "So that's how it's going to be, eh Takeru? I don't know what you've got against me."
+    TAKERU: "I don't have anything against you. I've just got a club to be be at. Goodbye."
+    MANA: "A club to be at? Did you read my mind?"
+    TAKERU: "Oh, sorry to drag you into that Mana."
+    MANA: "Drag me into what? Something with her? The baseball captain? I'm surprised you know her."
+    TAKERU: "I don't know her well, really."
+    MANA: "Oh, okay."
+    Down the hall, Natsumi turns and shouts something at me I can't hear as she walks the other way. I follow Mana instead.
+    MANA: "I'm glad you're coming to the supernatural club. I was, I mean, Hagami and I were both worried when you weren't there today. I knew this was your first day back, so..."
+    MANA: "Takeru?"
+    TAKERU: "Sorry, I wasn't listening. Thanks for getting me out of that thing with Natsumi."
+    MANA: "I thought you said you didn't know her? You remember she was mean to Hagami when they had to work together? I didn't think you'd know a person like that."
+    TAKERU: "She keeps trying to drag me into some stupid plan of hers but I'm not falling for it. No, I don't know her. Don't worry."
+    MANA: "Okay."
+    MANA: "Um..."
+    We've reached the end of the hall now.
+    TAKERU: "See you around I guess. And thanks again for getting Natsumi off my back."
+    MANA: "Wait, where are you going? Weren't you coming with me?"
+    TAKERU: "Where?"
+    MANA: "The supernatural club! You're a founding member, aren't you? I was going to tell you we were meeting after school today but you didn't show up at lunch so I figured I had to come fetch you."
+    TAKERU: "Hang on, go back a step. Founding member?"
+    MANA: "Weren't we going to be an official club? And recruit at the festival, with the ghost photos? Oh, and Hagami and I got started on the demo manga we're going to give out. We'll hook everyone with the first issue and then do the rest from there."
+    MANA: "Speaking of which, I need your opinion. If you were going to have your first kiss but you were dead, would you - "
+    TAKERU: "Hey, Mana, look, I'm sorry but I'm leaving the supernatural club."
+    MANA: " - would you want to go to the afterlife to join your girlfriend or would you want to - "
+    MANA: "You... What?"
+    TAKERU: "You and Hagami sound like you're making it work, so... I don't want to get in your way."
+    MANA: "What do you mean? I'd love to have you back! It hasn't been the same without you!"
+    TAKERU: "Yeah, I'm glad you don't mind if I'm around, but... You're sure Hagami's alright with it?"
+    MANA: "Hagami? Um."
+    MANA: "I think she'll be alright."
+    TAKERU: "Does she know you came to fetch me?"
+    MANA: "Um, no, I didn't mention it. But aren't you two in the same class? I was hoping you guys would be coming together."
+    TAKERU: "You should ask her if she minds first. I don't want to show up where I'm not - "
+    MANA: "Hey! Hey Hagami!"
+    Sure enough, it's Hagami exiting the classroom from down the hall.
+    She turns to face us, but I think she must spot me, because she quickly turns back down the hall.
+    MANA: "Maybe she didn't hear me. Come on Takeru, let's catch up!"
+    TAKERU: "Ow, hey!"
+    She tries to pull me by my sleeve down the hall but only ends up spinning me in place as she stumbles and ends up in the middle, with me at one end, and the rapidly disappearing Hagami at the other.
+    In the end, Mana offers an awkward smile then disappears into the crows after Hagami.
+    It's not like there's anything to do. They'll both be fine.
+    I shrug and wander off, in the opposite direction.
+    
+    Maybe I should go back to my dorm and enjoy some quiet before Kenta is back. Then again, maybe the place will be peaceful even with him around if he keeps to the whole "divided room" thing he's decided on.
+    Still, I find myself headed back in the direction of the unused wing, to the basement.
+    If Hikari's not here today, she's not here, but I'll the same, it'd be nice to see her.
+    Ever since she revealed herself for what she was, it's felt like I'm lying to the rest of the world. Either something very strange is going on at Mirako, or I'm deeper in a hole than anyone thought. Maybe both.
+    I walk the whole wing once, then twice. I double-back past the door to the tea room, but there's nobody there. Which I guess makes sense -- I haven't seen Hikari all day.
     
