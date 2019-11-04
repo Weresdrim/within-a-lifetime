@@ -348,6 +348,61 @@ label day18:
     HIKARI: "Treat it as if it's your last."
     TAKERU: "My last chance?"
     HIKARI: "If you thought you had only a year to live, how would you act differently?"
+    TAKERU: "I don't know."
+    HIKARI: "There's nothing you want to do? Nothing you want to say to anyone important?"
+    TAKERU: "I don't think so."
+    HIKARI: "Nobody?"
+    I really don't know what she wants me to say, but it's obvious I gave Hikari the wrong answer.
+    HIKARI: "Humph."
+    HIKARI: "Never mind. I don't sympathize with you at all."
+    TAKERU: "What are you mad about?"
+    HIKARI: "If you're so upset at the way you managed to tangle up your relationships here at Mirako, then go fix them. You're still sitting here aren't you? You've got a chance to make things right."
+    TAKERU: "And you - "
+    HIKARI: "And I don't have another chance. I'm only allowed to spectate."
+    TAKERU: "You're allowed to talk to me though."
+    HIKARI: "If you're not going to take advantage of what you've been given, then you're not worth talking to."
+    HIKARI: "Have a good evening."
+    She bows and makes for the door. Her tea, as usual, is untouched.
+    TAKERU: "Right... You too."
+    But instead of leaving out the door she just stops in front of it.
+    HIKARI: "Oh, it's you. Hello."
+    ???: "Um, hi. I didn't..."
+    ???: "I didn't think anyone else was still here this late."
+    TAKERU: "Hikari, who're you talking to?"
+    HAGAMI: "Takeru? You mean he's - "
+    TAKERU: "Ah. Hey Hagami."
+    HAGAMI: "..."
+    She vanishes down the hall.
+    TAKERU: "Hagami?"
+    HIKARI: "What exactly did you do to her again?"
+    TAKERU: "I'm not quite... Well... It's nothing I'm proud of."
+    HIKARI: "Whatever it was, you better make it up to her. I like her."
+    TAKERU: "Really? She's a transfer student. I didn't think you knew her."
+    HIKARI: "No, I didn't before, but she always remembers who I am. That's better than everyone else around this miserable place."
+    TAKERU: "Fair enough, I guess. I really don't think I should talk to her though..."
+    HIKARI: "Oh, I forgot I was mad at you. Have a good evening."
+    Hikari is gone. I didn't even catch her walking away, she just isn't standing next to me any more. It's me alone in this empty hallway.
+    Down at the opposite end from Kunida's office, a door is open. It's not exactly on my way out, but I stop by anyway.
+    Huh. It's the piano room.
+    There's less dust in here than I remember, and the window is open, so... I guess this is where Hagami must've been?
+    I have to wonder what she was doing here. It certainly wasn't playing the piano, or Hikari and I would've heard something.
+    Strange.
+    I shut the door and head home.
     
+    I've almost made it to the bridge across the Shizukawa when I notice it behind me.
+    Footsteps.
+    I'm being tailed. When I stop in the middle of the bridge, the footsteps stop as well.
+    I turn around, but there's no one there.
+    The moon is low in the sky tonight. The ruin on the water is only half-visible. Which is fine by me. After seeing it in person and knowing the full history... Looking at at doesn't make me curious, just depressed.
+    When I start walking again, whatever is tailing me starts to follow. The footsteps are back.
+    I stop dead and turn. Something shuffles away in the shadows behind me.
+    Probably I should've known what was up earlier. It's just Hagami.
+    Wasn't she like this when I first came to Mirako? Too skittish to even come within a hundred feet of me?
+    I'll pretend not to notice. I don't check my back for the rest of the walk through the streets and back to the dorm.
+    And when I finally arrive, I head straight for my room instead of loitering in the common area.
+    I notice next to the box of things I took to the psych clinic, on the top is that book Hagami lent me, ages ago.
+    "A Master-Key to the Mysteries of Ancient and Modern Science and Theology."
+    Wonder if I'll ever get the chance to return it to her.
     
+    jump day19
     
