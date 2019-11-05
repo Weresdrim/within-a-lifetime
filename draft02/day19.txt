@@ -43,8 +43,125 @@ label day19:
     NATSUMI: "Hey. Hey Takeru!"
     NATSUMI: "Pretending not to hear me, huh?"
     TAKERU: "..."
-    NATSUMI: "I heard a rumor."
+    NATSUMI: "I heard something neat."
     NATSUMI: "You heard about the fireworks this year, didn't you? Canceled? By order of the principal or something like that?"
-    NATSUMI: "Well, did you hear?"
+    NATSUMI: "Well, did you hear it or not?"
     TAKERU: "..."
     NATSUMI: "Oh come on. This has nothing to do with baseball. Even if you're going to be a stick in the mud I'm just going to keep talking to you anyway, and there's nothing you can do about it."
+    TAKERU: "Then hurry up and give your speech or whatever it is you want to do."
+    NATSUMI: "A speech? Me? Ha, you've been spending too much time with Meiko. This is just a rumor. Has to do with Meiko though. Interested?"
+    TAKERU: "Not really."
+    NATSUMI: "They're saying there's really no fireworks show this year. My left fielder is on the festival committee, and he saw the schedule draft, and there's just a big talk from the principal or something scheduled."
+    TAKERU: "Meiko's been telling you that for weeks."
+    NATSUMI: "She was obviously bluffing for a big surprise show."
+    NATSUMI: "Or I'm sure if someone close to her suggested a big surprise show as an idea, she'd get the principal to change his mind on it, yeah?"
+    TAKERU: "I was starting to wonder why you were bothering to talk to me, but of course, it's because you want me to do something for you."
+    NATSUMI: "Where'd that cynical streak come from?"
+    I don't bother responding, but Natsumi keeps nattering away.
+    She'd really fit right in at Tohoku. She only talks to me because she sees some advantage for herself in doing so.
+    NATSUMI: "Hey. Hey Meiko!"
+    MEIKO: "Good morning Natsumi."
+    NATSUMI: "Tell Takeru he needs to stick up for his buddy."
+    MEIKO: "Hm?"
+    TAKERU: "I'm not your buddy."
+    MEIKO: "Yeah, you're not my pal, friend you're my... Hang on, how did that go?"
+    That doesn't warrant a response. I glance at Meiko, but... She's not looking at me at all.
+    I guess we haven't spoken since I've been back.
+    NATSUMI: "Okay, okay, never mind. Meiko! What's with the fireworks this year? I'm supposed to be your best friend and I haven't heard about the surprise show. There is a surprise show, right? Right?"
+    MEIKO: "I don't know where you've been getting these ideas."
+    NATSUMI: "Because the Mirako Summer Festival without the Mirako Summer Fireworks would be unthinkable. It's tradition!"
+    MEIKO: "It's also not my call. I'm sorry, I really am. If I thought I could change the principal's mind, I would."
+    NATSUMI: "Meiko! You're the most convincing person I know! You're sincere, well-spoken, you know what to say to people. Give it a try. Tell the staff that - "
+    MEIKO: "Hold that thought. I need to start class."
+    She leaves her seat to make the morning announcements without so much at a glance at me.
+    NATSUMI: "Okay, first thing, what's up with you guys? Are you not talking to Meiko? Or is Meiko not talking to you?"
+    TAKERU: "For one thing, I am not talking to you."
+    NATSUMI: "Sure you are. I'll just grill Meiko on it later so you might as well tell me now."
+    TAKERU: "Go away."
+    NATSUMI: "Never mind, never mind. Second thing! She can't be serious about the fireworks, can she?"
+    TAKERU: "You're terrible. I sure bet they're canceled, if last year someone died."
+    Natsumi recoils.
+    TAKERU: "Sorry, is everyone just pretending to forget all about that? I don't want to be insensitive."
+    NATSUMI: "What's with you today? Sometimes I don't know what Meiko sees in you."
+    TAKERU: "She doesn't see anything. Trust me."
+    TAKERU: "And the cancelation is her idea. The staff isn't involved. It's just her."
+    NATSUMI: "No way. How do you know that? Why do you know that?"
+    TAKERU: "Mr. Kunida said it. It was Meiko's call."
+    NATSUMI: "Aha! Thanks! Guess you're good for something after all."
+    TAKERU: "..."
+    NATSUMI: "That was a joke. A joke! You're good for - "
+    I tune her out.
+    Don't ask me why I told her any of that.
+    Maybe just because it's Meiko. I can't ask her about any of this, about why she's doing anything, about why she despises Hikari as much as she does, about any of this. I can't bring my self to do it.
+    Natsumi, however, is absolutely tactless.
+    And I realize what I've said is almost a betrayal of Meiko, but...
+    I'm still thinking over what I said, and what I shouldn't have said, as Meiko returns to her seat.
+    NATSUMI: "Meiko. Hey Meiko!"
+    MEIKO: "Natsumi?"
+    NATSUMI: "So I just heard from Takeru..."
+    MEIKO: "Hm?"
+    She still doesn't look at me.
+    NATSUMI: "Fireworks. You canceled them?"
+    MEIKO: "Natsumi, I'm on your side in this. If I thought I could get them rescheduled for this year, I - "
+    NATSUMI: "According to my good friend Mr. Kunida and my even better friend Takeru, the call for fireworks or no fireworks comes completely down to one Kotaru Meiko."
+    MEIKO: "What?"
+    NATSUMI: "Takeru said so himself. You mean you're the one to call off the fireworks?"
+    MEIKO: "Me?"
+    NATSUMI: "Yeah! You! You're gonna tell me Takeru lied to me? You think this guy has the backbone to lie to his old pal Natsumi about something like this?"
+    Around this point is when I realize just how seriously I've screwed up.
+    NATSUMI: "Why'd you do it? We have to have fireworks. It's just not Mirako without the biggest event of the year. You mean you're going to call it all off over... that?"
+    MEIKO: "That what?"
+    NATSUMI: "Her."
+    NATSUMI: "That, she, whatever she - "
+    MEIKO: "Class is starting."
+    Sure enough Kunida is at the front of the room now, starting to explain some formula that I've never seen before and hopefully won't ever again.
+    I'm more paying attention to Natsumi, whose attention keeps swapping between Meiko and me. Eventually she settles on Meiko.
+    As math ends, English ends, and lunch begins, it's Meiko who Natsumi trails out to the hall, not me.
+    The two stand there. Bickering? I hear raised voices. Mostly Nastumi's voice. I thought Meiko was incapable of raising her voice until that day in the hospital, but, that seems to be happening now.
+    I underestimated her.
+    Eventually, Natsumi laughs and walks off down the hall with a couple of guys from the baseball team.
+    Maybe they've sorted things out? That's what I think until Meiko turns my direction.
+    As soon as she makes eye contact I turn away.
+    It wasn't anger I saw in her eyes.
+    Not really confusion either.
+    Just a pure neutral. "I know." That's what she was saying, Meiko.
+    "I know what you did. I understand why. I'll get even."
+    It scares me.
+    
+    When it comes time for lunch, I flee the classroom as soon as possible. No way I'm sticking around to deal with Meiko, if she'd even deign to talk to me. Or Natsumi. I couldn't possibly explain myself.
+    I couldn't explain why I said anything if I even wanted to. Natsumi has shown her trues colors, nothing matters to her but herself.
+    Meiko is more... I realize I don't understand her. And it feels like I never will.
+    I'm standing outside the classroom when she leaves, and briefly we brush shoulders.
+    TAKERU: "Meiko?"
+    MEIKO: "..."
+    And it hardly seems like she's mad. She doesn't make eye contact. Just stares at the ground, and walks out.
+    TAKERU: "Meiko? Hey, Meiko, hold on a second!"
+    But she doesn't respond.
+    I'm left standing in front of the staircase.
+    At first I have a sense of deja vu. I've stood here before.
+    But I realize that time was a memory. Hikari's memory.
+    Looking after Meiko, idling down the hallway one step at a time, but me (and Hikari's old memory) stuck in some sort of repeat.
+    I just need to get away from class. And I can't go to the old library unless I want to face Hagami and Mana, so eventually I end up...
+    ...just pacing the basement. One step back and forth.
+    There's no external sign of Hagami. I know somehow that if I want to search for her, I'll find her, standing behind me, needling me for looking after her, as usual.
+    The tea room is as abandoned as it's ever been. The boxes lined up in shelves on the wall, the table untouched. There's no sign of the teacups I could've sworn I used last night. But who could've washed them? Hikari? She wouldn't have been able to - 
+    HIKARI: "Takeru?"
+    TAKERU: "Oh, it's you."
+    HIKARI: "Who else would it be?"
+    TAKERU: "I don't know. I sort of figured, after last night..."
+    HIKARI: "That I wouldn't be talking to you."
+    TAKERU: "Well..."
+    TAKERU: "Kind of."
+    HIKARI: "Hum."
+    She doesn't say anything more, just trails off and wanders into the tea romm.
+    I guess I'm supposed to follows.
+    Hikari is still visible when I enter, sitting, but starting at the table. She must notice me, because she gestures to a shelf.
+    HIKARI: "All the rest of the tea is there. I won't make you buy any more yourself. I know you don't enjoy it."
+    TAKERU: "I mean, I wouldn't say I don't enjoy. It just all tastes the same to - "
+    HIKARI: "You don't enjoy it."
+    She continues staring at the table.
+    TAKERU: "It's not really what I meant."
+    HIKARI: "It's fine. I've decided I forgive you."
+    
+    
+    
