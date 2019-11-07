@@ -97,10 +97,10 @@ label day15:
     TAKERU: "Sorry, sir. I'm really not sure I get it. If you're just here to drop off my math homework..."
     He laughs that obviously forced laugh for a second then turns more serious than I can remember seeing my old cheery homeroom teacher.
     KUNIDA: "Schizophrenia is partly a genetic disease. It runs in families."
-    KUNIDA: "My brother suffered through it. He... ended up, well, dying young."
-    KUNIDA: "So I look after Mana."
-    TAKERU: "...Sorry to hear it."
-    KUNIDA: "It's alright. This was a long time ago, and I think it was a bit of wake-up call for me. I wouldn't be teaching at Mirako otherwise without my niece or brother. So that's some good out of everything. Right?"
+    KUNIDA: "My brother suffered through it. So I look after Mana now."
+    So Mana's father is in an institution somewhere?
+    TAKERU: "I'm sorry to hear it."
+    KUNIDA: "Thank you. Although it's in the past. I wouldn't be teaching at Mirako otherwise without my niece or brother. So that's some good out of everything. Right?"
     Please, just... Stop laughing. I can tell you're faking it.
     KUNIDA: "My point is that the Mirako is someplace where you can belong, if you want to. Of course I can't speak to exactly what you're going through these past couple days..."
     KUNIDA: "But I think, when you're ready to talk, you can feel free to come and find me."

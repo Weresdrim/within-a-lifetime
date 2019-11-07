@@ -229,14 +229,18 @@ label day18:
     MANA: "I think she'll be alright."
     TAKERU: "Does she know you came to fetch me?"
     MANA: "Um, no, I didn't mention it. But aren't you two in the same class? I was hoping you guys would be coming together."
-    TAKERU: "You should ask her if she minds first. I don't want to show up where I'm not - "
+    TAKERU: "No."
+    Mana looks like I just told her Christmas was canceled.
+    TAKERU: "Or, i don't today, for sure."
+    MANA: "So tomorrow?"
+    TAKERU: "Look... You should ask Hagami if she minds first. I don't want to show up where I'm not - "
     MANA: "Hey! Hey Hagami!"
     Sure enough, it's Hagami exiting the classroom from down the hall.
     She turns to face us, but I think she must spot me, because she quickly turns back down the hall.
     MANA: "Maybe she didn't hear me. Come on Takeru, let's catch up!"
     TAKERU: "Ow, hey!"
     She tries to pull me by my sleeve down the hall but only ends up spinning me in place as she stumbles and ends up in the middle, with me at one end, and the rapidly disappearing Hagami at the other.
-    In the end, Mana offers an awkward smile then disappears into the crows after Hagami.
+    In the end, Mana offers an awkward smile then disappears into the crowd after Hagami.
     It's not like there's anything to do. They'll both be fine.
     I shrug and wander off, in the opposite direction.
     
