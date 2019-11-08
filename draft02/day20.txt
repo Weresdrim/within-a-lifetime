@@ -20,12 +20,15 @@ label day20
     Just put it on the end of that huge list of "unpleasant things I need to sort out with unpleasant people." Since I've been back it just keeps on growing.
     
     Kenta is long gone by the time I'm on the road.
-    Luckily I have the road memorized or I'd have no idea where to go. The fog is absolutely oppressive. And the humidity has me sweating through my shirt.
+    Luckily I have the road memorized or I'd have no idea where to go. The fog is absolutely oppressive. And even though it's not all that warm today, the humidity has me sweating through my shirt.
     As I cross the bridge, there's no sign of the ruin downriver, or even trees downriver at a distance of more than a few meters.
-    Summer here is going to be an absolute chore.
-    When I show up in homeroom, Meiko's desk is still empty. Natsumi, though, spots me and immediately ignores me and starts some conversation with the girl in the row in front of us.
-    And I couldn't care less.
-    Until she starts pointedly glancing at me.
+    This summer is going to be an absolute chore.
+    When I show up outside homeroom, Kenta is outside arguing with Natsumi about something. There's a lot of gesturing involved and Natsumi is waving Kenta's tie around, so I guess this must be about his managing to put on his uniform in reverse order this morning.
+    I sit down next to Meiko's empty desk.
+    Behind me, there's no sign of Hikari, per usual. Hagami is there, but her headphones are on. And unlike the usual, she has her eyes closed. Probably so she doesn't have to deal with me.
+    Natsumi shows up to class a minute later, opens her mouth like she's about to say something, then catches herself and instead starts some conversation with the girl in the row in front of us.
+    I couldn't care less.
+    ...Until she starts pointedly glancing at me.
     NATSUMI: "...So we're headed out today for Iwate for the first round in the tournament."
     NATSUMI: "...Not that certain people have helped...
     NATSUMI: "...Nope. Still got that gap in out starting rotation. It's not gonna be pretty."
@@ -34,10 +37,10 @@ label day20
     What's more surprising to me is when Meiko arrives, Natsumi's attention shifts off me completely. And she begins a completely unrelated conversation with some baseball guy in the next row, but in the exact same tone of voice.
     NATSUMI: "...Nope, no fireworks this year."
     NATSUMI: "...But I hear it wasn't the staff. Talk to the festival committee."
-    NATSUMI: "...Who's on the committee? Well, our class rep is of course. Maybe talk to her. Weird that the festival committee would cancel the thing completely, huh?"
+    NATSUMI: "...Who's on the committee? Well, our class rep is of course. Maybe talk to her. Weird that the festival committee would cancel the show completely, huh? What were they thinking?"
     Etcetera.
     Go figure. Natsumi is the least subtle person I know, so it's hard for her to hide when she's annoyed with someone. And she's annoyed with both me and Meiko.
-    So she doesn't even look in either direction at either of us until the start of lunch and says her goodbyes. The bus leaves at noon, apparently.
+    So she doesn't even look in either direction at either of us until the start of lunch and says her goodbyes. The team's bus leaves at noon, apparently.
     And when she's gone, it's just Meiko and I sitting next to each other, with an empty desk between us, staring straight ahead.
     
     The lunch break is a relief.
@@ -54,7 +57,7 @@ label day20
     Meiko's treat turns out to only be the cafeteria, and it's not like she says anything to me the whole time we order and walk upstairs to the roof.
     Despite the weather, the top of the Mirako school remains empty. Today, the only difference is there is no view. 
     Meiko and I eat in silence. If she were to lean backwards, I wonder if I'd even be able to see her in front of me.
-    This is terrible. I shouldn't have agreed to this. The silence is just as oppressive as the fog. What should I say?"
+    This is terrible. I shouldn't have agreed to this. The silence is just as oppressive as the fog. What do I say?
     TAKERU: "Hey. About when I was in the clinic."
     MEIKO: "...?"
     TAKERU: "Thanks for coming to visit."
@@ -63,9 +66,129 @@ label day20
     TAKERU: "I don't deny any of the things they said in the hospital, if that's what you're here for."
     TAKERU: "I told them I saw things, and I didn't elaborate on what those 'things' were. Is that good enough?"
     TAKERU "...No? I didn't mention her name."
-    But I don't think Meiko was even listening. Because she's rummaging through her bag, and eventually produces two page stapled together.
+    But I don't think Meiko was even listening. Because she's rummaging through her bag, and eventually produces two pages stapled together.
     MEIKO: "Do you know who this is for? The recepient?
     TAKERU: "Recipient?"
     It almost looks like a letter. It's on official stationary anyway, and addressed to...
+    TAKERU: "Kunida Mana? Yeah. I know her. Did you know she's actually related to our Mr. Kunida?"
+    MEIKO: "No. I don't know her."
+    TAKERU: "I mean, I guess I can deliver it. But you could just leave it with Mr. Kunida when you see him. Or drop it off at the old library."
+    I probably should've thought about the situation before I volunteered. I would rather not run into Mana if I didn't have to, but Meiko acts as if she's forgotten the letter, and I'm the one holding it, so...
+    TAKERU: "Alright. I'll do it."
+    TAKERU: "Is this about the festival?"
+    MEIKO: "Sort of."
+    TAKERU: "I guess you're denying their performance request."
+    Meiko doesn't respond.
+    She's looking off to where there's be a view of the mountainside, were the whole mountain not cloaked in gray.
+    I'll take her silence as a "yes."
+    But the minutes keep passing, and she's still quiet.
+    TAKERU: "I didn't mind working on the festival committee work with you."
+    MEIKO: "I didn't mind having your help, either."
+    TAKERU: "..."
+    TAKERU: "I guess I don't understand why you called me out here."
+    MEIKO: "I don't understand either."
+    And so we finish lunch like that, together.
+    Without the view, the roof feels isolated, like it's the only place left in the world.
+    
+    For the rest of the day, she doesn't speak to me.
+    I'm working one station over from her in chemistry (I'm partnerless this week, just my luck) and more than once I
+    notice glancing away from her partner, looking my way.
+    I wonder...
+    Was she lying at lunch, about not knowing why she wanted to eat with me? Was it really just to hand me someone else's papers?
+    Meiko has always seemed like she was working from a plan, self-assured about everything. There's no way she's just as confused as me about all this. Right?
+    I sigh and get back to work.
+    
+    Once the last class ends, I've nothing left to do here. I suppose I'll stop by the old library and see if Mana and Hagami are meeting after school today. Maybe I can slip the forms under the door and be done with it.
+    Probably it would be best if I wasn't around while Mana read the bad news, assuming this about the festival booth. Or who knows, maybe Mana won't be too upset. It sounded like their manga wasn't going to be ready in timea anyway.
+    No luck. The room's empty.
+    Everything looks mostly as I remember it. Boxes of newspapers and records and stuffed into the bookshelves next to books on the paranormal. Drawing paper covers the table. On top of a hardcover titled "La magie sacrée." The rabbit censer is there, along with a new addition, apparently a rabbit teakettle.
+    I have to supress whatever feelings I have standing here. This isn't where I belong any more. So I close the door.
+    Hm, I can probably come back tomorrow and lunch and pull the whole sliding-under-the-door trick and avoid having to deal with any fallout.
+    Before I leave, I walk the length of the basement hallway. The narrow windows at the top of the wall provide no light today, and the unused wing is dark. I keep an eye on the shadows, half-expecting Hikari to be hiding somewhere, but she's nowhere to be found.
+    The hair is up on the back of my neck though. I feel like I'm being tailed.
+    When I come to the tearoom, I reach to slide open the door, but before I can, someone on the other side opens it in front of me.
     TAKERU: "Mana?"
-    MEIKO" "
+    MANA: "Huh?"
+    I jump out of the way. She's carrying a cardboard box that must obstruct her view.
+    TAKERU: "Is that full of teabags?"
+    MANA: "Takeru! It is you. And yes. I just found the cutest teapot so I decided - "
+    TAKERU: "You can't just carry them off. That's theft. That's someone's property."
+    MANA: "What? But this whole hall's abandoned. It's just stuff people forgot down here. We've put together the whole library like that, and my uncle put together his office like that too. He said it's okay."
+    TAKERU: "That explains a lot..."
+    MANA: "Did you come to give me a hand with this box?"
+    TAKERU: "No."
+    TAKERU: "I think if you take all the tea you'll probably be haunted by the ghost of the tea, so you might want to reconsider that."
+    MANA: "Oh..."
+    MANA: "Takeru, um. I'm not really sure I should talk to you. I still feel kind of... It hurts joking around with you like this when I know you're not..."
+    MANA: "Unless you're here to say you changed your mind? About the club?"
+    TAKERU: "No, sorry. I was just looking for a friend."
+    TAKERU: "But if you're here I have a couple papers from you from Meiko, about the festival I think."
+    I hand her the two stapled sheets of paper from my bag.
+    It takes Mana a minute to page through them. Her faces changes to one of shock, to amazement, then back to that teary look I saw yesterday. No, she's actually legitimately in tears.
+    I didn't think her reaction would be that extreme...
+    TAKERU: "Are you alright?"
+    MANA: "Of course I'm not. You..."
+    MANA: "How could you do this?"
+    TAKERU: "I didn't do anything. Like I said this, it's from the festival committee."
+    MANA: "No, it's from the student council. You don't need to lie."
+    TAKERU: "The student council? I guess that makes sense, Meiko's on both, so - "
+    MANA: "Why'd you have to do it Takeru? Even if you weren't coming back to the supernatural club, you didn't have to get us shut down."
+    TAKERU: "Hold up, what?"
+    MANA: "They're kicking us out of the library. They say we're not a real club because we don't have four members and so we can't book space down here any more. And a week from now they're going to hold student council meetings there so we have to move everything out."
+    TAKERU: "What? No, it was supposed to be about..."
+    MANA: "This is too cruel. You're heartless! Do you like hurting people? Is that it?"
+    TAKERU: "No! I didn't want this at all. I'm just delivering the thing, I didn't write it. And I knew that's what it was I would've argued with Meiko, I swear. I'll get her to change her mind. We're supposed to be friends, she has to listen."
+    MANA: "You and your your friends..."
+    MANA: "I misjudged you Takeru. That first day when I met you, I reached out, because you looked lonely, and I know what that feels like, and..."
+    MANA: "But I guess it's no problem for you finding friends with these horrible people that take every chance they can to torment me and Hagami for no reason."
+    MANA: "Yesterday I was so sad you wouldn't be coming back. Now I'm just sad I ever met you."
+    TAKERU: "Mana! Mana, I..."
+    I really wish I was any good at finding the words for a time like this. But I'm not, and there's nothing I can do to prevent Mana crying off into the hall.
+    I'm left standing here next to the box of tea and the two stapled pages, crumpled on the floor.
+    I slump against the wall. This...
+    Down the hall in the other direction, I spot movement. Probably Hikari about to berate me for my utter failure at handling this.
+    But it's Meiko.
+    MEIKO: "..."
+    TAKERU: "Hey!"
+    But she's gone.
+    Was she just here to watch?
+    TAKERU: "Damn it. Damn her."
+    I read through the note from where Mana left it on the floor. It's exactly what she said it was, of course. The supernatural club has less than four members is therefore not a club, and can therefore not reserve meeting space.
+    Who cares? There's no shortage of space here. And what does it matter if it's not an official club? No one was asking for funding from the school. This is just spite.
+    Of course it's spite.
+    I remember that look yesterday, what Meiko seemed to be saying to me, after I let slip to Natsumi the whole fireworks thing.
+    Of course it's her way of getting even. It's destructive and petty. You hurt my relationship with my friend, I'll hurt your relationship with yours. 
+    Except I never meant to hurt anyone, and all I did was tell the truth.
+    I wish I could say this was so unlike the calm, collected Meiko that is our class rep. And it is unlike that Meiko. But it's all too like the Meiko I remember growing up... Picking fights with her aunt, always a problem in school...
+    And it's all too like the Meiko that visited me in the hospital. I thought she was threatening me then. Guess I was right.
+    
+    With nothing else to do, I cart the abandoned box of tea back into the tearoom and start restocking the shelves. 
+    How often do I have to tell Mana not to scrounge things from this room?
+    ...Although I guess it's a moot point now.
+    And while I keep expecting Hikari to pop out of some corner, she never does.
+    I don't like the feeling. I'm not sure if it's because I could use someone to give me advice on this whole Mana/Meiko situation, or because I keep thinking about what Hikari was talking about last night... That she seemed even less present in the real world than ever before.
+    Eventually I have the whole room back in order but there's no sign of Hikari.
+    To pass the time, I open up the book I have on load from Hikari, about the weird French mystics. It really is a long shot, but I continue from where I left off last night, just looking for anything related to ghosts or the dead or... whatever Hikari is.
+    Of course there's nothing remotely like her in here. A good 90% of it is mystic squares and number triangles and I really don't need math in my recreational reading.
+    By the time I'm done, it's dark out. Whatever it's an early sunset or fog at work, I don't know, but down in the basement it might as well be midnight. It doesn't help that half the lights are burnt out.
+    If Hikari isn't here, there's no point to sticking around. I'll drop off Hagami's book at the library and head home.
+    The old library is as I left it -- clutter, radio, matching rabbit censer and teakettle.
+    I realize as I drop off Hagami's book in a random pile... If I really wanted to figure out what was up with Hikari, this would probably be the place to do it. Some random Russian monk must've described some phenomenon like her before and decided to write all about it. 
+    Or maybe I'd just find a text about a German psychologist collecting stories from schizophrenics about meeting the ghosts of people they'd never known before. Either would be fine.
+    Either one would be fine.
+    I'm starting to consider having a look around when I hear a voice behind me.
+    HIKARI: "Surpring. I wouldn't have expected to see you here."
+    TAKERU: "Oh, it's you. I thought you were Mana for a minute."
+    HIKARI: "That's why I'm surprised. If you though you might run into Mana up here, I thought you'd avoid this place, after what you just put her through."
+    TAKERU: "I am avoiding it, I was just here to drop off this book. It's been a long day."
+    TAKERU: "But I guess from what you're saying... You already know something about it."
+    HIKARI: "You caused a lot of noise outside my room. Of course you did."
+    TAKERU: "So you saw all of it."
+    HIKARI: "Thanks for retrieving the tea though. Even if nothing else good came out of it."
+    TAKERU: "If you were there you could've stopped Mana in the first place."
+    HIKARI: "She didn't listen to me. She didn't even notice me. You didn't either."
+    TAKERU: "Sorry. I tried to keep an eye out."
+    HIKARI: "It's fine... I don't think it would've made a difference."
+    
+    
+    
