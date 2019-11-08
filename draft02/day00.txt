@@ -60,7 +60,7 @@ label day00:
     In the past month or so, I've seen enough people pretending to be concerned about me that I've learned to recognize when someone's faking a smile. This guy though, I'm not sure he'd be able to smile properly if he tried. I doubt he's even 30 yet but there are enough lines on his face to make his laugh sound especially forced.
     TAKERU: "What're you here about?"
     KUNIDA: "Ah sorry. There was a pamphlet that should've showed up."
-    KUNIDA: "I'm a science teacher at the Mirako School for the Gifted. I'd..."
+    KUNIDA: "I'm a math teacher at the Mirako School for the Gifted. I'd..."
     KUNIDA: "We're prepared to offer you a spot this year, if you'd like to attend. I know changing schools can be a big experience for someone your age, and you're probably dealing with much more important - "
     TAKERU: "Oh, yeah. Mirako? I got the pamphlet."
     KUNIDA: "Good. If you have any questions, I - "
