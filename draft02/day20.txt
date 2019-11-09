@@ -182,13 +182,85 @@ label day20
     HIKARI: "That's why I'm surprised. If you though you might run into Mana up here, I thought you'd avoid this place, after what you just put her through."
     TAKERU: "I am avoiding it, I was just here to drop off this book. It's been a long day."
     TAKERU: "But I guess from what you're saying... You already know something about it."
-    HIKARI: "You caused a lot of noise outside my room. Of course you did."
+    HIKARI: "You caused a lot of noise outside my room. How could I not notice?"
     TAKERU: "So you saw all of it."
     HIKARI: "Thanks for retrieving the tea though. Even if nothing else good came out of it."
     TAKERU: "If you were there you could've stopped Mana in the first place."
     HIKARI: "She didn't listen to me. She didn't even notice me. You didn't either."
     TAKERU: "Sorry. I tried to keep an eye out."
     HIKARI: "It's fine... I don't think it would've made a difference."
+    TAKERU: "Hey, should I bring the censer back? The one shaped like a rabbit? I thought that was yours too, along with the tea."
+    HIKARI: "Yes, it's another that girl stole."
+    TAKERU: "Then I'll - "
+    HIKARI: "But I suppose she's made more use of it than I ever did."
+    HIKARI: "The teapot was mine too. I only bought that censer because I wanted to try making a teapot in that style. I'd say it turned out well."
+    TAKERU: "You mean you made that? That's really impressive. It's copper, isn't it? And you carved that chess set as well."
+    TAKERU: "I didn't realize you were that good with your hands."
+    HIKARI: "Was."
+    HIKARI: "I was good with my hands. I can't do any of that any more."
+    TAKERU: "Oh... Right."
+    HIKARI: "So your silly friend can keep the teapot. Once I'm gone altogether, you can keep the chess set, too."
+    HIKARI: "Not the tea though. Find someone else to take that, I know you don't appreciate it. Ha, it really is like I'm writing a will."
+    TAKERU: "Hang on, you're serious about that? You're not going to up and dissappear are you?"
+    HIKARI: "I don't know that for sure, but it seems likely, doesn't it?"
+    HIKARI: "If even you don't notice me, when you're specifically looking for me..."
+    HIKARI: "It's been headed this direction for a long time. But it's sped up reason, so it doesn't hurt to be cautious."
+    TAKERU: "No way... There's got to be some way we can fix this, or turn it around, or - "
+    HIKARI: "I doubt it. Maybe this is nature correcting itself. I'm unnatural, after all."
+    TAKERU: "You can't just give up."
+    HIKARI: "I never said I was. But I'm a realist.""
+    TAKERU: "You've been someone I could count on from the first day I showed up here. You've always been the person I come to for advice. Losing you would hurt.
+    HIKARI: "If you cared that much about my advice you'd follow it. It looks to me like you've been too busy sulking to do much of anything. Except for antagonize that poor first year girl."
+    TAKERU: "Yeah... Mana."
+    I really screwed that one up. I want to blame Meiko, but...
+    HIKARI: "If I'm the person you always turn to for advice, it's because you've antagonized almost everyone else."
+    TAKERU: "Maybe. I should probably thank you for sticking with me."
+    HIKARI: "Hum. That's curious."
+    HIKARI: "I don't have much choice in it, for one thing. And for a second, if you'd never met me, you wouldn't be in half of this trouble to begin with."
+    TAKERU: "Then you're not still upset with me?"
+    HIKARI: "I never really was."
+    TAKERU: "Then yesterday, when you were saying you never got a chance, but I did..."
+    HIKARI: "I've changed my perspective."
+    HIKARI: "Maybe you're my second chance."
+    TAKERU: "What?"
+    HIKARI: "I mean, er..."
+    I don't think I've ever seen Hikari flustered.
+    HIKARI: "In the sense that, well... Maybe I can live a bit through you."
+    HIKARI: "When we first met I thought you were my polar opposite. You're rough and bumbling and half the time you don't even know how to compose yourself."
+    HIKARI: "And I'd die before I'd call myself any of those things."
+    TAKERU: "Thanks."
+    HIKARI: "You were supposed to be a star baseball player, and I was supposed to be Mirako royatly. We had every advantage coming in."
+    TAKERU: "And we both managed to screw it all up."
+    HIKARI: "Yes. I would've never admitted that to anyone before, that I ever did anything wrong, or made any poor decisions. Maybe it's because I have more perspective now, it's different now. Like we're in the same boat."
+    HIKARI: "So you second chance is my second chance. If I was angry with you, it's because I care about you, and I don't want you to squander it. And my being angry doesn't really help you out any, does it?"
+    TAKERU: "Then..."
+    I'm trying to find the words.
+    TAKERU: "Then if you say we're in the same boat, you have to understand I care about you as well. So don't just say you're planning on vanishing into the void like it's just another Tuesday."
+    HIKARI: "Hum. I misjudged you again."
+    HIKARI: "I figured you'd be relieved if I stopped popping up. It'd certainly make your condition easier to hide."
+    HIKARI: "And I know you're in a tight spot right now, so I shouldn't say I'm happy. But I'm happy to know you understand me, even if in a small way."
+    Hikari has a tiny smile. And as far as I can tell, it's sincere.
+    HIKARI: "...I should probably go."
+    TAKERU: "Hikari?"
+    But she's slipped off. 
+    By this point, the sun has set. It's no longer the fog obscuring the windows, just the night. And rather than scrounge through the library with the main light on, I choose to turn off the lamp at the table and head out.
+    Except at some point in the process of closing down the library, I hear and extra step.
+    TAKERU: "Hikari, are you back?"
+    Of course not. Since when I hear Hikari's footsteps?
+    But someone was there all the same. 
+    I duck out the door and peer down both sides of the hall. I'm about to chalk it up to a coincidence when I see her standing under the cover a doorway at the far end.
+    TAKERU: "Hagami?"
+    She responds by turning the corner and vanishing from view.
+    TAKERU: "What is she always doing her so late..."
+    If she was practicing the piano for her non-existant recital at the festival, I've sure never heard it. 
+    Today, I can only guess she was eavesdropping on my conversation with Hikari.
+    I sure hope not, but...
+    Hopefully she didn't hear too much.
+    
+    jump day21
+    
+    
+    
     
     
     
