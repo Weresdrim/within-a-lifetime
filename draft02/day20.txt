@@ -257,10 +257,14 @@ label day20
     I sure hope not, but...
     Hopefully she didn't hear too much.
     
+    On the walk home, there's no sign of her.
+    No footsteps, no shadow. Nothing.
+    The whole of Shizukawa is nondescript tonight. The sky is completely obscured by fog and even the streetlamps don't do much to guide the way.
+    But when I stand on the bridge and glance up, through the clouds there's just the slightest hint of moonlight.
+    It's hard to believe this is the spot I used to see in that dream, where one year ago, Hikari went from being a person in a situation not unlike mine, to a spectator, stuck unable to reconnect with anyone, and now, forgotten.
+    It's cruel.
+    And if there's nothing I can do for her now... At least I can stop being a spectator of my own life, and try and make the best of what I've been given.
+    I leave the bridge and head now into the fog.
+    
     jump day21
-    
-    
-    
-    
-    
     

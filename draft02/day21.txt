@@ -1,0 +1,28 @@
+label day21:
+
+    Regardless of what that cloud or mist or whatver was yesterday, it's cleared by morning. The Shizukawa is back outside the dorm window, same as usual.
+    What isn't usual is that while it's close enough to the start of class that I'm waking up, but Kenta is still asleep.
+    TAKERU: "Uh... Kenta?"
+    Normally he'd be leaving right about now... But as far as I can tell, he's still passed on his bed at the other ends of the room, between more of the heavy, upright boxes like the one I dragged in yesterday.
+    Do I wake him up?
+    It seems like something likely to backfire...
+    But then I remember my first week here where Kenta decided to act as my alarm clock and jab me in the forehead whenever he thought I was sleeping in too late. If he complains, I've got that to use against him.
+    TAKERU: "Kenta. Hey. Kenta, you'll be late if you keep sleeping."
+    KENTA: "Huah..."
+    KENTA: "Late? Hang on, late?"
+    KENTA: "You, what time is it?"
+    TAKERU: "It's almost - "
+    KENTA: "Why didn't you get me up sooner? This is a disaster. I was up all night trying to close on that 1890 Brandenburg model and I must've forgotten to set my alarms."
+    KENTA: "Hurry. Can you pass me a pair of socks?"
+    TAKERU: "There's still plenty of time. This is when I'd like to be getting up, if you weren't always so early..."
+    TAKERU: "And how am I supposed to know where your socks are? Aren't they on your side of the line anyway?"
+    KENTA: "Oh. The line. Of course."
+    TAKERU: "I didn't mean you had to stop talking to - "
+    KENTA: "The line is like a wall. One can't talk through a wall or see through a wall, so we can't interact right now."
+    TAKERU: "Who came up with this idea..."
+    
+    Of course, it's probably me who came up with the idea, when I was not at all thinking correctly two weeks ago.
+    So even while this is the first time since I've been back that I've made the morning commute with Kenta, I don't have much to say to him.
+    What's more surprising is he doesn't say anything to me either. Usually I'd be extremely well-informed on his new collection of the week at this point.
+    TAKERU: "You're quiet this morning."
+    
