@@ -54,7 +54,7 @@ label day16:
     TAKERU: "I don't, really."
     MEIKO: "Are you sure? I don't know much about it... A friend taught me the basics a while ago, but from what I'd see, you'd be good at it. Tactics. I can never guess what you're really planning."
     TAKERU: "I'm not planning anything."
-    MEIKO: "I've told you before that I see through, Takeru. When there's no one else around, you can stop talking to me like I'm your beloved class rep. You can't stand me and I can't - "
+    MEIKO: "I've told you before that I see through you, Takeru. When there's no one else around, you can stop talking to me like I'm your beloved class rep. You can't stand me and I can't - "
     She stops and waits.
     I have no idea what response she wants from me, but apparently "looking confused" isn't it.
     Finally, her tense expression disappears and she's back to her easy smile.
@@ -126,11 +126,11 @@ label day16:
     It's not like I have anyplace else to go, even if I decided to run away or something.
     What would that be like? Just walking straight out the door and never stopping? Who would bother stopping me?
     On what feels like the twentieth lap, I turn into my own doorway, only to find someone standing in front of me.
-    HIKARI: "Insomnia?"
-    TAKERU: "Hikari? What're you doing here?"
+    HIKARI: "It's late. Insomnia?"
+    TAKERU: "What're you doing in here?"
     HIKARI: "I'm not sure. What are you doing out there?"
     TAKERU: "Nothing. I guess I can't sleep."
-    HIKARI: "Insomnia."
+    HIKARI: "Yes. That would be insomnia."
     TAKERU: "Are you going to let me into my own room or what?"
     She shrugs and slips inside.
     I turn on the lights but end up blinding myself. Instead I settle for flicking on the reading lamp. My usually-sterile room at the clinic isn't much improved by the tall shadows.
@@ -178,11 +178,11 @@ label day16:
     HIKARI: "You look unhappy. That really wasn't supposed to be a hard question."
     TAKERU: "No, I get it. It's kind of a stupid thing for me to have asked."
     TAKERU: "I don't mind you at all. You've definitely made things a little less lonely for me, if nothing else, even if it's all a thousand times more complicated."
-    TAKERU: "I could die in a freak accident today and I wouldn't have any regrets either."
+    TAKERU: "Maybe I haven't figured out the meaning of life but I could die in a freak accident today and I wouldn't have any regrets."
     HIKARI: "That's not quite what I meant either."
     TAKERU: "Then what do you regret?"
     HIKARI: "Well I regret being a fool, I regret wasting all my time as a regular human, and I regret shamelessly dying."
-    TAKERU: "Okay, yeah I'd regret being a complete waste of time and talent too, but those are all sort of... negative things. Stuff you wish you hadn't done."
+    TAKERU: "Okay, yeah I regret being a complete waste of time and talent too, but those are all sort of... negative things. Stuff you wish you hadn't done."
     HIKARI: "Versus what could've happened."
     HIKARI: "Hum."
     HIKARI: "That's a wiser way to phrase it."
@@ -209,7 +209,7 @@ label day16:
     TAKERU: "If you're serious about the advice though..."
     HIKARI: "What's on your mind?"
     
-    I try to explain Meiko's behavior. But's a hard thing to get into without going through our entire background, our time together as kids, the first year of middle school, my departure for the Tohoku feeder school.
+    I try to explain Meiko's behavior. But it's a hard thing to get into without going through our entire background, our time together as kids, the first year of middle school, my departure for the Tohoku feeder school.
     On a normal weeknight, I think I would've been asleep three, maybe four hours ago. When I come to the end of it, I've probably gone through half my life story. Had I really not told Hikari all this before?
     But Hikari is still silent.
     TAKERU: "...So it's like it was with Jun. Is she telling the truth about when we fought last Sunday? That that never actually happened?"
@@ -232,7 +232,7 @@ label day16:
     HIKARI: "It's hard to say..."
     Hikari won't make eye contact.
     I guess she wasn't kidding when she said Meiko was a difficult person for her to talk about.
-    While Hikari doesn't seem to be able to look at me, her gaze is now on the science-magic-eschatology science-key book that Hagami lent me. I packed up the chessboard, but the thing is still sitting on the desk, where I was using it as a stand.
+    While Hikari doesn't seem to be able to look at me, her gaze is now on the science-magic-eschatology book that Hagami lent me. I packed up the chessboard, but the thing is still sitting on the desk, where I was using it as a stand.
     HIKARI: "I didn't know you were interested in the supernatural."
     TAKERU: "You're changing the subject."
     HIKARI: "If you're actually interested in angels and demons, maybe that's why you're the only person who remembers me from day to day."
