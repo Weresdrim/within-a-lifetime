@@ -91,14 +91,65 @@ label day20
     Without the view, the roof feels isolated, like it's the only place left in the world.
     
     For the rest of the day, she doesn't speak to me.
-    I'm working one station over from her in chemistry (I'm partnerless this week, just my luck) and more than once I
+    I'm working one station over from her in chemistry (my partner is a no-show today, just my luck) and more than once I
     notice glancing away from her partner, looking my way.
     I wonder...
     Was she lying at lunch, about not knowing why she wanted to eat with me? Was it really just to hand me someone else's papers?
     Meiko has always seemed like she was working from a plan, self-assured about everything. There's no way she's just as confused as me about all this. Right?
     I sigh and get back to work.
+    Hagami, two rows ahead of me, is also alone at her lab station. That seems weird. Shouldn't we be paired together if neither of us have partners.
+    HIKARI: "Are you going to get started or what?"
+    TAKERU: "Hikari!?"
+    HIKARI: "What?"
+    TAKERU: "Don't startle me like that."
+    HIKARI: "I've been standing here for the, hm, almost half of classtime you've wasted moping around here."
+    TAKERU: "Were you hiding under the desk or something?"
+    HIKARI: "No. Why would I do that?"
+    TAKERU: "Then - "
+    HIKARI: "I suppose that whatever this is that's happening to me is more serious than I thought..."
+    HIKARI: "You seriously didn't see me?"
+    TAKERU: "No, as far as I can tell I've been working on the lab alone this whole time. Unless you were under - "
+    HIKARI: "I don't hide under desks. And you haven't been working on the lab."
+    HIKARI: "...You'd better get started. Don't expect me to do all the work."
+    TAKERU: "Wait, I'm partnered with you?"
+    HIKARI: "I had very good grades in all my science classes. Why do you sound so upset?"
+    TAKERU: "Because I mean... What exactly are you going to do? I'm supposed to dilute 200 ml of whatever's in this bottle and then combine it with di-... di-..."
+    HIKARI: "I can tell you how to pronounce the names of the chemicals you're working with."
+    TAKERU: "But you can't actually touch anything here!"
+    HIKARI: "That's fine. I'll do the thinking and you do the menial tasks."
+    TAKERU: "The menial tasks? Thanks."
+    HIKARI: "Or, I could leave immediately and you can do the menial tasks as well as struggle to pronounce 'diiodophenyl' and struggle to write the lab report and struggle with everything else."
+    TAKERU: "Fine. What's the first step."
+    HIKARI: "Turn on the burner. Then wait."
+    TAKERU: "Alright."
+    HIKARI: "Now keep waiting."
+    HIKARI: "You look impatient. Don't do anything impulsive. You have to wait for the heat to rise."
+    TAKERU: "I'm waiting. Don't worry."
+    This is almost worse than having Natsumi for a lab partner...
+    TAKERU: "How exactly does this work, anyway?"
+    HIKARI: "The chemical reaction?"
+    TAKERU: "No. I mean you in class. Do you do homework?"
+    HIKARI: "Sometimes."
+    TAKERU: "And I guess you do lab reports..."
+    HIKARI: "If it's not too tedious."
+    TAKERU: "And the teachers grade you? Just like you were a normal student?"
+    HIKARI: "Sometimes."
+    HIKARI: "I've wondered about that. When my name is on a sheet of paper, or I sit in class, everyone is more than willing to pretend I'm just another student."
+    TAKERU: "But whenever I mention your name, everyone winces..."
+    TAKERU: "Why is that?"
+    HIKARI: "I've told you before. I don't know the rules. No one ever gave me - "
+    TAKERU: "No one ever gave you the instruction manual on being a ghost. Right."
+    TAKERU: "Something like this has to have happened before... Somewhere out there there has to be a research file on whatever type of... thing, or spirit, or whatever you are."
+    HIKARI: "I'm not a thing. I'm just me. Hikari."
+    TAKERU: "But what if we could learn more about - "
+    HIKARI: "Turn off the heat. What are you doing? Do you want to shatter your beaker?"
+    TAKERU: "What?"
+    HIKARI: "You set the temperature too high! Stop waiting around and turn down the heat."
+    TAKERU: "Got it, got it."
+    HIKARI: "This is going to be frustrating..."
+    TAKERU: "Tell me about it..."
     
-    Once the last class ends, I've nothing left to do here. I suppose I'll stop by the old library and see if Mana and Hagami are meeting after school today. Maybe I can slip the forms under the door and be done with it.
+    Once the last class ends, I've nothing left to do at Mirako. I suppose I'll stop by the old library and see if Mana and Hagami are meeting after school today. Maybe I can slip the forms under the door and be done with it.
     Probably it would be best if I wasn't around while Mana read the bad news, assuming this about the festival booth. Or who knows, maybe Mana won't be too upset. It sounded like their manga wasn't going to be ready in timea anyway.
     No luck. The room's empty.
     Everything looks mostly as I remember it. Boxes of newspapers and records and stuffed into the bookshelves next to books on the paranormal. Drawing paper covers the table. On top of a hardcover titled "La magie sacrée." The rabbit censer is there, along with a new addition, apparently a rabbit teakettle.
@@ -177,7 +228,7 @@ label day20
     Or maybe I'd just find a text about a German psychologist collecting stories from schizophrenics about meeting the ghosts of people they'd never known before. Either would be fine.
     Either one would be fine.
     I'm starting to consider having a look around when I hear a voice behind me.
-    HIKARI: "Surpring. I wouldn't have expected to see you here."
+    HIKARI: "Surprising. I wouldn't have expected to see you here."
     TAKERU: "Oh, it's you. I thought you were Mana for a minute."
     HIKARI: "That's why I'm surprised. If you though you might run into Mana up here, I thought you'd avoid this place, after what you just put her through."
     TAKERU: "I am avoiding it, I was just here to drop off this book. It's been a long day."
