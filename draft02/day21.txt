@@ -1,0 +1,259 @@
+label day21:
+
+    Regardless of what that cloud or mist or whatver was yesterday, it's cleared by morning. The Shizukawa is back outside the dorm window, same as usual.
+    What isn't usual is that while it's close enough to the start of class that I'm waking up, but Kenta is still asleep.
+    TAKERU: "Uh... Kenta?"
+    Normally he'd be leaving right about now... But as far as I can tell, he's still passed on his bed at the other ends of the room, between more of the heavy, upright boxes like the one I dragged in yesterday.
+    Do I wake him up?
+    It seems like something likely to backfire...
+    But then I remember my first week here where Kenta decided to act as my alarm clock and jab me in the forehead whenever he thought I was sleeping in too late. If he complains, I've got that to use against him.
+    TAKERU: "Kenta. Hey. Kenta, you'll be late if you keep sleeping."
+    KENTA: "Huah..."
+    KENTA: "Late? Hang on, late?"
+    KENTA: "You, what time is it?"
+    TAKERU: "It's almost - "
+    KENTA: "Why didn't you get me up sooner? This is a disaster. I was up all night trying to close on that 1890 Brandenburg model and I must've forgotten to set my alarms."
+    KENTA: "Hurry. Can you pass me a pair of socks?"
+    TAKERU: "There's still plenty of time. This is when I'd like to be getting up, if you weren't always so early..."
+    TAKERU: "And how am I supposed to know where your socks are? Aren't they on your side of the line anyway?"
+    KENTA: "Oh. The line. Of course."
+    TAKERU: "I didn't mean you had to stop talking to - "
+    KENTA: "The line is like a wall. One can't talk through a wall or see through a wall, so we can't interact right now."
+    TAKERU: "Who came up with this idea..."
+    
+    Of course, it's probably me who came up with the idea, when I was not at all thinking correctly two weeks ago.
+    So even while this is the first time since I've been back that I've made the morning commute with Kenta, I don't have much to say to him.
+    What's more surprising is he doesn't say anything to me either. Usually I'd be extremely well-informed on his new collection of the week at this point.
+    TAKERU: "You're quiet this morning."
+    KENTA: "I'm keep your conditions."
+    TAKERU: "What conditions?"
+    KENTA: "That I wouldn't talk in the morning. That the invisible wall divides our room. That I'd start caring about which article of clothing belonged to whom, despite their being absolutely no other difference between them."
+    TAKERU: "Those all sound kind of familiar..."
+    KENTA: "They're your conditions, so of course they do. I'm trying very hard to not be angry with you for breaking them. Because even if they're nonsense conditions, you should have to stick to them if I have to stick them."
+    I can't do anything but sigh.
+    I'm uncomfortable today. The humidity doesn't help, but it's mostly that since I've been in charge of doing my own laundry, I've been putting it off. And I haven't worn this pair of pants since my first week at Mirako, probably.
+    There's something in the back pocket, actually.
+    TAKERU: "A coin?"
+    KENTA: "A wheat penny, it looks like."
+    TAKERU: "Oh, right. Do you remember this?"
+    KENTA: "No."
+    TAKERU: "You gave it to me the first day I came here. So we'd share a hobby or something."
+    KENTA: "So I did."
+    TAKERU: "Kenta, you can't forget about all those conditions or whatever I gave you. Actually, just forget everything I said that week before I went off to the clinic. It's been peaceful these past couple days but it's just too weird."
+    KENTA: "Then you're finding someplace else to live?"
+    TAKERU: "No. What on earth would make you think that?"
+    KENTA: "Are you quizzing me? Because I remember everthing you said. You called me 'tedious' and 'emotionally stunted' and said my thought processes were 'one hundred percent crazy,' and - "
+    TAKERU: "Please just forget that. I'm sorry."
+    KENTA: " - and a lot of other words that I've been taught not to repeat. And said if I didn't clean up my act you'd leave."
+    KENTA: "But of course that's very vague, so I insisted we formalize things into the conditions."
+    TAKERU: "Why would you agree to all that just to keep me around?"
+    KENTA: "Do you know how many roommates I've been through?"
+    TAKERU: "Well... Several, I'd guess."
+    KENTA: "It can take up to a month to train a new one. I'd rather not do that again this year."
+    TAKERU: "To train one? You spent a month 'training' me?"
+    KENTA: "No you were relatively easy to break in. I think I had your sleep schedule adjusted within the first week. Although you did never learn how to sort the laundry..."
+    TAKERU: "Great... So you're trying to keep me around because it's less work dealing me than it is to find someone else."
+    KENTA: "Exactly."
+    TAKERU: "I can see why you don't have many friends."
+    KENTA: "You can? That's something I value in you as a friend, Takeru. You're perceptive of other people like that."
+    TAKERU: "You value me as a friend? Didn't you just say you only bother with me because - "
+    KENTA: "I would rather have you around than have an arbitrary, random other person around. Isn't that the definition of friendship?"
+    TAKERU: "No, not at all."
+    KENTA: "Well it's mine."
+    TAKERU: "You're bizarre."
+    We keep walking. I realize I'm still holding the wheat penny.
+    TAKERU: "I never did get into coin collecting though..."
+    KENTA: "It's a silly hobby. The market is illiquid."
+    TAKERU: "If I remember, you were pretty into it there for a while."
+    KENTA: "Yes, I still have my connections there. Why? Were you looking to sell that? Check the year. There's a chance - "
+    TAKERU: "Sell it? It's got sentimental value now."
+    KENTA: "That won't increase its resale value."
+    TAKERU: "I forgot you're the least sentimental person the universe..."
+    TAKERU: "Most collectors are supposed to get attached to the stuff the collect."
+    KENTA: "But I don't."
+    TAKERU: "Nope. At this point I'm pretty sure your hobby is finding new hobbies."
+    KENTA: "I disagree. For one..."
+    This disagreement lasts until we we arrive outside class.
+    I guess it wouldn't be Kenta without pointless, daily bickering. But it certainly beats silence.
+    
+    Silence seems to be the theme of the day, though.
+    There's no Meiko here, and Natsumi is out at the tournament.
+    When I sit down, in the row behind me, Hikari has her headphones on. She doesn't respond at all to my presence... Not that I'd have expected her to.
+    Eventually Kunida shows up and starts going over yesterday's homework. And there's still no hint of Meiko.
+    It feels wrong starting the day without her speech to the class. Maybe she's tied up with festival planning?
+    Regardless, I don't speak to another human for the rest of morning classes.
+    When it's time for lunch, I notice Hagami lingering by the doorway.
+    She makes eye contact, even takes off the headphones, but...
+    HAGAMI: "..."
+    But she leaves.
+    TAKERU: "Hey, Hagami. Hagami!"
+    TAKERU: "Dammit."
+    Do I chase after her? What would I even say? How do I even start to apologize for blowing up the supernatural club, let alone that... other thing, two weeks ago?
+    I give up.
+    And after visiting the cafeteria, I find myself wandering the basement.
+    Once again, the tearoom is empty. There's no else down here this time of day. No sign of Hikari.
+    TAKERU: "I wonder if I just can't see her, or..."
+    What would happen if she really did disappear altogether? I can't imagine trying to bear Mirako without her.
+    And let's see, now I'm up to Hagami, Mana, Meiko and Natsumi all actively hately me.
+    I'm pacing the corridor in the unused wing at this point. I can't sit still.
+    Come on. At least I patched things up with Kenta. Maybe some of Hikari's advice sunk in.
+    Should I go upstairs, find Mana and Hagami and apologize? That'd be pointless.
+    At the minimum I need to return Hikari's book. It wouldn't mean much but...
+    ...but no matter how many times I dig through my bookbag, there's no sign of The Modern Science-key.
+    TAKERU: "I could've sworn I brought it with me."
+    Did I leave it in the common room last night?
+    Never mind, who care? What good would returning a book do? That'd just look like I was washing my hands of them completely.
+    Maybe if I joined to club officially. But that'd still leave them a member shy. Who could I recruit? Natsumi? Bad idea. Kenta? Even worse idea.
+    Still, it's better than nothing. Better than tracing this groove into the hall.
+    ...But I still keep pacing.
+    TAKERU: "They don't want me up there... I shouldn't butt in where I'm not wanted..."
+    I keep going back and forth, but, it needs to be done.
+    By the time I steel my nerves, there's hardly anything left of the lunch break at all.
+    At the end of the hallway, up the stairs, the old library...
+    TAKERU: "What...?"
+    But the library is emtpy.
+    There's no one here. And while I wouldn't call the shelves empty by any means, the table is clear. All the sheets of drafted manga, the foreign books, the occult trinkets... All those are gone. I spot the radio tucked into a corner.
+    It hurts to look.
+    I know what they're doing, and it makes sense. They're about to be evicted from their headquarters, so they're in the process of breaking the thing down.
+    I'm too late.
+    I sit at the central table for a minute, but there's nothing to do here but feel my heart sink. While I wasn't a fan of the dust, or the clutter, or the rest of it... I don't like it. Will they even take away the books and the boxes on the shelves?
+    There's one scrap of paper left on the tabletop. Strange... It's not drawing paper. It's official stationary.
+    Of course. It's the letter from Meiko, about the scheduling changes. There's a rejected performance application, and the official club signup sheet, with its two lonely names.
+    I put it into my bag. Maybe I'll figure out what I'm supposed to do. There could still be a chance.
+    And I wish Hikari were here. I hate the prospect that from here on out, I'm on my own.
+    
+    I might as well not have shown up the rest of the day's classes for all I can concentrate.
+    Plus, whoever my partner was supposed to be in chem, they're a nowshow again, and I get nothing done.
+    If it turns out I've been assigned to work with the out-of-town-all-this-week, no-longer-has-any-reason-to-pretend-to-be-interested-in-me, least-studious-person-in-the-world Natsumi, I will cry.
+    So I'm left at the end of the day wondering whether I should bother trying to flag down Hagami as she heads for the door, or sit here at my seat and sulk. 
+    Hagami leaves.
+    This time she doesn't touch her headphones or glance my way once.
+    I don't know what I'm waiting for. The rest of the class trickles out around me, sitting here, elbows on my desk.
+    There's no point returning to the dorms.
+    I check the unused wing for Hagami, but there's no sign of her.
+    Checking the tearoom from the hall, most of it it is in shadow, but there's no one there. On the table, however, sits more clutter than I remember.
+    It looks like... This is the teapot that was upstairs in the library last night. The censer is here too.
+    Good, but... Bad. Mana is returning all the items she basically stole from the other rooms down here. But that means she's giving up.
+    Next to the rabbit censer is something else I don't remember here. It's a book, dense, brick-shaped, lying open.
+    TAKERU: "Isn't that Hagami's...?"
+    TAKERU: "I thought I left that..."
+    HIKARI: "You left it down here. Obviously."
+    TAKERU: "Hikari!"
+    HIKARI: "Don't act all surprised."
+    HIKARI: "Although... I'm glad to see you."
+    TAKERU: "Sorry. I didn't see you from the hall so I thought the place was deserted."
+    HIKARI: "No, I've been here..."
+    She glances at the open Modern Science-key.
+    HIKARI: "...all day, essentially."
+    TAKERU: "Reading that thing?"
+    HIKARI: "Maybe. I don't know why you were reading it."
+    TAKERU: "I'm not sure either."
+    HIKARI: "You wanted to get into Hagami's good graces by reading what she lent you. That's it, isn't it?"
+    TAKERU: "Ha, not at all."
+    HIKARI: "Good. Because this old thing is bunk and I think less of anyone who's read it."
+    TAKERU: "If you're saying it's bunk... Doesn't that mean you've read it?"
+    HIKARI: "Maybe."
+    TAKERU: "Why?"
+    HIKARI: "I know you're worried about Hagami. You can admit to me that that's why you carried this thing around."
+    TAKERU: "I am, but..."
+    HIKARI: "Don't tell me you looked through all five hundred pages of this thing because you were worried about me?"
+    TAKERU: "Er..."
+    HIKARI: "Takeru."
+    HIKARI: "I'm frustrated. Why do I have to think the same ways you do?"
+    HIKARI: "Fine. I read it because I'm worried about me as well. The book is bunk because not once in all their ramblings do they mention any natural or scientific phenomenon that even begins to fit me."
+    TAKERU: "Yeah, it's just philosophy. Nothing practical."
+    HIKARI: "Hmph! So you admit that's why you read it. You were trying to... score information on me."
+    TAKERU: "You were trying to 'score information' on yourself so I don't see how you can be mad about me for it."
+    HIKARI: "I'm not mad, I'm just... Annoyed."
+    HIKARI: "I doubt you can relate but I'm used to being well-informed. I knew more than anyone in my class. It didn't matter whether it was about English or geometry or gossip. I've never liked being in the dark."
+    TAKERU: "That's sort of impressive."
+    HIKARI: "What is?"
+    TAKERU: "I thought you were trying to find information because you were worried you might... fade out or something. Dissappear."
+    TAKERU: "But you say you're really only worried that you'd know less than I would?"
+    HIKARI: "Right."
+    HIKARI: "What else would I be worried about? Even if I disappeared, I'd..."
+    Hikari has always been pouty but now she's more consternated than I'd thought possible. Between her eyebrows is a knot of wrinkles.
+    I sit down.
+    By this point I know when Hikari has something to say. I just need to wait for her to say it. But she says nothing and pretends to return to the book.
+    TAKERU: "Alright, I know something's wrong. What's on your mind, Hikari?"
+    HIKARI: "Oh there's nothing 'wrong' really. I just find it funny."
+    HIKARI: "Two months ago if you had said I was about to disappear into the aether, I would've said, fine, if that's how it's going to be then I accept it. It's not like I was going to accomplish anything watching my old classmates coming and going all day, every day."
+    HIKARI: "And now I feel..."
+    HIKARI: "Hum. I have three concerns."
+    HIKARI: "First, if I leave now, there will be no one to look after you, which would be a shame because I'm more fond of you than I should be, and I bet that the moment I left, you'd start moping around and feeling sorry for yourself."
+    TAKERU: "Is that your way of saying you're worried about me?"
+    HIKARI: "Secondly, I always want to see the fireworks once, as a student... I've almost made it the whole year."
+    TAKERU: "There are no fireworks this year."
+    HIKARI: "That's not possible."
+    TAKERU: "Meiko canceled them."
+    HIKARI: "She..."
+    HIKARI: "How long have you known this? Why would she do that?"
+    TAKERU: "I think she said something about safety? I really don't know. There's a big controversy now and Meiko hasn't been in class all day."
+    HIKARI: "Did you ask her why?"
+    TAKERU: "You think she'd give me a straight answer?"
+    TAKERU: "Anyway... What was the third thing you were talking about? The other reason you wanted to stay here a bit longer."
+    HIKARI: "Oh. I'm not saying."
+    TAKERU: "Then why did you say you had three if you were only going to list two? That's just teasing me if - "
+    HIKARI: "Because I'm scared."
+    TAKERU: "...and if you're teasing, I - "
+    TAKERU: "What?"
+    HIKARI: "Did you not hear me?"
+    TAKERU: "No, I did, I'm just... surprised."
+    HIKARI: "You have too high an opinion of me. I've told you before what a foolish person I was when I was alive and if I'm honest I haven't changed much. I'm just as human as you, even if I don't seem it."
+    HIKARI: "So yes. Maybe I'm scared. Will I vanish? Will it be like falling asleep? Will I dream? Will I be reincarnated as a sparrow?"
+    TAKERU: "Hey, you won't disappear. We'll figure this all out."
+    HIKARI: "How? It's easy to see I'm not exactly in the literature, if this book is any indicator. And you're not some expert on metaphysics."
+    TAKERU: "Metaphysics..."
+    Sounds like a word Hagami would throw around.
+    TAKERU: "It doesn't matter. I'll find something."
+    HIKARI: "It's comforting that you're concerned, but... I don't know."
+    HIKARI: "My plan was to try to hang on until the cultural festival, catch the fireworks there, then..."
+    HIKARI: "If there's no show this year..."
+    HIKARI: "It doesn't matter. I'm stronger than this. It's no use worrying over things I can't change."
+    That sounds more like the Hikari I know.
+    HIKARI: "I'm not really in the mood now, but find me tomorrow. It's been too long since we've played chess and I'm worried you'll get rusty."
+    TAKERU: "Haha, fine. I'll be sure to come find you."
+    HIKARI: "You can have this back."
+    TAKERU: "What?"
+    HIKARI: "Your friend's book. Weren't you looking to return it to her?"
+    TAKERU: "Oh. Right..."
+    TAKERU: "Maybe I should just drop it in the library."
+    HIKARI: "I'll come with you then."
+    
+    We head upstairs to the old library, and I place the Modern Sciencekey on the corner of the table, where I originally found the papers about the club disbandment. 
+    I don't want to linger. This place feels just... Lonely.
+    TAKERU: "Did you ever come up here?"
+    HIKARI: "While I as alive? No. It was the school archive last year. I've stayed away this year. Those two girls are in here laughing so often and I don't think I exactly belong in a place like that."
+    TAKERU: "I need to figure out how to save this place..."
+    TAKERU: "Never mind."
+    I'm sure there's some shortcut out of the school from here, but we retrace our steps back through the unused wing.
+    Unsurprisingly, there's no one else here. Except... There's a door closed that shouldn't be.
+    That's not Kunida's office is it? No, his door is labeled.
+    HIKARI: "It's the piano room. A storage room, technically, but that's what I've started to call it."
+    TAKERU: "It's not usually closed, is it?"
+    She shrugs.
+    I think about knocking for a second before thinking better of it and instead, while Hikari stands over my shoulder, I slide the door open just a crack, as quietly as I can.
+    And then I take a step back. Inside is Hagami, still, at the piano, fingers poised as if ready to play.
+    She's sitting in profile, but she doesn't spot us as her eyes are closed. As we watch, she inhales and raises her hands as if to start playing... but nothing happens. There is no sound. Her fingers do not move.
+    I take another step back and slide the door shut. Hopefully we weren't spotted.
+    TAKERU: "What was that?"
+    HIKARI: "...I've told you. She's here almost every evening."
+    TAKERU: "Doing that?"
+    HIKARI: "I would assume. But it that's room, night after night."
+    TAKERU: "Why?"
+    HIKARI: "Maybe you should figure that out."
+    HIKARI: "And I hope you do. I like that one."
+    TAKERU: "You only like Hagami because she remembers your name."
+    HIKARI: "That's part of it, but there's more than that."
+    TAKERU: "I'll try to patch things up with her. I really will."
+    HIKARI: "You'd better. Learn from my example. Don't go throwing these kinds of people away."
+    We part ways at the main entrance, me to take the road back to Shizukawa, her off the who-knows-where. Ghost hibernation.
+    As I follow the curve of the path down the mountainside, I notice a narrow light on the side of the Mirako building, coming from one of the low windows that let light into the basement rooms.
+    I wonder if that's the piano room.
+    Probably.
+    How is Hikari taking the breakup of the supernatural club?
+    Not well, I'd imagine.
+    Back just a few minutes ago, I wanted to reach out my hand, say something to help her, anything. But that would be selfish of me. I know I've done something awful to her. If I can't even face up to that memory, how amd I supposed to face up to her?
+    
+    jump day22
+    
