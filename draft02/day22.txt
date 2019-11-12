@@ -36,7 +36,7 @@ label day22
     TAKERU: "So you can present at the festival without a club..."
     KENTA: "Of course. You just need to apply. Will you be displaying your coin collection?"
     TAKERU: "What? No."
-    KENTA: "Just yesterday you were saying you wished you had gotten into collection coins. I think showing off something that at the festival would be a great start."
+    KENTA: "Just yesterday you were saying you wished you had gotten into collecting coins. I think showing off something that at the festival would be a great start."
     TAKERU: "Never mind. Forget the coins."
     TAKERU: "Kenta, just a quick question... What all happened at last year's festival, with the fireworks?"
     KENTA: "Hasn't anyone told you that already?"
@@ -44,8 +44,169 @@ label day22
     KENTA: "Fair."
     KENTA: "If I had to sum it up... One of the girls in our year stole some fireworks and managed to kill herself with them."
     TAKERU: "Was it intentional?"
-    KENTA: "Oh, probably. You know girls our age are. All emotional and everything."
+    KENTA: "Oh, probably. You know how girls our age are. All emotional and everything."
     TAKERU: "I... let's just ignore that."
     KENTA: "The point is, fireworks are inherently unsafe, so the festival committee made the correct decision. That's all there is to it. Now if you'll excuse me, I need to get to class before I'm late."
     He files into the classroom next to mine as I scowl after him.
     It's the most Kenta response ever, but it doesn't give me any insight into Hikari at all. Or any clue why Meiko would decide that this year is the year to break Mirako's tradition. No way she shares Kenta's reasoning.
+    Would she cancel the show this year to spite Hikari's memory? Is that what's going on here?
+    It just doesn't make sense.
+    When I take my place at my desk, Meiko is as quiet as she was two days ago. She just stares at her desk.
+    TAKERU: "Hey Meiko. So you're back? Where were you yesterday?"
+    MEIKO: "..."
+    TAKERU: "Whatever."
+    KUNIDA: "Everyone's ready to begin?"
+    KUNIDA: "Good. Excellent. First of all, I'd like to announce that there will be a quiz on the new material we've covered at the end of the week. This will be the last test until the midterms, so you should all be happy. Eh?"
+    TAKERU: "Is that guy starting class already? Aren't you going to speak to everyone? About the festival schedule and all that?"
+    MEIKO: "No."
+    TAKERU: "Hmmm..."
+    Weird.
+    I almost wish Natsumi was here. Then I'd have someone to commisserate with about this new quiz, or at least needle Meiko about what's got her down.
+    It's hard to believe this is the same Meiko that snarled at me at the hospital. Or the same Meiko that brought me to that little cafe in Shizukawa almost a month ago.
+    What should I do? I need to get her to stop this petty scheme to shut down the supernatural club, but if she's not even speaking to me...
+    
+    The entire school day drags by before I've formulated my plan of attack on Meiko's defenses. Flattery? Honesty? Bribery?
+    I'm still running my gears when I feel a hand on my shoulder.
+    MEIKO: "Did you want to find someplace to eat?"
+    TAKERU: "What?"
+    MEIKO: "Do you want to grab something from the cafeteria and have lunch on the roof? Or are you busy with a club or something like that?"
+    TAKERU: "No, I mean..."
+    I gulp.
+    TAKERU: "I'll see you there."
+    She knows damn well I'm not busy with a club. Isn't she, though? Whatever. I have approximately three minutes until she shows up to think out my strategy here. Maybe I should try to bargain with her. She's probably holding the supernatural club hostage unless I do what she wants.
+    What the hell does she want anyway?
+    It sure beats me.
+    Today, the roof is deserted as usual, but so are the fields around Mirako. Without the fog, this spot commands a view of the empty baseball diamond, the emtpy soccer field... It's tournament season after all, I guess.
+    MEIKO: "..."
+    I almost didn't see her slip in. Meiko sits down wordlessly.
+    And we eat in silence.
+    I wish she'd say something. Even that mean-spirited stuff she was saying to me at the hospital would be better than this. As it stands, the tension is killing me. And I jump into the thick of it and completely forget any idea of a "plan."
+    TAKERU: "You're canceling the supernatural club."
+    MEIKO: "..."
+    TAKERU: "I get why you wouldn't let the two of them have a booth or get stage time or whatever it was Hagami wanted to do, but you didn't have to shut down their library. That's just cruel."
+    TAKERU: "I know you were there when I delivered that letter."
+    MEIKO: "I was."
+    TAKERU: "So what's the point? Are you just being mean for no reason? There's no way the student council needs that space."
+    MEIKO: "What does it matter to you? It's not like you were a member anyway."
+    TAKERU: "That... I mean, I wasn't a member on paper, but..."
+    MEIKO: "Then don't complain."
+    TAKERU: "What do you have against Mana and Hagami?"
+    MEIKO: "Nothing."
+    TAKERU: "Then why - "
+    MEIKO: "They're just collateral damage. You're the one I was trying to hurt."
+    TAKERU: "You... What?"
+    TAKERU: "I mean, I guessed that, I never thought you'd come out and say it. Do you really hate me that much?"
+    MEIKO: "I despise you, Ichiro Takeru."
+    MEIKO: "Didn't I say that before?"
+    TAKERU: "Maybe? I don't know. I don't get you at all. If I'm so disgusting to you then why are we sitting here right now? Why do you keep asking me to lunch? Do you just want to gloat, is that it? Don't you have better things to do?"
+    MEIKO: "I don't have to pretend around you. We're enemies, aren't we?"
+    MEIKO: "There's a student council meeting right now but those things require a lot of effort these days. You, on the other hand, do not require me to put in any effort."
+    TAKERU: "Effort into what? What're you talking about?"
+    MEIKO: "I've given you permission to stop playing dumb. You can be honest with me. I don't mind what you say to my face."
+    I'm at a loss. This has to be some kind of joke.
+    MEIKO: "Oh. I understand. You don't want me to be able to relax. You like trying to be clever, don't you."
+    TAKERU: "Just cut it out and tell me what you want me to do so I can save the supernatural club."
+    MEIKO: "Takeru..."
+    MEIKO: "Give me a minute."
+    I almost want to time her the sixty seconds. She finishes her lunch, then looks up, a smile on her face, for all the world the same as the class rep perfect-student Meiko she's always been.
+    MEIKO: "I'm not sure why you care about that club so much if you're not even a member, but it's regretful to me that the council required a new meeting space suddenly."
+    MEIKO: "I'm sorry the school rules aren't working in their favor. It's only a technicality that they don't have enough members, but I'm not allowed to overlook technicalities. I'm not allowed to overlook things just because you're my friend. You understand?"
+    TAKERU: "Not at all."
+    But Meiko doesn't bother to elaborate.
+    TAKERU: "I'm sorry I said that to Natsumi, about the fireworks. I didn't mean to let it slip. I didn't realize it was a secret that you control whether the fireworks happen or not."
+    MEIKO: "The staff decides that."
+    TAKERU: "You can't accuse me of playing dumb and then try to pull this again. I heard what I heard, but I wish I hadn't. It doesn't make any difference to me. I'm not some fireworks superfan and I don't know the details of the whole tradition thing."
+    TAKERU: "Whatever you're doing, I know you're doing it for a reason. Even if that reason is to spite Hi - "
+    MEIKO: "You can stop. I accept your apology."
+    MEIKO: "It's almost been a year, hasn't it...?"
+    MEIKO: "Everyone seems to have forgotten."
+    I notice she's holding something between her hands. It looks like a piece of wood, painted green. When Meiko notices me staring, she hides it in her sleeve.
+    TAKERU: "You mean last year's festival."
+    MEIKO: "..."
+    She's staring out over the fields, somewhere well out beyond the mountainside.
+    Is she picturing Hikari?
+    I wonder how that would feel, to have a rival up and vanish like that. Surreal? I'd think she'd be happy about it. No, who could be happy over someone's suicide?
+    If I heard my old captain Jun had died in some freak accident or something like that, how would I feel? I hated the guy, he stood in my way, even if I got the wrong idea about him sometimes I can't count the number of times I wished he'd just dissappear.
+    But if that dream suddenly came true...
+    TAKERU: "I'll make it up to you if I can. I'll tell Natsumi I lied about the final decision on the fireworks. No one cares what Natsumi thinks anyway."
+    MEIKO: "The rumor has already spread."
+    TAKERU: "Natsumi. Of course she'd be good at that..."
+    TAKERU: "Maybe there's something else. Give me the grunt work for the festival planning again. I can take that off your plate at least."
+    MEIKO: "What?"
+    TAKERU: "Didn't you say you missed doing the planning committee work with me? I never minded it."
+    TAKERU: "If I already know about the fireworks stuff then that's one less secret you have to keep, right?"
+    MEIKO: "I suppose."
+    TAKERU: "And ever since I've been back, you've seemed kind of... Stressed? I don't know."
+    MEIKO: "Haha, we may have grown up together but you don't know me all that well any more it seems. I'm Kotaru Meiko. I would never be stressed. I'll do the best for our class, for the student council, for the festival, and for all of us. I can handle whatever comes my way."
+    TAKERU: "Yeah..."
+    TAKERU: "Meiko, you know, you seem kind of dicey with me sometimes and I get why you'd be mad at me, but I really do admire."
+    TAKERU: "It's like the reverse of when we were kids. You're the one who has it all figured out, and I'm just sort of... Here."
+    Meiko is silent again.
+    Maybe I said something wrong. Could that have been it. Could I have misspoke?
+    MEIKO: "I've always been me. I've always had it figured out. Pressure and stress are nothing. I have it figured out. That's me."
+    MEIKO: "If you remember something else, Takeru, you should talk to the school psychiatric staff. They're very helpful."
+    MEIKO: "I've never been mad at you, and you've always been a dear friend. Is that clear?"
+    TAKERU: "Don't do this again."
+    MEIKO: "But it's clear?"
+    TAKERU: "Sure."
+    MEIKO: "Then would you mind coming in to Mirako tomorrow? With the festival less than two weeks away, I could use another pair of hands for a few tasks. I hate to ask you, but..."
+    TAKERU: "It's no problem. It'll give me something to do."
+    TAKERU: "...But this thing with the supernatural club. You'll consider - "
+    TAKERU: "Meiko?"
+    She's already leaving.
+    TAKERU: "Meiko!"
+    But I'm shouting at her back. She vanishes down the stairs.
+    TAKERU: "What's with her?"
+    It's like I'm adding two and two together and keep coming up with five. She's unreadable. I don't understand what she's trying to do. Sure, I can understand she's mad I started some dumb rumor with Natsumi, but...
+    Why yell at me in the hospital? Why drag Hagami and Mana into it?
+    I don't want to think about it too hard. Instead, I need a plan. I think I have it - some way I can save the old library and the supernatural club.
+    
+    I wander Mirako just to clear my mind.
+    There's still plenty of students here. Every single other club is meeting today and in high gear for festival preparations. It stands to reason the festival is so important around here that any student group worth its salt would be putting together a booth or a presentation or something.
+    Every club except the supernatural club. 
+    But if Meiko wants to claim she's only shutting it down because the club isn't official, then I can work around that my making it official. All we need is one more signature. I hate the idea but if even if I have to label myself Ichiro Takeru, Occultist at Large, I'll agree to formally join Hagami and Mana.
+    That leaves one more signature. I'm sure Kenta or someone would agree. It wouldn't be hard. Then even if it's only the two of them that meet regularly, they'll be able to prove to the student council that the club is legitimate and Meiko will lay off them. Provided Meiko was alright with my apology, that is.
+    I think she might've even left me this way out intentionally?
+    So... Great. Maybe I can at least bow out on even terms with Hagami and Mana. They might not ever speak to me again but at least I'll know I left them in peace.
+    I pace the second floor again, and find myself heading toward my usual haunt, the basement, the unused wing.
+    But my thoughts keep going - Kenta will be fine, Meiko will be rocky but that's alright, Hagami and Mana are a lost cause but my conscience is clear, fine... Natsumi, who cares... That leaves... Hikari?
+    Instead of heading downstairs, I pause at the corner.
+    And I find myself at the old library.
+    Today the table is completely clear. Someone must've been here since yesterday, as the book Hikari and I returned is nowhere to be seen, and the radio is now off the table and tucked under a sheet in the corner.
+    They must've been here earlier today.
+    TAKERU: "Why did I even come here....?"
+    Then an unexpected reply:
+    HIKARI: "Well. This is funny."
+    TAKERU: "Hikari?"
+    HIKARI: "I'm annoyed but it seems like we really do think in the same ways."
+    TAKERU: "So you're back here too, huh? I don't really know what I was planning."
+    TAKERU: "Maybe trying to look through the literature."
+    HIKARI: "I won't say that's what I was planning, but..."
+    TAKERU: "You're pouting."
+    HIKARI: "Maybe that's what I was planning. Maybe it's not."
+    TAKERU: "Did anyone tell you you're ridiculously easy to read?"
+    HIKARI: "No one would've ever dared to say something like that. You're lucky I can't touch anything in your world or I'd... I don't know, flick your forehead right now. If you've got time to sit around and smile like that, help me out. Get that book off the shelve."
+    TAKERU: "That one? It's in Latin."
+    HIKARI: "But look at the illustration on the spine."
+    TAKERU: "That's certainly a ghost. Or a white milkstain, I can't decide."
+    HIKARI: "You've studied English, haven't? Then shouldn't you be able to read it?"
+    TAKERU: "How is English the same as Latin? And I haven't studied any more than you have."
+    HIKARI: "Oh come on. We'll both look it over."
+    TAKERU: "Smart. So even if neither of us can read it 100%, we'll both have 50%."
+    I mean, it sounds smart in theory.
+    In practice, my English is around 5% and my Latin around 0%. Hikari might as well be the same, because it seems the only words that she knows are ones that I do as well.
+    But this is important.
+    Neither of us mention it, but we know the point. Even if we have to look up every word in the dictionary, if this dumb book has the key to key to saving Hikari, I'd slog through a thousand more like it.
+    And she'd do the same, I'm sure. Even if she'd never admit it.
+    Then again... Would we ever have the time to work through that many of these?
+    Because it's well past nightfall now, and we've barely finished with this tome. After Hikari found the Latin to English dictionary, and once I'd managed to dig out my Japanese/English reference book...
+    We've managed to decipher the table of contents. And the chapter on the afterlife appears to be a hundred pages. And all of those hundred pages appear to be nonsense.
+    HIKARI: "Who writes in Latin now anyway?"
+    TAKERU: "Latin people, I guess?"
+    HIKARI: "You're hopeless."
+    TAKERU: "What do you have against Latvians?"
+    HIKARI: "Hopeless. You're hopeless and the rest of this effort is hopeless anyway."
+    
+    
+    
+    
