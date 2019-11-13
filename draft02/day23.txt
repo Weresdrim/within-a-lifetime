@@ -1,0 +1,69 @@
+label day23:
+
+    I had looked forward to sleeping in.
+    Which, in retrospect was a guarantee that this would happen.
+    I'm lying half awake, looking through one squinting eye at a blurry figure above me. That figure is preparing jam its finger into my forehead.
+    But then it hesitates. And then it circles the room, comes back, poised to strike me. Then hesitates, then circles, then - 
+    TAKERU: "Dammit Kenta, I'm awake already. There are no classes today, so what do you want?"
+    KENTA: "You should keep the same schedule no matter whether there's class or not. It's healthier."
+    TAKERU: "Then unless, it's an emergency, I'm going back to - "
+    KENTA: "This is an emergency!"
+    TAKERU: "Something better be on fire, Kenta."
+    KENTA: "Yes, something like that. This is worse than a fire!"
+    TAKERU: "Okay, okay, hang on. Let me get dressed. What's going on?"
+    There's about five minutes of confusion as I try to make myself presentable before Kenta drags me out of our room and downstairs to in front of the PC.
+    KENTA: "It closes in twenty minutes. Twenty! Takeru you wasted almost fifteen minutes of my - "
+    TAKERU: "What's that supposed to be? Part of a bike?"
+    KENTA: "It's a gear, not a sprocket."
+    TAKERU: "What's the difference?"
+    KENTA: "You're too ignorant of clockwork mechanics, so I'd have to start with a mechanical engineering primer and that would take almost an hour that we don't have."
+    KENTA: "This lot will close before then. And this lot. And this other lot!"
+    TAKERU: "Alright, so place your bids and stop bothering me."
+    KENTA: "But there are almost two hundred of these! And I don't have a full inventory of which sizes I need yet!"
+    TAKERU: "Sounds like it's a 'you' problem. Now if you don't mind..."
+    KENTA: "Excellent. Thank you Takeru. You sit here and put in the bids, and I'll run upstairs and take the measurements. Have you seen a caliper around here?"
+    TAKERU: "A what? What am I doing?"
+    KENTA: "Enter bids in the auction. An auction is a sales format where - "
+    TAKERU: "I know what an auction is, but what should I - "
+    KENTA: "I'll be right back!"
+    He takes the stairs up three at a time.
+    This can't be worth it... Kenta is going to owe me big time after this morning.
+    And morning turns to afternoon.
+    Whoever Kenta is buying from, they set up staggered auctions on this dumb website specifically designed to keep me glued to the PC for hours, entering numbers for Kenta as he runs back and forth down the stairs.
+    KENTA: "It's 4.5 millimeters. And the fraction is important."
+    TAKERU: "Fine. How much do I put in this box?"
+    KENTA: "Just enough to beat the next bidder. Unless the product is new! If it's new rise by ten percent, but leave a twenty percent margin on top of retail value in case we need to resell."
+    TAKERU: "'We?' It's not my money we're throwing around..."
+    KENTA: "Hold on, hold on. I need to go check my Swiss clock. The diameter might be too wide!"
+    TAKERU: "Hey Kenta, you got outbid. I mean, we got outbid. On the German one. Do I bid again or what? Kenta?"
+    TAKERU: "Oh dammit anyway."
+    It's not like there's anything else I wanted to do this morning.
+    Except sleep. Sleeping would be nice.
+    MEIKO: "Takeru. Hello."
+    TAKERU: "Meiko?"
+    She stands stonyfaced over my shoulder.
+    TAKERU: "Don't you have a cram school to be at or something?"
+    MEIKO: "No. I have other responsibilities today. You mentioned that I should ask you if there was anything that needed more hands for the festival, so I thought..."
+    MEIKO: "But you seem busy."
+    TAKERU: "Oh, this? No, I'm only doing a favor for - "
+    KENTA: "Hey! The German one is a millimeter shorter than I thought. Cancel the bid."
+    TAKERU: "You can cancel a bid?"
+    KENTA: "Yes, obviously. Can't you use internet auction software."
+    MEIKO: "Ah, it's Kenta. Good afternoon."
+    KENTA: "Good afternoon. Is it after noon already?"
+    TAKERU: "Yep, it is. I've been here since - "
+    KENTA: "Damn! The shipping costs need to be factored in now. You have that down, don't you?"
+    TAKERU: "What down?"
+    KENTA: "Hurry! Submit the bid! Thirty seconds left!"
+    MEIKO: "...I'll be in the student council office at Mirako if you have any free time. But it seems this is more important to you."
+    MEIKO: "Goodbye."
+    TAKERU: "Meiko, hang on - "
+    KENTA: "Takeru, what are you doing? That woman is no good. Most women are no good. They serve to distract you from relevant issues, intentionally or unintentionally. So I urge you - "
+    TAKERU: "Ten seconds Kenta."
+    KENTA: "Ten second what? No. Wait! Aggh, damn, we've lost one."
+    TAKERU: "Sounds like you were distracted."
+    KENTA: "Don't mock me. Do you know how hard this authentic clockwork hardware is to come by?"
+    TAKERU: "Seems they've got a whole sub-auction house dedicated to it so - "
+    KENTA: "I might be out almost ten percent of my capital on that miss alone..."
+    KENTA: "
+    
