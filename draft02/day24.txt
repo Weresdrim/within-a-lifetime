@@ -1,0 +1,258 @@
+label day24:
+
+    I walk to school with Kenta the next morning, trying to re-forget all those relics in the closet.
+    KENTA: "Hey, are you even listening? I was asking your opinion on chimes. The ones that call on the half hour are more expensive but - "
+    KENTA: "You know it's rude to ignore someone when they're talking to you. I thought this was common social convention."
+    TAKERU: "Yeah and it's common social convention not to keep badgering someone when they're not interested."
+    KENTA: "But how am I supposed to know if you're not interested if you don't reply?"
+    TAKERU: "Social clues."
+    KENTA: "Easy for you to say. How could anyone be disinterested in cuckoo clocks anyway?"
+    TAKERU: "Sorry Kenta, I've just got a lot on my mind."
+    TAKERU: "Hey, isn't that Natsumi? Maybe she's got an opinion."
+    KENTA: "Who? Oh yes, her. I have an update for the baseball captain. Hey. Hey! Good morning!"
+    NATSUMI: "..."
+    TAKERU: "Speaking of ignoring people, she's definitely ignoring us."
+    KENTA: "Her loss. I have a fascinating update on the summer tournament series from my contact in Koshien. She'll be interested in that for sure."
+    TAKERU: "Wait, the tournament, that's right. If she's back at school..."
+    KENTA: "Oh, yes Mirako lost miserably. I believe they were double-eliminated while only scoring a single run."
+    TAKERU: "That's... No wonder she's in a bad mood."
+    KENTA: "Then it will cheer her up to learn one of the no-name technical schools in Hokkaido managed to advance to the main bracket, with the odds against them - "
+    TAKERU: "I'm not sure she's gonna be in interested in anything like that for the moment."
+    KENTA: "How would you know?"
+    TAKERU: "Social cues. Isn't it almost time for class to start?"
+    KENTA: "Oh, good point. You're always looking out for me. It's appreciated."
+    He runs off.
+    TAKERU: "Almost twenty minutes before class starts, but, I guess that's close enough if you're on Kenta time..."
+    But when I enter and sit down next to Natsumi... Maybe I should've thought twice about distracting Kenta. Setting him on Natsumi might've spared me the pain of sitting here in silence until class.
+    Oh well.
+    TAKERU: "Hey Natsumi."
+    NATSUMI: "Well, well. It's Takeru."
+    TAKERU: "I heard about the baseball tournament from Kenta. A loss is a loss, but don't take it too - "
+    NATSUMI: "Sorry Takeru, I don't really want to talk to you about this."
+    Fine. I was just being polite.
+    But two minutes later...
+    NATSUMI: "I don't think you get just how badly we did. I don't want to go back next year. Screw the tournament."
+    NATSUMI: "What's the biggest loss you ever pitched?"
+    TAKERU: "I don't like talking about my time Tohoku much."
+    NATSUMI: "Yeah, I know. I'm still curious though."
+    TAKERU: "I'm not sure. It's kind of a blur. There was a game I know I got into an argument with my own catcher, and I let in a few runs just to prove to him how important it was to listen to me."
+    TAKERU: "I think I got pulled before the fourth inning."
+    NATSUMI: "Of course, of course. You're too good to actually have a bad game because your skills fail you, you just have bad games because you're an ass."
+    NATSUMI: "Meanwhile I'm the captain and I can't even get a hit in the whole damn tournament."
+    TAKERU: "Then it wouldn't have made a difference whether I was there or not."
+    NATSUMI: "Yeah, yeah, you're amazing, I get it. Mid 70s fastball in the first year of highschool, earned run average of - "
+    NATSUMI: "Never mind. I won't read your stat line back at you."
+    TAKERU: "That wasn't my point."
+    NATSUMI: "You know it was Meiko that gave me that thing, right? Why'd she have a copy of your school's stat books anyway?"
+    TAKERU: "She... Er... She's a lot more complicated than I thought."
+    NATSUMI: "That bad, huh?"
+    TAKERU: "What's that supposed to mean?"
+    NATSUMI: "Oh. Nothing. Just a theory of mine."
+    She smirks.
+    And while it's a terrifying look for someone as relentless as Natsumi, at least it seems like some of her old self is back.
+    That's lost, however, when Meiko herself enters.
+    MEIKO: "Good morning Takeru, Natsumi."
+    TAKERU: "Ah. Hey Meiko."
+    NATSUMI: "..."
+    NATSUMI: "Hey Takeru."
+    TAKERU: "What now?"
+    NATSUMI: "A lot of my guys are pretty bummed with how we did in the tournament. You must be down in the dumps too, eh?"
+    TAKERU: "Why would I be - ?"
+    NATSUMI: "But everyone's been looking forward to the festival so much it doesn't even matter. Only a week away, right? The fireworks are sure to get everyone's mind off.. Oh, but wait, they're canceled. I forgot."
+    MEIKO: "Natsumi..."
+    TAKERU: "Hang on, the festival's only a week out?"
+    NATSUMI: "Yes! Obviously! Where have you been? Meiko's only been making the announcement every single day!"
+    TAKERU: "Oh good, I was worried you were going to pretend Meiko doesn't exist again."
+    NATSUMI: "Who?"
+    TAKERU: "Never mind. I don't need this."
+    I sink into my desk. 
+    Let them have their petty war of wills over my head, but I'm not going to get between them. I'm more worried about the festival.
+    Only a week off? Why am I worried anyway?
+    I don't care about fireworks. I don't have any performance time booked. I don't have a booth to tend. But the date seems ominous all the same.
+    Ah. Because it's the anniversary of that scene I've dreamed too many times. The boathouse on fire, below, in the still waters of the Shizukawa, floating, the body of -
+    MEIKO: "Ahem."
+    TAKERU: "She's back to giving the daily pep talk?"
+    NATSUMI: "Wait, was she not? I can't imagine Meiko missing the chance to hear herself speak, she loves herself so - "
+    MEIKO: "Ahem. With the school festival and open house less than a week away, I'd like to take this time to thank you all for working with the student council and festival planning committee. It's been a pleasure coordinating everyone."
+    MEIKO : "Second, Mirako's baseball team is back from the summer tournament qualifier today. They represented our school well, so everyone please congratulate them."
+    NATSUMI: "Ugh, I think I'm gonna die of shame."
+    MEIKO: "Back to the festival... My top priority these next few days is to make sure everything runs smoothly. So if you have even the smallest question, I'm here to help."
+    MEIKO: "Oh, and I'm here to help with Mr. Kunida's quiz as well, if anyone has trouble with that material. I'm sure everyone's feeling festive but let's not neglect to study. Alright? Thanks everyone. Have a good Monday."
+    Meiko is seated.
+    NATSUMI: "No one told me about a quiz. You have to be kidding me."
+    TAKERU: "Yeah, it's bad news."
+    NATSUMI: "Kunida's a monster. Scheduling something like that right before the biggest day of the year..."
+    NATSUMI: "Takeru, you've got to talk to Meiko."
+    TAKERU: "You talk to Meiko, she's sitting right - "
+    NATSUMI: "You talk to Meiko, then she talks to Kunida, and then we get this whole thing sort out."
+    TAKERU: "I really, really don't need this..."
+    
+    When lunch rolls around, Natsumi is quick to her feet.
+    NATSUMI: "Oh, hey, Takeru, since the guys don't have the fireworks to look forward to, maybe hearing some old war stories would cheer them up over lunch. You mentioned something about fighting with your own catcher, in the middle of - "
+    TAKERU: "See you later."
+    I could never talk to Natsumi again and I don't think anything of value would be lost. On the other hand, someone else next to me fled as soon as she heard Natsumi talking.
+    TAKERU: "Meiko? Where are you headed?"
+    TAKERU: "Meiko?"
+    NATSUMI: "Ignore her. She's being dodgy. I'm Meiko's best friend though, you know. Maybe we could trade stories. I'd love to know what she was like when you two were - "
+    TAKERU: "Don't talk to me until you apologize. I don't care what sort of loss you just went through but I don't care. You're acting like a heel and you know it."
+    NATSUMI: "Takeru?"
+    TAKERU: "Sorry, I don't know where that came from but..."
+    TAKERU: "Bye."
+    A minute spent talking to her is a minute too many. Just when I thought the tournament results might put a bit of humility in her too, she's just as shameless as ever.
+    Meiko is gone, of course. I imagine it was Natsumi's goal to drive her off, not that I'd know how to act around Meiko anyway. Maybe this is for the best.
+    That's what I think as I pace the hallway to the library by reflex, then the stairs back down to the basement again.
+    Of course the old library is unoccupied. I wonder where Mana and Hagami are now. Some new hideout? Outside enjoying the weather? They can make do without that one dusty room, right?
+    TAKERU: "Still..."
+    I can't just let them lose that space, when it's my fault it's in danger anyway.
+    I finally settle in the tea room, and although I start in on my lunch, the place is empty. No sign of Hikari, or anyone else, for that matter.
+    Sorting through my bag, I pull out a crumpled set of pages, stapled together. It's a school form, and the front page is filled out in Mana's loopy handwriting. The next page is a signature sheet, for signups. While the page has space for up to sixty names, only the top two slots are occuped.
+    Kunida Mana. Keiji Hagami.
+    I grit my teeth, but I fill out "Ichiro Takeru" on slot three. If I were still at Tohoku I'd be mercilessly mocked for joining a club of this caliber. But it has to be done.
+    Slot four, though...  I could get Kenta's signature easily enough, I'm sure, if I promised him he'd never need to show up. That'd work. The supernatural club would have two permanent absentee members, me and whoever, and then Mana and Hagami could do whatever they like.
+    And Meiko, well... She'd be willing to let this go. I know it. It's a good idea.
+    Isn't it?
+    I could sure use someone I could talk with, float this plan, see how it goes... But the only person I'd trust is Hikari.
+    I wonder if even now, as I eat opposite an empty table, she's sitting across from me.
+    It's pointless to think about. I leave back for class long before I need to. Staying down here is just a reminder that pretty soon, probably... There won't be any Hikari.
+    
+    The next class is chemistry. And while the labs are usually done in pairs, my partner today is again missing.
+    TAKERU: "Hikari, if you're watching but inviisble or something, I'm going to be mad..."
+    So the work for this lab falls entirely to me. And I'm entirely too incompetent to be trying something like this on my own.
+    Across the aisle from own workstation, Hagami also works solo. It's odd. The safety glasses seem to complement her usual serious demeanor. But that's not the point. If she's working alone, and I'm working alone, shouldn't we be paired up?
+    This is the problem with being assigned a ghost as a labmate. They never get anything done.
+    TAKERU: "I'm going to have so much homework this weekend the festival isn't even going to matter..."
+    And after chem... English drags on. I can't remember anything during history either. When were the last time classes weren't a total wash?
+    
+    When the end of the day finally arrives, I already have my bag packed and ready. I need to go downstairs and find Hikari.
+    But before I can leave, there's a tap on my shoulder.
+    TAKERU: "Hagami?"
+    She takes off her headphones.
+    HAGAMI: "Um."
+    HAGAMI: "I... It's..."
+    NATSUMI: "Yo Takeru, got a sec? I heard you had something to say to me."
+    TAKERU: "What? Natsumi? Can you go away?"
+    But it's too late. The second I turned my head Hagami gave up and left.
+    NATSUMI: "Oh were you talking to her? Skittish, that one."
+    NATSUMI: "I guess she transfered from some fancy music school. Haha, maybe she's too fancy to talk to people like us, eh?"
+    TAKERU: "Shut up about Hagami. What did you want anyway?"
+    NATSUMI: "You had something to say to me. An apology I think."
+    TAKERU: "I have nothing to apologize about. If you heard that from Meiko, she's wrong."
+    NATSUMI: "No, it wasn't her. I thought I heard it from the voice of your conscience but I guess not."
+    NATSUMI: "But that was the other thing. What's up with Meiko?"
+    TAKERU: "What do you mean?"
+    NATSUMI: "She's been weird. Spacier than usual."
+    NATSUMI: "I'm supposed to be her best friend so I'm supposed to be the one to ask her what's up, but I'm miffed at her right now and I'm not going to lose face by bringing it up, so..."
+    NATSUMI: "This falls to you. Make sure she's doing okay."
+    NATSUMI: "Anyway, that's it. Natsumi out."
+    TAKERU: "Don't talk about yourself in the third person. It's corny as hell."
+    But she just grins and walks out.
+    Why does she still bother talking at me? I've made it one hundred percent clear I don't care about her team, and their tournament run is over before it started. She should just leave me alone.
+    I stew for a few more seconds then leave for the tea room.
+    
+    The tea room, however, is empty. I double check every shadow, open the curtains... But Hikari isn't here.
+    I even set up shop and study for Kunida's math quiz a bit. But minutes turn into hours and there's no sign of her.
+    Going a full two days without seeing her, not even a glimpse of her at the back of class sleeping through a lecture...
+    There's a flutter of worry in my stomach, even as I try to suppress it. It's fine. Maybe she stayed home today.
+    But that's nonsensical. She's a ghost. Where's she live, a ghost-house? A graveyard?
+    TAKERU: "This is stupid."
+    I can't just keep sitting around here.
+    When I slide open the door, I hear footsteps. Footsteps, and an awful, terrible rumbling coming from down the hall.
+    KENTA: "Who's there? You'd better get out of my way."
+    TAKERU: "It's Takeru. Your roommate. If you run me down with that box I swear I'll scramble the times on all your precious clocks."
+    KENTA: "Oh. It is you. Good afternoon."
+    TAKERU: "Yeah, good afternoon. What're you doing down here with... that?"
+    KENTA: "What, this?"
+    It's one of the shipping boxes I know now contains the hood of a grandfather clock.
+    KENTA: "I've just come from a big fight with the dorm supervisor. Even though woodworking is not disallowed in the rules, she threatened to kick me out unless I moved my workshop."
+    TAKERU: "We did probably put out a lot of sawdust last night..."
+    TAKERU: "And your workshop is currently located in my bedroom..."
+    KENTA: "Don't tell me you're taking their side!"
+    TAKERU: "Welll.. How about I help you move?"
+    KENTA: "I wouldn't mind."
+    TAKERU: "Are you seriously going to push those boxes one at a time?"
+    KENTA: "I don't see any other way to do it."
+    TAKERU: "Wait, how long did it take you to get that down here in the first place?"
+    KENTA: "I left right after classes ended, so..."
+    TAKERU: "So over an hour."
+    TAKERU: "Hang on, I think I know where a pushcart is."
+    Sure enough, it's right where Meiko and I left it yesterday, in a storage room not far from where Kenta is relocating. Hopefully she won't notice it's missing.
+    As we load the thing up from our dorm room, I get the details on Kenta's whole grandfather clock plan.
+    Apparently half of what he's having shipped is antique collectors' items, and the rest is standalone clocks, clock internals, disassembled clocks from storage...
+    If I don't watch him, he's going to turn from a collector into a carpenter.
+    Finally the last of the shipping boxes is in a disused classroom in the far corner of the basement.
+    Between the humidity and the summer up here in the mountains, I'm dying.
+    TAKERU: "Kenta... How the hell did you manage to get even one box here on your own?"
+    KENTA: "Why are you panting?"
+    TAKERU: "Because that was exhausting."
+    KENTA: "I suppose."
+    TAKERU: "I'm the one who's supposed to be in shape... You have freakish muscles for a guy who sits at a computer all day."
+    KENTA: "I didn't mean to tire you out. So thank you for helping, but I never asked for your help."
+    TAKERU: "I know it's totally weird to you that someone would help you out just because they felt a shred of empathy, but, here we are. You got my help anyway."
+    KENTA: "But I don't owe you anything."
+    TAKERU: "No."
+    TAKERU: "Although..."
+    This is as good a time as any.
+    TAKERU: "A friend of mine is organizing a club. She needs one more member..."
+    KENTA: "No thank you. I joined seven clubs in my first year and they were all very tiresome and I eventually left."
+    TAKERU: "No need to show up to this one."
+    KENTA: "What is this club where no one needs to show up?"
+    TAKERU: "It's um, er..."
+    KENTA: "Speak up."
+    TAKERU: "The supernatural club."
+    Kenta bursts out laughing.
+    I'd love to sink into the wall right about now.
+    KENTA: "You know none of that is real. Don't you?"
+    KENTA: "In the past two decades, there've been a few very interesting studies on pseudoscience. You'll find in the literature review that - "
+    TAKERU: "I don't care about that."
+    KENTA: "But I can't join a club that's founded on a lie. It's against my principles."
+    TAKERU: "You know, just forget it."
+    I should've known this would be a disaster.
+    As if to make things worse, there's a knock on the door.
+    MEIKO: "Kenta?"
+    KENTA: "Oh, the festival committe rep. Good evening."
+    MEIKO: "Good evening, Kenta. And um... Takeru."
+    TAKERU: "Yeah, er... Hi."
+    KENTA: "Did you need something? I've moved my setup down to here, if that's what you're here about."
+    MEIKO: "Oh, no, that's good. I came to give you this."
+    She hands him a note on Mirako official stationary.
+    MEIKO: "You've been approved for space at the festival."
+    KENTA: "Good."
+    TAKERU: "You're doing something at the festival?"
+    KENTA: "I'm running a vendor booth. I'll make some sales."
+    TAKERU: "Somehow I doubt people are going to be looking to buy eight foot antique standing clocks when they stop buy at the local cultural festival."
+    KENTA: "Why not?"
+    TAKERU: "Look... Never mind."
+    MEIKO: "Kenta, your new space will work?"
+    KENTA: "It's inconvenient. If I had my say, I'd still be back in the dorms doing - "
+    TAKERU: "Everything's great. We'll be fine."
+    MEIKO: "If you say so. Then, well..."
+    This should be where I try to carry on a conversation with Meiko, isn't it?
+    But I feel like we know each other too well for smalltalk. But anything more than that would be way too... personal?
+    So I end up awkwardly mumbling past her.
+    And she stares and my feet while awkwardly mumbling past me.
+    TAKERU: "...Right."
+    MEIKO: "Yes. I'll, well... See you tomorrow."
+    She leaves and the door slides shut.
+    KENTA: "What a rude person. I was taught it was polite to make eye contact while speaking. Talking like that is disrespectful."
+    TAKERU: "It's whatever."
+    TAKERU: "But since when were you signed up for a slot at the festival? I thought you needed to be part of a club."
+    KENTA: "No? You should read the handout."
+    TAKERU: "Then..."
+    Maybe even if the supernatural club is dead, Mana and Hagami could still have their booth.
+    Or Hagami could still have her presentation block. ...Is that still supposed to be a thing?
+    KENTA: "Don't stare off while I'm talking to you."
+    TAKERU: "Sorry."
+    KENTA: "I said, I'm headed back the dorms, so have a good evening."
+    TAKERU: "Right, yeah. Good evening, Kenta."
+    
+    I don't join Kenta on his walk back. I can't really think straight.
+    Maybe that's why my feet carry me to the old library.
+    It looks about the same as it did at the start of the week. Half the furnishings moved out, half the shelves bare... Except now the radio is covered by a plaid blanket.
+    I walk the shelves. The remaining books (from what I can read) all have titles like "Samsara in the Upanashids," "The Afterlife of Abraham," "Field Studies in 20th Century Psychic Disturbances..."
+    There's plenty of moldy school records, foreign language encyclopedias, and other bonfire fuel on the selves for sure, but I know that somewhere here, some author must have recorded the case of a benign, annoyed ghost that falls out of peoples' memory, and might drop out of everyone's memory altogether.
+    Where would I even begin to find that record though?
+    I grab the first likely-looking tome off the shelve and can't even survive the table of contents for how dense the thing is.
+    Try as I might, I make no progress.
+    
+    
+    
