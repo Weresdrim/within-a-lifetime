@@ -1,0 +1,140 @@
+label day25:
+
+    Mornings have been peaceful since my return from the clinc.
+    No interference from Kenta, no hyperrealistic dreams...
+    Just peace.
+    Except for this morning where exactly on the hour, every minute hand on every clock strikes twelve and I'm woken at dawn by a chorus of chimes, gongs, and cuckoo calls.
+    TAKERU: "Kenta! Shut that off!"
+    KENTA: "They're not digital clocks. You can't just push the snooze alarm."
+    KENTA: "Besides if you snooze you'll be late for class."
+    TAKERU: "The sun isn't even up! Since when did you arm all these clocks?"
+    KENTA: "I asked your opinion on chimes yesterday and you said you didn't care. So of course we need to test them out so that you can form an opinion. Are you forming an opinion yet?"
+    TAKERU: "Yes, a very strong one. First thing after school, you and I are moving the rest of these damn clocks to your space in Mirako."
+    KENTA: "Are you sure you'll be able to wake up in the morning?"
+    TAKERU: "If I oversleep, roll me out the window into the Shizukawa for all I care, anything's better than this damn noise."
+    I trudge through the morning in a stupor. In retrospect, the dead pickled stuff was pretty gross but at least it didn't give me a headache before I've even made it to math class.
+    There's a few minutes delay while I wait for Kenta to check his auction bids and before unexpected appears on the stairs.
+    NATSUMI: "Well, well, Kenta and Takeru. I wouldn't have thought you were an early riser, Takeru."
+    TAKERU: "Could say the same about you. What're you doing up this early?"
+    NATSUMI: "It was the weirdest thing. I was just lying there, sleeping like a baby, when all of a sudden there was this sound like, I don't know, a bunch of xylophones toppling over, a bunch of gongs and bells, and then some birds starting all calling out. And it all came right from the room above mine."
+    KENTA: "Ah, then maybe you have an opinion on which chime you think I should install in - "
+    TAKERU: "What a crazy coincidence. Kenta and I didn't hear anything like that."
+    KENTA: "Is your memory that bad? This happened less than - "
+    TAKERU: "Kenta, if you keep talking the entire dorm is going to kill both of us."
+    NATSUMI: "Have you guys eaten breakfast yet? There's no way I'm going back to bed after all that so maybe I'll walk to Mirako with you."
+    KENTA: "There's no time. If you're going to dawdle around here I'll see you later."
+    He turns off the PC.
+    TAKERU: "Kenta, don't forget, we're moving every last one of those clocks after school today."
+    KENTA: "If you say so."
+    NATSUMI: "Clocks?"
+    TAKERU: "Nothing. Never mind."
+    KENTA: "Yes, it's about half standing and cuckoo models, with the original chimes that Takeru and I have been ordering. I finally wound them up for this morning's wakeup call."
+    NATSUMI: "Then all the birds... The xylophones... That was you two?"
+    TAKERU: "Kenta, I swear..."
+    KENTA: "It's never alright to lie. Anyway, I'm off to class. Don't be late."
+    TAKERU: "It's him collecting the clocks, not me, I swear. They'll all be out of here before tomorrow."
+    NATSUMI: "Hmm, well now I've got some leverage. It'd be a shame if anyone found out about this."
+    I notice the common room is indeed starting to fill up with some very tired and grumpy looking students.
+    NATSUMI: "Wouldn't you say you owe ol' Natsumi a favor? I won't let your secret out."
+    TAKERU: "Whatever. Let's just get breakfast."
+    
+    It's nice not being in a huge, pointless rush in the morning. And even when Natsumi and I start on the road up to Mirako, she's surprisingly pleasant. No mention of the baseball team or other annoyingness, just commisserating about Kunida's upcoming quiz and Natsumi trying to plan a fundraiser at the festival.
+    NATSUMI: "Hm... Maybe I should use my new favor to get you to help set up our booth as well, if you're already helping out Kenta with all his manual labor. Seems you don't mind it too much."
+    TAKERU: "I mind it a lot, but the alternative is worse."
+    NATSUMI: "Okay, then maybe I'll call in my favor with you if you can call in some favor you've got Meiko and get her to reverse this whole fireworks thing."
+    TAKERU: "This is what I hate about you. You only see other people in terms of what they can do for you. Quit it with all the favors stuff."
+    NATSUMI: "Yeah, sorry, sorry. I've been meaning to watch it sinve you blew up at me."
+    TAKERU: "You have?"
+    NATSUMI: "Yeah. I mean you sort of had a point."
+    NATSUMI: "If I'm honest, when you first came here from your old school, you were a weird unsociable guy and not really the sort of person I'd like to be seen hanging around with, no offense."
+    TAKERU: "Great. Thanks."
+    NATSUMI: "So... You were right, mostly I tried talking to you because Meiko was really, really unsubtle about hinting that you were secretly a pitching ace."
+    TAKERU: "I'm not any more. The tournament's over and I'm never joining your team. Stop trying."
+    NATSUMI: "Oh, I've given up on that. Not that I wouldn't take you but I don't think you'll ever join."
+    TAKERU: "Then why are you talking to me?"
+    NATSUMI: "Who else would I talk to? You sit next to me. We're math buddies. I'd be bored as hell if I didn't have someone to bounce off in the mornings."
+    TAKERU: "Aren't there guys in our class on the team?"
+    NATSUMI: "Yeah, but it's weird. I'm their captain. Plus I'm the best catch in Mirako so everyone's always intimidated."
+    TAKERU: "You're about the least intimidating person I've ever met."
+    NATSUMI: "Come on, at least flatter me a little bit."
+    NATSUMI: "If I have to come out and say it, what I'm trying to do is apologize, because I know I was a bit cynical about you before."
+    TAKERU: "You showed up to visit my in the hospital as some sort of recruitment ploy."
+    NATSUMI: "Okay, more than a little cynical."
+    NATSUMI: "I'm gonna try to work on that. I'm always so caught up trying to manage my team that I sort of forget there's more out there."
+    NATSUMI: "I think I'd rather have you as a pal than as a pitcher at this point anyway."
+    TAKERU: "No kidding..."
+    TAKERU: "I should probably apologize for yelling at you like then. Sometimes I only see the worst in people."
+    NATSUMI: "It's fine. We're even then."
+    As we cross the bridge, I catch Natsumi looking downriver at the ruin.
+    NATSUMI: "I kind of meant it about the fireworks though. We'll be even for this morning if you talk to Meiko about it."
+    TAKERU: "I can try to find out what's going on, but it's not because you're calling in some favor. I'd be doing it because I want to do it."
+    NATSUMI: "Because you want to help our your old math buddy, right?"
+    TAKERU: "Part of it. Fine."
+    TAKERU: "But I think... isn't it obvious why she's cancelled them?"
+    NATSUMI: "No. Not really."
+    TAKERU: "Can I talk to you about what happened at last year's festival?"
+    Her mood darkens almost immediately.
+    NATSUMI: "You could. But, I'm not sure how much you should."
+    TAKERU: "I don't understand why not."
+    NATSUMI: "Don't speak ill of the dead and all that, probably."
+    TAKERU: "It seemed to me like Meiko would want to hold back on the fireworks after the accident last year. Or I guess maybe she might do it to spite Hikari, if she always liked fireworks..."
+    NATSUMI: "You think Meiko would spite someone who's passed on?"
+    TAKERU: "They disliked each other, didn't they?"
+    NATSUMI: "No? I mean, well..."
+    NATSUMI: "Ahh, why did you have to ask me about this? What do I know? I don't have anything good to say about that person so I probably shouldn't."
+    TAKERU: "I'm sick of being in the dark. I'll figure out what's going on with Meiko but I need to know the facts first."
+    NATSUMI: "I'll make this quick, but, er, well... That Miura girl..."
+    TAKERU: "Hikari?"
+    NATSUMI: "Yeah, her. I mean I guess at first she was always badmouthing Meiko, but Meiko's amazing, she was never anything less than friendly. And then that girl got mad at me, even, for having the gall to be Meiko's friend."
+    NATSUMI: "But I think it was more of a jealousy thing? Because it wasn't too long before that girl was following Meiko around like a puppy, and they spent all sorts of time, just the two of them. So she was always pissy at me, or anyone else who went to Meiko for advice, or anyone on the student council, or..."
+    NATSUMI: "When she pulled that thing on festival night, it didn't really surprise any of us because everyone thought she was a bit of a joke at that point. Her pulling a stunt would be in character, and it was just drama for us, like watching someone else's story, so when in the end, she wound up..."
+    TAKERU: "It's alright."
+    NATSUMI: "I don't want to talk about this and I really don't want to remember it either."
+    NATSUMI: "So why does Meiko go and cancel the fireworks? That's just going to call attention to what happened last year. It's going to be really, really obvious why there's this break in tradition."
+    NATSUMI: "And I think we should really be trying to move on."
+    TAKERU: "Maybe... I'll talk to her and see what I can do."
+    NATSUMI: "Thanks. And do it sooner rather than later if you can. I don't try to spread rumors, I really don't, but it's sort of getting around that she's behind this whole thing. And no one's really happy about it."
+    NATSUMI: "It's super weird to hear anyone criticize Meiko. Until now everyone's only thought the best of her... I don't like this change."
+    TAKERU: "I think I get it."
+    I don't get it. Even when Natsumi changes the subject I'm still trying to piece together what she means.
+    Back when she was alive, why was Hikari always following Meiko around? Would that have anything do with why Hikari was so evasive last night? And then why would Meiko explode at me for mentioning Hikari's name around her?
+    Maybe it is really like what Natsumi said... If everyone thought of her as a laughingstock, of course they'd feel guilty if they thought she'd committed suicide. Even if Hikari insists her death was accidental...
+    NATSUMI: "Takeru? Are you gonna sit down or what?"
+    NATSUMI: "We're here plenty early so you can stand in the doorway there for another twenty minutes without being late, but at least let me in first if that's what you're up to."
+    TAKERU: "Oh. No. Sorry."
+    
+    There are a lot more people here earlier than I would've expected... Hopefully not because of Kenta's stunt this morning.
+    I catch Hagami as she slips in. When she spots me, she gives a nod, which I return.
+    TAKERU: "See you tonight?"
+    HAGAMI: "Yes. I'll be there."
+    NATSUMI: "So what's that about? Got a date lined up? Are you two-timing, Takeru?"
+    TAKERU: "No, who would I even be two-timing on? This is a club thing."
+    NATSUMI: "I didn't know you were in a club. And with Hagami? Would never have guessed you had common interests with that one."
+    TAKERU: "Life's full of surprises."
+    NATSUMI: "So? What's the club?"
+    TAKERU: "Can't tell you."
+    NATSUMI: "I have my ways of finding these things out, you know."
+    TAKERU: "You're busy feuding with Meiko, you can't ask her."
+    NATSUMI: "Oh, damn, that's right."
+    TAKERU: "And I guess it's not an official club anyway, so..."
+    TAKERU: "Actually, I'll tell you, on one condition."
+    NATSUMI: "Yeah?"
+    TAKERU: "If I tell you, you have to sign up. We're one member shy of official status. You don't have to do anything, just if anyone asks you if you go to meetings say 'yes.'"
+    NATSUMI: "Sounds suspicious."
+    TAKERU: "I know it's a bit of a long shot..."
+    NATSUMI: "Yeah. Sorry Takeru. If you won't tell me, then I'm going to assume you and that Hagami are starting like, the coed basketball team or something and this is your ploy to steal me away from the ballclub."
+    TAKERU: "That's seriously your first guess?"
+    NATSUMI: "Oh I got it right in one shot, did I? If I score dunks like that I see why you want me for coed basketball. I'm pretty good, yeah?" Or I'd say it was a hole-in-one. You're starting up afterschool golfing? Where's there even a golf course in an hour radius from Mirako? Or maybe - "
+    TAKERU: "You clearly didn't get enough sleep..."
+    I'm saved from Natsumi's inane suggestions by the arrival of Meiko.
+    TAKERU: "Hey. 'Morning."
+    MEIKO: "Hello Takeru."
+    She walks past Natsumi without acknowledging her.
+    And again, Kunida arrives and starts class without Meiko giving any her daily update.
+    I glance at Natsumi, but she just shrugs as if to say "I don't know either."
+    I really do need to find some time to talk to Meiko. Not because of anything Natsumi said this morning, (I couldn't care less about fireworks), but... I'm just worried.
+    Meiko has shown cracks before, but since two days ago in that cafe, I've wondered if she isn't on the verge of breaking.
+    
+    
+    
+    
