@@ -351,6 +351,8 @@ label day25:
    
    menu:
         "I will face my actions. What happens next is necessary. Continue down this hall":
+        
+            $ confronted_hagami += 1
     
             Of course.
             I don't have any need to run away. I've solved the puzzle.
@@ -371,35 +373,81 @@ label day25:
             TAKERU: "I have something I want to say to you. A few things."
             TAKERU: "Thank you for being there for me while I settled into Mirako. I know you probably weren't sincere, but I'd be in a much worse off place if it weren't for you. Whatever you were calling yourself."
             HAGAMI: "...?"
-            TAKERU: "You know what I mean. Or maybe not. I used to be someone at my old school. I was a person that everyone wanted a know, because I was the best started, top prospect, all that."
+            TAKERU: "You know what I mean. Or maybe not."
+            TAKERU: "I think I know what it is. I used to be a somebody at my old school. I was the person that everyone wanted a know, because I was the best started, top prospect, all that."
             TAKERU: "So when I came here and I was a nobody it wasn't pleasant. You'd know all about that. Didn't I see a bunch of old papers in the library, about the Showa school? There were articles about you."
             HAGAMI: "Showa..."
             TAKERU: "The Showa Academy of Music."
             HAGAMI: "...I transferred from there."
-            TAKERU: "Exactly. You were a somebody I knew it."
+            TAKERU: "Exactly. You were a somebody. I knew it."
             HAGAMI: "Not really... I loved to play, and maybe I had some talent, but..."
             TAKERU: "They wrote a damn article about you coming to the school, in your parents' footsteps or something ridiculous."
-            TAKERU: "That's how you were able to do it. I know it. You wheedled your way in with me. You knew I was vulnerable in the way I was because that's something that'd happened to you. Am I right?"
+            TAKERU: "That's how you were able to do it. You saw I was weak when I transferred here from the clinic, and you wheedled your way in with me. You knew I was vulnerable in that way I was because it's something that had happened to you. 
             HAGAMI: "...Um."
             HAGAMI: "I've always thought we understood each other because of that. Even if we're nothing alike."
             HAGAMI: "I'm anonymous here. No one knows you either."
             HAGAMI: "So... Yes."
-            TAKERU: "Ahaha, right. Yeah, I understand you."
-            TAKERU: "And so I show up, and there's this odd, isolated girl that doesn't interact with the rest of Mirako, ready to give me advice on anything and everything."
-            TAKERU: "You can call yourself whatever you like. Hikari, Hagami... I see you who are now."
+            TAKERU: "Ahaha, right. Yeah, I understand you. You put on such a weird face when you're playing Hagami that I almost didn't recognize."
+            TAKERU: "Let's see how this went... The other persona. I show up, and there's this odd, isolated girl that doesn't interact with the rest of Mirako, ready to give me advice on anything and everything."
+            TAKERU: "You can call yourself whatever you like. Hikari, Hagami... I relied on you all the same."
             TAKERU: "What I don't get though... What's the point? If it were Kunida, Meiko, Mana, Natsumi and the rest trying to take advantage of me, I'd asume it was a scam to get me on the baseball team."
             TAKERU: "What did you get out of this? Why are you pretending to give a damn about me?"
             HAGAMI: "Takeru..."
+            TAKERU: "I'm confused. Why would you bother? I'm not worth anything now. You've wasted your time on me."
+            HAGAMI: "You're not a waste."
+            TAKERU: "How so?
+            TAKERU: "Isn't Hagami supposed to be sincere? You don't have to pretend any more because I already know. Please tell me the truth."
+            HAGAMI: "You think I should... Should, um..."
+            TAKERU: "I think I have a right to know."
             HAGAMI: "I'm not sure what I'm supposed to do here. I've never done this before."
-            TAKERU: "You're supposed to be honest. I know who you are, really. You can come clean."
             HAGAMI: "Um."
             HAGAMI: "It's true, when I came here after Showa, I was lost."
-            HAGAMI: "I had no one. Until I met back up with Mana, and then..."
-            HAGAMI: "One person can make a difference. I saw you, and I thought... You were so obviously in another world from me. You were funny. You could banter with even Natsumi like it wasn't anything, and she's the most intimidating person in the world..."
+            HAGAMI: "Mana is an old friend. From elementary school."
+            HAGAMI: "At one point I figured..."
+            HAGAMI: "This is it. I reached the high point of my life already. I'll never play again. I'll never be able to go anywhere new, or meet or trust anyone. If this is all the light I'm allowed, then I'll hold that light until it dwindles out."
+            Oh. She's still speaking as Hagami.
+            HAGAMI: "I used to think that way. But I saw you, and I thought... You were so obviously in another world from me. You were funny. You stood out."
+            HAGAMI: "You could banter back and forth with even Natsumi like it wasn't anything, and she's the most intimidating person in the world... Even when Mana was so down that I couldn't do anything for her, you would play the part and she wouldn't have a choice but to cheer up and play along."
             HAGAMI: "And still you sort of seemed to be... alone."
-            HAGAMI: "If I helped you at all, it's because..."
-            Hagami is in the process of turning a deep shade of red and I have no idea why.
+            HAGAMI: "If you're wondering why I think you're worth something, it's because..."
+            Hagami is in the process of turning a deep shade of red and it puzzles me as to why.
+            TAKERU: "There's nothing you can say. I know who you are."
+            HAGAMI: "Of course you already know. I, um, I'm sorry, I've never said this to anyone, I just need, um..."
+            TAKERU: "..."
+            TAKERU: "Oh. This is a confession. A romantic confession."
+            She stares and nods. Well at least I know why she's bright red.
+            TAKERU: "You idiot."
+            TAKERU: "Unbelievable. You think I'm that dumb? Can you possibly be that stupid?"
+            TAKERU: "If you thought making puppy eyes at me would distract me, even after I've found you out, then you're wrong. You think I'm such a dolt that I'd bite at something like that?"
+            TAKERU: "Too bad. This happened to me at Tohoku before, I've seen it all. What's the routine again? Oh, yeah. Let's all pretend like we're best friends with Takery and then behind his back let's go and mock him. And now you're mocking me to my face. Idiot."
+            HAGAMI: "..."
+            TAKERU: "Drop the look. It's pathetic. I already know what a great actor you are. When you're playing Hikari in the tearoom you can act witty and short-tempered so stop standing there like a paralyzed rabbit. It's so tedious."
+            TAKERU: "You're not scared I'll hurt you, are you? I doubt I could, even if I wanted to. You're cold. Making me think there was a dead girl wandering around, driving me on, thinking I could change the past. You were trying to drive me back to the clinic for insanity. Was that the endgame here?"
+            TAKERU: "Do you have anything to say for yourself? No?"
+            TAKERU: "Then let me ask you a question. Which one of you is the real one? This face you're using now or the HIkari one?"
+            HAGAMI: "Takeru, what... What happened to you?"
+            TAKERU: "That's not an answer. If you want my advice, stick to the Hikari persona. Supposedly refined but still a girl at heart when it comes to it. That one's almost cute. It's easier to carry on a conversation with you when you're pretending to be her."
+            TAKERU: "The Hagami one's a bit of a stretch. Too quiet, too goofy. Terrible sense of humor. It's amazing you roped in Mana when you were playing as Hagami. I'm mad at myself I took such terrible, obvious bait."
+            She's still just sitting there staring at the wall behind me. It takes her a full five seconds to breath in once, then breath out.
+            Frankly it's infuriating. I wish I could've confronted her when she was masquerading as Hikari instead - the Hikari persona would at least fight back. Anything but stare straight ahead like a dead man standing.
+            After another breath, there's an out-of-tune jumble of notes from the piano as she supports herself with one hand on the keys, and rises.
+            TAKERU: "Are you going to say something?
+            HAGAMI: "I think I understand. ...You're sick."
+            TAKERU: "Not quite as sick as you. What was the plan here? You confess your undying love and I forget all about how you led me on a goosechase after some poor dead girl's memory? Or - "
+            HAGAMI: "No. You're sick, you're not thinking right."
+            TAKERU: " - Or was that the real deal? Did you really mean what you were saying?"
+            She breathes in, out.
+            TAKERU: "That'd be just the funniest thing in the world."
+            HAGAMI: "...I'll find help."
+            Hagami leaves.
+            Good riddance. 
             
+            Hopefully she is the last of the rats kicked out from under my feet.
+            I sit on the piano stool next to where Hagami abandoned her bookbag. I'm not sure my purpose in waiting here.
+            Before I thought this was a dull room, but my perception has changed. Everything is more vivid than it was. Blurry, for sure, what hasn't been blurr? And I can't focus on any one part of the room but in my peripheral vision the white and black of the piano keys run wild.
+            And so I slide open the door.
+            As for the rest of what happens outside, I walk through my part. I'm not really a particpant here, just a spectator.
+            Mr. Kunida has shown up, and Hagami behind him. It doesn't really matter what either are saying. It's only really Kunida talking though. And when we walk away from Hagami, his hand doesn't move from my shoulder. I never noticed he was such a big man.
     
         "Undo it. Reroll and see what happens.":
         
@@ -426,7 +474,51 @@ label day25:
             TAKERU: "You can't hide it from me. I know now. You've been taking her name and her appearance and leading me in circles this whole time."
             TAKERU: "The boathouse? The subbasement? What were those? What was the point?"
             TAKERU: "You'd really disrespect the dead like that?"
+            MANA: "Stop joking around. I hate hearing that name. It made my uncle so sad I almost thought he'd go back to like he was after Dad died. It was so horrible after the festival last year, I don't want to hear about her."
+            MANA: "What do you mean by bringing her up all of a sudden? If you're playing a long joke on me I don't like it. It's mean."
+            TAKERU: "A long joke? I couldn't come close to pulling a prank so long as you've managed to keep this up. If you're going to act all uptight about Hikari's name then I bet the real Hikari is turning in her grave."
+            TAKERU: "What was she even like? The real Hikari?"
+            MANA: "I-I never met her."
+            TAKERU: "Of course not. You just steal her name and then put on this wannabe-dignified persona every time you want to ambush me about something or other."
+            TAKERU: "I should've known. The both of you, obsessed with idiotic things like tea and boardgames."
+            MANA: "T-Takeru?"
+            TAKERU: "Are you worried I'm going to hurt you?"
+            MANA: "You are acting pretty weird. Even more than usual."
+            TAKERU: "I don't think I could hurt you even if I wanted to. You're cold-blooded. Ice, through and through. And a good actor, even if I saw through you in the end."
+            TAKERU: "I suppose the idea was that you'd play both of these personalities, and then you'd try to catch me in this contradiction, and then whoops, looks like ol' Takeru got shipped back off to the psych ward. What a game you play."
+            MANA: "W-what?"
+            TAKERU: "Are you pulling the same game with Hagami? Is that why you spend all your time around someone that dull? You planning on driving her insane too, thinking she's seeing ghosts and all this bull? Maybe you were able to fool that wide-eyed simpleton for years, but you won't fool me."
+            This is about when the waterworks start. It's infuriating.
+            MANA: "I d-don't understand what's wrong..."
+            TAKERU: "Drop the crocodile tears. I already know what a fantastic acting job you can do, so there's no need to show off."
+            MANA: "W-what do you want? Should I go?"
+            TAKERU: "I don't really want anything."
+            TAKERU: "Actually, I want to know something, now that you don't need to lie to me any more."
+            TAKERU: "Why did you bother reaching out to me at all? I understand now that you must get some sort of sadistic kick out of fooling people but why would you target me? Why waste so much time on me?"
+            MANA: "I don't know what you mean Takeru. Do you mean when we first met?
+            TAKERU: "You could put it that way?"
+            MANA: "When I first ran into you, I thought, you really really looked like you could use a hand. And then with Hagami, I don't know, you two seemed to get along, and I thought, maybe that's what Hagami needs, someone like you, and maybe there's some chemistry, or maybe she just finds out she's so much more of a wonderful person than she thinks she is, or..."
+            TAKERU: "Oh, so that's it. You're making a fool of me for her amusement. I guess you're both in this together, then?"
+            MANA: "I've never been anything but a friend, I swear."
+            TAKERU: "You try to fool me into joining that stupid, childish club and you play all these belittling jokes on me like I'm your pet. You're good at what you do, really good. I hate myself for ever pretending I gave a damn about what you two were up to."
+            MANA: "Y-you mean all this time... The supernatural club..."
+            TAKERU: "You tell me. It was just an excuse to torture me, wasn't it?"
+            MANA: "No! I poured everything I had into that club! What happened to the Takeru that was here yesterday, and took those ghost photos, and, and..."
+            I wish she'd quit sobbing between every other word.
+            TAKERU: "Oh, I guess the puzzle pieces fit. Mystery solved. This is just your weird obsession with ghosts. It goes so far that you pretend to be one. Fine. Get your kicks that way. But don't drag me into it."
+            MANA: "Why, Takeru?"
+            TAKERU: "Don't ask me 'why,' ask yourself that. After this, don't talk to me. Either as Mana or Hikari. I don't care which face you use, I just never want to see you again."
+            TAKERU: "See you later."
+            I leave her there in the hallway, dumbstruck, papers and books still scattered on the floor.
+            That didn't really shock her that much, did it? Maybe Mana/Hikari is surprised that I found her out. Or maybe she didn't expect me to be so blunt after I realized her betrayal.
+            Whichever, whatever. I don't have to care about that any more.
             
+            
+    So after my wait in the piano room, there's a wait in Kunida's awful office, then the plastic office of the nurse, then some shrink's examination room with its desk and chair and antique lamp, and then the busride, the inpatient processing, etc. 
+    I do my best to let the staff know who the traitor is, the role she's assumed, etc, but of course, just like I am not a participant in this series of events, they have no choice either but to follow the script assigned to them.
+    They do their job. I end the day imprisoned in my old room in the psychiatric ward.
+    While I pace back and forth, the blurriness subsides a bit. The deep blue paint is just an off-white. It feels like days could pass.
+    ...This wasn't a mistake, was it?
    
     
     
