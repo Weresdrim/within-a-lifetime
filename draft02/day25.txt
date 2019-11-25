@@ -596,17 +596,145 @@ label day25:
             HAGAMI: "...?"
             TAKERU: "Let me see that for a second."
             Even after Hagami signs, there are only three names on the list. In order, those are Ichiro Takeru, Miura Hikari, Inori Hagami.
-            And instead of that ridiculous "Mirako Expeditionary Ghost Hunter's Union" at the top, printed there is just "Mirako Supernatural Club." The handwriting is my own.
+            And instead of that ridiculous "Mirako Expeditionary Ghost Hunter's Union" at the top, printed there is just "Mirako Supernatural Club."
+            ...The handwriting is my own.
             TAKERU: "Sorry Hagami. I guess I'm not feeling well. Something's messing with my head."
             HAGAMI: "It's alright."
             HAGAMI: "I'm ready to start. If you want."
             TAKERU: "Right, yeah. Let's go through the next book. We've wasted enough time already."
             
+            It's hard for me to tell what's wrong here.
+            I have no memory of filling out that club registration form. Or rather, I remember signing my name onto it a few days ago, but that's it. And I was the third signature, not the first.
+            Should I trust my memory? It seems to be failing a lot lately, even after the changes to my medications.
+            Hikari's theory was that maybe, somehow I was able to alter the course of events in the past, change history after it happened.
+            I thought it was crazy then, and I think it's crazy now, but the alternative (never being able to trust my senses, always wondering if I've perceived reality correctly) seems worse.
+            And there are bigger fish to fry. Mainly, that Hikari might fade to nothing.
+            So I try to push these questions to the back of my mind and focus on the task at hand.
+            
     The deal is the same.
-    I fetch the reference books, look through indexes, take notes, and so on. Hagami does the heavy lifting.
+    I fetch the reference books, look through indexes, take notes, and so on. Hagami does the actual heavy lifting.
     Tonight we work through some old volumes of folklore that while in Japanese, were written over a hundred years ago and still require some effort to intepret.
-    We shut the cover on volume three of four when
+    Hagami is shutting the cover on volume three and I'm fetching volume four when I notice a shadow by the door that shouldn't be there.
+    I'm fairly sure what casts that shadow, but...
+    TAKERU: "Hagami..."
+    HAGAMI: "Takeru?"
+    TAKERU: "Do you see that by the door?"
+    HAGAMI: "Is that a - "
+    HIKARI: "Good evening."
+    TAKERU: "Hikari! That is you."
+    HIKARI: "I'm not sure who else you'd expect to be lurking around here so late. And you could at least act a little more surprised. I was planning a grand entrance."
+    TAKERU: "Grand entrance? If I know you, you've been hanging around here spying on us for an hour."
+    HIKARI: "Hmph. You jump to conclusions very quickly."
+    TAKERU: "But you didn't deny it, so that means I was right. How long were you eavesdropping?"
+    HIKARI: "It wasn't like there was any conversation to overhear. You're both a pair of mutes tonight."
+    TAKERU: "Tonight? Were you here yesterday night? You're shameless."
+    At the same time, Hikari and I both notice Hagami next to me who seems to be in full fight-or-flight mode.
+    TAKERU: "Oh, uh, Hagami - "
+    HIKARI: "Takeru, you never have any manners. You're supposed to introduce us."
+    TAKERU: "You already know each other. Don't you two sit next to each other through every single class?"
+    HIKARI: "But no one else in class would recognize me. I'll introduce myself then."
+    HIKARI: "My name is Miura Hikari. I believe Takeru has already given you the story, but to say it directly... I died almost a year ago today. It's a pleasure to meet you as I truly am."
+    She bows, deeply. Guess some of that high-class breeding rubbed off even on a girl like her.
+    HAGAMI: "I, um..."
+    HAGAMI: "I'm Hagami. I know we never really spoke in class, but... I know your face. But I didn't you had, um..."
+    HIKARI: "I died."
+    HAGAMI: "Yes. That I didn't know until a few days ago."
+    HIKARI: "But you're talking to me now, even knowing that. Funny."
+    HIKARI: "If I was dismissive of you before, I apologize. Spending a full year like this has changed me more than I'd like. I appreciate that you see me for who I am, and that you've decided to try to help me."
+    I don't think I've ever seen Hagami tremble before. Although she doesn't seem scared (I've certainly seen that before) -- is she in awe?
+    HAGAMI: "Takeru, um, he explained what's going on. And that you might..."
+    HIKARI: "I might die again."
+    HAGAMI: "Yes, that."
+    HAGAMI: "I thought maybe I could help, even a bit, because um..."
+    HAGAMI: "I'm sorry. I've always been interested in um, the occult, but I'm not sure what to say because I've never really met a person like you before who, who's a..."
+    HIKARI: "Ghost."
+    HAGAMI: "A ghost..."
+    Huh. Hagami is turning that weird shade of red again.
+    Hikari just laughs.
+    HIKARI: "Well you don't need to stand on eggshells about it. We're the same age and I'm a person the same as you, except I can't do much in the physical world. I've had to rely on Takeru for that and he's not exactly the most capable pair of hands."
+    HAGAMI: "Haha, right."
+    TAKERU: "Don't go ganging up on me."
+    HIKARI: "Then hurry up with the folklore series. Wasn't there a fourth volume? I used to take classes on the classics in cram school, maybe I can help reading whatever's unclear."
+    HAGAMI: "Ah, um, then I'll look through the index?"
+    HIKARI: "Thank you. That'd be appreciated."
+    TAKERU: "And me?"
+    HAGAMI: "Volume five."
+    TAKERU: "What?"
+    HIKARI: "You have ears. Find volume five, and then get a pen ready."
+    TAKERU: "Fine, fine..."
+    
+    Volume four falls to the combined minds of Hikari and Hagami. Maybe Hikari's classical education was a while ago, because I note it's mostly Hagami giving me notes for dictation.
+    Then on volume five, it's Hagami almost exclusively. Hikari still sits by her side but her eyes don't stay on the page for long.
+    We don't make it through the whole thing before Hikari stands and rubs at her eyes.
+    HIKARI: "Takeru, do you know the time?"
+    TAKERU: "Sorry, I've sworn off clocks for good. Some traumatic experiences, lately."
+    HIKARI: "But it's late."
+    TAKERU: "For sure."
+    HIKARI: "Should you be headed back to the dorms? Isn't there a curfew, and class tomorrow?"
+    TAKERU: "I don't care much about either of those things. And it isn't like I'm the only one with class..."
+    HIKARI: "But you're the only one that I'm worried about flunking out of Mirako."
+    TAKERU: "Fine. I get the point. Have a good night, both of you."
+    Hikari returns my "goodnight," Hagami only waves.
+    I wonder if Hikari was trying to get rid of me because her concentration was slipping? She's never really been comfortable showing any sort of weakness.
+    Or did she want to say something to Hikari?
+    I'm only a few steps away from the library at this point, so I decide I'll take a cue from Hikari's playbook. I double back and listen from the doorway.
+    HAGAMI: "...you do?"
+    HIKARI: "Of course. Your mother is famous, and your father was as well, I suppose. My parents used to want me to go to the Showa school."
+    HAGAMI: "You're a musician...?"
+    HIKARI: "No. I played violin but I was no good. My parents gave up on Showa pretty quickly. They always wanted me to be the best violinist, or the best mathematician, or the best writer, or whatever would bring credit to the family. I'm afraid I never lived up to my name."
+    A pause.
+    HIKARI: "You'd make your parents proud. I've seen you practicing. Every night."
+    HAGAMI: "I, um, er..."
+    HAGAMI: "I'm not sure what you mean. I don't - "
+    HIKARI: "For eighteen nights out of the last twenty, you've been in my wing of this building. You come to the piano room almost nightly."
+    HAGAMI: "Sorry. I didn't mean to... I wouldn't have come if I knew you were there. I wouldn't want to intrude on anyone."
+    HIKARI: "I'm not even really here. You can't intrude on me."
+    HIKARI: "It doesn't matter anyway. I just wanted you to know that I respect you. You're trying to do something with your life and I think that deserves respect. I sure never did anything with mine."
+    More silence."
+    HAGAMI: "T-thanks you."
+    HIKARI: "That's all I wanted to say."
+    HIKARI: "And thank you for looking after Takeru. And thank you for trying to help me. I'm not sure if there's anything I can do to repay you, so I just thought I'd let you know that I'm grateful. That's all. Have a good evening."
+    I keep waiting for any other words, but the library is quiet after that.
+    Quiet enough that I'm startled by the voice next to me.
+    HIKARI: "You're a sneak, Takeru."
+    TAKERU: "Oh come on. You listen in on me constantly."
+    HIKARI: "Yes but I can't help it. If you start trying to judge me for it now then you're a massive hypocrite."
+    TAKERU: "Sue me. Fine. I'll leave then."
+    I head down the hall in the direction of the exit, but she follows.
+    HIKARI: "I'm not sure how wise it was to drag her into this."
+    TAKERU: "She volunteered."
+    HIKARI: "Surprising, considering just how pig-headed you were that day before you left for the clinic."
+    TAKERU: "I know. I didn't expect her to - "
+    TAKERU: "Hang on, how do you know about that? How long were you listening?"
+    HIKARI: "Long enough."
+    TAKERU: "And you've got the guts to lecture me about eavesdropping..."
+    TAKERU: "So you heard all that stuff about how I thought you weren't real? And how I thought - "
+    HIKARI: "Yes. I heard that."
+    TAKERU: "I think I screwed things up."
+    HIKARI: "You screwed everything up, you boar. I told you before and I'll tell you know: I like that one. I like her even more now that she's willing to put her time into this probably-fruitless search, knowing that I'm someone unnnatural and there's likely nothing to be done."
+    HIKARI: "Even if tomorrow I turn into a cloud of angry, bitter dust particles, you try and patch things up. Understood?"
+    TAKERU: "I'll do my best, but..."
+    TAKERU: "Has she really been down here that often practicing?"
+    HIKARI: "...She has."
+    HIKARI: "And there hasn't been a single sound."
+    We're standing in the entrance hall now, by the doors.
+    HIKARI: "So... Even if you think everything is normal with you two, there's still something wrong. I don't think I'm the girl for this particular job. You work it out."
+    TAKERU: "I'll try."
+    HIKARI: "Could I ask one last question Takeru?"
+    TAKERU: "I know you will whatever I say."
+    HIKARI: "Did you really believe what you said about me?"
+    TAKERU: "Huh?"
+    HIKARI: "The same day, before you left for the clinic... Did you mean that? I assume you must've been delusional when you said it, but you said you trusted me, relied on me, and, hum, well..."
+    TAKERU: "I meant that."
+    HIKARI: "...Hum."
+    HIKARI: "No one's ever said they relied on me before."
+    For a moment I can't her sheepish smile. Is she pleased? Resigned? Depressed?
+    HIKARI: "It really does make it that much more of a shame that soon I won't be around any more. Don't worry about me, alright?"
+    TAKERU: "Alright."
+    HIKARI: "Have a good night."
+    TAKERU: "You too."
+    HIKARI: "And don't fall into the river on your way home."
+    TAKERU: "Cut me a break, I'm not that incompetent. Good night."
    
-    
-    
+    jump day26
     
