@@ -448,6 +448,48 @@ label day25:
             And so I slide open the door.
             As for the rest of what happens outside, I walk through my part. I'm not really a particpant here, just a spectator.
             Mr. Kunida has shown up, and Hagami behind him. It doesn't really matter what either are saying. It's only really Kunida talking though. And when we walk away from Hagami, his hand doesn't move from my shoulder. I never noticed he was such a big man.
+            So after my wait in the piano room, there's a wait in Kunida's awful office, then the plastic office of the nurse, then some shrink's examination room with its desk and chair and antique lamp, and then the busride, the inpatient processing, etc. 
+            I do my best to let the staff know who the traitor is, the role she's assumed, etc, but of course, just like I am not a participant in this series of events, they have no choice either but to follow the script assigned to them.
+            They do their job. I end the day imprisoned in my old room in the psychiatric ward.
+            While I pace back and forth, the blurriness subsides a bit. The deep blue paint is just an off-white. It feels like days could pass.
+            ...This wasn't a mistake, was it?
+            
+            I didn't realize I was closing my eyes until they're startled open by a WHUNK.
+            Hagami, in front of me, has let the hardbound manual on mental disorders slip from her hands and fall to the table. She looks noticeably more shaken up than I remember.
+            TAKERU: "Hagami?"
+            HAGAMI: "Sorry. That's um... All I wanted to say."
+            TAKERU: "Right. I get it. That day was kind of a blank to me before."
+            HAGAMI: "If you don't mind me asking... How much do you remember now?"
+            TAKERU: "Most, I think. I'd just learned that Hikari had died, and so somehow I thought you were responsible, and I blew up at you. Thanks for letting Mr. Kunida know something was up. I owe you one."
+            HAGAMI: "Yeah. That's all the happened."
+            I don't mention the confession. Probably that's something I imagined. Of course it wasn't Hagami telling me this story for the past half hour, it was me recalling it from memory, from a time when my memory was playing tricks on me.
+            Still, across the table, Hagami flips back and forth between two pages of the diagnostic manual before finally saying:
+            HAGAMI: "So... It's sort of why I want to help you and Hikari."
+            TAKERU: "Wait, what? I must've missed something you said."
+            HAGAMI: "On that day, when you found out Hikari wasn't what you thought she was... You said that you felt like you owed her, because she was someone was there to listen when were the most alone."
+            TAKERU: "I guess I did."
+            HAGAMI: "And um, I may have misunderstood who you were talking about at first, but in some ways Mana has been like that for me. And I thought about what would happen if I thought I was losing Mana, and..."
+            HAGAMI: "If you feel that strongly about Hikari, I'm sure she's a good person. I'll trust you and I'll do whatever I can to save her, if it's possible."
+            TAKERU: "Thank you. I don't know what I've done to deserve you. Maybe one day you'll forgive me for being such a complete ass to you and Mana."
+            HAGAMI: "Mana couldn't hold a grudge. And I won't hold it against you. You've tried to repair things, like with this signup sheet."
+            HAGAMI: "And you were sick. What you said hurt, a lot. Even if I told myself you didn't mean it, it still hurt, but I don't think I blame you for it. I understand it, when your brain doesn't quite do what you'd like it to."
+            She slides the medical manual across the table to me.
+            I'm about to tell her that I already know all the stuff printed here about schizophrenia from the pamphlets they gave me at the clinic after my diagnosis. Warped perception. Strange thoughts. A misstructured sense of self.
+            But instead she flips to another page, in another section. The page starts with the heading "Social anxiety disorder."
+            I skim the summary while Hikari again makes a show of pulling out and then putting in books to and from her bag.
+            My first guess is that this some attempt at Hikari-humor that I don't understand, because half of the words on this page might as well be in a foreign language. But the ones I do know sure sound like Hagami... Low self esteem. Isolation. Hypervigilant. Hyperfearful of negative evaluation.
+            TAKERU: "I guess... This is what you're suffering from, isn't it?"
+            HAGAMI: "...Yes."
+            TAKERU: "Eh... It's Mirako. Maybe I could've guessed there was always something going on with you."
+            That's probably not what she wants to hear.
+            TAKERU: "Thanks for trusting me enough to confide in me. I'll keep the info to myself."
+            HAGAMI: "Although... You're not wrong. It's not that hard to tell something's wrong with me. It's not a secret. It's really hard for me, with new people."
+            TAKERU: "I get what you mean. Ever since I left Tohoku I've been so uncomfortable around people in general that it's hard to relax."
+            HAGAMI: "Yeah. That's me as well."
+            HAGAMI: "So... When you said you there was someone you cared about that deeply... I was sort of moved. Even if that person wasn't - "
+            HAGAMI: "Anyway. I'll help with the research. We should get started."
+            TAKERU: "Right, yeah. Let's go through the next book. I've wasted enough of your time already."
+   
     
         "Undo it. Reroll and see what happens.":
         
@@ -512,13 +554,58 @@ label day25:
             I leave her there in the hallway, dumbstruck, papers and books still scattered on the floor.
             That didn't really shock her that much, did it? Maybe Mana/Hikari is surprised that I found her out. Or maybe she didn't expect me to be so blunt after I realized her betrayal.
             Whichever, whatever. I don't have to care about that any more.
+            I almost forget about my regularly scheduled meeting with Kunida.
+            Normally I'd pass the time chatting with Hikari, but seeing as how 'Hikari' is Mana and the real Hikari has been dead for a year, there's nothing to do but stand here against the wall and wait.
+            I thought it'd be stressful, but it seems my new insight into the true workings of Mirako have given me an unexpected calm.
+            So I spend a brief wait against the basement wall until I'm admitted to Kunida's office.
+            While I try to do my best to explain to him exactly what his adoptive daughter Mana has been up to, it doesn't seem he wants to hear it, and I can't blame him. Although he does look moderately concerned.
+            The rest of it is a blur. I'm not a participant in these events, I'm just follow a script.
+            After Kunida's office, within a few days, things escalate. It's the plastic office of the Mirako nurse, then the shrink's office, with its desk and antique lamp, and at somebody someone makes the call and I'm trundled from there, to the bus, to the city, in inpatient services, etc.
+            I do my best to let the staff know who the traitor is, the role she's assumed, etc, but of course, just like I am not a participant in this series of events, they have no choice either but to follow the script assigned to them.
+            They do their job. I end the day imprisoned in my old room in the psychiatric ward.
+            While I pace back and forth, the blurriness subsides a bit. The deep blue paint is just an off-white. It feels like days could pass.
+            ...This wasn't a mistake, was it?
             
+            And then like that I'm back in the old library, across from Hagami.
+            Right. That was just a story. (Memory?) Something she was telling me, and that I was recalling... But... Wait, wouldn't it be be explaing this to Hagami, and not the other way around? Of course, that's what was happening.
+            HAGAMI: "Hm..."
+            HAGAMI: "Thank you. I had heard most from Mana, but... Thank you for telling it to me."
+            TAKERU: "Ugh... I'm sorry, I have a bit of headache. I realized I'd hurt you pretty badly but I didn't really remember I came down that hard on Mana."
+            HAGAMI: "It's alright."
+            HAGAMI: "She forgave you right away, you know."
+            I do know, I suppose. She ran up to me right away after I came back to Mirako.
+            Now I feel even guiltier. When I told her I wasn't coming back to the supernatural club, I wasn't even thinking of what I apparently had already put her through that day before I left.
+            HAGAMI: "Me, though..."
+            HAGAMI: "I don't know."
+            TAKERU: "About forgiving me?"
+            HAGAMI: "...Yeah."
+            HAGAMI: "Mana is always there for me. When I saw her hurt, it..."
+            HAGAMI: "I'll try to accept your apology, but..."
+            TAKERU: "I'm not looking for forgiveness. I know I screwed everything up so I think I owe it to both of you to patch things up a bit before I bow out."
+            HAGAMI: "It doesn't matter to me if you come back or not. Thanks anyway for... This."
+            She gestures at the two sheets of paper lying on the table on top of the dictionary.
+            Wait.
+            For one thing, those two sheets of paper, the club signup forms, appear brand new. Last I remember they were wrinkled as hell after having been drawn up by Mana, rejected by Meiko, carried around in my bag, loaned to Hikari, recovered, and finally presented here to Hagami.
+            Secondly... The book they sit on is not the Diagnostic Manual of Mental Disorders, but the Japanese/English dictionary from last night.
+            Where'd I even come up with that title? There's no other book even removed from the shelf. I must've imagined Hagami was here, reading something with that name, open to the page on schizophrenia.
+            HAGAMI: "So. I think I was sidetracked, a bit. But, that's why I think it's important for me to help Hikari
             
-    So after my wait in the piano room, there's a wait in Kunida's awful office, then the plastic office of the nurse, then some shrink's examination room with its desk and chair and antique lamp, and then the busride, the inpatient processing, etc. 
-    I do my best to let the staff know who the traitor is, the role she's assumed, etc, but of course, just like I am not a participant in this series of events, they have no choice either but to follow the script assigned to them.
-    They do their job. I end the day imprisoned in my old room in the psychiatric ward.
-    While I pace back and forth, the blurriness subsides a bit. The deep blue paint is just an off-white. It feels like days could pass.
-    ...This wasn't a mistake, was it?
+            HAGAMI: "But thank you for doing this. I know Mana will be happy."
+            She flips over to the second page of the signup sheet and... signs her name?
+            TAKERU: "Wait, aren't you already on that list?"
+            HAGAMI: "...?"
+            TAKERU: "Let me see that for a second."
+            Even after Hagami signs, there are only three names on the list. In order, those are Ichiro Takeru, Miura Hikari, Inori Hagami.
+            And instead of that ridiculous "Mirako Expeditionary Ghost Hunter's Union" at the top, printed there is just "Mirako Supernatural Club." The handwriting is my own.
+            TAKERU: "Sorry Hagami. I guess I'm not feeling well. Something's messing with my head."
+            HAGAMI: "It's alright."
+            HAGAMI: "I'm ready to start. If you want."
+            TAKERU: "Right, yeah. Let's go through the next book. We've wasted enough time already."
+            
+    The deal is the same.
+    I fetch the reference books, look through indexes, take notes, and so on. Hagami does the heavy lifting.
+    Tonight we work through some old volumes of folklore that while in Japanese, were written over a hundred years ago and still require some effort to intepret.
+    We shut the cover on volume three of four when
    
     
     
