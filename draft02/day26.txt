@@ -1,0 +1,26 @@
+label day26:
+
+    Present-me thanks past-me for moving all those clocks out of the room yesterday.
+    I manage to get a decent night's sleep again, and with Kenta distracted with auctions downstairs, I even sleep in to a decent hour.
+    I even manage to offer him my sincere opinion on automaton clocks which are apparently all the rage on the traditional collectors' scene nowadays, (my opinion being that as long as it doesn't go off three hours early three feet from my head, it's all good).
+    When I see off Kenta at homeroom, Meiko is already there. She's staring straight ahead just as surely as if class had already begun.
+    TAKERU: "Good morning."
+    TAKERU: "...Meiko?"
+    MEIKO: "Oh. Hi."
+    MEIKO: "Sorry. I kind of have a lot on my mind."
+    A few more minutes, but Natsumi still doesn't show up, so there's no buffer between us.
+    TAKERU: "...You're doing alright?"
+    MEIKO: "Fine. Exceptionally well. I'm the class rep, aren't I? Shouldn't I be worried about you instead?"
+    TAKERU: "Who cares about that? You could be student council president and I'd still ask if there was anything up. You've been kind of... off, lately. Even Natsumi noticed something. That should tell you something."
+    MEIKO: "Natsumi's a great friend."
+    TAKERU: "Yeah but the least observant person on the planet. Or maybe second least observant, behind me."
+    MEIKO: "Haha."
+    MEIKO: "It's kind of you, really. But I don't need anyone looking for me. My job is to look out for all of you, so - "
+    TAKERU: "No one's paying attention to us. You don't need to act. You even told me we should look after each other, so I'm trying to look after you."
+    TAKERU: "Let's grab lunch or something if it's really no big deal."
+    MEIKO: "...Maybe. I'll check my schedule."
+    But the next moment, our conversation is interrupted by Natsumi's loud arrival.
+    I can't tell if she's complaining about the school administration, the summer baseball administration, the summer baseball rules comittee, or the student council festival committee the way she alternates between all of them.
+    But she's relying on me for a sympathetic ear and shutting Meiko out of all of it. I nod along, and eventually Kunida begins his lecture.
+    ...Without any speech from Meiko, of course.
+    I'll try to grab her after lunch.
