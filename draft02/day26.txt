@@ -24,3 +24,162 @@ label day26:
     But she's relying on me for a sympathetic ear and shutting Meiko out of all of it. I nod along, and eventually Kunida begins his lecture.
     ...Without any speech from Meiko, of course.
     I'll try to grab her after lunch.
+    
+    Maybe Meiko had the same thought. She's waiting outside the classroom door.
+    TAKERU: "Hey."
+    MEIKO: "Hi Takeru."
+    TAKERU: "Were you headed anywhere for lunch? Or I guess you're busy with the festival coming up so fast, but..."
+    MEIKO: "There's committee meanings scheduled every lunch break from now until the festival, I'm afraid."
+    TAKERU: "Right. I should've known."
+    MEIKO: "I won't be attending them."
+    TAKERU: "You what?"
+    MEIKO: "Maybe there's some free space on the roof."
+    TAKERU: "I'm not sure which would be more surprising, if we saw literally anyone else on the roof or that you'd actually skip out on something..>"
+    I turn around, casually at first, then leap out of the way as something flies past.
+    TAKERU: "What the - "
+    MANA: "Takeru! Hagami showed me the club signup sheet, and I turned it in this morning, and I think it's gonna work! The library's back! And our space at the festival is back!"
+    TAKERU: "That's great and all but are you trying to kill me or what?"
+    MANA: "I was trying to hug you but you dodged. You finally decided to join up! And you recruited that transfer student!"
+    TAKERU: "Transfer student?"
+    MANA: "That um... I forget. The fourth member!"
+    TAKERU: "Oh, right."
+    Hikari.
+    MANA: "So you've got to come to lunch with us! You'll say hi to Hagami, won't you? She said - "
+    MEIKO: "Sorry, have we met?"
+    MANA: "Um, um, no, I don't think - "
+    MANA: "Kunida-Mana-nice-to-meet-you!"
+    She says it all like it's all one word and takes an very unsubtle step behind me.
+    MEIKO: "Kotaru Meiko. The pleasure's mine."
+    MANA: "Y-you're the student head of the festival committee, and the council member, and the um, person who goes to that super smart school on the weekend, and um..."
+    MANA: "Everyone in the first year classes knows you!"
+    TAKERU: "I know Meiko's got a reputation but she's not really that scary. Mana?"
+    I turn around but Mana's running back down the hall as quickly as she came.
+    TAKERU: "If anyone asks I don't know her."
+    MEIKO: "She's a strange one, I see..."
+    TAKERU: "If her display space for the festival came back... That went through you, didn't it?"
+    Meiko nods.
+    MEIKO: "Her performance slot as well."
+    TAKERU: "Mana's performance slot?"
+    MEIKO: "Well, the slot reserved by the supernatural club."
+    TAKERU: "Hagami's block..."
+    I guess I didn't expect that to actually happen. Probably Hagami didn't either, because she's been sitting around in the piano room all night instead of practicing. I should probably make sure she's on the same page as the festival planners.
+    MEIKO: "You look worried, Takeru."
+    TAKERU: "Oh, I'm fine."
+    MEIKO: "Enjoy your lunch then. I've got that meeting."
+    TAKERU: "Wait, didn't you say - "
+    MEIKO: "Your friend was trying to invite you. You should go find her."
+    MEIKO: "Goodbye."
+    And she's gone.
+    It's weird. Since that day in the cafe, whenever it's been just Meiko and me, she's seemed quiet, distant, and a bit like that Meiko I grew up with. But when anyone is around, she's back to school icon Meiko, intimidating to frigthen off Mana more effectively than the sight of a literal ghost.
+    But I sigh.
+    She's gone now and I still have no idea of rejoining the club for lunch.
+    if confront_hagami:
+        Now that the full weight of exactly what I inflicted on Hagami is back in my memory, I'm even more sure it'd be uncomfortable to have me around, and Mana doesn't know the full extend of what went on.
+    else:
+        Now that the full weight of exactly what I inflicted on Mana is back in my memory, I'm amazed she wants anything to do with me. But I'd feel so guilty sitting there next to Hagami, now that she knows just how badly I blew up at her friend.
+    Hell, it makes me uncomfortable just thinking about it.
+    I wind up in the quiet tearoom, and although I know it shouldn't surprise me at this point, I'm alone.
+    No sign of Hikari.
+    
+    Classes end without note. 
+    Meiko leaves immediately, and Natsumi only takes a few seconds to chatter at me about a fundraiser at the festival before zipping out the door as well.
+    When I follow her out, I note Hagami standing against the opposite wall, headphones on.
+    Strange. I haven't known her to lurk around. But I soon see the reason why when Mana troops up the stairs coming straight in my direction, ready for round two.
+    MANA: "Takeru!"
+    TAKERU: "Oh. Hey Mana."
+    MANA: "You never showed up."
+    TAKERU: "To what?"
+    MANA: "Lunch, obviously! I thought if you were an official club member you'd at least come back to official club meetings..."
+    TAKERU: "Lunch is an official club meeting?"
+    MANA: "Well, no, but..."
+    MANA: "Hagami says you're always moping around and if I don't drag you places you probably wouldn't even go!"
+    TAKERU: "Oh, Hagami said that, did she?"
+    Hagami is conveniently looking away from us down the hall, but by the slight red tinge she's now taking on I'm starting to wonder if there's anything actually playing through those headphones.
+    MANA: "Then we'll have to resort to desperate measures."
+    TAKERU: "I should not have put my name on that signup sheet... Bet I could've bribed Kenta, or..."
+    MANA: "Tomorrow evening, we're having an Official supernatural club meeting. Official with a capital 'O.'"
+    TAKERU: "We'll plan out what to do for the festival booth or something? Fine. I'll help."
+    MANA: "That's boring stuff. That's no way to mark the start of the Mirako Ghosthunter Union as an official club."
+    if confront_hagami:
+        TAKERU: "I also should've changed the name before I gave that form back..."
+    else:
+        TAKERU: "No, no, that's not the real name."
+    MANA: "Fine fine fine, let me see... We'll have to do something suitably big."
+    MANA: "I know. Takeru, have you ever held a seance?"
+    TAKERU: "A what?"
+    MANA: "Then it's settled! Tonight the Mirako Ghosthunter Union will hold its inaugural seance! The secrets of the dead will be revealed!"
+    TAKERU: "Can you keep your voice down? If Kenta or someone finds I'm attending this thing I'm never going to hear the end of it."
+    MANA: "You'll have fun, I swear! Hagami and I used to do these all the time. Right Hagami!"
+    Except Hagami is now taking half-steps down the hall away from us. Those headphones are definitely just for show.
+    MANA: "See you tomorrow then Takeru?"
+    TAKERU: "I don't think I can get out of it, but I'm just going to be official club secretary and take the minutes, got it? No ghost hunting."
+    MANA: "It's ghost summoning?"
+    TAKERU: "Never mind. See you tomorrow."
+    MANA: "Yeah. See you tomorrow! I'm looking forward to it!"
+    Mana runs off, leaving Mana behind.
+    I sigh and turn towards the basement wing, and on the way, pass Hagami, who's now pretending to be a statue.
+    TAKERU: "I guess you put her up to this?"
+    HAGAMI: "..."
+    TAKERU: "I know you cam hear me under those things."
+    HAGAMI: "...Sorry. Did you need something?"
+    TAKERU: "Nothing. I guess I owe you one anyway."
+    I resume walking, but after two steps I definitely hear a supressed snicker behind me. But when I turned around, Hagami is already looking someplace else.
+    Fine. I'm almost relieved. It seems like some of my old life here is coming back.
+    And maybe I could hope to return to normalcy, except for that again when I come to the tearoom, the place is deserted.
+    It's frustrating. Hikari could be sitting opposite me and I'd have no way of knowing it. I strain my eyes trying to see into every shadow but there's nothing there.
+    Maybe she's saving her energy for research tonight. That's what I tell myself.
+    After an hour or two of attempting to study, I give way to pushing Hikari's handcarved pieces around the chessboard, playing both sides. I practice some of what she taught me but without the threat of her criticizing my bad plays it's not really the same.
+    I give up, pack the chess set, and head upstairs to the library.
+    
+    The old library shows signs of life again. The radio sits on the table without its cover, and discarded managa, softcover books, and looseleaf paper again litter the surface of the table.
+    I can only barely distinguish the stack of books Hagami and I left here last night. I wonder how Hagami explained this whole situation to Mana... Or if she said anything at all?
+    Regardless, I have to do what I can. I flip open the fifth volume of the Japanese folklore anthology.
+    HIKARI: "...Can you actually read that?"
+    TAKERU: "No, but it's better than sitting her twiddling my thumbs, so I thought I'd - "
+    TAKERU: "Hikari."
+    HIKARI: "Takeru."
+    TAKERU: "Can you at least pretend to behave like a normal person? Announcing when you're coming and going?"
+    HIKARI: "I've tried it so many times but if you never hear then I'm not about to keep trying."
+    TAKERU: "Fine. I guess you've been stalking me all day trying to get my attention?"
+    HIKARI: "Not precisely."
+    TAKERU: "Did you find someone else to tail? Or were you down in the tea room this whole time?"
+    HIKARI: "Hard to say."
+    TAKERU: "Ah. So you're hiding something."
+    HIKARI: "I'm not. That would be pointless, wouldn't it?"
+    TAKERU: "Okay, maybe not hiding something, but..."
+    TAKERU: "Do you even know where you were today?"
+    HIKARI: "...No."
+    HIKARI: "It's a sort of blank period. I tried to make it to class, but..."
+    I get the feeling neither of us would rather talk about the implication.
+    TAKERU: "Maybe we should get back to the research."
+    HIKARI: "Yes, the research."
+    TAKERU: "Not that we can do much without Hagami."
+    HIKARI: "If you'll hold the book open, I can read aloud."
+    TAKERU: "Alright, let me find my notes first. Any reference to reincarnation or haunting or whatever, and we'll mark the page for Hagami."
+    There's hardly a need, though.
+    While our system works well enough, Hagami arrives in person after only a few dozen pages of volume five.
+    Her headphones are still on, and this time I have to believe she's using them legitimately, because when I call her name, her eyes tell me she's still lost in space.
+    TAKERU: "Hagami? You there?"
+    HAGAMI: "Oh, um... Hey."
+    HIKARI: "Good evening."
+    TAKERU: "I thought you might not show. I'm sure we both really appreciate it."
+    HIKARI: "I'm grateful. I'd never ask, but, that you're willing to help..."
+    HAGAMI: "I do what I can."
+    HAGAMI: "...Which volume were we on?"
+    HIKARI: "Five. But..."
+    HIKARI: "Listen, don't you have a performance coming up?"
+    TAKERU: "Oh, yeah Hagami, I almost forgot but Hikari jogged my memory... Meiko told me your performance slot is definitely a go. You're still planning on that?"
+    HAGAMI: "...I think so."
+    HIKARI: "Then go prepare. Takeru and I will manage."
+    HAGAMI: "If that's all the progress you've made on this volume..."
+    She gestures at my notes.
+    HAGAMI: "...you'll be here all night. I don't mind helping."
+    So we set up our system again. This time, we rearrange things a little differently. I scour the shelves for likely titles, while Hagami and Hikari skim through their books in parallel. Whenever Hikari needs a note taken down or Hagami requires a new dictionary, I fetch those as well.
+    I'm glad I at least serve some purpose up here. I want to be able to help, even if it's the manual labor.
+    After volume five is complete, and I serve up the next pair of hardcover cyclopedias on the supernatural, it doesn't seem like we're any closer.
+    So far the closest reference to anything resembling a Hikari-class ghost is a probably-fictional tale from one of the folklore books. And said ghost went on to murder three people in a wartime-era mountain village before meeting its fate via Shinto rituals, so that doesn't seem very helpful.
+    And as the night wears on, Hikari's pace slows. Curfew comes, goes, and I think I've served Hagami two books since I last refreshed Hikari's.
+    Finally, Hikari stands up. But it's not to order me to fetch another volume.
+    
+    
+    
