@@ -352,7 +352,7 @@ label day25:
    menu:
         "I will face my actions. What happens next is necessary. Continue down this hall":
         
-            $ confronted_hagami += 1
+            $ confronted_hagami = True
     
             Of course.
             I don't have any need to run away. I've solved the puzzle.
