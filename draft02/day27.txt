@@ -1,0 +1,153 @@
+label day27:
+
+    I wake up in a dead sweat.
+    Luckily it's a dreamless sleep, it just seems the window was open and this room on the top floor has been collecting heat all night.
+    An open window? Kenta would never sleep with an open window, so where - 
+    It's like I've woken up in a different room. The dividing line our two halves of the room is gone. The cabinets have been rearranged to box my bed into the corner. Where there were bare floors yesterday, there are now clock guts and jumpled boxes piled together.
+    There's no sign of Kenta. And no sign that I'll have clothing by the time classes start - looks like I've slept late.
+    I work up a sweat again just pushing my way clear to the door, and eventually find something to wear tucked inside an otherwise-empty packing crate.
+    TAKERU: "Thanks Kenta, you had to put all this right in the last place I'd look."
+    Where did he even go? And while it's nice to sleep in for once it'd be nice if the place didn't transform into a warzone in the morning.
+    
+    The one bus that runs up to Mirako already left, so I'm forced to take the path up the mountain by foot as usual.
+    Except this time I'm late so I practically need to jog, and it's wretchedly hot and humid out for a day this early in the summer, so I work up a sweat again in the process.
+    But it looks like Kenta got it worse. When I show up outside class, I spot him, shirt absolutely soaked through, tie missing completely, hair all over the place. Looks like he's arguing with Meiko.
+    KENTA: "You can't just hand out space and then take it away. It's unfair. Why my room? Why doesn't anyone else have to move out of their room?"
+    MEIKO: "I'm sorry, Kenta, but it's just a misunderstanding. We'll - "
+    KENTA: "That's no misunderstanding. I spent half of yesterday and all of this morning undoing all the work I did and dragging everything back to the dorms, and now you change your mind? What didn't I understand?"
+    MEIKO: "The misunderstanding was with one of the suppliers, and we needed storage, so I tried to - "
+    KENTA: "What is with all these boxed labeled 'Fujiworks' in there anyway? What club is that? Who stole my space?"
+    NATSUMI: "Someone said Fujiworks?"
+    MEIKO: "That's the supplier. They'll be back tomorrow to take all of the boxes out of your room. I'm sorry, when I told them where to store everything I didn't think there was anything in the basement - "
+    KENTA: "It's only my workshop. This is very unfair. Is this supposed to be a joke? If it's a joke I don't understand it. Please explain it."
+    NATSUMI: "Meiko's joking about sending those boxes back. Fujiworks? That's the fireworks people. Rumor is, Meiko's planning a secret show..."
+    KENTA: "Meiko, you're lying to me?"
+    MEIKO: "It's not a lie. There was a miscommunication and I forgot to make the call to cancel the shipment. Once we receive the refund, the boxes will be gone."
+    NATSUMI: "Shh, Kenta, you have to pretend to believe her. It's the cover story."
+    KENTA: "I don't see why I have to pretend anything."
+    NATSUMI: "Giving up your space for a few days is worth it if we get the fireworks back. Or uhhh, I mean, shame about the fireworks, eh Kenta? Eh?"
+    KENTA: "Stop elbowing me. What do you want?"
+    Meiko takes a deep breath as Kenta and Natsumi temporarily turn on each other, Meiko takes a deep breath.
+    Should I butt in? This doesn't look pleasant. I take a single step forward and immediately trip over someone or something zipping by.
+    MANA: "Sorry Takeru! I'm gonna be late if I don't hurry, and I've got to find her before I get to class, or this could go really, really bad!"
+    TAKERU: "Who are you looking for?"
+    MANA: "Your friend on the festival committee, only the most sought-out person in the school, only - "
+    MANA: "Ah! M-miss Meiko!"
+    MEIKO: "Mana, right? Did you need something from - "
+    MANA: "Sorry-for-bothering-you! Um, it says here, on the program for the presentation slots - "
+    NATSUMI: "Heyyy, you said you have what now? A program? I didn't know those were printed yet. Who leaked one to you?"
+    MANA: "I don't think it's the right program, because, because it says here Takeru and I have half an hour for a performance but we're the supernatural club! We need a booth, we can't perform! Something has to be wrong so - "
+    NATSUMI: "Go back a step. Takeru? In the what club now?"
+    MANA: "Technically it's a union and not a club, or I think it was a society?"
+    MEIKO: "That booking is correct. It came in last minute, but - "
+    KENTA: "Excuse me, but it's impolite to ignore people when they're speaking."
+    MEIKO: "Kenta, I promise I'll sort this out. Please don't worry about it."
+    NATSUMI: "Hear that Kenta? Eh? We shouldn't worry. You know what that means, right? Meiko's got something up her sleeve. Spill the beans, Meiko!"
+    I've had about enough of this.
+    TAKERU: "Alright, go away. Mana, I'll explain tonight. You're going to be late."
+    MANA: "Oh! No! I need to get to the first floor! See you tonight Takeru!"
+    I narrowly dodge Mana and back into Kenta.
+    KENTA: "Now Takeru's throwing elbows. What's with you people and elbowing this morning?"
+    TAKERU: "It's a social cue. You'll also be late Kenta. And fix your shirt."
+    KENTA: "Ah yes, thank you."
+    TAKERU: "Natsumi the situation about the not-happening you-know-whats is under control. If you read me."
+    What I really wanted was an excuse to elbow her.
+    NATSUMI: "Ahh, gotcha, chief. I'll leave this job to the expert."
+    This leaves just me and Meiko. But she doesn't say anything, just looks right past me and marches into the classroom.
+    TAKERU: "Meiko?"
+    I follow, but she's headed to the front of the class and I'm forced to drop into my desk next to Natsumi.
+    NATSUMI: "Oh come on, what did you buy, like ten seconds? Did you get the details out of her that fast?"
+    TAKERU: "It's a work in progress."
+    NATSUMI: "It better be. Your elbows are pointy. I think you bruised my rib."
+    TAKERU: "Good."
+    NATSUMI: "Shh, Meiko's speaking."
+    MEIKO: "...so I thank you for bearing with me. I mean, us. Bearing with us, the festival committee."
+    MEIKO: "We're only four days away and I'm counting on everyone to help us to the finish line. If you have any questions, as always, I'm here to help."
+    Really? Only four days? I don't know why that seems too close for comfort.
+    When Meiko returns to her desk, Natsumi again starts talking loudly about fireworks to Hagami behind her, then when she gets only silence and a weird look in return, she tries the guy in front of her instead.
+    At least it's easier to ignore her like this.
+    
+    Meiko does nothing but stare straight ahead all through the morning.
+    When the lunch break starts, there are more than a few petitioners wanting Meiko to do this or that for them in the runnup to the festival.
+    After she's dealt with them, she meets me at the door.
+    MEIKO: "Don't do anything like that again, like what you did this morning."
+    TAKERU: "Get rid of Kenta and Natsumi? I wasn't trying to hurt their feelings, you just looked like you could use a - "
+    MEIKO: "Don't jump in to defend me like that. I was doing fine."
+    You clearly weren't...
+    TAKERU: "You're sure?"
+    MEIKO: "I was managing."
+    TAKERU: "If you say so... I thought you'd mentioned it was all starting to catch up with you, and you haven't been yourself recently, so..."
+    MEIKO: "I'm not stressed out, and even if I were, I wouldn't want you to care about that."
+    She's glaring at me like that moment we came back from the boathouse ruin, like she's about to blow up again. Instead she just says:
+    MEIKO: "Let's go find someplace for lunch."
+    
+    I'd have preferred to eat indoors today, but we still end up on the roof. The breeze this high up provides some relief from the heat, but it's still an awful day.
+    Below, the view of Shizukawa is distorted by a heat haze.
+    When Meiko joins me, we eat without speaking, in what's becoming a routine.
+    Between the uncomfortable temperature, the tension in her silence, I can't take it. I need to say something. Anything.
+    TAKERU: "Everything's coming along with the festival?"
+    ...and my stupid brain decides on inane smalltalk.
+    MEIKO: "Four more days."
+    MEIKO: "The brochures need to be finalized, the last set of vendors needs costing, the students in the first year class need to submit their class project, the gym layout needs approval, and I'm the only one on the committee who seems like they care how anything turns out."
+    TAKERU: "And you say you're able to handle all of it..."
+    MEIKO: "No I can't. Of course I can't. I feel like I'm trapped all the time and I'm about to boil over. Four more days and maybe this hell will end."
+    TAKERU: "Then I don't see what the big deal was if I yelled at Kenta and Mana for you..."
+    MEIKO: "They don't know any better. I'm supposed to be supporting them, so they have to see me as a Meiko who doesn't let minor complaints get to her. Meiko is someone that can handle all this responsibility."
+    TAKERU: "There's no shame in delegating. If I can do anything - "
+    MEIKO: "I don't want you working with me on the festival work any more."
+    MEIKO: "I told you before I was only doing it to try to trip you up and undercut you and tie you down with busywork. None of that really appeals to me any more."
+    MEIKO: "Even if I still can't stand you."
+    TAKERU: "If you can't stand me, then why are we up here again? Didn't you blow off a committee lunch for this?"
+    MEIKO: "...Maybe."
+    MEIKO: "I don't like being alone. After I went years with no one I could confide in, I think it started affecting me. But since you're here and you already know exactly what a small person I am, there's no harm in telling you everything."
+    TAKERU: "Oh."
+    TAKERU: "I had sort of thought we were back to normal."
+    MEIKO: "We never had a normal. If you mean the way we were that first month at Mirako, well, that was a joke, sniping back and forth at each other... And we can't go back to the way we were when we were kids."
+    TAKERU: "Why not?"
+    MEIKO: "You can't change the past. What's done is done and even if I understand logically I should be over this, I still feel this intense revulsion when I look at you."
+    MEIKO: "Maybe some of that revulsion is revulsion at me, and not you, but..."
+    MEIKO: "Maybe it's entirely at me. I don't know. I don't really want to think about it. I would rather be up here than with those tiring student leadership people, or off on my own somewhere."
+    TAKERU: "I'm not sure I get it, but I don't mind having you around either."
+    TAKERU: "It does feel sometimes like you're looking out for me... Thanks for your help with the supernatural club, getting their room back and performance finalized."
+    MEIKO: "It was just a whim."
+    TAKERU: "Thanks anyway."
+    Meiko sits for a minute, watching some fool down below trying to bike their way up the mountain road.
+    MEIKO: "Thanks for dealing with Kenta and the rest of them. I can take care of myself, but... I didn't mind that you helped."
+    MEIKO: "Let's head back to class. It's too hot out here anyway."
+    
+    When the bell finally announces the end to the last tedious, useless class of the day, I'm slow to rise out of my desk.
+    There's that ghost club thing today. Would that be held immediately after school? And where?
+    And even if I knew when and where this thing was, maybe it would be more convenient to suddenly catch a fever or heatstroke or something.
+    My thoughts are interrupted by a GONGG that I place as a clock chime, specifically on the variety that woek me up in that cacophany two mornings ago. 
+    Sure enough, I spot him down the hall.
+    KENTA: "What were you thinking, just running down the hall like that?"
+    MANA: "You're the one that ran into me! Why were you carrying that thing around? You were blind! You couldn't see over it! You couldn't see anything!"
+    KENTA: "I knew where I was going."
+    MANA: "But what if there were people in front of you?"
+    KENTA: "Then it's those people's fault for being in the way."
+    TAKERU: "Kenta, are you alright?"
+    KENTA: "Takeru, good afternoon. I'll be alright but the clockwork here might be damaged."
+    TAKERU: "Still moving that stuff, huh?"
+    KENTA: "I was until someone ran into me."
+    MANA: "You're the one who - "
+    TAKERU: "Look, never mind. Kenta I'll you rewind it or whatever needs to be done later."
+    KENTA: "Thank you for the offer but I doubt you're qualified. And you..."
+    MANA: "Me?"
+    KENTA: "You're a very rude person."
+    He trundles off down the hall.
+    MANA: "Thanks for getting rid of him. What a jerk! Even one more minute looking at his face and I would, I would've..."
+    TAKERU: "He's my roommate."
+    MANA: "This explains why you look like you're so miserable-looking all the time."
+    TAKERU: "I don't think - "
+    MANA: "Well the seance will cheer you up! I'm just running home to grab supplies now, but I'll see you at the library."
+    TAKERU: "I don't think we ever set a real time, did we?"
+    MANA: "Sunset! When you're in occult circles, that always means the witching our. Sunset! The time between day and night when magic is most - "
+    TAKERU: "Okay, yeah, I get it, see you then."
+    
+    I try to use the spare time to find Hikari, but it's pointless. All her usual haunts are empty.
+    
+    
+    
+    
+    
+    
