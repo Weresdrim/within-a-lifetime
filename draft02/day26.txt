@@ -180,19 +180,23 @@ label day26:
     So far the closest reference to anything resembling a Hikari-class ghost is a probably-fictional tale from one of the folklore books. And said ghost went on to murder three people in a wartime-era mountain village before meeting its fate via Shinto rituals, so that doesn't seem very helpful.
     And as the night wears on, Hikari's pace slows. Curfew comes, goes, and I think I've served Hagami two books since I last refreshed Hikari's.
     Finally, Hikari stands up. But it's not to order me to fetch another volume.
-    HIKARI: "I think I'm done for a while. You can go home."
+    HIKARI: "I think I'm done. You can all go home."
     TAKERU: "Hikari?"
-    HIKARI: "I'll see you around."
+    HIKARI: "Don't worry about research. I'll be fine on my own. See you around."
     She passes out the library door as Hagami and I stare at each other.
     HAGAMI: "Is... she alright?"
     TAKERU: "I don't know. I'm really not sure what's up with her."
     TAKERU: "Think I should follow her?"
     Hagami just shrugs.
-    TAKERU: "I guess it's my responsibility..."
-    I leave Hagami in the library and poke my head into the hall. There's no sign of Hikari.
-    But there are only few places I'd expect her to go.
+    We work through the last volume of the folklore series together, but there are no hits, and I'm distracted at this point.
+    TAKERU: "Sorry, Hagami. Maybe we'd better cancel this."
+    HAGAMI: "I understand."
+    TAKERU: "Probably I should try to find her..."
+    Did Hikari mean we should call it a night? Or call and end to finding a cure in general?
+    I leave Hagami in the library and poke my head into the hall. No sign of Hikari.
+    Maybe I should look around... It's not like there are many places she likes to go.
     
-    Sure enough when I enter the tea room, she's there, not seated, but staring out the narrow window.
+    Sure enough when I enter the tea room, she's here - not seated, but staring out the high window.
     TAKERU: "Found you."
     HIKARI: "It's not like I was hiding."
     TAKERU: "I guess."
@@ -212,7 +216,7 @@ label day26:
     She joins me at the table.
     HIKARI: "You don't owe me anything. It's touching that you and that Hagami would drop everything to try and find some way to stop whatever's happening to me. But for one thing, I think it's impossible. Even if you found a book that described me perfectly, what if it just said at the end, 'Of course this type of ghost disappears after one year.'"
     HIKARI: "What have you gained? You should be spending your time with your friends preparing for the festival."
-    HIKARI: "Your Hagami, doesn't she have a performance to worry about? And you're helping your idiot roommate with a booth. You all shouldn't be locked up in some dusty library for my sake... And for the record I think what your club has done to that room is atrocious, by the way."
+    HIKARI: "Your Hagami, doesn't she have a performance to worry about? And you're helping your idiot roommate with a booth. You all shouldn't be locked up in that dusty library for my sake... And for the record I think what your club has done to that room is atrocious, by the way."
     HIKARI: "But the point is, the last few months have been the most that I could hope for. I think it'd be selfish of me to want for more, frankly."
     HIKARI: "I know I always pepper you with hypothetical questions, but, let's say you knew you had a week to live. What would you do?"
     TAKERU: "Hell if I know. I probably wouldn't want to know."
@@ -231,13 +235,15 @@ label day26:
     TAKERU: "We're only human."
     HIKARI: "Ha, I almost laughed. You might be, but it seems I'm something even weirder than what's covered by the paranormal textbooks."
     TAKERU: "You know I'm still going to try and stop whatever's happening, right?"
-    HIKARI: "I could've guessed. And I'll help if I can, I guess but..."
-    HIKARI: "I don't know what I was going to say. Whatever happens, it's been a pleasure, Takeru. I really think you've already saved me once."
-    TAKERU: "No, it's not like that, you've done a lot for me too."
-    She doesn't reply, just bows. Seeing as my tea is gone... Maybe that's my cue to leave.
-    Hikari's eyes follow me, but she doesn't leave the table. And as I turn to slide shut the door, she isn't there any longer.
+    HIKARI: "You really shouldn't bother."
+    TAKERU: "But if we don't do anything, won't you - "
+    HIKARI: "No matter what happens, it's been a pleasure, Takeru. I really think you've already saved me once anyway."
+    TAKERU: "What do you mean?"
+    HIKARI: "Goodnight."
+    She doesn't reply, just stands, bows, and watches me in silence. I can read a cue to leave.
+    When I make to go, Hikari's eyes follow me, but she doesn't rise from the table. And as I slide shut the door behind me, she isn't there any longer.
     
-    I check back in the library, but both Hagami and the last volume of Japanese folklore are missing. I hadn't meant to leave her (and especially not leave her with homework) but it's too late for that.
+    I check back in the library, but both Hagami and the research books are missing. Good, I would've felt guilty if she didn't go home.
     Except on the road home tonight, I catch that extra pair of footsteps, like there's someone following fifty feet behind.
     Hagami, keeping her distance again... I remember those last few nights where we used to walk home from Mirako together.
     It's a shame. Even if she wants to help Hikari, and even if the club is reformed, she'll probably never trust me again.
@@ -258,7 +264,7 @@ label day26:
     HAGAMI: "Let me know if I should leave."
     TAKERU: "You're fine."
     Her silhouette is framed against the charcoal sky.
-    HAGAMI: "...Is she buried here?"
+    HAGAMI: "...Are her ashes here?"
     TAKERU: "I'm not sure. It's her memorial, anyway."
     When we're both silent for long enough, the crickets resume.
     HAGAMI: "She was probably unhappy I was there."
@@ -266,7 +272,7 @@ label day26:
     HAGAMI: "Isn't that why Hikari left tonight?"
     TAKERU: "No, not at all. I think she felt guilty that you were spending time on her, if anything."
     HAGAMI: "Time is cheap."
-    TAKERU: "It sure seems that way."
+    TAKERU: "Maybe. Seems so now."
     Sometimes I've felt that way. Wasting away the days in the clinic, especially. But now, with everything hurtling towards the festival, maybe I'd disagree.
     HAGAMI: "Mana said she committed suicide."
     TAKERU: "I think it's more complicated than that."
@@ -284,7 +290,7 @@ label day26:
     HAGAMI: "I know I've heard a story like that before."
     TAKERU: "What do you mean?"
     HAGAMI: "A suicide, but not really, and a ghost who appears later."
-    HAGAMI: "I think I've heard it before. In some book... somewhere."
+    HAGAMI: "I think I've heard it before. In a book... somewhere."
     TAKERU: "Really?"
     TAKERU: "Then the answer's out there."
     HAGAMI: "If we keep searching... We'll find it."
@@ -318,14 +324,14 @@ label day26:
     We're sitting alone, next to each other, on this cloudy night, unable to see more than the shape next to each other.
     HAGAMI: "I'm not sure if I can do it."
     TAKERU: "The performance?"
-    HAGAMI: "I said I could do it. I've performed for bigger audiences than Mirako. At Showa I did it. In middle school, I had one concert where..."
+    HAGAMI: "I told them I was prepared. I've performed for bigger audiences than Mirako. At Showa I did it. In middle school, I had one concert where..."
     HAGAMI: "I don't know. That's all in the past now. I don't want Mana to think I can do something that I can't. I don't want to disappoint her."
     TAKERU: "So if you perform on festival day, it'll be a pleasant surprise for her. And if you don't, you don't. That's it."
     HAGAMI: "You understand."
     HAGAMI: "I... Maybe I should try to practice more, but..."
     HAGAMI: "It seems so small. When there are other things out there. Like you, and Hagami."
-    HAGAMI: "If she doensn't want me to help, I won't."
-    TAKERU: "She can say what she wants, but I think in reality you're the only person that can actually help. Didn't you say you'd heard a story that sounded like her?"
+    HAGAMI: "If she doensn't want me to help... should I?"
+    TAKERU: "She can say what she wants, but I think in reality you're the only person that can actually do anything for her. Didn't you say you'd heard a story that sounded like her?"
     HAGAMI: "But I can't remember..."
     HAGAMI: "I don't think it was a book in the library. But it was somewhere."
     HAGAMI: "We'll find the truth. I won't... I won't let you lose her."
