@@ -58,7 +58,7 @@ label day23:
     MEIKO: "...I'll be in the student council office at Mirako if you have any free time. But it seems this is more important to you."
     MEIKO: "Goodbye."
     TAKERU: "Meiko, hang on - "
-    KENTA: "Takeru, what are you doing? That woman is no good. Most women are no good. They serve to distract you from relevant issues, intentionally or unintentionally. So I urge you - "
+    KENTA: "What are you doing? That woman is no good. Most women are no good. They serve to distract you from relevant issues, intentionally or unintentionally. So I urge you - "
     TAKERU: "Ten seconds Kenta."
     KENTA: "Ten second what? No. Wait! Aggh, damn, we've lost one."
     TAKERU: "Sounds like you were distracted."

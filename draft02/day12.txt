@@ -55,7 +55,7 @@ label day12:
     NATSUMI: "We qualified! Mirako is in!"
     TAKERU: "Qualified for what?"
     NATSUMI: "The regional tournament. This is all I've been talking about for a week! Don't you ever listen?"
-    KENTA: "Takeru seems to have a problem with this. I spent all morning explaining to him the history of oology but he - "
+    KENTA: "My roommate seems to have a problem with this. I spent all morning explaining to him the history of oology but he - "
     NATSUMI: "I can't believe we made it. Skin of the teeth, but we're in. I never thought our scrappy little team would've made it in, and we're going to be way outmatched, but we'll sure take a few games while we're there!"
     NATSUMI: "This is going to be great."
     Right. The summer championship tournament. I think if Tohoku ever failed to qualify for the prefectural tournament, we'd all die of shame. My first year, we won the first five games by the mercy rule on the fifth inning.

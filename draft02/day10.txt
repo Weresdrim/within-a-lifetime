@@ -49,8 +49,8 @@ label day10:
     A year ago the Ichiro Takeru looking back at me would be charismatic, poised, ready to take on the world. Not the sort of person to beat himself up every morning in front a bunch of bottles of pills.
     Was I "schizophrenic" even back then?
     Something's fake, I just can't tell what.
-    KENTA: "Takeru, you need to hurry up or we're going to be late."
-    TAKERU: "You know, it's not the worst thing in the world if we don't show up to school an hour before classes start."
+    KENTA: "You need to hurry up or we're going to be late."
+    TAKERU: "You know Kenta, it's not the worst thing in the world if we don't show up to school an hour before classes start."
     KENTA: "Of course not. The point is that even if we're delayed in our commute, there's still time to spare before we need to be at Mirako."
     TAKERU: "It's pouring out. I'll take the bus today."
     KENTA: "That just means the bus will be even more off-schedule! You realize Shizukawa is so small the bus only passes through three times a day?"
@@ -205,7 +205,7 @@ label day10:
     I gesture at him to follow.
     Hagami seems to have some idea of what's going on as she makes a pained smile at me, then heads straight for the old library. She holds the door and I follow after Kenta.
     Kenta seems almost as out of sorts as Hagami now. He's staring at the wall-to-wall shelving with his mouth open.
-    KENTA: "Takeru, is this supposed to be a library?"
+    KENTA: "Excuse me... is this supposed to be a library?"
     KENTA: "It's extremely disorderly. I thought the office said not to use any of the classrooms in this wing."
     KENTA: "And isn't there a lightswitch somewhere? If it's this dark how am I supposed to - "
     On cue, lightning flashes through the room.
