@@ -1,0 +1,167 @@
+label day28
+
+    When I come downstairs in the morning, Kenta is still seated at the PC.
+    TAKERU: "Hey. 'Morning."
+    KENTA: "Good morning."
+    TAKERU: "Did you sleep or have you been sitting here all night?"
+    KENTA: "I slept, of course, but I woke up at a more reasonable hour than you. There's some good news."
+    TAKERU: "Oh?"
+    KENTA: "We won all but one lot. We were outbid on the lot that contained something called the 'Rosicrucian Cosmo-ception.' No great loss, if you ask me, but then again this isn't my area of expertise."
+    TAKERU: "No, that sounds pretty useless."
+    KENTA: "I'm happy you're getting into the collecting spirit, but I wish you'd chosen a more practical collection than childish books on ghosts and magic and things."
+    TAKERU: "Yeah, sometimes there isn't a choice..."
+    KENTA: "And I've itemized the costs on this list. By the look of it you owe me 43 hours of labor."
+    TAKERU: "Seriously? What's my hourly rate?"
+    KENTA: "As a high school student, half minimum wage."
+    TAKERU: "That's a ripoff. Seriously?"
+    KENTA: "Then let's get to class. You'll earn even less if you're a high school dropout."
+    TAKERU: "I'm not sure that's how it works."
+    TAKERU: "Does walking to Mirako with you count as billable hours?"
+    KENTA: "Of course not. It's not a job just walking next to me."
+    TAKERU: "You'd have a lot more people walking with you this early if you paid them though."
+    KENTA: "If you're so eager to pay off your debt, then let's move the automaton clock out from our room. The festival is three days from now so it'll have to happen eventually."
+    TAKERU: "Fine by me. Let's get it over with."
+    
+    The automaton clock in question is a big one. I have no idea where Kenta got it, but it's a plank of wood with some clockwork below and a nutcracker above, and apparently the idea is that that the puppetry of the nutcracker operates every hour in some sort of dance routine.
+    While I think the supernatural club is a bit silly, I don't see how this is any less ridiculous.
+    Luckily it's not as scorchingly hot as yesterday and we haul Kenta's latest acquisition to his space in the old wing without my sweating through my shirt.
+    I part ways with Kenta himself at the second year hallway and sit at my desk just as Meiko starts her daily speech.
+    It's something about rumors and fireworks and traditions and things like that, encouraging us to approach the festival with just as much enthusiasm as if it were the first time we'd experienced it. And for me, this will be the first time. This Sunday...
+    I can't put my finger on it, but I feel everything is rolling downhill, towards the festival. 
+    Maybe everyone else in our class is too, because I'm not the only one paying no attention through the whole of morning classes.
+    I escape class at lunch, but once I'm outside the classroom I'm not sure where I'm supposed to go.
+    NATSUMI: "Hey! My good friend Takeru."
+    TAKERU: "What is it you want?"
+    NATSUMI: "Oh I don't want anything in particular. If you're volunteering though, the guys and I have a fundraiser setup and we're looking for opinions."
+    TAKERU: "Of course you've got an agenda."
+    NATSUMI: "Nah, not like that. Anyone could give their opinion but a lot of the guys respect you so if you want to see..."
+    NATSUMI: "But if not, that's okay too. See you around!"
+    The next to leave is Meiko.
+    MEIKO: "..."
+    But she ignores me. Along with the half a dozen other people trying to get her attention.
+    TAKERU: "Meiko?"
+    But she vanishes down the hall, lost in the crowd.
+    I don't realize that I'm staring after her until I realize there's someone at my side.
+    HAGAMI: "Her..."
+    TAKERU: "Oh, hey Hagami. Sorry, I didn't see you."
+    HAGAMI: "That's alright."
+    For a minute, I'm not sure what she's looking at. Could she be staring after Meiko?
+    HAGAMI: "Are you coming?"
+    TAKERU: "Where?"
+    She glares at me with a single eyebrow raised, as if I'm being embarssingly stupid. Which is moderately likely.
+    TAKERU: "Oh. The old library."
+    HAGAMI: "...Yeah."
+    TAKERU: "I don't know. You don't think it'd be a little uncomfortable?"
+    if confronted_hagami:
+        After what I've done to Hagami...
+    else:
+        After what I did to Mana...
+    HAGAMI: "Maybe."
+    HAGAMI: "I don't think anyone would mind."
+    She leaves. I'm not sure if I'm supposed to follow, so I don't. Maybe someday, but... Not now.
+    I'll head downstairs instead.
+    
+    At this point I'm not sure why I bother checking for Hikari. She's never here. She's never even in class any more.
+    I pass Kunida's office, then the storage room Kenta's using for a workshop...
+    Finally, the tearoom. The door is open. That's unusual. But I see a girl standing by the window.
+    TAKERU: "Hey Hika- "
+    MEIKO: "Takeru?"
+    TAKERU: "Meiko? What the - "
+    TAKERU: "You scared the hell out of me."
+    MEIKO: "You're the one who walked in, aren't you?"
+    TAKERU: "The door was open."
+    MEIKO: "Weren't you looking for me?"
+    TAKERU: "Er... Not really."
+    MEIKO: "Well. What are you doing, then?"
+    TAKERU: "Nothing really. I saw the door open, and... What's with the clutter?"
+    A jumble of boxes sit on top of the table. The shelves lining the room are empty.
+    Sitting on top of the pile, I spot a chessboard, with unpainted wooden pieces set in position.
+    MEIKO: "It's... complicated."
+    MEIKO: "I'm surprised you would ever come down here at all. Most students pretend this wing doesn't exist. It is a little gloomy."
+    MEIKO: "But if you're being honest... Have you seen a chess set around here?"
+    TAKERU: "Isn't there one on the table? What do you need chess pieces for?"
+    MEIKO: "No just any pieces... The set I'm thinking of is different. It's hand-painted, green and orange."
+    Hikari's set?
+    TAKERU: "Haven't seen it."
+    MEIKO: "I didn't think so."
+    She seats herself by the table and remains silent. I might as well sit down as well.
+    MEIKO: "I could've sworn it was here..."
+    TAKERU: "What do you need it for?"
+    MEIKO: "A project of mine... For the festival."
+    MEIKO: "It's not important."
+    MEIKO: "But you seem to know something."
+    I must suck at keeping a level face. Why is everyone so interested in Hikari's chess set?
+    TAKERU: "Sorry. I can't help you."
+    MEIKO: "Looks like we're at another block then. Neither of us is willing to say anything."
+    TAKERU: "You'd be angry if I did."
+    MEIKO: "And if I told you anything you wouldn't understand."
+    MEIKO: "It's a little sad. When we were kids, I felt like I could trust you with anything, even when the rest of the world was against me."
+    MEIKO: "Haha, kind of shame."
+    But she refuses to say anything more. We stare at each other with the board between us.
+    It's not like I can say anything, can I? If I told her all of this garbage about Hikari appearing, about trying to save her, at best Meiko would explode again, and at worst I'd find myself in the long-term care unit at the psych ward.
+    So I hold my tongue, no matter how much I want to say something reassuring, because there's something in Meiko's eyes that looks deeply unhappy.
+    MEIKO: "See you."
+    TAKERU: "You're leaving?"
+    MEIKO: "I'll have to find something else to use. Goodbye."
+    TAKERU: "Meiko, hang on - "
+    I follow her into the hall, but there's someone else outside.
+    MEIKO: "Oh, excuse me."
+    HIKARI: "M-Meiko. You. I..."
+    MEIKO: "I'm sorry, you know my name but I don't know yours."
+    HIKARI: "You really did forget."
+    MEIKO: "Ah... You're in our class, aren't you? I apologize. As class rep it's my job to get to know everyone - "
+    HIKARI: "Say my name."
+    MEIKO: "I'm sorry?"
+    HIKARI: "Say it. My name. I know you know me."
+    HIKARI: "Or did you really try that hard to forget it?"
+    MEIKO: "..."
+    MEIKO: "You must've mistaken me for someone else."
+    Hikari takes off down the hall.
+    MEIKO: "Well. That was a little odd. Is she a friend of yours? Takeru?"
+    TAKERU: "Hold on a second. I need you to be honest with me."
+    TAKERU: "Do you really not remember that person who was standing right here?"
+    MEIKO: "Her face is familiar. She's our classmate, isn't she?"
+    TAKERU: "But apart from that, you don't know her?"
+    MEIKO: "No, it's strange. She's hard to place."
+    TAKERU: "And you're not lying as part of a grudge or a game or anything like that?"
+    MEIKO: "Of course not."
+    TAKERU: "And you're not lying to me just to hurt me?"
+    MEIKO: "No, I..."
+    MEIKO: "I had hoped you would trust me more than that."
+    TAKERU: "You've done all of those things before and never even once apologized, so sorry if I'm suspicious. See you later."
+    I chase after Hikari, heading upstairs, leaving Meiko standing the hall.
+    That probably hurt her. But I can't care about that right now.
+    TAKERU: "Hikari? Hikari!"
+    TAKERU: "Great... I finally find her and then she takes off on me."
+    When I've checked both ends of the hall, I double back to the staircase and head up the the top floor landing. There's still no sign of Hikari, but the door to the library is open. Mana's laughter escapes the room.
+    I guess it's possible Hikari ran back to the old library to try to continue the research. I poke my head.
+    TAKERU: "Hey."
+    MANA: "Takeru! I was wondering when you'd show up. We already started eating but - "
+    TAKERU: "Did you see Hikari run by here?"
+    MANA: "Who?"
+    HAGAMI: "Nobody."
+    MANA: "Who's Hikari?"
+    TAKERU: "She's... You met her last night."
+    MANA: "Oh, there was the seance, and then... Weren't we supposed to have a transfer student?"
+    TAKERU: "Don't tell me your memory's faulty too. Never mind. Hikari is - "
+    HIKARI: " - is me."
+    TAKERU: "Hikari?"
+    HAGAMI: "Welcome. Mana, this is our transfer student that will be joining."
+    MANA: "You are? Oh, you're even more solemn and mysterious than I thought! Hagami told me all about you, how you can tell the future and read palms and consult with spirits and - "
+    HIKARI: "Excuse me, what?"
+    MANA: " - and you're a real-deal magus! A reincarnated sorceress who could trace her blood all the way back to - "
+    HIKARI: "You? You filled her head with this garbage?"
+    Hagami doesn't reply and is suddenly very interested in her book.
+    Well, at least I'm glad to see I'm not the only target of Hagami's bizarre humor.
+    MANA: "...Does that mean it's not true? But you're so pretty and dignified-looking, you look so much like what a magus should be."
+    HIKARI: "Hm. Well if you say so..."
+    HIKARI: "Maybe a bit is true."
+    MANA: "I'm so happy you're joining! You need to tell me about where you're from, and where you learned everything, and I have a question about palmreading, it's probably a really silly question, and you'd laugh at me, but - "
+    While Mana badgers Hikari, I sit next to Hagami.
+    TAKERU: "You're ruthless."
+    HAGAMI: "I only told Mana what Hikari said herself last night."
+    TAKERU: "Yeah, sure..."
+    HAGAMI: "You were looking for her?"
+    TAKERU: "I hadn't seen her since last night, and then there was this thing with Meiko... I'll tell you later."
+    
+    
