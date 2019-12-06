@@ -163,5 +163,107 @@ label day28
     TAKERU: "Yeah, sure..."
     HAGAMI: "You were looking for her?"
     TAKERU: "I hadn't seen her since last night, and then there was this thing with Meiko... I'll tell you later."
+    TAKERU: "Kenta said the new set of books should start showing up tomorrow."
+    HAGAMI: "Then we'll have... two days until the festival."
+    TAKERU: "You think something will happen then?"
+    HAGAMI: "That will be the one year anniversary. I talked to Mana a bit this morning, about what she remembers from last year."
+    TAKERU: "What'd she have to say?"
+    HAGAMI: "She didn't know Hikari when she was alive, but she met her once or twice when they were in the same middle school in Shizukawa. And when she died, her uncle was broken up about it, so she did know some of the details."
+    TAKERU: "Mr. Kunida, huh..."
+    HAGAMI: "I think the reason I can meet her normally... Maybe it's because I didn't know her before she died. You didn't either."
+    TAKERU: "You think? I kind of thought..."
+    if confronted_hagami:
+        Well, before I thought I could "see" Hikari because she didn't exist, and Hagami could "see" Hikari because she was pretending to be Hikari.
+        Now I have no theories so this one sounds good enough.
+    HAGAMI: "I know I've read about something like this before... Maybe not in a book. I can't remember."
+    TAKERU: "We'll keep up the research tonight?"
+    HAGAMI: "Yes."
+    TAKERU: "Thanks. I know you're busy with practice for the festival and I'm really really grateful for your help."
+    MANA: "...ahem. Did you hear? What do you think?"
+    TAKERU: "Huh?"
+    MANA: "You two are too busy whispering over there."
+    MANA: "I've gotten grandmaster Hikari here to agree to try fortunetelling at our booth at the festival!"
+    HIKARI: "I'm not sure you - "
+    MANA: "Sorry, sorry, you're only master level, not grandmaster, right. Does that sound good? Hagami? Takeru?"
+    TAKERU: "I'm sure Hikari would be great at it."
+    HIKARI: "I said I'd consider it. I might not even be at the festival."
+    MANA: "But... It'd be so great to have you! If it's the four of us, we can take turns manning the booth while the rest of us go exploring."
+    TAKERU: "Sorry if I haven't mentioned it, but I might have to help out Meiko during the morning."
+    HAGAMI: "And um... I won't be free until the afternoon."
+    MANA: "Hagami? Takeru I'd expect to flake out, but... What're you up to?"
+    HAGAMI: "..."
+    MANA: "It's true then?"
+    MANA: "You're going to be performing?"
+    HAGAMI: "Um... Maybe."
+    MANA: "Hagami! I don't believe it. I'm so angry. Why didn't you tell me? You can't not tell me these things!"
+    But Mana has already leapt to the other side of the table and is now hugging Hagami.
+    MANA: "You're finally going to perform again! I knew you could do it! I'm so mad at you for not telling! You'll be great! I can't wait."
+    HAGAMI: "How did..."
+    MANA: "It's on the program. Look! It's you!"
+    Mana brandishes the same pamphlet I saw her showing Meiko yesterday.
+    The entry lists Inori Hagami as performing something called the Moonlight Sonata in a fifteen minute slot on the afternoon of the day of the festival.
+    MANA: "I can't believe it! I know how talented you are. I can't wait to hear you play again! You're such a terrible person for not telling me!"
+    HAGAMI: "Um..."
+    This time it's Hikari whispering to me.
+    HIKARI: "Did she really not realize her best friend was spending hours in the piano room every night?"
+    TAKERU: "It's Mana. Probably not."
+    HIKARI: "Fair. And it's not like I've ever heard a sound, but, still..."
+    TAKERU: "Hey, Hikari... About earlier..."
+    HIKARI: "Earlier what?"
+    TAKERU: "With Meiko..."
+    HIKARI: "Her."
+    TAKERU: "Yeah, her. She was after your chess set. Any idea why?"
+    HIKARI: "No."
+    I spot the chess set in question, tucked into a corner next to the rabbit teapot on a bookshelf.
+    TAKERU: "One of these days you'll have to tell me why you have such a grudge against her. I get Meiko isn't the easiest person to deal with, and maybe she won an election for class rep, but that - "
+    HIKARI: "You really don't understand anything, do you?"
+    TAKERU: "What?"
+    HIKARI: "You're a dear friend Takeru, but you can be a bit thick-headed, and while I trust you a lot, I..."
+    HIKARI: "Some secrets we should take to the grave."
+    TAKERU: "Hikari?"
+    But she's on her feet, breaking into the one-sided conversation Mana is currently waging against Hagami.
+    MANA: " - unbelievable! This is the best news I've had in weeks! You're a terrible person for not telling me sooner! And - "
+    HIKARI: "Hagami, I'm sure you'll be busy practicing before your performance. I'll cover your booth for you."
+    HAGAMI: "You... You will? You'll be there?"
+    HIKARI: "I'll try. If no one sees me, then they'll say the supernatural club booth is haunted. And that should be fine."
+    HAGAMI: "I, um... Thank you."
+    The rest of lunch is spent discussing how exactly Mana plans to manage things the day of the festival -- slots for covering the club's booth, then sneaking off for Hagami's performance, etc. And as much as I try to get Hikari's attention, she inserts herself just enough into the conversation that I can't figure out what exactly happened today with Meiko.
+    When we run out of time, Hikari takes off with only a wave.
+    HIKARI: "Goodbye. Take care, Takeru."
+    TAKERU: "I'll see you tonight?"
+    But she's gone.
+    MANA: "Where'd she go all of a sudden?"
+    TAKERU: "Class, I guess. We'll all probably be late as is."
+    MANA: "What? No! I have gym next! I need to change! Byeee!! Hagami, I still haven't forgiven you, but you're amazing. Bye for real!"
+    Her footsteps fade down the hall.
+    TAKERU: "I didn't tell Mana anything about the festival, I swear."
+    HAGAMI: "...It's alright. She would've found out eventually."
+    TAKERU: "You're definitely performing then?"
+    Hagami only shrugs.
+    TAKERU: "We should get to class."
+    HAGAMI: "...Yeah."
+    It's a straightforward path from here to the chem lab. But of course, this being the Mirako school, it's stilll quite the walk, and halfway through I feel the need to say something to break the silence.
+    TAKERU: "Mana was happy you were going to perform. Was it really that important I keep it a secret?"
+    HAGAMI: "I still might not."
+    TAKERU: "Meiko has the schedule locked in. There's no backing out now."
+    HAGAMI: "..."
+    TAKERU: "But you're a professsional, arent't you? That fancy music school, the Showa Academy, didn't you transfer from there?"
+    HAGAMI: "Yes. But..."
+    I wait for her to complete the thought, but we arrive outside the lab before she answers.
+    TAKERU: "That tape that you always put on when you're alone in the library, the ones with Inori Keiji/Naomi on the label... Are those your parents?"
+    Five second pause.
+    HAGAMI: "He's my father. But her, I'm not..."
+    HAGAMI: "Does it matter?"
+    TAKERU: "I guess not. I was just curious."
+    HAGAMI: "If I don't perform on festival day, you won't judge?"
+    TAKERU: "No, but well, it's already decided, isn't it? Meiko has you on the schedule, so if even if you didn't want to..."
+    But she's gone, off to her own lab station on the opposite side of the room.
+    TAKERU: "Was that the wrong answer?"
+    I'm left to wonder that as I attempt the lab with my nonexistent, incorporeal lab partner.
+    Damn that Hikari. She's willing to show up to weird confrontations with Meiko, or to impress poor Mana, but when I'm struggling to understand reaction formulas, she's nowhere to be found.
+    I'll just have to hope she hold true to her word and shows up tonight.
+    
+    
+    
     
     
