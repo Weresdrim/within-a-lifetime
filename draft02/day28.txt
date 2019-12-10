@@ -263,7 +263,91 @@ label day28
     Damn that Hikari. She's willing to show up to weird confrontations with Meiko, or to impress poor Mana, but when I'm struggling to understand reaction formulas, she's nowhere to be found.
     I'll just have to hope she hold true to her word and shows up tonight.
     
+    She does.
+    In fact, after classes end, by the time I've finished all my work and returned to the old library, Hikari has beaten me there.
+    We're the only two in the room. The sunset outside is the only light.
+    TAKERU: "Hikari? How long have you been here?"
+    HIKARI: "Hum. Maybe I've been waiting a bit."
+    TAKERU: "Ready to get back to work?"
+    HIKARI: "Work?"
+    TAKERU: "You know. Research."
+    HIKARI: "Oh. I guess."
+    TAKERU: "I can tell that's not what's really on your mind."
+    HIKARI: "You've gotten more observant recently. It's annoying."
+    TAKERU: "No, I've just gotten to know you better."
+    TAKERU: "Does this have anything to do with Meiko this morning?"
+    HIKARI: "..."
+    MANA: "Ah! Hey! Takeru! You beat me here for once! And um, our new member. Hi! I'm Mana."
+    But I'm interrupted.
+    HIKARI: "Yes, we've met."
+    MANA: "I think? But... Then..."
+    HIKARI: "You've forgotten my name."
+    It looks like this is how it's going to be. Mana just won't be able to see Hikari as she really is. Even though they met only hours ago, Mana can't remember. She stills Hikari as the indigo-child magus-first-class whatever-garbage-Hagami-said new transfer student.
+    Hagami shows up a few minutes later and we pick up where we left off, going through the bottom of the barrel books on the paranormal, page by page. Mana and Hikari work together, sort of. It's more the two of them chatting.
+    We run through the first book of the night with no hits, then the second. I finally feel I have to kick off some conversation other than the work in front of us.
+    TAKERU: "You're a cruel person, did you know that?"
+    HAGAMI: "...?"
+    TAKERU: "Convincing Mana that the fourth club member was some sort of paranormal savant. You realize this joke's going to play itself out every time they meet now, right?"
+    HAGAMI: "Hikari doesn't seem to mind."
+    TAKERU: "You think?"
+    HAGAMI: "Well..."
+    At the opposite end of the table, Hikari has the green and orange chess set out. She seems to be explaining the pieces.
+    TAKERU: "I guess Mana does seem to look up to her. You think Hikari likes having an admirer?"
+    HAGAMI: "Who wouldn't?"
+    Mana makes the first move on the chess board. And then Hikari immediately jumps to correcting her.
+    I remember when that was me on the opposite side, only a handful of weeks ago.
+    TAKERU: "She sure could use more people to talk to, more than just me."
+    HAGAMI: "...Yeah."
+    TAKERU: "So you tried to set things up with her and Mana? Or was it just one of your weird jokes?"
+    HAGAMI: "Bit of both."
+    TAKERU: "Why not just reach out to Hikari yourself? You're the only other one that can hold on to her name from day to day."
+    HAGAMI: "Don't know. Guess that's just who I am."
+    HAGAMI: "Should we start the next book?"
+    TAKERU: "Sure."
+    I didn't think there were any more books in the pile. In fact, this next one isn't even bound. It's a bunch of sheets of old paper folder together. I flip through the thing to figure out what language it is, but the entire first half is wordless, with only horizontal lines and black dots.
+    TAKERU: "What's this supposed to be."
+    HAGAMI: "Ah. It's sheet music. An opera score."
+    TAKERU: "Oh. I guess you want to check the lyrics?"
+    HAGAMI: "Maybe we'll find something."
+    Maybe. I return with an Italian dictionary. I don't think Hagami much understands what's supposed to be happening in this rotten old thing, and as far as I can make out, it's an opera about fairies and midnight dances and not much about ghosts at all, especially not ghosts over in the corner pointing and gesturing at a chessboard, trying to explain castling to a hapless first-year.
+    HAGAMI: "...You're not really into music?"
+    TAKERU: "Huh? Sorry, I was looking at something else. What's the next word?"
+    HAGAMI: "No, I... It was a question. You didn't recognize that this was sheet music?"
+    TAKERU: "No. I'm a bit tone-deaf."
+    HAGAMI: "Oh."
+    She doesn't spell out the next word.
+    HAGAMI: "If we find the way to help your friend... When Hikari's fine..."
+    HAGAMI: "You'd probably leave the club. Wouldn't you?"
+    TAKERU: "Why would I do that?"
+    HAGAMI: "You're flustered when we do anything that supernatural club would do. Robes, or field expeditions... Things like that."
+    HAGAMI: "You laugh at the manga Mana reads. Music isn't your thing. And... that's all I do."
+    HAGAMI: "I know Mana has weird ideas about your joining the club, but I know you wouldn't want to do it on your own, and you're only looking out for Hikari, so I figured after we've finished..."
+    HAGAMI: "I'll be sad to see you go."
+    TAKERU: "You think I'll leave once the festival's over and this thing to save Hikari is through."
+    HAGAMI: "...It doesn't matter."
+    I look over at the other end of the table. Mana's moving a pawn sideways, and Hikari's losing her mind.
+    It's evening now, fully dusk outside. Hagami flips a page in the opera printout, then reaches to a switch on the radio, and a tin orchestra starts playing, almost inaudible.
+    TAKERU: "I don't think I'm going anywhere."
+    if confronted_hagami:
+        TAKERU: "I feel like an idiot saying it, but I don't think I've felt at home anywhere else since I came to Mirako."
+        HAGAMI: "Ah."
+        But even for her one word response, I see Hagami is smiling next to me.
+        HAGAMI: "I never thought I'd feel at home with anyone here, other than Mana."
+        HAGAMI: "Even if I understand you don't see me as anything but a friend, or an acquaintance, or..."
+        HAGAMI: "I'm glad you're here."
+        I don't know why I have this feeling of intense regret.
+        There's someting I want to put into words. An apology to Hagami, maybe something else, but I can't articulate it, it escapes me, and the moment is lost.
+    I'm interrupted.
+    HIKARI: "Takeru, you need to help. Please show this poor girl how to capture with a pawn. Unless someone demonstrates it, she's hopeless. Useless.
+    MANA: "I'm sorry, Grandmaster Hikari! I'm trying!"
+    HIKARI: "Oh, come on, pay attention and you'll get it. And don't call me that ridiculous title."
+    MANA: "Okay, Magus Hikari! I won't call you anything ridiculous. And I want to learn!"
+    HIKARI: "That's the right attitude. Takeru, are you going to demonstrate or sit there staring?"
+    TAKERU: "Ah, sorry. Let's see."
+    We work until curfew.
+    Hagami and I hit the bottom of the pile of books. The last couple are all not real books, and instead irregular things, like the opera text, or copies of posters, or pamphlets photocopied and printed and folded.
+    There's nothing to be found. No breakthrough.
+    But I still feel like the time hasn't been wasted.
     
-    
-    
+    jump day29
     
