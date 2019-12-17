@@ -1,0 +1,49 @@
+label day29:
+
+    Morning.
+    Two days to the festival.
+    I think Kenta must've left already, because the sun is already up, and the room is empty of any annoying pet clocks of his that'd wake me up.
+    But when I show up downstairs, he's still in the common room, carrying a box.
+    TAKERU: "Kenta! Good morning, isn't this pretty late for you?"
+    KENTA: "Good morning. Maybe if you'd woken up earlier I wouldn't have had so much work to do. Here, carry this and we'll only have one trip left."
+    TAKERU: "What is this stuff? Clocks? It's heavy as hell."
+    HAGAMI: "Books. Papers."
+    KENTA: "This is the first shipment. There's more arriving tomorrow, and then everything not express will be here in a week."
+    TAKERU: "Oh, right. And you're working with Hagami?"
+    They both shrug.
+    KENTA: "She gets up earlier than you. Now let's hurry up."
+    HAGAMI: "Here."
+    TAKERU: "Oof! Are you sure this one isn't cinderblocks?"
+    
+    I underestimated how heavy a box of books could be. It's not much bigger than my everyday bookbag, but stuffed full of the moldy old papers Hagami and Kenta ordered, there must be fifty pounds of ghost research in here.
+    I'm in a dead sweat by the time we manage to offload our cargo in the old library. Kenta doesn't seem very impressed with the place.
+    KENTA: "You know the school has a real library on the ground floor."
+    TAKERU: "Yeah but they wouldn't want all this stuff."
+    KENTA: "That's true. I don't know why anyone would want this, but if you're starting out as collectors, I won't discourage with you."
+    KENTA: "You shouldn't fool around with fire hazards, though. I'll have to report you."
+    TAKERU: "Fire hazard?"
+    KENTA: "You have about a hundred of them right there on the floor."
+    TAKERU: "Oh, the candles. Hagami, can we get rid of those?"
+    HAGAMI: "No."
+    KENTA: "Just because you fused them all into one doesn't make it only one fire code violation. This is about a hundred strikes on the school safety policy, and you only have one strike before your club - "
+    TAKERU: "I get it, Kenta. Doesn't class start in five minutes?"
+    KENTA: "You're right as ever! I'm already late!"
+    TAKERU: "Hagami, are you coming?"
+    TAKERU: "Hagami?"
+    She's ignorging me as surely as if she had her headphones on, standing there, leafing through pages of... sheet music?
+    TAKERU: "Hagami - "
+    But Kenta practically drags me out.
+    
+    Hagami isn't present for today's Meiko speech, nor is Hikari.
+    I don't catch most of what Meiko's talking about, mostly class plans for the festival. It doesn't seem like anyone else really cares for details either at this point. The bottom line is: two days away, and the energy is palpable.
+    Until Mr. Kunida takes to the front of the room to lead off the day with the math quiz.
+    NATSUMI: "This sucks. In 48 hours it's going to be festival mania, and this guy kicks things off with a pop quiz?"
+    MEIKO: "It's not a pop quiz. Everyone else has been studying all week."
+    NATSUMI: "No way. Really? Takeru, back me up here."
+    TAKERU: "What?"
+    Hagami still isn't here.
+    MEIKO: "The quiz. You studied, didn't you?"
+    TAKERU: "Oh, no, I guess I got caught up in more important things."
+    MEIKO: "Takeru! If you were having trouble, you should've come to me for help!"
+    NATSUMI: "That's the spirit, Takeru. Hey Meiko, if you pass Takeru the answers, he can pass them straight on to me. How's that sound?"
+    MEIKO: "It sounds like we'll have two more students for remedial math."
