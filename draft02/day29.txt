@@ -27,10 +27,13 @@ label day29:
     HAGAMI: "No."
     KENTA: "Just because you fused them all into one doesn't make it only one fire code violation. This is about a hundred strikes on the school safety policy, and you only have one strike before your club - "
     TAKERU: "I get it, Kenta. Doesn't class start in five minutes?"
-    KENTA: "You're right as ever! I'm already late!"
+    KENTA: "Ah! You're right! I'm already late!"
     TAKERU: "Hagami, are you coming?"
     TAKERU: "Hagami?"
     She's ignorging me as surely as if she had her headphones on, standing there, leafing through pages of... sheet music?
+    HAGAMI: "I'm almost there."
+    TAKERU: "Are you sure?"
+    HAGAMI: "This is it. I think."
     TAKERU: "Hagami - "
     But Kenta practically drags me out.
     
@@ -47,3 +50,261 @@ label day29:
     MEIKO: "Takeru! If you were having trouble, you should've come to me for help!"
     NATSUMI: "That's the spirit, Takeru. Hey Meiko, if you pass Takeru the answers, he can pass them straight on to me. How's that sound?"
     MEIKO: "It sounds like we'll have two more students for remedial math."
+    NATSUMI: "Meeeikooo! If I flunk out, I'm not hanging out with you at the festival!"
+    I sigh. At least this is the last real school thing we'll have to do before the festival on Sunday. I'm not sure when I started looking forward to the thing. But I am.
+    
+    I'm even in a good enough mood that I don't care if I failed the quiz or not.
+    Natsumi won't stop griping about it as she leaves the room with the rest of her gang.
+    Even as I scan the room, I don't spot Hagami. She wasn't even late, she just skipped class altogether.
+    MEIKO: "Looking for someone?"
+    TAKERU: "Sort of."
+    MEIKO: "Hagami? I won't report her."
+    TAKERU: "Really?"
+    MEIKO: "I suppose she's nervous."
+    TAKERU: "Oh. The performance."
+    MEIKO: "You're in her club so I have no doubt you already know this... But before you showed up, I don't think I'd ever seen her talk to anyone in our class. I was shocked that she wanted to perform publicly."
+    TAKERU: "Yeah... Me too."
+    MEIKO: "Did you want to grab lunch?"
+    TAKERU: "I'm not sure. I kind of feel like I should go find her. She should be here today."
+    MEIKO: "If someone's counting on you, you have to be there for them. Do what you have to do."
+    But Meiko still strikes me as apprehensive.
+    TAKERU: "Sorry."
+    And as I walk away from her, the apprehension only grows.
+    
+    And grows... and grows.
+    At first I hesitate outside the door. It doesn't sound like there's anyone in there, and the last thing I want to do is eat alone in that place.
+    But there's a voice beside me.
+    HIKARI: "I think she's in there."
+    TAKERU: "What? Where'd you come from?"
+    HIKARI: "I've been trying to get your attention all morning."
+    TAKERU: "My hearing must be failing me."
+    HIKARI: "No, it's just my everything is failing me."
+    TAKERU: "Oh... Right."
+    When we enter, Hagami is sitting alone. Mana is nowhere in sight, but the table is covered in ancient sheet paper and while Hagami has no book in front of her, there's a crooked smile on her face, broader than I've ever seen before.    
+    TAKERU: "Hey Hagami."
+    HAGAMI: "Hi Takeru. And Hikari."
+    Hikari smiles. She always seems to do that, when she hears her name from someone else.
+    We sit down.
+    TAKERU: "Mana's out?"
+    HAGAMI: "Maybe."
+    TAKERU: "You don't know? Have you been here all morning? You weren't in class."
+    HAGAMI: "Yeah. Maybe."
+    HIKARI: "What's are all these pages? Takeru, is this some of the rubbish you two ordered online? I appreciate that you'd go that far for me, but - "
+    TAKERU: "Hikari, hang on. Hagami, this morning, you said you found something?"
+    HAGAMI: "A breakthrough."
+    HIKARI: "You're sure?"
+    HAGAMI: "A bit of a breakthrough..."
+    HAGAMI: "I knew I'd heard a story like yours before."
+    HAGAMI: "A story. That was it. That's why we couldn't find it in reference books. But I think..."
+    HAGAMI: "Maybe I know what you are."
+    HIKARI: "Really? You're sure it's - "
+    HIKARI: "It's probably nothing."
+    But I notice as much as Hikari is trying to appear disinterested, she's hanging on Hagami's every word.
+    HAGAMI: "Here. It was in the box Kenta brought this morning."
+    Hagami shuffles the loose paper together then flips through the pages. It looks like... sheet music?
+    And pages and pages of paper covered in diagrams of the human body, all with twisting lines and labels in French scrawling across the page. Hagami continues to thumb through it. Only the last few pages are prose.
+    Then there's a header page. It looks like a flier. An advertisement?
+    HAGAMI: "It's an opera. La Dame Blanche. By Berlioz, the only one he wrote."
+    HIKARI: "A what?"
+    HAGAMI: "It's about a ghost. The heroine dies at the start."
+    HIKARI: "You're saying I'm a character from an opera? That looks centuries old. What are you - "
+    TAKERU: "Let her explain."
+    HAGAMI: "...It's just an example. It's based on legend, even older. See..."
+    HAGAMI: "The story has the same theme. Even from cultures oceans apart. This is just... the example I know best."
+    HAGAMI: "Giselle is the heroine. She's shy, but she's a dancer. She's engaged to the hero, Albrecht, but she has a weak heart. She dies in his arms."
+    HAGAMI: "So she has unfinished business. She comes back from the dead to finish it. To marry him, I guess. But he doesn't recognize her. And then he forgets her. He can't notice her. Albrecht marries some other girl instead."
+    HIKARI: "This doesn't sound like it has a happy ending."
+    HAGAMI: "And then, Giselle and Albrecht... They dance together at the midnight ball. And everything comes back. He remembers. She can finally touch him."
+    HAGAMI: "After that..."
+    Hagami pauses from her summary to glance at the wide-eyed Hikari.
+    HAGAMI: "Well... It's a fairy tale, so the ending is bittersweet. But before that, they're happy. There's closure."
+    HIKARI: "I'm alright with a bittersweet ending. That sounds like me. But apart from that, how do I fit into the opera story? I can see some similarities, but..."
+    HAGAMI: "The plot of La Dame Blanche is an archetype. The common part of all these legends and stories is that the dead come back to finish their lost dreams in life. Even if they come back to a world that forgets them."
+    HAGAMI: "And then when they've done what they're meant to do... When Giselle finally has her last dance, in this case... The world remembers them again. They come back."
+    HIKARI: "Yes, but..."
+    HIKARI: "I don't have any unfinished business. I was never engaged to anyone, like your heroine. I never got that chance with anyone. I barely knew anyone here, and no one like that. I accomplished nothing. So how could I leave anything unfinished?"
+    HAGAMI: "Is that... really true?"
+    TAKERU: "I get it, Hikari. It's the fireworks."
+    HIKARI: "What?"
+    TAKERU: "You said... All you wanted to do was spend time with your friends under the fireworks."
+    HIKARI: "I always dreamed about the fireworks, I suppose. And those friends never seemed to be there for me. You really think..."
+    TAKERU: "Right. It's something small, but it would've meant a lot to you."
+    HAGAMI: "I thought so too. It's small dreams. Simple things. They count the most."
+    HIKARI: "The pieces might fit, but, I still think it sounds... I don't know. Far-fetched. A bit quaint."
+    HIKARI: "What would I be supposed to do, even if this story was a real thing? The fireworks are cancelled this year."
+    TAKERU: "Maybe not."
+    TAKERU: "I talked to Meiko. I don't think I changed her mind, but, it's a start."
+    HIKARI: "Don't be ridiculous. You can't just put on a fireworks show with a day of planning. Don't get me wrong, I appreciate the effort, Takeru, but this just seems like a dead end. I don't see what - "
+    TAKERU: "The fireworks are here. The box is downstairs. The order isn't refundable, so - "
+    TAKERU: "Never mind, but it's possible. I'll talk to Meiko again. This is more important than I thought. I just have to find a way."
+    HIKARI: "It's not important. It's not even feasible for the school the change its schedule like that."
+    TAKERU: "But what if this is what you need to fully come back? The key?"
+    HIKARI: "If I've learned anything since I died it's that the world doesn't revolve around me."
+    HIKARI: "Don't get me wrong, I'd love to see the fireworks with you before I disappeared for good, but I gave up on that a long time ago."
+    HAGAMI: "The schedule. Right at the end, there's that block of time... Everyone was saying the fireworks were scheduled there, once. And they'd be a surprise."
+    TAKERU: "That's Natsumi spreading a rumor. I've talked with Meiko. She cancelled the show once, but I bet she could uncancel. If anyone could, it'd be her."
+    HIKARI: "A time block? I hadn't heard any rumor."
+    HAGAMI: "Here."
+    She opens a multipage pamphlet, and sure enough, there's a map of the school, a timetable, and general info on what's going on where during the festival day.
+    Each club or display has its own info printed as well. I think I helped edit this.
+    HAGAMI: "It just came out today."
+    Hagami opens to the last page. There's the schedule for the main stage, outside by the fields.
+    HAGAMI: "See... 'Speeches from the council: TBD.'"
+    TAKERU: "That's right when it'll be getting dark, so of course everyone's been wondering what that was supposed to be. I think Meiko wanted to say something."
+    Another time slot on the pamphlet jumps out at me. It'd be hard to miss, seeing as how someone's underlined it three times in pen and drawn a star next to it.
+    TAKERU: "'Inori Hagami - Beethoven Piano Sonata No.14 Moonlight...'"
+    Before I can even finish reading it, the door to the library is thrown open.
+    MANA: "Hagami! Hagami Hagami Hagami!"
+    HAGAMI: "Um... Mana?"
+    I'd be shcoked too if Mana had dashed in and flung herself on me in a bearhug. When she stops crushing Hagami, I notice in her other hand is an exact copy of the pamphlet open in front of us.
+    MANA: "Hagami! You're performing? So this is why our club still had a spot! Why didn't you tell me? No kidding around, okay? I can't believe it!"
+    HAGAMI: "I'm sorry."
+    MANA: "Sorry? What do you mean? I'm thrilled! I'm so excited! I haven't heard you play anything in ages, and in public, wow, I can't..."
+    HAGAMI: "I'm sorry I didn't tell you earlier. I wasn't sure if I..."
+    HAGAMI: "It was going to be a surprise."
+    MANA: "I'm surprised already! When was the last time you played the piano for other people? Are you nervous? You must be nervous."
+    HAGAMI: "Yes."
+    MANA: "You'll be fine. Oh I can't wait! First you'll be on, and then maybe the fireworks will be back... Have you been practicing? What's the piece like? When did you..."
+    Hikari slides closer to me while Mana turns her attention to Hagami.
+    TAKERU: "What - "
+    She whispers.
+    HIKARI: "Has she been practicing though? She's been researching every night."
+    TAKERU: "But that's only been for the past few days. Before that she's been in the piano room every night."
+    HIKARI: "And I've never heard her once. Have you?"
+    TAKERU: "Maybe it's a quiet song?"
+    HIKARI: "You have very strange friends, Takeru."
+    TAKERU: "She did say it was fifty fifty if she went through with it..."
+    HIKARI: "By the way that silly first-year girl is smothering her, I think the decision is out of her hands."
+    TAKERU: "I don't understand what she's doing half the time."
+    HIKARI: "Neither do I. And while I'm grateful to Hagami, her conclusions are a little suspect. So I won't be rude, but I think there's something odd going on."
+    TAKERU: "Who knows? It's Hagami. Maybe it's a setup to some incomprehensible joke."
+    HIKARI: "As long as the joke isn't a prank on me again. Do you know how long I spent yesterday trying to explain to that Mana that I wasn't actually a wizard?"
+    TAKERU: "It looked to me like you enjoyed that."
+    HIKARI: "Hmph."
+    MANA: "...and I'll make sure my class is there too. I'm so happy for you. I had no idea you were ready for this kind of thing."
+    HAGAMI: "Neither did I."
+    MANA: "Takeru, you'll come, won't you?"
+    TAKERU: "For sure."
+    MANA: "And um..."
+    MANA: "Our transfer student! The wizard!"
+    HIKARI: "For the thousandth time, I'm not - "
+    MANA: "I'm sorry, I forgot your name, but you should come. You joined our club just in time! The festival is so amazing! I can't wait to show you around! And you can watch Hagami's show with us, and - "
+    HIKARI: "I wasn't planning on going to the festival."
+    MANA: "No way! How could you be a student here and not come? Is there a full moon or something? Do you need to gather herbs? Or perform a ritual on solstice? I could come. We'll do that! We'll go gathering what you need for - "
+    HIKARI: "Nevermind. Just be quiet and I'll go to the festival."
+    MANA: "And you'll watch Hagami too! This will be fantastic!"
+    Mana continues to vibrate with excitement. Hagami just eats her lunch.
+    I can see why she wanted to hold off telling Mana.
+    But didn't Hagami say she didn't want to disappoint Mana? Wasn't she unsure whether she'd actually play or not? I guess she must've gotten over whatever was bothering her if she's officially on the schedule.
+    Hikari seems to have picked up on it as well. She doesn't take her eyes off the pair until lunch is almost over.
+    HIKARI: "Takeru, Mana's just going to forget I promised to come if you don't remind her, so don't bring it up."
+    TAKERU: "Why not? You don't want to come? Isn't that what you were looking forward to last year?"
+    HIKARI: "Not really. No one will know my name. They can't see me. I have none of those friends left."
+    TAKERU: "We count, right?"
+    HIKARI: "Count as what?"
+    TAKERU: "You really don't think we're your friends?"
+    HIKARI: "Hah. You can be a little dull Takeru but you have your moments."
+    HIKARI: "And the rest of the club..."
+    TAKERU: "Hagami and I remember you. And we can introduce Mana as many times as she needs."
+    Hikari looks over to Mana who keeps pushing the festival schedule under Hagami's nose while she's trying to eat.
+    HIKARI: "Alright, I'll come. Dont' reintroduce me to Mana, but I'll come to watch Hagami perform. She did try her best at this whole ghost research thing."
+    TAKERU: "You think she's wrong?"
+    HIKARI: "Do you really buy her story?"
+    TAKERU: "Yeah. I mean, nothing about you makes sense anyway, and Hagami seems pretty sure about it. I believe her."
+    HIKARI: "That's good."
+    HIKARI: "Maybe being locked in that tea room really did make me a cynic."
+    HIKARI: "Alright, Takeru, I'll come and I'll even watch the fireworks. I'll be an optimist and count on you to figure out a way to make it happen."
+    TAKERU: "Meiko will figure it out. I just need to convince her."
+    HIKARI: "Thank you."
+    HIKARI: "I don't know if I've said that before..."
+    HIKARI: "And if I'm honest... I really would like to see the fireworks again, even if I forget it ever happened."
+    HIKARI: "If there's no memory of me left, I might as well try and make some new ones."
+    
+    I leave early to catch Meiko before class starts up again. When I get back to the classroom, there should be at least ten minutes.
+    And she's not there when I show up.
+    Good.
+    I have to think. What is it I'm even going to say?
+    Do I explain how I know Hikari? She'll think I'm insane. Do I make something up? Not mention Hikari at all?
+    Okay, take a step back, Takeru. You already made your case. There's no need to get nervous about this.
+    Still, I can feel myself starting to sweat. Why should I be nervous in the first place?
+    I just hope last time I didn't offend her. It felt like I stepped on her foot this morning and I hope I didn't ruin everything. And the only way to find out if I screwed this up...
+    ...is to talk to her. That's why I can't seem to sit still.
+    I keep track of every person walking through the door. No sign of her. Half the room is here. Then three quarters. Then only two desks are emtpy, both next to mine.
+    And Natsumi enters just at the bell rings.
+    TAKERU: "Oh, it's you."
+    NATSUMI: "Yep, it's me. You must be relieved. Were you worried I wouldn't make it in time? Never fear, I - "
+    TAKERU: "I really wasn't that concerned about you."
+    NATSUMI: "I know, I know. You were waiting for Meiko. Weren't you?"
+    TAKERU: "Maybe."
+    TAKERU: "If I were looking for her... Do you know where she is?"
+    NATSUMI: "She'd never skip, so she's probably in some meeting or other in the front office. Or the student council. Or the festival committe. Or both at the same time."
+    NATSUMI: "Honestly I'm amazed she finds time for class at all."
+    TAKERU: "Right."
+    NATSUMI: "So if you're gonna bug her about something silly, just remember there's a million more interesting people she could be talking to instead. Like me."
+    TAKERU: "Huh. I didn't realize I was that annoying to her... Yeah, maybe I should just - "
+    NATSUMI: "I was just kidding around. You should know not to take me that seriously."
+    TAKERU: "Oh."
+    NATSUMI: "You'd have to really try to piss her off though, I think. Why's she always wasting time with you when there's all this important stuff coming up? I keep trying to grab her to go over our team's fundraiser, or the secret fireworks plan, or whatever, and she's never here."
+    NATSUMI: "But then when you're around, she gives up her whole woman-of-steel persona."
+    TAKERU: "What?"
+    NATSUMI: "Okay, well, she's still sort of a woman-of-iron type."
+    TAKERU: "Never mind, I more meant about the fireworks."
+    NATSUMI: "Yeah, the secret fireworks plan that she's got. It has to exist. I wouldn't have expected you to get it but I'm impressed. What's your theory? What's our favorite woman-of-iron planning?"
+    TAKERU: "No theory."
+    NATSUMI: "Boo."
+    TAKERU: "Keep bringing it up though, I guess. Meiko knows you'd miss them?"
+    NATSUMI: "Of course she knows. I'm the best at nagging people."
+    TAKERU: "Right."
+    NATSUMI: "Hey, watch it. You're not supposed to agree with that."
+    TAKERU: "You're exhausting..."
+    NATSUMI: "Okay, sorry sorry. I'll be serious here. Do me a favor. If you do manage to find her, tell Meiko to take it easy. If she works any harder for this festival thing she'll die of exhaustion before the big day and then all my plans are shot. Big pain."
+    NATSUMI: "I've got no clue how she can manage the whole show and not look at all the worse for wear. Hell, after even one tough game I'm useless in class the next day."
+    TAKERU: "You're never useful in class."
+    NATSUMI: "Quiet down, you dope. The lesson's starting."
+    Natsumi makes a big show of watching the blackboard and intently taking down notes, but I could care less about class.
+    Does she not see that part of Meiko? Natsumi doesn't see any sign all that festival stress is getting to her?
+    I thought they were good friends. Natsumi seems observant enough, but maybe it's true what she said...
+    Everyone here sees Meiko as super-human, able to score top marks, organize half the festival, and even help the class study in her spare time, all without breaking a sweat.
+    Am I really the only one who's ever seen her sweating?
+    
+    There's less than an hour left in the school day, and I'm still struggling to come up with a way to win over Meiko.
+    Or even to break the silence. What am I supposed to do? Walk up to her and strongarm her into reconsidering? Plead with her?
+    Or I could explain how Hikari isn't actually dead, she's somewhere between life and death, and we trust each other, and she gives me advice, and she'd like the see the fireworks just once, and I'm not crazy, I swear I swear.
+    At the least, I'll drive myself crazy if I can't figure out a way to solve this.
+    Do I make something up? Lie to Meiko? Anything's worth it to save Hikari.
+    But she still hasn't shown back up to class. Maybe the real challenge will be hunting her down.
+    HAGAMI: "Um..."
+    TAKERU: "Hagami?"
+    HAGAMI: "Sorry. You looked like you were concentrating, but..."
+    TAKERU: "Oh. Class is over. I hadn't noticed. Thanks."
+    HAGAMI: "That... was almost five minutes ago."
+    HAGAMI: "Are you alright?"
+    TAKERU: "I'm fine."
+    TAKERU: "Oh, I almost forgot... Thanks for taking all this time to help Hikari. And I think your theory's good. It's worth a shot anyway. And we couldn't have found it without you."
+    TAKERU: "So I'm really sorry if we kept you away from practicing."
+    HAGAMI: "Oh... That. It doesn't really matter."
+    TAKERU: "You don't need it?"
+    HAGAMI: "No."
+    HAGAMI: "I know I can do it, I'm just..."
+    TAKERU: "Nervous?"
+    HAGAMI: "Yeah."
+    HAGAMI: "But that's not what I wanted to talk about."
+    TAKERU: "Oh, right, sorry."
+    HAGAMI: "About the theory. With Hikari... The story in the opera..."
+    HAGAMI: "There's a detail."
+    TAKERU: "What do you mean?"
+    NATSUMI: "Hey! Takeru!"
+    TAKERU: "Natsumi?"
+    NATSUMI: "You're still hanging around here? I thought you would've left by now!"
+    HAGAMI: "Bye."
+    NATSUMI: "Oh, were you talking to someone."
+    TAKERU: "Yeah, kind of. It's a bit of a bad time. Can you - "
+    NATSUMI: "I just heard that Meiko's in a last-minute festival planning thing down by the teachers' offices. Kunida mentioned something a schedule problem."
+    TAKERU: "Oh. Thanks."
+    NATSUMI: "Aha! So you were looking for Meiko! I knew it!"
+    TAKERU: "Didn't I literally tell you that?"
+    NATSUMI: "Oh. That makes it a lot less spicy. Thanks for nothing."
+    TAKERU: "You're welcome. See you later."
+    NATSUMI: "Hey, wait a sec!"
+    
+    
