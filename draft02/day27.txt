@@ -126,7 +126,7 @@ label day27:
     MANA: "But what if there were people in front of you?"
     KENTA: "Then it's those people's fault for being in the way."
     TAKERU: "Kenta, are you alright?"
-    KENTA: "Takeru, good afternoon. I'll be alright but the clockwork here might be damaged."
+    KENTA: "Hello, good afternoon. I'll be alright but the clockwork here might be damaged."
     TAKERU: "Still moving that stuff, huh?"
     KENTA: "I was until someone ran into me."
     MANA: "You're the one who - "
@@ -137,11 +137,11 @@ label day27:
     He trundles off down the hall.
     MANA: "Thanks for getting rid of him. What a jerk! Even one more minute looking at his face and I would, I would've..."
     TAKERU: "He's my roommate."
-    MANA: "This explains why you look like you're so miserable-looking all the time."
+    MANA: "This explains why you look like you're so miserable all the time."
     TAKERU: "I don't think - "
     MANA: "Well the seance will cheer you up! I'm just running home to grab supplies now, but I'll see you at the library."
     TAKERU: "I don't think we ever set a real time, did we?"
-    MANA: "Sunset! When you're in occult circles, that always means the witching our. Sunset! The time between day and night when magic is most - "
+    MANA: "When you're in occult circles, that always means the witching hour. Sunset! The time between day and night when magic is most - "
     TAKERU: "Okay, yeah, I get it, see you then."
     
     I try to use the spare time to find Hikari, but it's pointless. All her usual haunts are empty.
@@ -328,18 +328,57 @@ label day27:
     After I take off that formless red sack I definitely didn't wear all evening, I hold the door for Hagami, but I don't expect her to follow.
     But she's still there. Even when I leave Mirako for the road back, she walks by my side again.
     We walk in silence, which isn't unexpected, especially when she has her headphones back on.
+    
     The cool night is pleasant after the oppressive day. Across the Shizukawa, the moon illuminates the boathouse ruin.
-    We don't stop, but I know she must be looking that way.
-    We reach the dorms.
-    TAKERU: "I guess I'll see you later then."
-    She waves goodnight.
-    TAKERU: "And... thanks. I don't know how much of tonight you coordinated with Hikari..."
-    HAGAMI: "Not much."
-    TAKERU: "But it was fun. I'm sure Hikari would thank you too."
-    Hagami just smiles and replaces her headphones.
-    TAKERU: "So... Yeah. Goodnight."
-    I head up the opposite stairs to my own room.
-    I'm not sure why, but for the first time in a while I feel hopeful.
+    The footsteps by my side stop. Hagami has her headphones off.
+    TAKERU: "Are you looking at that old place?"
+    HAGAMI: "Yes."
+    TAKERU: "It's more grim than mysterious now, looking out there, knowing what happened to the place."
+    HAGAMI: "No... It's still mysterious."
+    TAKERU: "What do you mean?"
+    HAGAMI: "Hikari... Her nature... Why we remember her, others don't."
+    TAKERU: "You think we'll be able to figure it out in time?"
+    HAGAMI: "I've heard a story like this before. I know. We have to look in the right place."
+    TAKERU: "Right, we just have to keep looking. I wasn't feeling too good about it last night, but tonight was alright. The research part, I mean, not the seance part - that was a nightmare. But I'm more confident now that we'll find something."
+    HAGAMI: "Not me."
+    TAKERU: "You're less confident?"
+    HAGAMI: "We're out of books."
+    TAKERU: "What? But there are tons of books up in there. We've only gone through like twenty or thirty."
+    HAGAMI: "Did you not notice?"
+    HAGAMI: "The ones tonight... Those books, they weren't related. I didn't really expect to find much."
+    HAGAMI: "Maybe I dreamed up this story."
+    HAGAMI: "...It could've been nothing."
+    We walk in silence again, this time right up to the dormitory doors.
+    My stomach is turning. Just when I thought there was a plan and things were back on track...
+    Facing each other in the lobby, there's not much left to say.
+    HAGAMI: "I'm sorry. I'll do my best to remember."
+    TAKERU: "It's not your fault. Thanks again for helping with this."
+    KENTA: "You! Good evening."
+    TAKERU: "Kenta? Good evening."
+    KENTA: "Do you know what time it is?"
+    TAKERU: "Not really. Is this a joke because you're collecting clocks now?"
+    KENTA: "I never make jokes. You're out late after curfew. Again! I've tried looking the other way but you can't just break rules. Especially when you're coming back with shifty women."
+    TAKERU: "Shifty women? This is Hagami. You've met her. You have a damn class with her."
+    KENTA: "Oh? Which class?"
+    HAGAMI: "..."
+    TAKERU: "Computer science. It's your only elective class, so how could it be anything else?"
+    TAKERU: "What're you doing down here this late anyway?"
+    KENTA: "Placing some bids. Here, look. If I'd seen this automaton clock yesterday I could've ordered it in time to add it to my collection before the festival."
+    TAKERU: "Hey Kenta, maybe this is a weird question, but... Do you know anything about book collecting?"
+    KENTA: "That's a dull and meaningless hobby for dull and meaningless people. If you're looking to break into the field I have several friends that could get you started."
+    TAKERU: "Really? How about books on the paranormal? Know anyone into that sort of thing?"
+    KENTA: "I'm offended that you think it would require an expert for a field as dull, meaningless, and childish as that one, if you could call it a field. I'm a generalist but my skills would be more than enough to find the right lots for you."
+    TAKERU: "You could really do that for me?"
+    KENTA: "Sure. What's your budget, in time and money?"
+    TAKERU: "As soon as possible, and I have no money but I'll pay you back in labor by setting up your festival booth."
+    KENTA: "You've helped me out for free so far so why should I credit you for moving clocks around starting now?"
+    TAKERU: "Watch it or I'll invoice you for services rendered yesterday and before that too."
+    KENTA: "Okay, you have no time budget and a very, very limited monetary budget. What specifically do you want? Should I go through my normal booksellers? I sold an antique book on taxidermy to a friend in Osaka that has a collection of odd books, maybe he - "
+    TAKERU: "Hagami is the expert."
+    HAGAMI: "Um..."
+    TAKERU: "Let us know what you think would be most likely to have this description or story or whatever it was that sounded sort of like Hikari. Like an old encyclopedia, or some book that seems familiar. Anything. Kenta will find it."
+    KENTA: "I'll try anyway. Let's be quick. It's late already and I have a lot closing in an hour."
+    TAKERU: "Got it. Let's get to work."
     
     jump day28
     

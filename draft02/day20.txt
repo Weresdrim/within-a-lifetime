@@ -5,7 +5,7 @@ label day20
     Second thing: Kenta is still here, and it's under and hour until class starts.
     TAKERU: "Kenta?"
     He's definitely still here. I can hear him rummaging around, even if the huge cardboard box from yesterday is blocking my line of sight.
-    KENTA: "Takeru! I don't have time for you."
+    KENTA: "Oh good morning, sorry. I don't have time for you."
     TAKERU: "What?"
     KENTA: "I closed an auction ten minutes ago and now I'm short on time. I don't care what mixed messages you have for me today. This is dire."
     TAKERU: "...What?"

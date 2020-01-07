@@ -332,7 +332,7 @@ label day19:
     Brilliant work, Takeru.
     I arrive at the dorms. As expected, the common room is crowded with people working, eating talking...
     So I head upstairs. Only to spot someone down the hall at an open door.
-    KENTA: "Takeru? Good. You can help me with - "
+    KENTA: "Oh, it's you? Good. You can help me with - "
     TAKERU: "Ah. Hey Kenta."
     But he's clammed up again.
     TAKERU: "Kenta?"
