@@ -155,19 +155,426 @@ label day30:
     TAKERU: "I didn't know there was a meeting!"
     MANA: "Right! Exactly! That's why I'm here! Let's go!"
     TAKERU: "Look, Mana, I'm sorry, but I might have other, uh, commitments..."
-    MEIKO: "Takeru?"
-    This is the absolute worst timing for her to show up.
-    MANA: "You! You're the commitment?"
-    MEIKO: "I'm sorry?"
-    MANA: "Aren't you one of Takeru's weird friends? The one that wanted to shut our club down?"
-    MEIKO: "I'm sorry if we haven't met. I'm Kotaru Meiko. I'm a classmate of Takeru and I represent our class for - "
-    MANA: "You tried to shut down our club."
-    TAKERU: "And she also sign off on the application to bring it back."
-    MANA: "..."
-    The two stare at each other. And as much as Mana is trying to scrunch up her fists and look angry, it's fading away.
-    She finally looks back to me.
-    MANA: "But you'll come to the meeting, won't you?"
+    MANA: "But you'll come after you're done, won't you?"
+    TAKERU: "Let me just drop this off."
+    MANA: "Is that the cool wooden box? The one with the checkerboard pattern?"
+    TAKERU: "It's a chess board. It folds, out, see, and all the pieces are inside."
+    MANA: "Oh! I never knew what it was. I keep bringing it up to the library but someone keeps stealing it. It's very rude."
+    TAKERU: "I suspect a ghost."
+    MANA: "That must be it! I'm promoting you from Initiate to Ghost Detective in the Mirako Ghosthunter Union and - "
+    TAKERU: "Thanks. I'll come by the library as soon as I can, alright?"
+    MANA: "Thanks Takeru!"
     
+    Back on the roof, I find Meiko.
+    I sit down, but neither of us say word. She has her lunch laid out in front of her, but it's untouched.
+    The view is as impressive together. Down below, a small army of students posts signs, assembles booths, and generally mill around Mirako, preparing for tomorrow.
+    And the architect of this controlled chaos is sitting here, in front of me.
+    TAKERU: "Hey Meiko."
+    MEIKO: "..."
+    TAKERU: "I found it. There's always been a piece missing, but this is the chess set you were after, right?"
+    MEIKO: "It is. You know, I've been looking for that for a while."
+    TAKERU: "It's been floating around the unused wing forever."
+    MEIKO: "Maybe I haven't been looking in the right places."
+    TAKERU: "You go down there? I don't think I've seen you in that dust palace much."
+    MEIKO: "I hate that place. Too many memories."
+    I eat in silence. Meiko doesn't touch her food, or do much more than watch the miniature students down below trekking up and down the hill, back and forth across the school grounds.
+    This should be my opportunity. There can't be much more than 24 hours until showtime, but I'm struggling to bring up the fireworks. I flubbed it yesterday. So this should be where I put the plan into action, convince Meiko to reschedule, all that...
+    There's no plan, of course. I'm better at improvising, that's fine. But every time I take my eyes off the activity down on the ground to look at Meiko, there's some strange catch in my throat. I'm not sure where the adrenaline is coming from. I need to get over this.
+    TAKERU: "Meiko - "
+    MEIKO: "You're done with lunch?"
+    TAKERU: "I wanted to - "
+    TAKERU: "Er, yeah, I guess I'm all set."
+    MEIKO: "Sorry. I'm short on time. I only have another hour or so until I need to be down there, helping everyone with the preparations. I really should be down there right now, but..."
+    TAKERU: "I didn't mean to hold you up."
+    MEIKO: "No, thanks for coming."
+    MEIKO: "Actually, did you... Do you mind coming with me?"
+    TAKERU: "To where? A committee meeting or something? I'm not sure what I'd - "
+    MEIKO: "Down to the shrine."
+    TAKERU: "Oh."
+    MEIKO: "I'm sorry if I'm not being a very good conversational partner. It's hard to think today, now, for some reason. But I don't want to be alone, either."
+    TAKERU: "I'll come. Don't worry about. That's why you wanted this chessboard, right?"
+    Meiko nods.
+    And when she stands, I follow her.
+    We wind up out at the back of the school, at the shrine. It's only the second time I've been to this part of the Mirako grounds, the first time being yesterday, when Meiko showed me this place.
+    Despite the throng of people milling around the front of the school, there's no one back here. Far in the distance, I spot someone setting up folding chairs in front of an outdoor stage. But that's it. This spot is isolated, a corner of Mirako.
+    Meiko takes the chessboard from my hands and places it next to the half-complete memorial, where it rests on the table.
+    MEIKO: "Should we lay out the pieces?"
+    TAKERU: "What do you mean?"
+    MEIKO: "She carved them herself. It was a silly idea, but I thought, maybe if I brought some things of hers out here..."
+    She unfolds the board and starts taking out the pieces from within, setting them up as she goes.
+    TAKERU: "Won't those blow away?"
+    MEIKO: "Here."
+    She hands be a bottle labeled 'Cyanoacrylate,' which sounds dubious enough, but then underneath, in more clear language, I notice there's printed 'Superglue.'
+    TAKERU: "You want to glue the pieces down? Won't that make the board unplayable?"
+    MEIKO: "She's gone. It doesn't matter if her chessboard is unuseable."
+    TAKERU: "I guess..."
+    I follow her lead and start sticking the pieces to their starting spots. Meiko takes out a set of copper candleholders from her bag and places them in rows behind the shrine.
+    It takes a bit of time, but eventually the whole effect starts to come together... The wooden structure with the folding doors, the candles, the chessboard, the stone from the riverbank lying in front... It's not a traditional memorial, to be sure, but it feel meaningful, austere.
+    I take a step back to admire it and find Meiko next to me. She doesn't say anything about the shrine itself, just:
+    MEIKO: "They're probably wondering where I am."
+    TAKERU: "The student council?"
+    MEIKO: "Them. Or Mr. Kunida, or the festival committee, or... I don't know. I feel like there are more important things to take care of."
+    MEIKO: "I need you to tell me I made the right call."
+    TAKERU: "The right call?"
+    MEIKO: "Never mind. I overestimated how much this meant to you, I'm sure. Again. Only I've been agonizing over this all day for some reason I just can't place, it'd be unfair to blame you for..."
+    She walks over to the table where we've set up the memorial, then sits on an empty end next to it.
+    TAKERU: "Are you alright?"
+    MEIKO: "I've been better."
+    She looks pale. It's only when I'm closer do I see those dark marks under her eyes, the slight wrinkle that reminds of that time she mumbled through her speech to the class. Or when I met her by the dorms that day we went to fetch the grill.
+    It's a far cry from how I usually see her: composed, serene, in control. Now even her voice is tired.
+    MEIKO: "Just ignore me. I'm sure this makes no sense to you."
+    I feel uncomfortable standing while she sits on the makeshift table, but with the shrine there, there isn't a whole lot of room.
+    So instead I sit on the opposite side of the table. We're back to back.
+    TAKERU: "Look, I get this isn't a great time, I'm sure you're busy and all, but, er..."
+    TAKERU: "It's hard to explain why this is important, but it's about the fireworks again."
+    MEIKO: "Strange."
+    TAKERU: "What?"
+    MEIKO: "That's what I was rambling about. Did you pick up on it after all?"
+    TAKERU: "No... This has kind of been eating me since last night."
+    MEIKO: "Funny. I haven't managed to calm down all of today either. I'm not supposed to be nervous or unsure. It's not who I am."
+    MEIKO: "It's all because of this call I made this morning."
+    TAKERU: "A phone call? Or a decision?"
+    MEIKO: "Both."
+    MEIKO: "I called up Fujiworks, to tell them to show up for the fireworks tomorrow. The committee thought it'd be a great surprise ending, student council couldn't make up their minds but signed off anyway, and the principal wasn't pleased..."
+    MEIKO: "But I did it though. I shouldn't have."
+    MEIKO: "So, now I'm down here. I thought that I need to put in the extra effort for her, if I'm going to let her memory down."
+    TAKERU: "Hikari?"
+    MEIKO: "Her."
+    Why won't you say her name?
+    I'm trying to process this but my heartrate is higher than my brainrate. Does this mean I've already done what I came here for? If I left right now, would the fireworks still be on tomorrow?
+    But... Meiko's second guessing herself.
+    MEIKO: "I feel every day without her. Nobody else does. How is it that you, a transfer student, seem to remember her better than anyone else here that actually knew her? Do they want to move on so much that they, that they..."
+    MEIKO: "I think I caved in. Everyone knows Mirako's festival centers around the fireworks. Everyone else on the council just wanted to keep on with the tradition, like nothing happened, and every day, they asked me."
+    MEIKO: "And now today I let them do it. And maybe I found her chessboard, but..."
+    MEIKO: "A memorial shrine isn't anything. I've betrayed her memory."
+    TAKERU: "I think it's the opposite."
+    MEIKO: "How?"
+    Her breathing behind me comes in short, ragged bursts. For a moment I can feel her tremble.
+    TAKERU: "Imagine she's watching somewhere."
+    MEIKO: "I hope she's watching over me, up there."
+    TAKERU: "What would she want to see, one year after she passed away? A memorial service? Maybe a dedication and then a moment of silence where you'd normally put the firworks?"
+    TAKERU: "She never saw them when she was alive. Dedicate the fireworks to her, and let her see them now. And let her see you enjoying them, even if you wish she was still there with you. Hell, maybe she will be."
+    The only reply is silence.
+    I tried to be helpful for once in my miserable life so no doubt I've managed to offend her and blow the fireworks things at the same time.
+    But then... Meiko's not going anywhere. Almost like she fell asleep.
+    Finally:
+    MEIKO: "I needed to hear that. I'll do it for her."
+    She's stopped trying to support herself. All her weight is against me.
+    MEIKO "Why do I feel guilty then?"
+    TAKERU: "Don't. You're not lettting her down. I think she'd be proud of you."
+    MEIKO: "Proud? Don't pretend to know her."
+    Against me, I feel her stiffen.
+    TAKERU: "I didn't understand it at first, but you were Hikari's friend. Weren't you?"
+    MEIKO: "Do not pretend to know her. Friends? I let her down when she was alive. Every second I spend around you I feel like I'm letting her down."
+    TAKERU: "What do you mean?"
+    MEIKO: "I don't want to say it."
+    TAKERU: "That's alright... You're allowed to not trust me. I definitely let you down, when we were kids. Just vanishing, like that."
+    MEIKO: "You're bad at this, Takeru. Are you still hung up on that? Of course I trust you. Just sitting here is trusting you. But..."
+    She stands up.
+    MEIKO: "Maybe that's why I feel guilty."
+    MEIKO: "If I can trust you, then maybe I could've trusted her, when she was alive. I shouldn't be allowed to enjoy myself sitting here and doing nothing with you, when there's work to do."
+    MEIKO: "I need to justify this whole fireworks decision to the administration. I need to figure out who's going to meet the technician that Fujiworks is sending up tomorrow. Should I get the programs redone? No, probably not. But the stage is - "
+    MEIKO: "I need to take care of all that. And instead I spend all my time out here making sure chess pieces are lined up straight. I couldn't even find a photo of her."
+    MEIKO: "I'm sorry."
+    I stand and face her.
+    TAKERU: "The memorial looks good. I'm sure Hikari would appreciate it."
+    MEIKO: "I doubt, there's still a lot to be done to make it better, but..."
+    MEIKO: "You've made this a lot easier on me. Don't worry about me from here on out. I'll take care of the festival. And then after tomorrow, I can sleep, maybe. Until then there's too much to do."
+    MEIKO: "I'll see you."
+    TAKERU: "You'll be with me and Natsumi tomorrow, right?"
+    MEIKO: "I forgot. I hope so. I think I will."
+    TAKERU: "If you're not, Natsumi's going to hunt you down She's relentless."
+    MEIKO: "Haha, you're not kidding. Goodbye, Takeru. You showed up at just the right time."
+    She walks the path back to Mirako before I have the chance to say anthing. Not that I'm really sure what to say.
+    I'm left in front of the shrine for Hikari. This seems like the perfect opportunity for her to jump out from nowhere and start making fun of me, but... nothing. Maybe she's here somewhere trying to get my attention, maybe she isn't. But my only company is my own thoughts.
+    The shrine is simple. Is it handmade? The only way to tell for whom it was built is the chessboard now lying in front of it. Every piece is perfectly centered in its own square, but there are only 31 pieces. A knight is missing, where Hikari and I would always use a thimble.
+    I wonder if that missing piece bothered Meiko.
+    Why is it it's still so hard to talk to her? She says she trusts me, and that she doesn't bear that grudge against me any more, but...
+    When I first came to Mirako I thought of her as an anchor, someone I could rely on while I tried to find my bearings. It's bizarre to me to think she could ever feel the same way about me.
+    All I can do is frown at the shrine.
+    TAKERU: "I could sure use some advice... Hikari, are you there."
+    TAKERU: "Guess that was a dumb question."
+    TAKERU: "Let's hope Hagami's right about this whole fireworks thing, and then after tomorrow, everything will be back to normal."
+    I want the tearoom back. Hikari and I will play some lopsided chess games on her hand-carved set while I talk through the latest news back from class. That's the good news, about the fireworks. Meiko will come through, and Hikari will have her last wish granted after all.
+    She'll be watching from a lot closer than Meiko would think.
+    I leave the shrine.
+    
+    The spot Meiko chose for the Hikari memorial is situated off a path leading from Mirako back to an outdoor stage. I can see from here that setup has finally finished, and row upon row of folding chairs are now set up around a raised platform, complete with curtain.
+    The path connects to the Mirako school building via the gym. Even though it's been an hour or two since classes let out this Saturday, the gym is absolutely packed with people setting up for the festival.
+    Not only are there students in here, but townspeople too, setting up icecream or popcorn stands and other booths that I'd expect at a traditional summer festival, not just a backward's school's cultural day. This is a bigger production than I thought.
+    I'm uncomfortable though. It's odd -- I used to love being surrounded by unfamiliar faces when I was at Tohoku, because I was so sure every one of those faces looked at me with admiration, but now the whole place feels uncomfortable.
+    Especially when I spot one very familiar face watching me, from only a few meters away.
+    TAKERU: "Hikari?"
+    HIKARI: "...!"
+    She doesn't reply, just ducks behind the nearest group of students.
+    TAKERU: "Sorry, excuse me, coming through."
+    TAKERU: "Hikari?"
+    She's not anywhere in the gym. Maybe outside? Or...
+    I've lost her. She could be standing next to me, even, and I wouldn't be able to see her.
+    But I have a feeling, and that feeling leads me downstairs, to the tearoom.
+    And while it takes a few moments for my eyes to adjust to the dim of the room after the bright flourescents upstairs, the tearoom comes into focus.
+    Sure enough, someone is seated at the table. I'm not alone.
+    TAKERU: "Hikari? That is you, right?"
+    HIKARI: "Who else ever comes down here?"
+    TAKERU: "Never mind, it doesn't matter. I've got news. The fireworks show is back on."
+    HIKARI: "What?"
+    TAKERU: "Meiko changed her mind. I think I helped. I'm not sure how it happened but she's trying to get it all set up."
+    HIKARI: "Oh. I suppose I'll enjoy them, but... Why do you have that grin on your face? You look like you've won the lottery, or you're about to be a new father."
+    TAKERU: "That's a weird analogy, but I'm obviously thrilled because this means you'll be back to normal. Once you finally see the Mirako fireworks, you'll stop disappearing. You'll be back to normal, if Hagami is right."
+    HIKARI: "That's a big 'if.' I don't think her theory is very sound. And what's 'normal,' anyway? That I stop flickering in and out? Everyone starts to see me again? There's no 'normal' when you're already dead. It's all very silly."
+    TAKERU: "Maybe they'll start remembering you from day to day."
+    HIKARI: "I admit, that would be nice..."
+    HIKARI: "Hm. I wonder then. If everyone could see me and know me, what's the difference what happened to me?"
+    HIKARI: "Maybe I couldn't use my hands, but, I could come back to Mirako, and be a proper student. Lead a normal life. Do you think that could happen."
+    TAKERU: "Er..."
+    She's wearing a daydreaming, half-smile.
+    HIKARI: "Stop laughing."
+    TAKERU: "I'm not laughing."
+    HIKARI: "Then what's so funny?"
+    TAKERU: "I'm just glad you're happy. You always seem so glum so it's nice to see you excited about something."
+    HIKARI: "I'm not excited. Probably nothing will happen. I don't have my hopes up."
+    TAKERU: "Whatever you say."
+    HIKARI: "And actually I'm annoyed. I was planning offering another learning game of chess, but you're coming here from gluing all the pieces to my own board. What was that for?"
+    TAKERU: "What? You were there? You saw that?"
+    HIKARI: "Of course I did."
+    TAKERU: "Why didn't you say anything?"
+    HIKARI: "You wouldn't have seen me even if I did try to get your attention."
+    HIKARI: "Why don't you go find some nail polish remover, unstick the pieces, and bring that board back here so we can use it?"
+    TAKERU: "I don't keep nail polish remover on me."
+    HIKARI: "Then that's even more unforgivable. You're going to damage the paint job, doing stupid things like that. What were you thinking?"
+    TAKERU: "Are you really going to badger me about setting up your own memorial?"
+    HIKARI: "Yes. It's silly and sentimental. You shouldn't have let yourself been talked into it."
+    TAKERU: "Maybe not, but - "
+    TAKERU: "Hey, hang on, are we just going to gloss over the fact that you have a memorial here in the first place? And it's Meiko who's constructing it?"
+    HIKARI: "What's so weird about that? She was my classmate, and she's the class rep now. You could say that kind of thing is her job."
+    TAKERU: "You know it wasn't just another job to her."
+    HIKARI: "Do I?"
+    TAKERU: "You've obviously been stalking me all day."
+    HIKARI: "Hrmph. Fine. So what if I tail you around? It's not like you do anything interesting anyway."
+    TAKERU: "And, when I was trying to convince Meiko to show the fireworks... It would've helped if I'd known you two were best friends. For a month now I thought you two were mortal enemies."
+    TAKERU: "And that's why you were always cagey about her, but wanted to know what she was up to. And that's why Meiko never mentioned you. If I'd known you two were clos, then this thing would've been a whole lot easier."
+    HIKARI: "We didn't see eye to eye."
+    TAKERU: "She said that at one point, you two were best friends."
+    HIKARI: "We weren't."
+    TAKERU: "Meiko's lying?"
+    HIKARI: "No, but she didn't tell you the truth."
+    TAKERU: "Hikari, it's a day before the festival. I think the fireworks are happening. It looks like Meiko made the decision on her own."
+    TAKERU: "It seems like forever that I've been trying to sort everything out and figure out how to stop you from vanishing into thin air... And, you haven't actually told me what actually happened?"
+    HIKARI: "Nothing happened. I told you, I was a small-minded, stupid person and I caused an accident that ended in my death. That's the important part."
+    TAKERU: "But what Meiko was saying... And from what I saw last night..."
+    HIKARI: "Last night, by the Shizukawa..."
+    TAKERU: "You were really there?"
+    TAKERU: "I chased after you. I tried calling for you but you didn't answer. I tripped and fell into the river."
+    HIKARI: "I was never there, Takeru. I don't know what you saw. Maybe it was a memory. I think your imagination is running away with you."
+    TAKERU: "Then tell me the truth. I think I've gone through enough trouble for you that I deserve that, at least."
+    HIKARI: "It won't change anything."
+    TAKERU: "That doesn't matter."
+    HIKARI: "...Well, maybe it'll stop you from falling into rivers chasing after memories that aren't even there."
+    HIKARI: "If I tell you this, will you prommise not to make fun of me?"
+    TAKERU: "Have I ever?"
+    HIKARI: "Just promise me. And promise you'll stay away from that spot on the Shizukawa."
+    TAKERU: "I don't have any reason to go there. So... Alright. Let's just be honest with each other. Tell me what you wanted to say."
+    HIKARI: "Thank you. Then... This isn't a long story. But it is profoundly idiotic. So, please, bear with me."
+    
+    I'm almost used to this feeling.
+    It's the feeling of viewing someone else's story through someone else's mind. It's the sensation of deja vu, standing here in an old tearoom in the Mirako basement, even though the time is a year earlier and the earthly Takeru won't set foot here for another twelve months.
+    It's the feeling of being an observer even though I have full control. I could leave the room this instant, wander around Mirako... but I stay.
+    I'm not longer the one seated at the table. Hikari is still there at the opposite side, but the one sitting in my place is a girl, another first-year, struggling at chess with Hikari even worse than me...
+    Meiko. It's not hard to recognize her, only a year younger. The tension in her face as she considers her moves, that's the same as the Meiko I know, but when she looks at Hikari, there's something of a carefree, easygoing smile that I haven't seen since we were children.
+    MEIKO: "Ah. I see. It doesn't matter what I do this turn. You'll win no matter where I move."
+    HIKARI: "Mhm. When you lost that rook, three moves ago, the game was solved."
+    MEIKO: "Haha, maybe I'll get you next time."
+    HIKARI: "Not if you keep making blunders. Let's go back and undo your last moves. Maybe you can squeeze out."
+    MEIKO: "I'm sorry. I don't remember how the board was set up."
+    HIKARI: "Here. You moved a bishop before this, and a knight before that..."
+    There are a few oddities about this scene.
+    I'm not used to Hikari using her hands. Seeing her move is own pieces is so alien. I've always been the one playing both sides of the board that seeing her tiny hands pluck up and reset the pieces strikes me as bizarre.
+    Though... It's odd. There are a few minor knicks on her fingers and a bandage on her wrist. It's a far cry from the twisted and offcenter shape I know from after the fire, I don't understand why she'd have all those cuts.
+    The answer becomes obvious, though, as Hikari waits for Meiko to reconsider her position on the chessboard. While Meiko works through one position and then the next, Hikari takes out a knife. It looks sharp, efficient, practical, with a blade about three quarters the length of the handle and gleaming in the faint light from the window.
+    It's a woodcarving knife. While I watch, Hikari whittles down an inch high block of wood held in her left hand. I hadn't noticed it before, but woodshavings dot the floor by Hikari's chair, and her side of the table is covered in a thin dust of shavings.
+    Meiko takes back a move she was considering, and then picks up... A thimble?
+    Ah. I recognize it now. This is the same hand-carved chess set that Hikari made, but before it was finished. Only half of the pieces are finished, and there's no knight on Meiko's side. That's what Hikari is holding. She's crafting it into the final shape.
+    HIKARI: "You can't move that knight. He's covering a spot on the right column that I need for checkmate, and if you do that, you'll lose."
+    MEIKO: "Oh. I think I see it..."
+    MEIKO: "How do you take in all that information? Aren't you concentrated on carving?"
+    HIKARI: "I am now, but, it's obvious. And I noticed twenty minutes ago, so it's not so hard."
+    MEIKO: "Then I'm not sure how to escape. I think you've won, either way."
+    Hikari puts down the unpainted knight and surveys the board.
+    HIKARI: "...Maybe. Well, you've come a long way that you're able to know that."
+    MEIKO: "Haha. You're a good teacher."
+    HIKARI: "If I were a good teacher, you'd have beaten me already."
+    HIKARI: "Here. But at least the set is done now. What do you think?"
+    Hikari removes the thimble from the board and places the wooden piece from her hand.
+    MEIKO: "Are you finally done with the set?"
+    HIKARI: "I think. Does it look alright?"
+    MEIKO: "It looks like all the others. It's a bit cute."
+    HIKARI: "Knights aren't supposed to be cute. They're supposed to look clever and utilitarian."
+    MEIKO: "I'd settle for a knight that looks like a horse. You're very talented, Hikari."
+    HIKARI: "Then, um..."
+    HIKARI: "I'd like you to keep this."
+    MEIKO: "Keep what?"
+    HIKARI: "The board. The chess set. It's a gift from me. I need to paint this one knight, but that'll only take day. It's done."
+    MEIKO: "I don't know if I can accept that. It's a beautiful thing, and I don't have anything to give you in return."
+    HIKARI: "It's a gift. You're not supposed to do anything in return."
+    MEIKO: "Maybe, but..."
+    HIKARI: "Never mind."
+    There's a few seconds of awkward silence. I'm not sure how to read the distance between these two, but I catch Meiko glancing at the door.
+    HIKARI: "I have one other thing."
+    MEIKO: "Another... what? I'm not sure I understand."
+    HIKARI: "The school festival is in two weeks. Isn't it?"
+    MEIKO: "Of course."
+    HIKARI: "Then I um... Well..."
+    MEIKO: "Hikari, I'm sorry if I took your spot on the festival planning committee. If I'd known you'd wanted it that badly I'd never run. You have so many experience I don't and you've lived in this town for so much longer that I'm sure you'd be a better - "
+    HIKARI: "That's not it."
+    HIKARI: "I don't care who's on the committee or not."
+    But I notice Hikari's hands form into balls. On her right index finger, the tension causes a previously healed cut to shed a single drop of blood.
+    HIKARI: "I want you to have this."
+    MEIKO: "That?"
+    HIKARI: "It's, um, well... It's supposed to be a rose."
+    The object Hikari is holding in her outstretched hand is wooden, almost six inches from end to tip. It's a flower, a rose maybe, carved out of a single branch of beechwood. While unfinished, there's a certain beauty to the raw material, and to the clear craftsmanship of the piece, each petal and ridge defined by precise cut and groove.
+    But as Meiko studies that wooden flower, the frown lines in her face are even more intense than those she displayed searching for a way out of the checkmate.
+    MEIKO: "A rose?"
+    HIKARI: "Yes. It's only a flower, but... I figured..."
+    HIKARI: "There's only two weeks until the Mirako fireworks. I used to go to the show as a girl, but I've never watched as a student at Mirako. And the students have this legend, it's a silly thing really, but the legend, well..."
+    HIKARI: "Never mind. I've always, sort of, kind of, admired the fireworks up there. Like flowers blooming in the sky. Flowers down here on earth are more mundage. They grow and then they rot and die. So I thought I'd give you a wooden flower. It'd be a bit more permanent. Then you'd..."
+    MEIKO: "I don't know what you mean."
+    HIKARI: "This will be your first year at Mirako. You'll watch the fireworks. I, um.."
+    HIKARI: "Come watch them with me."
+    HIKARI: "I want to look up at the sky, at the flowers blooming and fading in the sky, and, next to me, I want to hold the hand of someone, who, who..."
+    She's trembling. Even as Hikari offers the wooden rose out to Meiko in those small, nicked and scarred hands, she's shaking. Even her voice is tenuous, petering off.
+    Meiko just stares.
+    MEIKO: "Oh."
+    HIKARI: "And I um, I want that person, to be..."
+    MEIKO: "Oh, you don't mean me, do you?"
+    HIKARI: "I want that person to be... Well..."
+    MEIKO: "That's a very pretty carving, Hikari. It'd make a very romantic gift, especially with the fireworks festival coming up, if you give it to a boy who'd understand how symbolic that would be."
+    MEIKO: "But, really, in the end... Isn't that the sort of thing you'd give to a boy? Or a boy would give to you?"
+    If I thought I'd see Hikari flustered before, it's nothing compared now to the amount of red in her face. Her Mirako uniform clings to her chest. With each half second heartbeat interval, I see it flutter.
+    HIKARI: "It's the sort of gift you'd receive from a boyfriend, or give to a girlfriend, or..."
+    HIKARI: "I don't care. I want to give this to you."
+    HIKARI: "I can't think of anyone else I'd want to spend that night with. It could be the two of us, under the stars, flowers exploding in the sky, and maybe, together we could..."
+    MEIKO: "I'm flattered, but I think maybe that's a gift for someone else."
+    HIKARI: "...and together, we could..."
+    HIKARI: "...we..."
+    MEIKO: "I'll see you around."
+    HIKARI: "This is yours. Here. I made it for you."
+    MEIKO: "I don't want to be harsh, Hikari, but maybe that's the sort of gift you'd give a boy."
+    MEIKO: "Goodbye."
+    Meiko leaves.
+    The only occupant of the room is now Hikari.
+    In her left hand, she holds the carved rose. In her right, she holds the carving knife, all three inches gleaming malevolently in the afternoon light.
+    Hikari's eyes are closed, but her mouth is moving. I'm trying to pick up the individual words when I'm almost hit by a petal. I dodge to the left, then take cover in the doorway. Hikari is pressing down with her thumb against the rose, shattering off one petal then the next as the flower is destroyed.
+    HIKARI: "Stupid, stupid, stupid..."
+    HIKARI: "Why do you even try this? Do you like embarassing yourself? You idiot. Idiot, idiot, idiot."
+    With each syllable, another petal snaps off the carving and ricochets around the room.
+    HIKARI: "Idiot, idiot, idiot. What did you expect? You can think about everything else logically, so why can't you think of her that way? Stupid, stupid, stupid."
+    The rose is out of petals. It's just a dowel, a wooden cylinder lying discard in a cloud of shavings. Hikari's gaze is fixed on the table.
+    I want to sit down, to talk to her, but I'm a coward. This place is a memory, a spot where I'm no allowed to interfere.
+    HIKARI: "Stupid, stupid, stupid..."
+    She's looking now at the empty hand where the stem used to be.
+    HIKARI: "I hate you. You're tactless. Perverse. Delusional. You're not allowed to be happy you're so dumb. Stupid."
+    It's like she's still carving. But there's no piece of wood in her hands.
+    Then why, with each slice in the carving knife, is there a noise, like, a tearing, something - 
+    HIKARI: "Imbecile. Idiot. Dolt. Stupid. Hate you. Why can't you be normal? Normal! Stupid, stupid, stupid...!"
+    And with each spoke word, there's a tear through space. The flash of the knife.
+    While there may not be any wood in her hands I understand that Hikari is still cutting and that wounded look on her face isn't just an emotional state it's a physical one and one induced by the actions of her right hand against her left and soon her left against her right.
+    The scars and spots I noticed earlier are evolving to become the pattern of misshapen tendons and crooked digits that me the Takeru in the present could see, preventing the Hikari I know from so much as moving her pieces across the gameboard.
+    Except instead of white scars, what she's doing now, carving into her own hands, are red streaks where split skin and severed tendons mar that white flesh and her hands stiffen, convulse - 
+    HIAKRI: "You idiot. Idiot. Idiot! Think. Think! Think next time. I hate you. I hate you so much. Why can't I have been someone else? Anyone. Anyone else?"
+    
+    Those spoken words give way. Until they synchronize only with the tick of the clock. And I regonize that clock to be the one in the Mirako tearoom, counting down the final day to the festival, in the present.
+    And the girl that sits before me... She may have her hands obscured, partially under the table, but the terrible white scars and off-center alignment I thought had to be a result of the fire...
+    They match one to one, exactly, with the paths through the air of that precision knife I witnessed, ripping through the air at Hikari's own fingers.
+    Then I'm the one sitting at the table. And the one staring at Hiikari's warped fingers. Which she now hides under the table.
+    HIKARI: "You promissed."
+    TAKERU: "Huh?"
+    HIKARI: "You said you wouldn't make fun of me."
+    TAKERU: "I'm not making fun of you."
+    HIKARI: "You want to laugh. I can see it in your face. Admit it."
+    TAKERU: "I don't. I..."
+    There's a thousand things I'm feeling at once. More than anything I want to reassure the frail, shivering girl across from me that I'm on her side but I don't know how to do that, and all I have left are my words.
+    TAKERU: "Your hands. Are you alright?"
+    HIKARI: "These?"
+    She raises her palms.
+    They're a far cry from the hands I saw gripping the carving knife, expertly carving out the last knight from a hunk of wood. The pinky is twisted in her left. On her right, there's a white groove on the index finger. The ring finger doesn't straighten... Just hangs off at an angle.
+    HIKARI: "You can see why they thought it was a suicide."
+    TAKERU: "You did that."
+    HIKARI: "To myself."
+    TAKERU: "I thought the fire injured you. Or because you were a ghost, you couldn't touch anything."
+    HIKARI: "But you knew I've taken back that chess set from when your friend Mana stole it. I've interacted with the real world so many ways that you haven't noticed. Even if half my fingers don't work right..."
+    TAKERU: "You're a ghost. It'd make sense if you couldn't touch anything."
+    HIKARI: "Yes, that would make sense, but..."
+    HIKARI: "Hold out your hand."
+    TAKERU: "Here."
+    HIKARI: "...Alright."
+    I have my misgivings against offering my handshake to someone I know to be a ghost. I keep my eyes on the floor, head downturned. But against my palm, still, I feel nothing.
+    Even when I look up, Hikari has her hands behind her back.
+    HIKARI: "See. You don't trust me."
+    TAKERU: "That's not it at all."
+    HIKARI: "You think I don't exist."
+    TAKERU: "Then why not prove yourself?"
+    HIKARI: "Yes, I'll offer proof of my existence to you, who would think I'm a fraud either way. I thought you promised you wouldn't laugh at me."
+    TAKERU: "I did."
+    HIKARI: "But you're still laughing inside, at how pathetic I am."
+    TAKERU: "I'm not."
+    We sit face to face, in this now silent room.
+    I hate it. I've tried to do my best for her, but Hikari's expression is still something tremulous and fearful, like even sitting across from me is terrifying.
+    HIKARI: "You look thunderstruck."
+    HIKARI: "You saw more than I meant to tell, I suppose. What was it?"
+    TAKERU "I saw you, and a chess set, and a wooden rose, and er..."
+    HIKARI: "Then you did see me for who I am. Didn't you? That's why you won't look me in the eye."
+    TAKERU: "I just didn't expect that..."
+    TAKERU: "You're into girls."
+    HIKARI: "Ha! You're worried about that?"
+    TAKERU: "It's not true? You didn't think of Meiko like she was, like she..."
+    It's unnerving to me. I've always sympathized with Hikari. I felt like I've been following her footsteps. Could we be the same then, when it comes to her? Meiko?"
+    HIKARI: "You're hung up on the wrong things. I'm not like that."
+    TAKERU: "What's that supposed to mean? The way I saw it, you had a pretty big thing for her. Am I going crazy? That's what I saw, that almost a year ago, you confessed to her, that you - "
+    HIKARI: "No. You idiot. I'm not 'into girls.' You say it like it's so crass. I was in love with Meiko."
+    TAKERU: "You... What?"
+    HIKARI: "Who wouldn't be? She was bright, humble, everyone's friend, cool under pressure, ambitious, charming, mysterious, kind, and I never once got the feeling that it was my family name that counted to her like it did to everyone else."
+    HIKARI: "I was Hikari to her. I didn't need to be Miura Hikari."
+    HIKARI: "And Takeru, if you have a problem with that, you tell me right now, because that's the end of our relationship. I challenge you. You tell me, without a doubt, that you've ever admired or loved a person as purely as I did back then, and I'd gladly die again for it."
+    HIKARI: "Go on. Tell me. I'm weird or unnatural. But I'll never deny who I am."
+    TAKERU: "Never. I'd never do that."
+    HIKARI: "Tell me."
+    Did she expect me to respond with hostility? Mistrust? Because it's nothing like what I'm feeling.
+    It's more... A surge of respect. That Hikari is finally facing me with fire in her eyes, challenging me, not with her hands behind her back her back and not dodging me or my questions.
+    She's facing me with the truth. And there are a thousand gears locking into place in my head now: why neither Hikari nor Meiko were willing to give a straight account of one another, why Hikari has always seemed to have such a second-hand interest in Meiko, why Meiko would feel such a crushing guilt over Hikari's apparent suicide...
+    HIKARI: "You're not saying anything."
+    TAKERU: "Sorry. I, er..."
+    Hikari stands across the table from me. I'm not sure what I should I do. It's like my body moves of its own accord, but I rise.
+    HIKARI: "Mmph! Takeru! Stop smothering me."
+    TAKERU: "I'm proud of you."
+    She's warm and small under my arms. There's a few moments, just seconds, where I feel a heartbeat against my chest. And then she pulls away.
+    HIKARI: "What was that for?"
+    TAKERU: "I'm not sure. I'm just... glad you trusted me enough to tell the truth. I've been dancing around ten different peoples' versions of events and it's never really made sense, but now I think..."
+    TAKERU: "I get where you're coming from. I feel like I finally know you."
+    HIKARI: "Hrmph."
+    She crosses her arms but I notice she's blushing.
+    HIKARI: "I'm not sure what impression you got of me but just because I was in love with one girl, at one specific point time doesn't mean I'm not your average second-year highschool student. I'm not the same person I was then."
+    TAKERU: "Meiko isn't important to you?"
+    HIKARI: "A whole year has passed. She's forgotten who I even was. She's changed."
+    TAKERU: "Hikari... She's setting up a memorial on the back path. She was about to cancel the fireworks for you. I don't think it's fair to say - "
+    HIKARI: "Then maybe I've changed."
+    HIKARI: "A year and some perspective will do that to you."
+    And she looks down at her hands. Scar tissue runs back and across her fingers. Her index finger curls a degree... then straightens.
+    TAKERU: "Wait... You're really there. When I held, you, didn't I feel - "
+    HIKARI: "When you jumped on me, you mean? Idiot."
+    TAKERU: "I thought this whole time, you weren't really there. Like not physically, some one I could touch."
+    HIKARI: "I didn't think so either."
+    TAKERU: "Do you think it means something that you're back?"
+    HIKARI: "No. Everything's meaningless, this probably is too."
+    The next moment is silent.
+    Just as soon as I thought for a chance that I was talking to someone physical, a real corporeal human being...
+    That space in front of me becomes empty. Only a voice is left.
+    HIKARI: "I think your friend Hagami is wrong and her theory is baseless."
+    HIKARI: "But, if maybe, I wound up back here for a chance to see the fireworks before I left for good... I wouldn't mind watching them with you."
+    HIKARI: "Good night."
+    And I'm left staring at nothing but my shadow against the wall.
+    I stay there for a few minutes, until I become self-conscious of my own hands. I run my fingerpads against the tendons of my left index finger, just below the skin.
+    I open and close my hands.
+    I can't imagine losing the ability to do that. Or losing the ability to communicate with the rest of the world. It'd change anyone.
     
     
     
