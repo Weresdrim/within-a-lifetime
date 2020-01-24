@@ -134,3 +134,50 @@ But I can't trace whatever causes those lights and now that I look again they're
 No, the source, the watcher, is downriver, half hidden by trees, in a black ruin standing on the riverside.
 There's the light. No, two yellow points. Watching me.
 
+
+
+
+
+    TAKERU: "Er, I guess Mana sometimes, but - "
+    HIKARI: "Don't confuse me with that silly girl."
+    TAKERU: "I didn't. I'm not that dumb."
+    HIKARI: "You could fool me. I'd offer another learning game of chess, but you're coming here from gluing all my pieces to the board. What was that for? Go find some nail polish remover and unstick those."
+    TAKERU: "I don't keep nail polish remover on me."
+    HIKARI: "Then that's even more unforgivable. You're going to damage the paint job like that. What were you thinking?"
+    TAKERU: "Are you really here to badger me about setting up your own memorial?"
+    HIKARI: "Yes, obviously. It's silly and sentimental. You shouldn't have let yourself been talked into it."
+    TAKERU: "Maybe not, but - "
+    TAKERU: "Hey, hang on, are we just going to gloss over the fact that you have a memorial here in the first place? And it's Meiko who's constructing it?"
+    HIKARI: "What's so weird about that? She was my classmate, and she's the class rep now. You could say that kind of thing is her job."
+    TAKERU: "You know it wasn't just another job to her."
+    HIKARI: "Do I?"
+    TAKERU: "You've obviously been stalking me all day. How else would you know about glueing the pieces to the board?"
+    HIKARI: "Because you..."
+    HIKARI: "Hrmph. Fine. So what if I tail you around? It's not like you do anything interesting anyway."
+    TAKERU: "But I'd like to have some privacy."
+    HIKARI: "You've certainly told me about enough of your mundane personal issues that I didn't think you would mind that much."
+    TAKERU: "But with Meiko, it's..."
+    HIKARI: "Why should it be different with her?"
+    TAKERU: "You tell me."
+    HIKARI: "...I don't know what you mean."
+    She hesitates for a second, and her normally pale face is tinged a shade more red.
+    TAKERU: "For a month now I thought you two were mortal enemies. And that's why you were always cagey about her, but wanted to know what she was up to. And that's why Meiko never mentioned you."
+    HIKARI: "We didn't see eye to eye."
+    TAKERU: "She said that at one point, you two were best friends."
+    HIKARI: "We weren't."
+    TAKERU: "Meiko's lying?"
+    HIKARI: "No, but she didn't tell you the truth."
+    TAKERU: "Hikari, it's a day before the festival. I think the fireworks are happening. It looks like Meiko made the decision on her own."
+    TAKERU: "It seems like forever that I've been trying to sort everything out and figure out how to stop you from vanishing into thin air... And, you haven't actually told me what actually happened?"
+    HIKARI: "Nothing happened. I told you, I was a small-minded, stupid person and I caused an accident that ended in my death. That's the important part."
+    TAKERU: "But what Meiko was saying... And from what I saw last night..."
+    HIKARI: "Last night, by the Shizukawa..."
+    TAKERU: "You were really there?"
+    HIKARI: "You saw me?"
+    TAKERU: "I chased after you. I tried calling for you but you didn't answer. I tripped and fell into the river."
+    TAKERU: "But before then, I thought I saw..."
+    
+    I struggle to recall this memory to Hikari.
+    To some extent it feels like this isn't my story to tell, but instead, hers, her story to tell to me.
+    Because I'm seeing images I never saw that night, images I'm positive I've never seen in my life, but instead a vision through someone else's eyes.
+ 
