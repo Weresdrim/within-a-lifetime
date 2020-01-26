@@ -1,0 +1,895 @@
+label day31:
+
+    It's a warm feeling.
+    A familiar memory. Not quite nostalgia, not something I can pinpoint as I come out my dreamless sleep.
+    It's like a knocking, on a my bedroom door, but somewhere closer.
+    That's it. An ordinary knocking.
+    Bap bap. Bap.
+    A knock on my forehead before dawn.
+    TAKERU: "Kenta! I'm awake!"
+    KENTA: "Good morning."
+    TAKERU: "Kenta, I swear, the sun isn't even up, what are you doing beating my head in? I was having such a pleasant dream too..."
+    KENTA: "This is an emergency."
+    TAKERU: "Something better be on fire, Kenta, or I'm going back to sleep. It's going to be a long day so I - "
+    KENTA: "I'm taking the measurements. The tape measure is faulty and won't stick to the door. It's a matter of inches, Takeru. I need your help."
+    TAKERU: "No you don't."
+    KENTA: "I do."
+    TAKERU: "I give up. What are you talking about?"
+    I roll over and sit up, rubbing my wounded forehead. Kenta is waving his hands around, wielding a tape measure.
+    Checking the window, the sun isn't up. Checking the alarm, I could've slept another two hours.
+    KENTA: "This is a crisis, Takeru."
+    TAKERU: "What?"
+    KENTA: "I'm taking measurements of the door frame. There are now six grandfather clocks waiting in the workshop and I'm afraid five of them might be too big for our room."
+    TAKERU: "All of that junk isn't coming in here. I could tell you that without measuring. Where would I stand? Where would I sleep? You'd have to stack the beds on top of each other."
+    KENTA: "Bunk beds, you say? Not a bad idea. Do you mind the top bunk? I'm not so great with heights. This also means I'll need to build a ladder..."
+    TAKERU: "No. No bunks. I'm not sleeping on anything you've put a nail in, no offense. Whatever you're storing in that room of yours, just keep it there. Or take it apart. I don't care."
+    KENTA: "Disassemble it? That defeats the point, I just need to see if everything fits through the door, and after that, I'll be able to organize everything. But if it's too small, then, well, then..."
+    TAKERU: "Okay. I'll help you measure. Let me wake up and then tell me what needs doing."
+    Kenta extends the tape measure and passes me one end. It looks like the metal part at the end has snapped off, so measuring anything with this broken tool is a two man job.
+    KENTA: "Stand on the other side of the door. There! That's good."
+    TAKERU: "Please don't fit, please don't fit..."
+    KENTA: "Excellent. The door is 40 inches wide, and then the base frame is 80 inches, and the angle..."
+    TAKERU: "What's that paper you're scribbling on?"
+    KENTA: "It's a diagram of our room. To fit in, the angle and the length need to add together here such that - "
+    TAKERU: "This looks really complicated. Instead of putting this whole math problem together why didn't you just measure in the first place?"
+    KENTA: "Oh, I see you're being sarcastic. I'm sure you already know that."
+    No, I don't really. Clearly this is some Kenta-logic that defies my simple mind.
+    Instead I'll just watch him puzzle this one out.
+    He scratches his head with the pencil. I sit down and yawn. Finally, Kenta turns to me. His face is white.
+    KENTA: "It's a disaster."
+    TAKERU: "It doesn't fit? I'm heartbroken. Guess we have to find someplace else to put half a dozen clocks. Too bad."
+    KENTA: "Terrible. Just terrible."
+    TAKERU: "Yep. I'm going back to bed."
+    KENTA: "Are you sure? I have you scheduled to wake up in half an hour anyway."
+    KENTA: "Let's just figure out how we're supposed to squeeze this through the door. Even if we rotate the clocks at the optimal angle, there's still two inches."
+    TAKERU: "Goodnight, I'm sleeping."
+    KENTA: "You can't give up now."
+    TAKERU: "I was never trying."
+    KENTA: "I'll fetch the saw from the Mirako workshop. Let's widen the door."
+    TAKERU: "I'm not sawing a hole through our dorm doorway, Kenta."
+    KENTA: "Takeru, you have to have an idea. You seem good at dealing with these situations. What should we do?"
+    TAKERU: "There's no 'we' here. The question is what you should do."
+    TAKERU: "And my solution is to get more rest. Let's deal with this tomorrow."
+    KENTA: "Alright. How am I supposed to sleep with this on my mind? This is a huge problem. Besides, I've already allocated two hours this morning to figuring out the solution."
+    Of course, with Kenta worrying aloud, it's impossible for me to get back to sleep. I get ready for the day ahead about two hours ahead of what I had planned.
+    Guess today might be a bit stressful after all, with Kenta following me around like this. He still won't settle down about this precious clocks.
+    KENTA: "The two hours are almost over and we still haven't figured this out. I have my whole collection up at the school. I have two automaton clocks there. The whole cuckoo collection. What am I supposed to do with the antique one? How about my custom - "
+    TAKERU: "Let's just go to the festival, Kenta. We'll figure it out later."
+    I think I drift off somewhere in the next few minutes. By reflex, I roll left. Then right. But finally a blow from Kenta catches me square in the forehead and I'm forced to admit defeat.
+    TAKERU: "Fine... Let's get going."
+    Kenta's worried babbling washes over me, but I'm too concerned about what else is supposed to happen today to commisserate with his door dimension problems.
+    I'm worried if something will happen to Hikari, mostly. And I'm not sure how Hagami's performance will go. But all the same, I'm looking forward to today, whether Kenta was his measurements straight or not.
+    TAKERU: "Are you ready?"
+    KENTA: "No. Takeru, we still haven't - "
+    TAKERU: "Oh yeah, I forgot. I'm meeting up with Meiko and Natsumi. You're supposed to come too."
+    KENTA: "Natsumi?"
+    TAKERU: "Oh come on. Baseball captain, school idol, school idiot..."
+    KENTA: "I don't know her."
+    TAKERU: "She's the one that always yells 'Hey!' at you and acts like she's your best friend."
+    KENTA: "Oh her. I don't have any time in the schedule for her nonsense."
+    TAKERU: "It's not my plan. Tell that to Natsumi."
+    KENTA: "Who?"
+    New plan: ditch Kenta with Natsumi and spend the day far, far away.
+    
+    We start the walk to school.
+    For the early hour, it's surprising how many other students are up and about. No one seems to be alone, either. Pockets of other people I recognize are making their way towards Mirako, talking excitedly amongst themselves.
+    I regonize almost no one. There's some couples only a few years older than us, families with small children, and I even spot several old men that'd look more at place at a mahjong table making their way up the hill.
+    These must be the early comers to the festival.
+    Tohoku never had a school cultural festival so I don't really have any point of references. For us, our games were the main attraction. Whenever we had a playoff game, or a match against our divisional rivals, we'd get an audience from all over town, plus the odd reporter.
+    That's what this reminds me of. Where Tohoku had its baseball, Mirako has its festival. At least this time, there's no pressure on me to perform. I'm just here to enjoy the day like everyone else.
+    Or at least, that's what I was planning. Kenta seems to have other ideas.
+    KENTA: "Have you thought of anything yet?"
+    TAKERU: "Anything what?"
+    KENTA: "The clocks, of course. What am I supposed to do with my clock booth? How are we going to get all of that back to the dorm?"
+    TAKERU: "You've really got a single track mind."
+    KENTA: "It's printed right here. I had two hours to take the measurements and figure this out. Now I'm behind. I don't like to be behind so I've got to figure out what to do."
+    TAKERU: "As long as I don't end up in a bunk bed, I've got bigger things to worry about."
+    I can't convince him.
+    My patience is tested as we keep walking. I'm tempted to lie and tell him the tape measure was wrong and we can take all those extra clocks in the first place. But I just know it would end up me waking up tomorrow to a thousand artificial cuckoos squawking at once.
+    We're on the bridge before I recognize anyone. She has her back turned, but I can still tell who that is. When I stop short, Kenta bumps into me.
+    KENTA: "Hey? What are you doing? At least apologize when you - "
+    TAKERU: "Mana? Is that you?"
+    MANA: "Takeru, you jerk!"
+    TAKERU: "What?"
+    MANA: "You totally blew off the team meeting yesterday! You said you'd show up and then you ran away! Me and Hagami and the new transfer had to plan everything ourselves!"
+    TAKERU: "Transfer student... Hikari?"
+    MANA: "I think? I don't remember. I just remember you weren't there, and that's the reason everything's going wrong this morning!"
+    TAKERU: "Slow down a second. What's going wrong?"
+    KENTA: "I think you should calm down."
+    Mana glares at Kenta and I'm amazed he doesn't drop dead.
+    TAKERU: "I'm sorry, I lost track of time and there were other things I had to deal with."
+    MANA: "But you better help with the booth today! It's the least you can do after you skipped out!"
+    TAKERU: "I'l try. I need to figure out what's going on. I might be double-booked."
+    KENTA: "I have your time slots here and you're definitely double-booked."
+    TAKERU: "Just... Give me a second to think, Kenta. And Mana, what is that supposed to be that you're carrying?"
+    I think she has a plate in her hands. Or at least it looks like a plate. Except I don't know why Mana would stack a bunch of black rocks on such a nice looking white porcelain plate. Then I realize the black chunks look more like ash than rock.
+    MANA: "It's my cake! For the raffle. You'd know all about it if you hadn't ditched on our meeting. Would you like a slice?"
+    TAKERU: "Um - "
+    MANA: "Well too bad. You don't get any. It's the third-place prize. Or it was supposed to be."
+    KENTA: "Cake? That's a cinder on a platter."
+    MANA: "Oh no. Is it that obvious? I burned it a bit last night... I didn't think it was that bad!"
+    TAKERU: "Kenta, be polite."
+    KENTA: "Honesty is more important than manners. Who are you, anyway?"
+    TAKERU: "Kenta, this is my friend Mana. And Mana, this is my roommate Kenta. Haven't you met?"
+    MANA: "Oh. You."
+    KENTA: "'You?' Who on earth are you?"
+    MANA: "I know you! You're Hagami's lab partner! You no-good work-shirking schedule-setting Hagami-scaring..."
+    I realize that, no, Kenta and Mana have never met. On a normal school day we'd never see her here if she always comes to school with. Mr. Kunida.
+    Kenta doesn't seem phased. Mana though, looks about ten seconds from murdering him.
+    KENTA: "Who's Hagami?"
+    MANA: "My friend, stupid! You were her lab partner, and you wanted to divide the work, and Hagami couldn't set up a meeting, and you kept - "
+    TAKERU: "Calm down, Mana. We worked through this, right? Everything got done in the end?"
+    MANA: "Well yeah, but still... I can't just let this guy go! Hagami was worried sick! He - "
+    TAKERU: "It's all worked out now. Kenta, just apologize and let's get to Mirako."
+    KENTA: "Apologize? Who are you, anyway? Who's Hagami? Have we - "
+    MANA: "This guy's unbelievable! So insensitive! You should be grateful I don't quite know voodoo or black magic yet, mister, or else I you, you..."
+    TAKERU: "Look, let's just get to school and then Hikari can teach you to hex Kenta's brains out when you guys are manning the supernatural club table."
+    MANA: "Fine."
+    TAKERU: "What exactly are you planning with the table anyway? Why do you need a cake?"
+    MANA: "It's one of the prizes for the raffle."
+    TAKERU: "Er..."
+    MANA: "Well we can't sell copies of Seiji's Spellbound Heart because it isn't done yet. And we can't sell copies of the first chapter because all this week we've been tied up doing research instead of working on producing the manga. And also we're broke."
+    MANA: "But! This was my brilliant idea. We can raffle off the first draft of the first chapter! Then we can use the funds to buy paper and binding supplies and everything for the second draft. Clever, right?"
+    TAKERU: "I... guess?"
+    KENTA: "Who would enter a raffle for a manga? If I don't know exactly the price I'm paying for a collectible, it's risky."
+    MANA: "The final product will be world-famous, so the first edition should be super-valuable."
+    MANA: "But Hagami said not everyone would want a prize like that... So that's why we have secondary, non-supernatural prizes! That way everyone has a reason to enter the raffle!"
+    MANA: "A fresh-baked chocolate cake is a pretty good runner up prize? Isn't it? Right? Please?"
+    Kenta is also eyeing the plate suspiciously. I'm not sure if Mana actually tried to bake something, or else just shuffled a generous portion of volcanic ash onto a cake platter.
+    MANA: "...Is it really that bad?"
+    KENTA: "Is that your idea of a dessert? You seem to have turned the temperature too high, or else left it in to bake too long. It is distinctly inedible. I advise - "
+    MANA: "I don't care about your advice! I worked hard on this cake! Whoever wins it should be honored."
+    MANA: "Takeru... You'd eat it, wouldn't you?"
+    TAKERU: "Er..."
+    MANA: "Really?"
+    TAKERU: "I don't mean to offend you, but..."
+    Mana sighs.
+    MANA: "I knew it was bad. This isn't good, Takeru! I promised Hikari I'd have this ready to go if she took care of everything else for today! And then..."
+    MANA: "Um, I might have fallen asleep and left the oven on too long, um..."
+    KENTA: "By the charring on the sides, I estimate you should've taken the cake out an hour before you - "
+    MANA: "I don't need to hear it from you! What am I supposed to do now? Hikari will kill me! Today is ruined! I promised I'd have the most delicious, the most appetizing, the most beautiful cake she'd ever seen, and now..."
+    MANA: "Takeru! What should I do?"
+    TAKERU: "I have no idea. I'm no chef."
+    KENTA: "Takeru is not very good at problem solving in the morning."
+    TAKERU: "Very funny, Kenta."
+    KENTA: "What's funny?"
+    I'm left to suffer in silence. Of course Kenta doesn't get it.
+    MANA: "He doesn't ever seem to be that good at problems in general, does he?"
+    KENTA: "Unfortunately."
+    TAKERU: "That's unfair."
+    KENTA: "Stop complaining, Takeru. I need to finish setting up my own booth and talking with this girl will make us late."
+    MANA: "Yeah, come on Takeru, if you won't help me out then at least stop slowing us down."
+    TAKERU: "How's this my fault?"
+    I grimace, but lead the way towards Mirako.
+    Mana and Kenta keep glaring daggers at each other and I'm afraid to walk in front of them in case a fistfight breaks out.
+    MANA: "I'm nervous. I really wanted to run some copies of chapter 1, but if the raffle won't work, even when we finish the whole thing, how are we supposed to print it? And Hikari was counting on me..."
+    KENTA: "What exactly is the problem?"
+    MANA: "Well, the cake's burnt, isn't it?"
+    KENTA: "You can still eat the top."
+    MANA: "That's not the point! No one's going to buy a raffle ticket for three quarters of a cake!"
+    KENTA: "I would."
+    MANA: "Really? Well... thanks?"
+    KENTA: "I'd pay three quarters of the full price. That's only fair."
+    MANA: "Close enough. Can you um, stand at our booth and explain that to customers? Maybe?"
+    KENTA: "No."
+    MANA: "Why not?"
+    KENTA: "It's not scheduled. I'm very busy today."
+    Kenta pulls out a sheet of paper. It's today's schedule, broken into fifteen minute increments of color coded blocks.
+    MANA: "What the heck?"
+    KENTA: "Booth setup is in ten minutes. I'm already ten minutes behind schedule because you showed up with a cake, and another three minutes behind because Takeru was slow to wake up. I thought it'd take twenty minutes to wake him up but it was more like half an hour."
+    TAKERU: "Kenta, it's almost an hour before the festival even starts, you didn't need to drag me out of bed just so you could wind up some clocks or - "
+    KENTA: "Oh please. It's more subtle than that, Takeru."
+    MANA: "Um, Kenta, are you in a club?"
+    KENTA: "No."
+    TAKERU: "He's a collector. I don't how he got a booth but he has clocks to show off."
+    KENTA: "You sound very dismissive. Please stop talking and let's hurry up. I've only allocated twenty minutes total today to explain the history of antique clocks, outlined in yellow here, and I don't want to eat into that now."
+    MANA: "Geeze. Were you planning on relaxing today at all?"
+    KENTA: "That's in green. I have half an hour before lunch. There are ten minutes before that where I have to convince Takeru to look after the booth for a bit."
+    TAKERU: "I'm not looking after your booth, Kenta. I'm meeting up with Natsumi and Meiko, and it's not like your clocks are going to grow legs and run away."
+    MANA: "I've heard there are spells for that!"
+    KENTA: "You can't be serious."
+    MANA: "I'm just saying it doesn't hurt to keep an eye out. I've seen weirder things happen. So you'll keep an eye on Kenta's booth? Takeru?"
+    TAKERU: "I'd probably give it all away so that junk wouldn't end up in our dorm room. I have a really bad feeling about this."
+    KENTA: "I have an idea, Takeru. We can move everything down in front of our door, then I'll take out the screws and nails, we break everything down, then move it into the room, then reassemble it."
+    TAKERU: "Nope. Not happening."
+    MANA: "You'd say no to free furniture? And from your roommate even?"
+    TAKERU: "Mana, if you show up while I'm guarding Kenta's booth, I will literally give all the clocks you can carry. And some you can't, if you can figure out how to get rid of them."
+    KENTA: "You. Who were you again?"
+    MANA: "Me? I'm Mana! I told you that ten minutes ago!"
+    KENTA: "Mana, how wide is your doorway?"
+    MANA: "What?"
+    KENTA: "To within two centimeters please."
+    TAKERU: "Don't answer that, Mana."
+    
+    When we pass through the gates, I notice several student council members setting up a table and unloading boxes of programs.
+    Right... Meiko is probably around somewhere. I wonder if Natsumi got her to agree to take it easy for once and enjoy the festival with us.
+    No one from town is here yet. But there are plenty of classmates I recognize running around, doing some last minute setup before the festival begins in earnest.
+    Every person we pass, Mana ducks behind Kenta's broad shoulders. Is she hiding?
+    KENTA: "Do you need something?"
+    MANA: "If you could stand there for just a sec..."
+    KENTA: "Why? Why does nobody ever explain anything to me? You know everything would be a lot simpler if everyone just said what they wanted instead of - "
+    MANA: "Eep! There's one!"
+    KENTA: "One what?"
+    MANA: "That girl! She's in my class! If she sees me with this cake it's all over!"
+    MANA: "I talked up our booth a bunch to everyone and I said we'd have the most romantic, most beautiful, most original first-edition manga for raffle, and then..."
+    MANA: "Well no one was very interested but when I promised a world-class top-quality never-before-seen cake, everyone said they'd come by!"
+    KENTA: "The cake is fine. Stop hiding behind me."
+    Kenta tries to sidestep her, but Mana follows him.
+    KENTA: "I don't understand the problem."
+    MANA: "Eeep!"
+    The girl Mana is hiding from is way by the school entrance, but now that Kenta is spinning in circles, apparently dancing with himself, she's looking this way.
+    I wave and try to pretend like I have half an idea of what's going on. Mana's classmate gives me a weird look then heads inside.
+    Probably I just embarassed myself, but, mission accomplished.
+    TAKERU: "She's gone. Coast is clear, Mana."
+    MANA: "Oh thank goodness!"
+    NATSUMI: "Hey Takeru!"
+    TAKERU: "Natsumi?"
+    NATSUMI: "And Kenta, too. What are you all dancing in circles for?"
+    TAKERU: "Long story."
+    KENTA: "It's actually very straightforward. When I was putting together the schedule this morning, I blocked only ten minutes to wake Takeru up, when actually - "
+    TAKERU: "Like I said, - "
+    MANA: "I swear I only set the timer for half an hour, but then when I checked, oh... It's terrible!"
+    KENTA: "If you can't let anyone see you with it, why'd you bring it to school anyway?"
+    MANA: "Well, um..."
+    NATSUMI: "Oh, this is going to be a great day, Takeru. I can tell already."
+    TAKERU: "The way I see it, I've got multiple problems to deal with already, and I'm going to have you hounding me all day too."
+    NATSUMI: "Yep! You know me. It'll be the best kind of festival."
+    TAKERU: "What, chaos?"
+    Natsumi grins, but there's something evil in her smirk, like something from a movie villain.
+    It looks Kenta and Mana are busy enough arguing with each other that I can actually talk to Natsumi properly... if I dare.
+    TAKERU: "I surprised you're here this early."
+    NATSUMI: "I was trying to catch Meiko before she got sucked in some student council nonsense, but I haven't seen her yet. She wouldn't come late to her own festival."
+    TAKERU: "Maybe she snuck around the back road or something."
+    NATSUMI: "Why? Who'd want to avoid me?"
+    The same girl from Mana's class exits Mirako, and Mana and Kenta start spinning around again.
+    TAKERU: "I don't know if I can take a full day of this."
+    NATSUMI: "Of those two?"
+    NATSUMI: "Hey Kenta! What exactly are you all worked up about again?"
+    KENTA: "I'm behind schedule. Takeru was slow to wake up..."
+    TAKERU: "Two hours earlier than necessary."
+    KENTA: "...and the measurements are off. There's no time to figure this out."
+    TAKERU: "He means the measurements for his clocks."
+    KENTA: "They won't fit through the door."
+    TAKERU: "He means the door to our dorm. He wants to move like ten grandfather clocks back into the room because I guess he'd prefer an inanimate standup clock as a roommate instead of me."
+    KENTA: "There's room enough for both you and the clocks, Takeru. I'm a very good organizer. How far off the floor are you comfortable sleeping?"
+    NATSUMI: "I see the problem."
+    Natsumi turns to Mana.
+    NATSUMI: "How about you?"
+    MANA: "Thank you! Thank you so much! You got that guy to actually stand still so I could hide. I think she's gone. Takeru, is she gone?"
+    TAKERU: "Your classmate? Yeah she went back inside."
+    NATSUMI: "Uhh, that's not supposed to be a cake, is it?"
+    MANA: "Well..."
+    NATSUMI: "You're Takeru's friend? Have we met?"
+    MANA: "I'm M-Mana, I'm the president of the supernatural club, and, and, it's my first year here, and um..."
+    NATSUMI: "Ahh yes, the supernatural club. Takeru refuses to talk to me about it, so I'll have to quiz you about it."
+    MANA: "Eep!"
+    NATSUMI: "Ahh, I'm just joking. You probably don't know me. I'm - "
+    MANA: "I know who you are! You're only the most popular girl in the school! The baseball star!"
+    KENTA: "Oh, you've heard of this girl before? What's her name again?"
+    NATSUMI: "Kenta, you joker. Mana, you should try to get on Kenta's good side. He's the funniest guy at Mirako."
+    KENTA: "No really, can you help me out here?"
+    NATSUMI: "Yeah, easy. You don't know what to do with your display after the festival, so we'll have to come up with something..."
+    KENTA: "That's not what I meant. And I know what do with the clocks. They'll be joining Takeru and me in our dorm room."
+    NATSUMI: "Ahaha, at least this way you'll wake Takeru up on time."
+    TAKERU: "You can hear his dumb clocks for a hundred meters in any direction. Natsumi, don't you live in the room right above ours?"
+    NATSUMI: "Oh... Yeah."
+    NATSUMI: "Man, we need to figure this out."
+    KENTA: "Well I'm out of time. I need to start setting up."
+    MANA: "Wait up! Hold still! Get back here! Everyone will see me!"
+    Kenta walks off. Mana, still holding her singed cake, has to run to keep up.
+    Natsumi gives me a weird look.
+    NATSUMI: "I really have to say I'm excited for today, even if you've brought the whole B-team today"
+    NATSUMI: "You remember your promise, yeah? You did say you'd hang out with me and Meiko today?"
+    TAKERU: "Yeah. I was looking forward to it, believe it or not."
+    NATSUMI: "That's great. If your roommate and club president want to distract each other all day, let them."
+    TAKERU: "I feel kind of guilty. They're going to strangle each other in five minutes flat."
+    NATSUMI: "Hmm... Yeah. I do feel like I'd be sort of responsible?"
+    TAKERU: "You? Responsible? I didn't think that was possible."
+    NATSUMI: "Come on Takeru, I know it's stupidly early but don't be so crabby. Let's go bail them out."
+    TAKERU: "Bail them out?"
+    NATSUMI: "I have a plan. You just watch, yours truly Natsumi is going to fix this."
+    TAKERU: "Just don't drag me into it."
+    NATSUMI: "All you have to do is witness the pure genius of my plan. Come on."
+    
+    Kenta must really be behind schedule. Plenty of students are milling around the Mirako school grounds, setting up, but I notice one or two elderly folks as well. These must be the early risers from Mirako, here early to check out the festival.
+    I guess the gates must already be open.
+    As we nagivate through the rows of booths in the gym, I'm struck by just how many of my classmates are participating. There was definitely never anything like this at Tohoku.
+    TAKERU: "So, you don't have to be with the baseball team?"
+    NATSUMI: "Nope."
+    NATSUMI: "We've got shifts set up on our fundraiser. And I'm the one scheduling shifts, so conveniently forgot to schedule myself in."
+    TAKERU: "Slacker."
+    NATSUMI: "Nah. It's more like... If we had done better at the tournament, I'd have myself in every slot. But this way my guys are free to badmouth me."
+    TAKERU: "Why would any of your players badmouth you?"
+    NATSUMI: "They can explain why we were eliminated first round because of my poor leadership. It works out, yeah?"
+    TAKERU: "But Mirako probably wouldn't be in the tournament in the first place if you hadn't pushed for it."
+    NATSUMI: "Maybe not. But I don't feel like being the face of Mirako's baseball team today. Does that make me a coward? I was kind of worried about that, but y'know..."
+    NATSUMI: "I'm not too hung up about it any more. I can at least enjoy myself today."
+    TAKERU: "Sounds like a good plan."
+    NATSUMI: "I do wish Meiko would show up. It took me twice as long to convince her take it easy and just hang out the three of us."
+    NATSUMI "And I also wish your crazy friends would calm down a bit."
+    Natsumi points across the ground to the open gym doors where Kenta has his clocks set up just inside the school. I spot a slightly charred cake on top of a display stand, and Mana hiding behind some shelves. Kenta is armed with a tape measure and keeps flailing his arms everywhere.
+    TAKERU: "I don't know how well you know Kenta, but..."
+    NATSUMI: "I know him plenty well. He's my stat guy, top notch dude, and I'll fix him up. Watch this. Learn from the master."
+    NATSUMI: "Hey! Kenta!"
+    KENTA: "Good morning."
+    NATSUMI: "'Morning! Let's take care of the measurement problem."
+    KENTA: "You're here to help?"
+    TAKERU: "She says that..."
+    KENTA: "Oh, you're here too. Can you stand here for ten minutes and - "
+    TAKERU: "Nope."
+    MANA: "Takeru! You can't be so cruel to your roommate!"
+    TAKERU: "Alright Kenta. What is it this time?"
+    KENTA: "The glue is setting on this one, so just hold these two boards together."
+    TAKERU: "What... What is this thing?"
+    Kenta is standing next to a five foot tall wooden... thing. It looks like a freestanding clock for the first few feet, then above, there's a platform with four painted puppets, their wooden limbs suspended by wires over toy drums.
+    TAKERU: "What the hell is that thing? It's creepy."
+    KENTA: "It's an automaton clock. Every hour, on the hour, the drummers will hit their drums and announce the hour."
+    TAKERU: "Why do you need me to hold it?"
+    KENTA: "I had to take off the top platform to transport it, and now it needs to be reglued. It should only take a short while to set."
+    TAKERU: "I guess I'm not busy. How long?"
+    KENTA: "Thirty-three minutes."
+    TAKERU: "Dammit."
+    TAKERU: "Natsumi, what are you writing on that sign?"
+    NATSUMI: "It's the advertising."
+    MANA: "For what?"
+    NATSUMI: "Our silent auction."
+    TAKERU: "What? Let me see that."
+    KENTA: "Takeru, you need to hold still. What's on that sign?"
+    Natsumi has a big posterboard salvaged from somewhere and a permanent marker so large I can smell it even from my position in the middle of Kenta's display area.
+    She props up the poster against a clock while Kenta, Mana and I all stare.
+    TAKERU: "'Endou Kenta's Bespoke Clockwork -- Silent Auction, Today Only'"
+    KENTA: "What's a silent auction?"
+    MANA: "What's a bespoke?"
+    NATSUMI: "Easy. Everyone comes by and sees some antiques and some buzzwords. Then they put down how much they're willing to pay for each item. At the end of the day, the highest bidder wins."
+    KENTA: "You're giving away my clocks!"
+    NATSUMI: "Selling it. Think of it this way... You can take that cash and find a new hobby. Weren't you into baseball cards last year? And then taxidermy? And then - "
+    KENTA: "But I had to stop because the animals were too expensive... Hm..."
+    TAKERU: "No more dead animals in the room, Kenta, I'm begging you. The frogs were one thing, but - "
+    NATSUMI: "It's the Mirako student festival. You've got all day to find a club or a hobby or something. Take your pick. I guarantee you someone's going to buy this stuff. I'll even put my name down."
+    Within a few minutes, all of Kenta's fleet of wooden constructions have a clipboard and box in front of them, courtesy of Natsumi. I guess she's craftier than I thought.
+    KENTA: "I suppose this works. As much as it hurts to part with my precious clocks..."
+    NATSUMI: "Really it's Takeru who should be thanking me, or else he'd be waking up every hour, on the hour. Or he'd be homeless, one or the other."
+    TAKERU: "Very funny."
+    KENTA: "Takeru, do you want to go look around the stands? I need to find somewhere to invest my proceeds, after all."
+    TAKERU: "I thought you wanted me holding these boards for another ten minutes."
+    KENTA: "Twelve minutes, actually."
+    MANA: "I'll come!"
+    TAKERU: "Weren't you hiding here?"
+    MANA: "Oh! That's right! I almost forgot!"
+    NATSUMI: "Let's see..."
+    NATSUMI: "Kenta, help me carry the grandfather clock. This one here. Mana, you come too."
+    KENTA: "This is part of my display. Where are we taking this? You're a very presumptuous person, showing up here and bossing us around. Takeru, where do you find these friends of yours?"
+    NATSUMI: "Mana, lead the way."
+    MANA: "Me? Where?"
+    NATSUMI: "Your club's booth."
+    MANA: "But people will see me! And Hagami will be so disappointed! I promised a top notch prize, and now I have - "
+    NATSUMI: "And now you have a custom-made 100% genuine Endou timepiece. It's the new top prize. Or second place prize, you tell me. Let's get going."
+    KENTA: "You're just giving away my clock? I'm not taking it anywhere. It's going back to my dorm."
+    TAKERU: "Please no."
+    NATSUMI: "Kenta, in return you get a cake."
+    KENTA: "A cake?"
+    MANA: "Oh! Right! It's on the table there!"
+    KENTA: "That's three quarters of a cake at best. I question whether this trade is - "
+    NATSUMI: "Just lift the clock, Kenta."
+    KENTA: "Stop yelling at me and I'll do it."
+    MANA: "Over here!"
+    TAKERU: "Don't mind me. I'll just hold these two planks together for another hour. See you all later."
+    KENTA: "It's only eight more minutes, Takeru. Please, be precise."
+    TAKERU: "Got it, got it..."
+    
+    if hagami_route:
+        This is a miserable chore. I've had enough of this contraption of wood, glue, gears, and creepy puppets. I don't want to be seen here right next to the gym entrance when there's a hundred other booths advertising food, giveaways performance, and other normal things and I'm stuck with clocks.
+        After a few minutes of watching elderly Mirako residents pass and ignore the auction, my arms start to ache. Luckily there's no lack of ways to keep track of how long I've been holding this together. How long can it really take for wood glue to set?
+        Thankfully most of the people wandering the aisles ignore me. I don't want to have to sell them on the virtues of Kenta's antique grandfather clocks.
+        TAKERU: "Where the hell are you, Natsumi?"
+        Somewhere in the distance I hear Mana's voice, yelling at someone. Probably at my genius roommate, no doubt.
+        I start to wonder though... Where's Hagami? Mana is here, running around carefree as usual, but no sign of her best friend. Natsumi was worried about Meiko, so why isn't Mana looking for Hagami?
+        Then again... I survey the growing number of classmates, families, visitors, and other people, none of whom I recognize, and all steadily filling Mirako. Would Hagami really be happy here?
+        Maybe not. I hope she doesn't skip the festivities, though. Maybe it's selfish of me, but I was looking forward to seeing her today, not just her performance.
+        I'll have to ask Mana. I'm peering into the growing crowd looking for her, when I sense someone, something, behind me.
+    
+    if hikari_route:
+        I'm left alone to man the booth while Kenta and Natsumi haul the grandfather clock. Hopefully with all her hyperventilating, Mana still remembers where to lead them.
+        A few of the early-comers stop by. It's tough to field questions while trying to squeeze together my two boards, but most of the visitors are just confused as to why there are a dozen grandfather clocks and some weirdly-painted French puppets sitting by the gym entrance, when the rest of the booths advertise normal things like food and giveaways and performances.
+        Somewhere in the distance, I hear the principal on the loudspeaker. I guess that must be the opening ceremonies, but checking the nearest cuckoo clock, Kenta's automaton clock needs two more minutes of pressure. I'll stay here.
+        One grandmother at least enters the auction. Maybe out of pity as I smile at her as she passes by. Hopefully this is a sign that everything will sell and I won't have to haul all the unsold clocks back to the dorm to torment me every morning.
+        Whenever I spot someone I know from class, I duck behind a grandfather clock. It's embarassing taking a play out of Mana's book but no way I'm trying to explain this whole setup. As long as my classmates and the Mirako residents don't show up at the same time, I'll be fine.
+        That's what I'm thinking, crouched behind Natsumi's advertisement sign, when someone taps me on the shoulder.
+        
+    if hikari_route or hagami_route:
+        TAKERU: "Gaah!"
+        NATSUMI: "So what're you up to there, Takeru?"
+        TAKERU: "Oh, it's just you."
+        NATSUMI: "'Just' me? I'm sort of offended, but I'm in a good mood today so I'll let you off."
+        I dust off my shoulder and stand up.
+        NATSUMI: "Seriously though. Is everyone hiding today? You were even making fun of Mana for it."
+        TAKERU: "No... I just didn't want to explain to the entire school why I'm the one standing here with the creepy puppet clock. Because honestly I have no idea what inspired Kenta to hoard all this junk in the first place."
+        NATSUMI: "Then make something up. Tell them about how a samurai brought it home as spoils of war in 1787. Or it's the last heirloom of a great family of Osaka clockmakers who've kept their secrets since the Edo period. You're supposed to be the salesman! If you're not up for it maybe I should man the booth."
+        TAKERU: "Be my guest."
+        NATSUMI: "Oh cheer up. It's festival today, what're you in a mood for?"
+        I'm not really sure, come to think of it. By now the gym's full of noise, laughter, and now the smell of the grill starting up outside... I guess I'd call it fun. It's just my mind's somewhere else.
+        Hagami has her performance this afternoon. I haven't seen her yet.
+        It's unlikely Hikari will make an apperance. "Speeches from the Student Council" is still printed in the program for the closing ceremonies, but I know there's fireworks in store, and then Hikari will...
+        Something.
+        Maybe I just imagined all that Hagami said last night. Under the fireworks, everyone's memories of Hikari will return. She won't... vanish?
+        NATSUMI: "This is Terran Base to Takeru. Martian fighters, three o'clock. Do you copy?"
+        NATSUMI: "Takeru?"
+        TAKERU: "Sorry, what?"
+        NATSUMI: "You looked like you were having a war flashback there. Did you go to a terrible school festival as a kid?"
+        TAKERU: "I'm just distracted is all."
+        NATSUMI: "Hey, I'll cover on the booth. You go out there and check out the festival."
+        TAKERU: "Thanks. No sign of Meiko then?"
+        NATSUMI: "She was at the opening ceremony. Said she'd be free after lunch."
+        NATSUMI: "If you see her though, you guys get right back here, okay? Drag her back if necessary. No having fun without me."
+        TAKERU: "Got it."
+        NATSUMI: "Oh, and see if you can find Mana and Kenta. I left them unsupervised after we dropped off the clock, and uh, your friend Mana seems like she could hurt herself at any moment. If she doesn't injure Kenta first, that is."
+        TAKERU: "Kenta mostly just injures me..."
+        TAKERU: "I'll try and find them. Where did they go?"
+        NATSUMI: "They're still outside, I think. Kenta's got to find himself a new hobby, after all."
+        TAKERU: "I'd better hurry up before Mana gets him hooked on voodoo."
+        NATSUMI: "Oh, that's right! The supernatural club! You should go man their table. I'll come by so you can read my palm. How's it look, Takeru? Do I have a strong lifeline? Do you see romance written in wrinkles on my hand?"
+        TAKERU: "I'm a fully qualified palmreader and my verdict is you'll be rendered mute if you don't drop this immediately."
+        NATSUMI: "Fine, fine. See you later, Takeru, and try to enjoy yourself at least a little."
+        
+    if meiko_route:
+        My hands start to strain somewhere around minute five. My wrist might be positioned at an awkward angle where I can't check my watch, but the upside of being stuck at a clock display booth is I'm never unsure of how much time has passed.
+        Still, this is so uncomfortable I start counting down seconds in my head. Kenta would throw a fit that if I was even half a minute under.
+        ...312, 311, 310...
+        If the whole day is going to be like this, I'm going to be miserable. Babysitting Mana and Kenta is shaping up to be a full time job, and Natsumi has an amazing ability to make any problem three times as frustrating.
+        And when I think of the shows later this afternoon, I'm just nervous about Hagami's performance. And the fireworks... I need to find Hikari.
+        Or I'd want to find Hikari if I had any idea how to convey that news Hagami gave me last night... that there's probably nothing happy in store for her after all. Better figure out what to do about that first.
+        Pretty much the only person I think I was looking forward to seeing today is Meiko, and she's nowhere to be found. I always think I want to see her, but... Somehow when she's around I'm always nervous.
+        ...That's two minutes to go...
+        Maybe if my arms fall off that'll save me from dealing with today. Although actually, if that happened, Natsumi would just use it as an excuse to lead me around by the nose.
+        ...Five minute, ten seconds...
+        Hang on, wasn't I at one minute before? Did I just start counting backwards?
+        TAKERU: "Dammit. I've failed you Kenta."
+        Somewhere in the distance, I hear the principal on the loudspeaker. I guess that must be the opening ceremonies. I have another five to ten minutes of arm pain to deal with here though.
+        Some grandpa stops by and puts the first entry of the silent auction into the shoebox. I try to thank him, but I'm sort of stuck facing away from all of the bid boxes and I'd probably just end up falling over.
+        That's when someone taps me on the shoulder.
+        TAKERU: "Gaah!"
+        MEIKO: "Takeru?"
+        TAKERU: "Oh dammit..."
+        The automaton clock I was holding in place is no longer in two pieces. It's on the floor, in four pieces, where I managed to fall over and land on it. Swift, Takeru.
+        MEIKO: "Are you alright?"
+        TAKERU: "Yeah. I think."
+        I wish I could say the same for the clock. My dignity also took a hit. That old man who just bid is still standing there, looking like he might now be wanting to reduce his offer by a few hundred yen.
+        MEIKO: "I'm really sorry. Here, let me help you get up. I didn't mean to startle you."
+        She pulls me to my feet. For a moment Meiko looks more out of sorts than me, but she brushes her hair back and smiles.
+        MEIKO: "What are you doing here?"
+        TAKERU: "Kenta and Natsumi ran off somewhere, and now I'm stuck doing penance for not vetoing Kenta's clockmaking habit when I had the chance."
+        MEIKO: "How... does that involve shoeboxes? And you're aware there's a sign here for Endou Kenta's Bespoke - "
+        TAKERU: "Blame Natsumi."
+        MEIKO: "Alright, let's get this fixed up. I can help if you tell me what goes where."
+        MEIKO: "Does this - ah!"
+        The six pieces become seven as Meiko fumbles a puppet and its head rolls off down the aisle.
+        TAKERU: "It's okay, I'll get it."
+        MEIKO: "Listen, I'm so sorry about this, you've got to let me at least help."
+        TAKERU: "It's fine. You're probably busy with all the festival stuff, and I don't want to keep you from opening ceremonies or anything."
+        MEIKO: "I'll be alright. I was helping set up for the principal in the morning, but I tried to clear some time around now to see how you and Natsumi were doing. I did promise her. Although later today the afternoon program's starting up, and I have to speak at that, so..."
+        Meiko frowns for a moment.
+        MEIKO: "Sorry. This all must be very uninteresting to you."
+        TAKERU: "Er..."
+        Of course I can't think of anything actually intelligent to say.
+        TAKERU: "Here, hold the base. I'll get the wood glue and we can try this again. I thought there was a screw to get the puppet's head back on and it should be easier with two people.... at least when it comes to holding everything in place."
+        MEIKO: "That sounds good."
+        MEIKO: "Are enjoying the festival so far?"
+        TAKERU: "I'm really surprised it's so big, and there must've been a lot that's gone into organizing it all, and, everything seems impressive, but..."
+        MEIKO: "You're not having a good day?"
+        TAKERU: "There's too much going on. Sorry if I'm little cranky, and I'll try not to ruin the mood."
+        MEIKO: "That's alright. I understand, I suppose."
+        MEIKO: "There's so much bustle, and I have to pretend to be everywhere at the same time. If something goes wrong, I'm head of the student organizing committee, so they'll come to me, so I have to make sure nothing can ever goes wrong..."
+        MEIKO: "Then all the big clubs will be offended if I don't stop by at least once to check in, and the administration thinks I should be with the principal all day..."
+        TAKERU: "You don't like your own festival?"
+        MEIKO: "No, I, well... I like it as an idea. Now today it feels like I have to watch a hundred pots that'll all start boiling at once, or it's raining and I have ten buckets for twenty leaks..."
+        MEIKO: "To tell the truth I've been dreading today, it's as if the closer it comes the worse it'll be if I make a mistake. I just want it over and done with, no incidents, so I can go home."
+        MEIKO: "And last year, well... I don't have the best memories."
+        Right. Thinking about it, it does sound kind of terrible.
+        TAKERU: "Why'd you volunteer for festival committee then?"
+        She tilts her head in confusion, as if the answer is obvious. I don't know how to respond so I just pass her the glue.
+        TAKERU: "Here. Put that in the slot on your side and I'll push from my side."
+        MEIKO: "I can do that."
+        TAKERU: "I still don't get it though..."
+        MEIKO: "What? Why I'd organize all this?"
+        TAKERU: "...Yeah."
+        She laughs and straightens up, looking about as dignified as one can while holding a board with four freak-faced puppets.
+        MEIKO: "I'm our council vice president and events like this are my specialty. That's expected. Organizing is what I'm good at, and I enjoy it. You know me."
+        TAKERU: "...I guess I know you."
+        ...You just said you didn't enjoy it. What happened to that?
+        Meiko doesn't speak for a few moments and stares at somewhere around the floor. Do I interrupt?
+        MEIKO: "I don't know why it's so much harder to fool you than everyone else Takeru."
+        Maybe. But I don't have the faintest idea how Meiko thinks, and I've completely misread her twice already.
+        MEIKO: "Still. I'm glad today's finally here. You're allowed to enjoy yourself. Whatever happened last year, you weren't here, so you can't let it weight on you. And I'm sure now that you've settled in you'll find the festival's a lot of fun."
+        TAKERU: "I'm sitting here repairing a demented clock while picking up weird stares from the public. Then went Kenta gets back he's going to ask me why I let the glue set an extra two minutes."
+        TAKERU: "It's looking a little bleak, Meiko."
+        MEIKO: "I'll look after the auction for a while and I'm sure I can work things out with Kenta. He'll even be glad to see me."
+        TAKERU: "Thanks, but you sound like you've got enough on your plate."
+        MEIKO: "I'm the one that knocked over this piece anyway. I want you to enjoy your first Mirako festival."
+        TAKERU: "Fine. One condition."
+        MEIKO: "Alright. What's the condition."
+        TAKERU: "You give it a shot too. Screw whatever the principal wants, you've got a promise with Natsumi and if I'm following along, you can. If you're going to ask me to relax, you've got to as well."
+        MEIKO: "Oh, that's fine, I'm already enjoying myself."
+        TAKERU: "Then... What was all that about? Earlier?"
+        MEIKO: "No, it's looking up already. Do me a favor, though, and don't tell Natsumi I have two dozen other places to be today or she'll start acting strange."
+        TAKERU: "Got it. Natsumi acts plenty strange enough already."
+        TAKERU: "Aand all done. This just has to sit for eight minutes. Precisely. Kenta will know, I promise."
+        MEIKO: "You've got it. Now go find whatever trouble he and Natsumi have got themselves into."
+        TAKERU: "Right. Thanks, Meiko."
+        MEIKO: "See you later."
+        
+    Even with the loading dock open, the side door propped, and the windows all ajar, the gym stuffy. I'm happy to reach the outdoors.
+    But even so, the main road is crowded. There must be more visitors here than at a Tohoku home game. I thought Meiko and the others were exaggerating when they said the Mirako festival was famous, but it's packed.
+    I say hello at a few classmates whose names I barely know and try to take in the displays. Most clubs are here. The sports teams all seem to have fundraisers. And all along the far grounds and spilling into the gym, individual students have booths set up.
+    And food. The student council has that industrial grill out in the back, and more than a few student groups are cooking as well.
+    I'm thinking I should find the supernatural club table, but I don't even know where that is. I should've asked Mana where - 
+    Wait.
+    There's someone unexpected.
+    TAKERU: "Hikari?"
+    HIKARI: "Takeru. Good morning."
+    TAKERU: "Wait, is that really you?"
+    It is, right? Standing by one of the student display stands, two or three people pressing in?
+    I think I even recognize her audience. The people watching her booth -
+    MANA: "Takeru! Hey Kenta, it's Takeru!"
+    TAKERU: "Hey."
+    KENTA: "Good afternoon, Takeru. How long did you hold the clock together? Did the joint set properly? And who's watching my table?"
+    
+    if hikari_route or hagami_route:
+        TAKERU: "Eight minutes on the dot, the clock is fine, and I roped Natsumi into running the auction. Your wares are safe."
+        TAKERU: "Natsumi said I'm supposed to find you a new club or hobby though. But I guess you're just visiting Hikari."
+        
+    if meiko_route:
+        TAKERU: "Meiko's got it covered."
+        KENTA: "And the automaton clock?"
+        TAKERU: "Er..."
+        KENTA: "You didn't give the glue enough time to set, did you?"
+        TAKERU: "I confess, Kenta. I stopped thirty seconds early."
+        KENTA: "But the clock is okay?"
+        TAKERU: "It immediately fell apart."
+        KENTA: "This is why we have to be precise, Takeru! I need to go over there and rebuild it myself."
+        MANA: "You're not going anywhere! That'd be so rude!"
+        HIKARI: "It's fine."
+        
+    TAKERU: "Er, Hikari, what exactly is this that you have set up here?"
+    HIKARI: "An individual display space. It's the same deal as Kenta's."
+    TAKERU: "But, aren't you... How did...
+    HIKARI: "I've always been able to come and go as I liked. This wasn't too hard to arrange."
+    She gestures at the table in front of her. It's a bit of a slipshod display, just a card table. On it I recognize the copper rabbit incense burner, a few other metal animals, and some ornaments carved out of wood.
+    It looks like these all came from the shelves of the tea room. Nowhere, though, do I see Hikari's orange-and-green chess set... or the wooden rose.
+    TAKERU: "You're selling these?"
+    HIKARI: "No. Nothing is for sale. I thought I'd display my carvings. Last year, I had a table just like this. The display was a little nicer, maybe, but I've done this before. I know I put in the paperwork. Last year's festival, I was set up over... No, I don't know."
+    KENTA: "There was a woodcarving booth set up in the corner of the gym."
+    HIKARI: "You remember that? Who ran it?"
+    KENTA: "I don't remember her name."
+    HIKARI: "As expected."
+    TAKERU: "That's Kenta for you. Don't worry, Hikari, half the time I'm surprised he remembers my name."
+    MANA: "H-Hikari?"
+    HIKARI: "...What?"
+    MANA: "That's your name, isn't it? I knew it!"
+    HIKARI: "Of course it's my name. What did you - "
+    MANA: "Hagami told me all about you! You're a Demon-rank sorceress and you have the gift of foresight, and you want to start a coven in Mirako and - "
+    HIKARI: "Your friend Hagami is a notorious mean-spirited liar."
+    MANA: "Hagami would never lie to me!"
+    HIKARI: "But she'd mislead you for her own amusement."
+    MANA: "W-well..."
+    KENTA: "I thought you were here displaying whittling and crafting. Is this some sort of black magic display?"
+    MANA: "Hikari's amazing! Probably she used her psychic powers to help make her art! Right Hikari? Or was it your Taoist powers you used? I always get those confused with the - "
+    HIKARI: "I used my knife powers."
+    TAKERU: "Sounds dangerous."
+    KENTA: "No that sounds interesting. How much does a whittling knife cost?"
+    HIKARI: "I'm not really selling anything, but it's probably cheaper at a hardware store. And I think I just found mine in an art class or storage room somewhere."
+    KENTA: "Carving is a type of woodworking, hm... And if I produced my own goods from scratch, the profit margin would be higher."
+    KENTA: "Consider me interested."
+    MANA: "You're going to learn tantric woodcraft from Hikari? Or metalcraft? The copper animals are so cute! I want to learn too! I'd do anything to - "
+    KENTA: "No I'm just considering learning the basics of carving."
+    KENTA: "Although... That would generate a lot of wood shavings."
+    HIKARI: "...I never really considered that a problem."
+    KENTA: "It might inconvenience my roommate."
+    TAKERU: "Are you kidding me? It's small. It's not expensive. And it wouldn't make birdcall noises at 4AM when I'm sleeping. Go for it, Kenta. Learn to carve."
+    KENTA: "I'll consider your advice, Takeru. It all depends if the sales from the silent auction are enough to cover the knife."
+    TAKERU: "Kenta, you've got six antique clocks up there, plus the German cuckoo things, an automaton clock that I just held together for half an hour - "
+    KENTA: "Thirty-eight minutes."
+    TAKERU: " - and you're worried about how much a pocket knife is going to cost?"
+    KENTA: "What if there are no bids? I don't want to lose money."
+    TAKERU: "Mirako's senior citizens seem to be interested in your collection so I wouldn't worry."
+    KENTA: "How much is the knife then?"
+    HIKARI: "Not for sale."
+    KENTA: "This is a problem, Takeru. If the carving knife isn't for sale, no matter how much money the auction raises, I won't be able to - "
+    TAKERU: "The hobby shop. We're going tomorrow. And we'll buy you a knife."
+    KENTA: "That's very kind of you, Takeru."
+    TAKERU: "Tell me about it..."
+    MANA: "Can I come?"
+    TAKERU: "Why not?"
+    KENTA: "Excuse me. Have you ever been in a hobby shop?"
+    MANA: "A hobby shop? I have tons of hobbies."
+    KENTA: "My apologies. You looked like a very boring person."
+    MANA: "A boring person!? Are you kidding me? I'll have you know - "
+    I rub my forehead as Mana and Kenta start at it again. I really can't tell if they're getting along or if they're mortal enemies.
+    Hopefully they're not mortal enemies, because if they start their final showdown in the middle of the festival, I'm not stepping in.
+    
+    if hikari_route:
+        Hikari watches alongside me.
+        HIKARI: "So Mana remembers what Hagami's told her, but doesn't remember meeting me at all."
+        HIKARI: "Hagami, though, doesn't forget. Isn't that odd."
+        HIKARI: "Takeru, do you really believe her?"
+        TAKERU: "Believe her?"
+        HIKARI: "Hagami."
+        TAKERU: "About what?"
+        HIKARI: "That childish theory of hers. The opera."
+        HIKARI: "I think she was lying to us."
+        I try my best not to show anything on my face, but I'm startled.
+        Hagami hasn't told Hikari about her real suspicions, has she?
+        TAKERU: "I don't think she'd lie."
+        HIKARI: "Would you lie?"
+        TAKERU: "Er..."
+        HIKARI: "You don't have to protect me, you know. I've been through a lot more than you and a lot worse than this. I can handle the truth."
+        TAKERU: "I..."
+        TAKERU: "Sorry, Hikari, my head hurts."
+        That's the truth at least. I don't know what I'm supposed to do. Of course Hagami wouldn't be able to face telling something so horrible to Hikari, and then, wouldn't it fall to me to talk the hard truth?
+        But it'd be pointless and ruin the whole day, when here right in front of me there's this carefree scene I'd give anything to make real.
+        Not telling Hikari, though... It seems cruel. Like lying to an animal before it's euthanized.
+        I shudder. But I can't break that kind of news, here, now, and I'm trying to protect myself more than her, but --
+        HIKARI: "How about we go for a walk? It's crowded in here."
+        TAKERU: "You're not worried about your table?"
+        HIKARI: "People steal my work from the tearoom all the time so I'm used to it. Anyway, no one can stay at their table forever."
+        True, most of the display booths are unmanned. No one would want to guard a table when there's so much else to do at the festival.
+        TAKERU: "Do you want to grab lunch then? I'm starving."
+        HIAKRI: "I can watch you eat your lunch, if that's what you're talking about."
+        TAKERU: "Right. Er... Where did you want to go then?"
+        HIKARI: "Someplace quiet."
+        We emd up inside, in the old wing. In my opinion, it's even stuffier in this dusty hallway than the gym, but I guess to Hikari this is what counts as comfortable.
+        For a while, Hikari doesn't speak. She's frowning even more heavily than usual.
+        HIKARI: "The fireworks aren't announced in the program, you know."
+        TAKERU: "Yeah. It's going to be a surprise. Meiko set up everything last minute."
+        HIKARI: "You're sure?"
+        TAKERU: "Meiko keeps her word."
+        TAKERU: "...You're actually looking forward to the fireworks show."
+        HIKARI: "Of course I am. Didn't I say that?"
+        TAKERU: "I guess. You've always been sort of... Abstract?"
+        HIKARI: "Is that an insult?"
+        TAKERU: "Okay, maybe I just don't know what you're thinking."
+        HIKARI: "I don't mind whatever happened last year. It ended poorly for me and I made a fool of myself in front of so many people, but I can say, yes, I am looking forward to the fireworks. ...Especially if you are too."
+        TAKERU: "I think I am. I don't know. It seems funny to me that you're actually enthusiastic about something like fireworks. I've never seen you enthusiastic about anything except maybe beating me at chess."
+        HIKARI: "You don't think I'm a happy, cheerful, enthusiastic person?"
+        TAKERU: "Er, I mean - "
+        Hikari laughs.
+        HIKARI: "That's fine. I'm literally dead, it looks like. My chance at real happiness is shot. So I'll take whatever cheap thrill I can get at fireworks, even if it's the last thing I do."
+        HIKARI: "I don't really fear death because that already happened, and the people I counted as friends last year have already forgotten me, so if I slip away, so what? Forgetting and being forgotten are the same thing. That doesn't scare me much any more."
+        HIKARI: "Maybe that's why I want to know. Even if there's nothing pleasant at the end of the tunnel, even if I'll just..."
+        She's giving me a strange look. Concentrating?
+        Then suddenly she breaks eye contact. Over my shoulder there's a creak. A door opens behind us and I turn around.
+        HIKARI: "I'll see you."
+        TAKERU: "Hikari? Where are you going?"
+        My head twists back but she's gone before I could even look at her.
+        Instead, I turn around to the open door, and there, looking at me from the hall...
+        HAGAMI: "Takeru?"
+        TAKERU: "Er, I was just..."
+        It's hard to say I was talking to Hikari when she can vanish on a dime. Maybe I shouldn't mention that Hikari ran away...
+        ...and knowing her she's probably eavesdropping somewhere.
+        HAGAMI: "I thought I heard voices."
+        TAKERU: "Just talking to myself, I guess."
+        TAKERU: "What are you doing down here? You know the festival's going on outside. Mana's been looking for you, too."
+        HAGAMI: "..."
+        TAKERU: "Oh. You were practicing."
+        She doesn't answer. Then again, it wasn't a question.
+        HAGAMI: "Mana was worried?"
+        TAKERU: "Er, I'm not sure if she mentioned it, but I know I'm worried. We haven't seen you all day and your performance isn't too far off."
+        HAGAMI: "...She knows I don't like the festival."
+        TAKERU: "You don't?"
+        HAGAMI: "It's loud. And... Lots of people."
+        Hagami grimaces.
+        TAKERU: "Oh. I guess that makes sense."
+        HAGAMI: "Although... Thank you for worrying about me."
+        TAKERU: "You look exhausted. Do you at least want to grab lunch or something?"
+        HAGAMI: "Not really..."
+        TAKERU: "Should I bring you something?"
+        HAGAMI: "That... would be inconvenient."
+        TAKERU: "I don't mind."
+        HAGAMI: "You don't have to come back down here, for me. I'll come with you."
+        TAKERU: "Right."
+    
+        We walk upstairs. Hopefully Hikari ran off somewhere and isn't tailing us.
+        I start towards the gym, but when we get to the open double doors with the "Mirako High Student Cultural Festival" banner, Hagami balks.
+        HAGAMI: "Maybe... we could go around?"
+        TAKERU: "Yeah."
+        We take a detour to the fields behind Mirako. There are a few stalls set up here, but the main attraction is the grill I remember dragging up here a few weeks ago. The student council is running a cookout, and everyone passing around this place is holding some variety of street food or other.
+        The whole field is set up like a picnic. A few portable tables are set up, paper tableclothes billowing in the wind. The sound of chatter carries on the breeze.
+        I notice Hagami is still a distance behind me, hesitating.
+        If I think about it, I've only ever seen her outside the old wing of Mirako on a handful of occassions, and she's always seemed out of sorts, even then. Even Hikari seems to wander more often.
+        Now, with a thousand strangers filling the field, Hagami probably isn't too comfortable.
+        TAKERU: "I'll grab food. Do you want to find a table?"
+        HAGAMI: "Alright."
+        She retreats off towards the gym entrance, at the far end of the field. Not too many people around there, I guess.
+        While wait in line to pick up our lunch, I try to keep an eye out for Meiko, but no luck. Is she busy dealing with the people from the fireworks company?
+        It sure looks like the whole rest of the student council is here. Some bespectacled guy I always see at the meetings with Meiko serves me two skewers of beef off the grill and hands me my change.
+        Hagami has her back turned as I approach the table.
+        TAKERU: "Here you go."
+        HAGAMI: "Ah."
+        She accepts her food, but eats in silence.
+        It feels like with the mystery behind Hikari's nature resolved, we suddenly have nothing to say to each other, and so we eat in silence.
+        I suddenly miss Mana. Hopefully she hasn't killed Kenta yet.
+        Finally, Hagami looks up.
+        HAGAMI: "Were you talking to Hikari?"
+        TAKERU: "What? Back in the old wing?"
+        TAKERU: "...Yeah. She was there"
+        HAGAMI: "Have you told her?"
+        Her question is vague, but I immediately know what she means. No, no I haven't had the guts to tell Hikari that today is probably her last day on this earth.
+        TAKERU: "I couldn't do it. I don't know if I should."
+        TAKERU: "Er, this sounds weird, but Hikari's really nosy. She listens in on me all the time. If she followed us, she might know already that - "
+        HAGAMI: "Doesn't matter."
+        HAGAMI: "...You really care about her."
+        TAKERU: "I mean of course. She's the first person I met here. She... I don't trust anyone more than her. Of course I'm going to be upset if she forgets me, or disappears, or..."
+        HAGAMI: "Is she scared?"
+        TAKERU: "No."
+        HAGAMI: "Are you?"
+        TAKERU: "...Maybe."
+        She stares, with a soft, sad smile.
+        Finally, I have to look away.
+        TAKERU: "Hikari better not be listening."
+        TAKERU: "...You think I should tell her then?"
+        HAGAMI: "It's up to you."
+        TAKERU: "In that opera you were talking about... The heroine is the ghost, right?"
+        HAGAMI: "Giselle."
+        TAKERU: "And the hero is engaged to her."
+        HAGAMI: "Albrecht."
+        TAKERU: "Does he know Giselle will disappear?"
+        HAGAMI: "No."
+        TAKERU: "And does Giselle know?"
+        HAGAMI: "No. ...Maybe that way is more kind."
+        TAKERU: "You think?"
+        HAGAMI: "I should never have said what I did."
+        HAGAMI: "Sorry Takeru. I knew you... felt that way about Hikari, but I've been terrible at keeping secrets, and..."
+        HAGAMI: "Goodbye. I think I'd better practice."
+        TAKERU: "Hagami! Hey, wait a second."
+        Hagami rises from her seat, meal half finished.
+        HAGAMI: "You'll watch my recital?"
+        TAKERU: "Of course I will, but - "
+        HAGAMI: "I'll see you then."
+        She takes a few steps backwards, biting her lip. The turns and sets off on the path back around the school.
+        I probably shouldn't follow.
+        Instead, I sit at the empty table and stare after her. What did she mean? She asked me yesterday to tell Hikari the news, but...
+        Why I am I just sitting here instead of trying to re-find Hikari? I know I'm the coward here. It's not indecision that has me paralyzed it's just... I don't want to believe Hagami.
+        Wherever she's got her information from, it's got to be wrong. It's just an opera, right? Fiction.
+        Something flickers in my peripheral vision. ...Or was that a someone?
+        Hikari?
+        Was she listening?
+        Try as I might, I can't see her. I focus and focus but there's no one there.
+        I stand up.
+        TAKERU: "Enough of this."
+        I'll find Hikari. I'll tell her what Hagami thinks. Definitely nothing will happen. We'll watch the fireworks together, and nothing will happen...
+        ...is what I want to think.
+        Actually I don't want to do much thinking at all at the moment. I stretch.
+        I need to find Natsumi, or Kenta, or someone. I can't sit here and argue with myself in my head forever. Instead I'll go find Kenta and argue about the price of whittling knives or something. Much better.
+    
+        I've only taken about three steps into the gym when I hear a voice.
+        NATSUMI: "Yo. Takeru!"
+        TAKERU: "Hey! What's up?"
+        Natsumi's waving and calling me over to Kenta's display. One or two visitors are milling around, as well as Mana and Kenta. I join them.
+        NATSUMI: "We're putting together a battle plan."
+        KENTA: "You were the one planning things. I don't see why we have to - "
+        MANA: "Shut up and let her explain!"
+        NATSUMI: "We have a team member that's MIA."
+        TAKERU: "MIA?"
+        KENTA: "Missing in action. It's a military term. It's usually used to refer to soldiers who've gone missing on the battlefield, so its use in this case is wholly inappropriate, and I don't think - "
+        MANA: "Pipe down!"
+        NATSUMI: "Meiko promised she'd be here, and it's past lunch time, and I haven't seen her. I'll check inside the school. Mana and Kenta are searching the gym, and - "
+        KENTA: "How am I supposed to know her if I see her? I never agreed to this. Why don't you - "
+        NATSUMI: "Quiet! Takeru. Get yourself something to eat and check outside by the fields. If you find Meiko, report back here immediately."
+        TAKERU: "I just came from lunch. And who's going to wait here at the booth?"
+        NATSUMI: "That's no big deal."
+        KENTA: "No big deal? I fail to see how this isn't the largest deal. I've spent hours assembling this collection, and putting it at risk to find your - "
+        MANA: "Finding Natsumi's friend is way more important than your dumb clocks!"
+        KENTA: "You're calling my clocks unintelligent? That's nonsensical. They're all made of wood so they can't be smart any more than they can be dumb."
+        MANA: "Fine, yuu're dumb! Shut up! Let's go find Meiko!"
+        Mana trudges off towards the gym entrance, dragging Kenta by the wrist. Kenta, for his part, protests the whole way, gesticulating a piece of paper that I'm sure must be his schedule.
+        Once they're out of earshot, Natsumi immediately stops her drill sergeant impression and instead doubles over laughing.
+        NATSUMI: "Look at those two!"
+        TAKERU: "They apparently hate each other."
+        NATSUMI: "You're kind of thick, Takeru. They're obviously made for each other."
+        TAKERU: "That's a disaster waiting to happen. They bicker constantly. Blood will be shed. Cities will burn."
+        NATSUMI: "Oh come one. It's really funny. Besides, you and I argue all the time but that doesn't mean we're going to turn into a fifth horseman."
+        TAKERU: "For one thing, we don't argue. I just yell at you when you do something obnoxious like try to trick me into joining your baseball team, or pair off my friends so they can go duel to the death in peace."
+        NATSUMI: "Fiiine. At least come help me look for Meiko. I bet I know where she's holed up."
+        TAKERU: "Alright, I can do that."
+        NATSUMI: "Ha! Got you to compromise!"
+        TAKERU: "Yep, congratulations. Now where to?"
+        NATSUMI: "Just outside here. I can feel it."
+        TAKERU: "And you're just going to leave Kenta's booth?"
+        NATSUMI: "There's only an hour or two left on the silent auction anyway. We've got plenty of bids. Let's go."
+        She points towards the access door at the corner of the gym.
+        TAKERU: "Right. The shrine..."
+        NATSUMI: "Yeah. Are you coming or what?"
+        We walk through a few aisles of stands, student displays, and tables arrayed with posters and signs for Mirako clubs. Everyone waves at Natsumi. A guy from the literature club chats her up and passes a free copy of their magazine. I mostly try to look like I know what I'm doing.
+        We keep going. At this point, half the booths are emtpy. Everyone's wandering the gym, outside in the field catching a late lunch, or out by the entrance finding friends.
+        I have to admit, it's a warm atmosphere. Every person she greets, Natsumi has a huge smile on her face. I can see why. She tries introducing me to a student council member, and then to a senior on the baseball team, but I can hardly remember names. I just bow and say my hellos.
+        Finally, we work our way out of the gym and into the sunlight.
+        NATSUMI: "Now let's see..."
+        There are one or two student display booths out by this corner of the school. One looks to be the robotics club, with a poster and small RC vehicle set up on a table, the students long since left to hang out somewhere else. On the other side, hidden down a dirt path, is a shrine.
+        That's... Meiko's, right? To Hikari. I was here yesterday.
+        At first, it looks as empty as the rest of the tables, but then I spot movement behind it.
+        NATSUMI: "Meiko? Hey! Meiko!"
+        Meiko pops up from behind the shrine.
+        MEIKO: "Hello."
+        NATSUMI: "Why's everyone hiding today? Seriously. I've been looking for you half the day."
+        MEIKO: "Sorry. I needed to put the finishing touches on the shrine before the afternoon program starts. And all morning I was meeting with the company for the - "
+        For the fireworks. Meiko looks shifty all of a sudden... Guess Natsumi doesn't know about that yet.
+        MEIKO: "There's a surprise this evening I had to set up."
+        NATSUMI: "A surprise? How surprising! Whatever could it be?"
+        Natsumi flips open the festival pamphlet.
+        NATSUMI: "Speeches from the student council, huh? No one would ever sit through something that boring. It's an obvious fake. So I will take this as an admission that tonight, we'll be having..."
+        NATSUMI: "Fireworks!"
+        Natsumi fistpumps.
+        MEIKO: "You have to keep this quiet."
+        NATSUMI: "I'll take the secret to my grave."
+        
+    if meiko_route:
+        Hikari watches them run off.
+        HIKARI: "That's your roommate?"
+        TAKERU: "Yep."
+        HIKARI: "And that's your club president."
+        TAKERU: "Yep."
+        HIKARI: "Takeru, we have to talk."
+        TAKERU: "Natsumi's trying to get them to kill each other I think."
+        HIKARI: "You don't seem too concerned."
+        TAKERU: "Better than the alternative. Actually, can you make sure when they're back, you really sell Kenta on the whole carving thing? If Mana gets him hooked on black magic or ghost hunting or something..."
+        HIKARI: "Got it. We don't want anyone wandering around the school at night in cultist robes. Except for you, of course."
+        TAKERU: "Let's please just pretend that never happened."
+        HIKARI: "Everyone does seem in the mood to forget."
+        TAKERU: "Sorry. I should've phrased that better."
+        HIKARI: "No one who comes to this table talks to me. They all act like they don't see me, even though I know their faces. Never any names. Just, that one helped me to the nurse's office once, that one used to walk home with me... That sort of thing. Seems I wasn't even that much to them though. Funny."
+        It sounds terrible, although Hikari doesn't seem too torn up about it. I think she's scanning the crowd.
+        HIKARI: "Oh, him. I think I met him on my first day here. Of course, he doesn't look twice at me."
+        TAKERU: "I know it must be painful. I - "
+        HIKARI: "It's not great, but hiding in plain sight suits me. I spent too long hiding in that dark room to realize no one would care if I just wandered around like my old self. I might as well enjoy it while it lasts."
+        TAKERU: "While... it lasts..."
+        There's no way she heard Hagami talking to me last night, right? She should think that tonight, at the fireworks, all her lost memories will come back, so...
+        HIKARI: "You look like a fly flew down your throat, Takeru."
+        TAKERU: "Er..."
+        No point hiding it. If Hagami couldn't break the news, it falls to me.
+        TAKERU: "This might be kind of important. Do you want to grab lunch?"
+        HIKARI: "I can't exactly eat, if you remember. But I'll go for a walk."
+        TAKERU: "Will your stand be okay?"
+        HIKARI: "I'm used to being stolen from. People seem to think that being dead means they can just take my belongings as they please. Did you know someone stole my chess set again?"
+        TAKERU: "Sorry, I didn't know Meiko would turn it into a shrine. I just thought - "
+        HIKARI: "It's fine. I don't mind. Although... I wouldn't mind seeing how the shrine turned out."
+        We weave through the aisle towards the back of the gym, pressing past the heavy traffic that seems everywhere. The festival must be in full swing.
+        There are posters and flags everywhere, advertising clubs, food, contests, art and more. Groups of Mirako students and families from town wander up and down, talking, waving, laughing.
+        I recognize the industrial grill I lugged up the hill two weeks ago. Through the open loading dock, some stern-faced guy with glasses from the student council is manning the spatula, but the smell is delicious.
+        We reach the back exit. The tables out here are mostly empty, and the closest people in sight are a few hundred feet away, waiting in line for an early lunch. The only object of note is the shrine, tucked just to the side of the path.
+        HIKARI: "I thought I told you last night not to use the superglue. This whole thing is ridiculous anyway. Nobody here wants to remember me. Why force this on everyone?"
+        The doors of the shrine are open, but no picture of Hikari anywhere to be found. There are, however, two lit candles, and a pale blue book titled "In Memoriam." Hikari flips it open. Looks like the idea is that visitors record their respects inside.
+        She immediately closes it.
+        HIKARI: "This whole thing must be a joke."
+        TAKERU: "I'm sure Meiko is trying to make things up to you, in her own way."
+        HIKARI: "It's fine. I have you and Hagami and Mana to watch the fireworks tonight. I find myself caring about them less and less."
+        TAKERU: "But Hagami said - "
+        HIKARI: "Don't get all uptight, Takeru. You're terrible at hiding your emotions, seriously..."
+        HIKARI: "She only said that whole thing about the opera and the white lady and all that nonsense because I was there. She couldn't say the truth to face. Did she make the whole opera story up out of thin air? Hagami's more inventive than I thought."
+        Then Hikari doesn't know. She guessed that there's no miracle coming up with the fireworks tonight, but she doesn't know the whole truth of it.
+        TAKERU: "She sort of... bent the truth. After the fireworks, er..."
+        HIKARI: "What? Do I watch the fireworks and turn into a swan princess? Turn into a pillar of salt? Oh, maybe I just evaporate into thin air."
+        TAKERU: "..."
+        HIKARI: "Well."
+        Hikari looks lost for a moment, then gives a bitter laugh.
+        HIKARI: "You mean I really do evaporate?"
+        TAKERU: "That's what Hagami thinks. That's the way her opera ends, anyway... The heroine gives it one last hurrah, and that's it, she's gone."
+        TAKERU: "I think it's garbage. Hagami said it was only fiction anyway. You're a real person, not - "
+        HIKARI: "Oh."
+        HIKARI: "Takeru... She's right. She's right, she's right!"
+        Hikari grins and laughs.
+        HIKARI: "That fits. I bet you Hagami's theory is right."
+        TAKERU: "What are you talking about? You realize if she's right, this is something like your last day on earth!"
+        HIKARI: "Exactly. What was I missing my first go around? I remember I was happy here, and it looks like I had plenty of friends..."
+        She picks up the memorial book again and thumbs through the pages.
+        HIKARI: "...So all I was missing was the finale. By some cosmic mistake I'm still here, so I'm supposed to take the chance to finish strong. I'll watch the fireworks and take my bow."
+        TAKERU: "You can't just give up!"
+        HIKARI: "I'm not giving up. But I think this is my fate. And I don't mind that at all, if it really is how my life was meant to be... To go out like a firework, beautiful, poetic..."
+        I swallow hard. I guess the reality of it hadn't set in before. If this really is her last day, then, that makes now, with Hikari, possibly my last -
+        HIKARI: "Don't get weepy, Takeru."
+        TAKERU: "Sorry.
+        HIKARI: "Maybe Hagami's totally off. We don't know for sure, but if she's right, then I'm prepared for the worst. I don't even see it as the worst."
+        HIKARI: "I told you last night I just want to make the best of it. I'm sick of lurking and hiding, and now even tailing people around is starting to lose its novelty."
+        TAKERU: "Hikari, please, you have to try to say here."
+        HIKARI: "I thought that too, but now, I think I realize where I've been wrong. Give my thanks to Mana and Hagami, and maybe Meiok as well. I appreciate everything."
+        HIKARI: "See you later."
+        TAKERU: "What?"
+    
