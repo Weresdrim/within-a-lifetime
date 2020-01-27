@@ -1,0 +1,234 @@
+label festival_hagami:
+
+    Mirako is all but deserted at this hour. Passing through the gym, I only see two or three students, all heading the opposite direction. The fireworks will be starting soon, so no doubt they don't want to miss it.
+    Once I enter the old wing, the school is truly empty. Every other light is dark, and by now there's no trace of the sun through the windows. The bustle of the field seems so far removed.
+    I pass the tea room on the right, then come to the piano room on the left. The hallway is dark, but light shines underneath the door.
+    Of course Hagami is here. I knew she had to be. The only question now is... what do I do? Just the same as this morning, I'm struck by a sensation that I shouldn't be here. If Hagami wants to be alone, then that's her right. Do I dare...?
+    TAKERU: "Come on..."
+    I realize something else now. If I hadn't pushed her with the paperwork, hid all this from Mana, blown off her anxiety about performing... Hagami wouldn't be in this situation right now. Maybe she only turned in that blank festival time slot request as a bad joke, and I took it too far.
+    Then again, Hikari told me to go for it. I'll trust her. My heart steadily rises in my chest, but I slide open the door. I know I'll find her, and I know I don't have a plan, but I have to do it.
+    TAKERU: "Hagami?"
+    HAGAMI: "...?"
+    She's sitting on the piano stool. When I enter, she turns to face me, her face blank. In the time I've known her, I've gotten better at reading her, but... I'm at a loss.
+    TAKERU: "Hey."
+    HAGAMI: "Takeru."
+    It's hard to seperate what I'm feeling from what she must be thinking. That falling, sinking feeling that something's gone irrevocably wrong... Is that my own emotion, or something I see in her? I can't tell, and it forces me into a stupid joke.
+    TAKERU: "Did you really have to set those fake bids up in my name? Natsumi wouldn't let me live it down. Plus, she won all the clocks anyway, so it looks like I'll be lugging those around all night."
+    TAKERU: "Er, I mean, I agreed to help her move anything she won, but then she won pretty much everything, and she bribed Kenta, so, and, er..."
+    Hagami raises an eyebrow as I ramble. I hate to embarass myself, but, relieve that she hasn't kicked me out already, I collapse onto a dusty box opposite the piano.
+    HAGAMI: "Sorry. I wish I could've been there. To see it."
+    TAKERU: "To see the expressions on Meiko and Mana when they thought I'd bid six figures on Kenta's stupid clocks? You're meaner than I thought."
+    HAGAMI: "Thanks for making me smile, at least."
+    TAKERU: "You're not smiling."
+    HAGAMI: "I'm trying."
+    Could fool me. It looks like shellshocked look I saw on her on stage never left her.
+    TAKERU: "How are you?"
+    HAGAMI: "Don't know."
+    HAGAMI: "I guess... It's not like I didn't expect this. I don't know why I'm this rattled if I knew it was coming. Or this angry."
+    TAKERU: "Angry?"
+    HAGAMI: "It... really doesn't matter."
+    Hagami keeps her eyes on the piano, not me.
+    HAGAMI: "Mana, I guess... Where is she?"
+    TAKERU: "Er..."
+    TAKERU: "She's still out by the stage with Hikari."
+    HAGAMI: "Oh, I know she's not coming, I just thought... Is she alright?"
+    TAKERU: "Not the greatest."
+    TAKERU: "Er, she's kind of hurt you weren't waiting for her backstage."
+    Hagami sighs.
+    HAGAMI: "I should apologize."
+    TAKERU: "She thought you didn't want to see her."
+    HAGAMI: "No... I don't particularly want to see anyone."
+    TAKERU: "Yeah, sorry, I probably shouldn't have shown up, I just thought - "
+    HAGAMI: "It's fine. I can't hide down here forever."
+    TAKERU: "I get that, but, er, what I mean is... I feel like I'm responsible."
+    TAKERU: "Way back when you first put in the forms, I pushed you to fill everything out, and then we got the supernatural club officially formed. If I hadn't done any of that you wouldn't have had to go through this."
+    TAKERU: "And I'm sorry I didn't listen when you said you weren't feeling confident. I just figured... 'Hagami knows what she's doing. She's talented. She'll figure it out.'"
+    HAGAMI: "Thank you, but... How do you know I'm talented?"
+    TAKERU: "Er, Mana always says how brilliant you were back when she first met you, and I kind of figured, with you going to that private music school and all..."
+    HAGAMI: "...?"
+    TAKERU: "I read some of those old newsletters. From the Showa College. Sorry."
+    HAGAMI: "But you've never actually heard me play."
+    TAKERU: "No."
+    HAGAMI: "That..."
+    HAGAMI: "That must be it."
+    TAKERU: "Er, sorry?"
+    HAGAMI: "I've had a bit of a breakthrough."
+    HAGAMI: "It's a stupid one, though."
+    HAGAMI: "You should go back to the festival, I think. The fireworks. Isn't Hikari waiting?"
+    TAKERU: "She said she'd watch the fireworks with Mana. What's your breakthrough?"
+    HAGAMI: "That's... why I said you should go, if you want. Otherwise I'll start telling you. And it's uninteresting."
+    TAKERU: "I'm game."
+    HAGAMI: "Really?"
+    She raises an eyebrow at me, but when I nod, she blushes.
+    Hagami looks out the window. It's night, but any measure. There's no light coming through but the dull purple of the evening clouds. Her at the piano, me on my box, the standing lamp just enough to light the room.
+    HAGAMI: "I know why I'm angry."
+    HAGAMI: "I'm angry at me. This... is just the latest reason. I hate that I'm afraid of talking to anyone, I hate that I spend all of my time couped in the library all day, and mostly I hate that I can't play the piano properly any more."
+    HAGAMI: "Tell me that sounds stupid. I'm frustrated, because, you're right, at one point that was me... On the cover of that Showa College newsletter. I went to school at their academy, once."
+    HAGAMI: "If I hadn't... That's why I hate myself. I'm here, and not out there."
+    TAKERU: "Hey, don't be so hard on yourself."
+    HAGAMI: "You can still leave. Go watch the fireworks."
+    TAKERU: "I'll stay here. I want to listen."
+    HAGAMI: "I... don't want to talk, but..."
+    HAGAMI: "I didn't feel this way until I met you. That's another thing I hate. I misread you. I wanted so much to feel like there was someone out there that relied on me, but really... It was me, relying on you."
+    HAGAMI: "Why am I always the one that needs people? I want the be an equal partner. I want to be strong."
+    HAGAMI: "When it was just Mana and I me, it was... comfortable?"
+    HAGAMI: "She knew me before I went to that Showa school, when I was just a middle schooler who was good at the piano. But you... have never heard me play."
+    TAKERU: "No."
+    HAGAMI: "So..."
+    HAGAMI: "It's funny. Before you came along I never felt like I had to prove myself. I thought... 'What if I could talk to him properly? As a normal person, instead of some coward who hides behind books in the library all day?'"
+    HAGAMI: "And then... I sort of managed it. I think."
+    TAKERU: "You did."
+    HAGAMI: "Then I thought, if I could do that... I need to prove myself. You've never heard me play anything, and I thought, if I could get used to you, then, that wouldn't be so hard."
+    HAGAMI: "Mana thinks I'm some sort of genius. I'm not. If I can't even perform in front of an audience, I'm worse than the newest beginner. I hate that. I know I'm better than that."
+    HAGAMI: "Before you showed up, I was content. And now I want to prove myself. You made me realize what I was missing. That's it."
+    HAGAMI: "...I told you it was a stupid breakthrough."
+    TAKERU: "I... Er..."
+    TAKERU: "Then you're not mad I pushed through the performance application?"
+    HAGAMI: "Thank you. I never would've done it."
+    HAGAMI: "Mana is fine with me as me. I don't want to be me, I want to be someone better."
+    Hagami smiles briefly, like a silent laugh.
+    HAGAMI: "I want to be that genius Mana thinks I am. Takeru, I want... You shouldn't have to guess. I want to show you that I am talented, I'm strong, trustworthy, maybe even someone you can rely on when you're having a hard time. And I'm angry with myself because I couldn't do that today. I'm the one that needed help."
+    She looks down at the piano in front of her. Her fingers are loose on the keys.
+    For my part, I don't what I'm doing here. I feel like I should be here, beside her, that I should walk over to her and tell her that she doesn't have to prove anything, and that...
+    I wish I could articulate myself as well as she can, right now. Now I'm the one to feel stupid, all I can offer is half a platitude.
+    TAKERU: "You don't have to be anything you don't want to be."
+    HAGAMI: "I don't care what I'm diagnosed with, but what I want to be is world class. Takeru, do you know the Moonlight Sonata?"
+    TAKERU: "No, sorry, I don't really know too much about classical music."
+    HAGAMI: "That's fine."
+    HAGAMI: "I feel, after getting all that off my chest, that... This is so much easier than I thought."
+    Her back straightens. For a moment, I flash back to those tense minutes on stage, Hagami in this posture, always seemingly one second away from starting to play.
+    But this time there's milliseconds to wait.
+    Hagami drops her fingers, melds them into the keys, the most natural motion in the world. My ear for music is terrible, but even I can appreciate what I hear. The music is soft but deliberate, slow and shining. That's right. The piece is called that... "Moonlight."
+    The sound is trancelike, effortless. I feel like the half the wonder of it is lost on me, with my total lack of musical talent, and I'm ashamed that I can only partially understand exactly what Hagami is creating before me.
+    Even on this antique piano, in this dusty room, she's extraordinary.
+    There's no sheet music in front of her. After all these years, does she still have this piece committed to memory?
+    Her eyelids hang low, her breathing slows, her every moment seems free of tension, relaxed. Then on one final chord, she looks up.
+    TAKERU: "That - "
+    She silences me with narrowed eyes. Was that only the first movement? I'm about to apologize for interrupting when she breaks into an ear-to-ear wicked grin and turns back to the keyboard.
+    If what before I was hearing was slow, painstaking, beautiful, then what Hagami plays now is an all-out attack. Her fingers flash from one ends of the piano to the other in sequence after sequence of precision arpeggios.
+    When she breaks for something slower, more expressive, I note the sweat on her foreheard. Even though her devilish smile is wracked with concentration, it never leaves her face.
+    And then she breaks into an upspeed flurry of notes, fingers moving faster than I can follow.
+    There's an explosion. At first I think the piano snapped or else the roof caved in, but then I spot the flash out the window.
+    Fireworks. Of course. They're starting already.
+    Hagami pays them no mind. She hits another chord, eyes closed, and continues on in relentless attack.
+    Outside, beyond the glass, the night streaks with white as there's another burst in the sky above. The roar of the distant booms seems lost amid Hagami's furious performance, but the flashes of white, orange, blue, then white again that fill the room illuminate her against the piano.
+    She breaks into another slower section. Not slow. More expressive. As if in response, blue crackling streamers fill the sky. Hagami must notice by now. Then I see she has, glancing out the window as a sphere of white lights flickers, explodes, and fades.
+    Hagami looks at me, and her face is almost unhuman. Her fingers quiver between two notes, grin growing the whole time until it's something demonic.
+    She ends on one resounding note.
+    The fireworks continue outside. Hagami rises, and I don't quite remember when I got off my box, but I'm standing too. She's laughing now, ecstatic, beaming.
+    HAGAMI: "You see? I can do it. I knew I could do it."
+    TAKERU: "That was amazing. I had no idea."
+    HAGAMI: "Thank you."
+    HAGAMI: "I want to be world class, Takeru. I hate that I'm weak now, but I know I can do it, I know it."
+    TAKERU: "I believe you."
+    Face to face, she grips my left hand in her right. Or is it me who did that?
+    Beyond the window, the sky streaks white, violet, violet, then crackles in a scintillating orange. Not that I'm watching directly. It's Hagami's unflinching eyes I'm looking at. I've never seen that resolve in her, or that ecstatsy from the end of the sonata.
+    It's like I'm looking at a different person.
+    Slowly, it fades.
+    Her head lowers.
+    The fireworks trail off. Five white spheres launch up above the treeline, then a single red rocket. Is that the finale? She lets go of my hand.
+    HAGAMI: "Is thatit...?"
+    HAGAMI: "You didn't leave."
+    TAKERU: "How could I?"
+    HAGAMI: "Then you think... I could be..."
+    TAKERU: "I want to see you soar."
+    TAKERU: "Er, what I mean is, I believe you. I think you can do it, and I want to be there to watch. Mana was right. You're incredible."
+    HAGAMI: "There's... a long way to go."
+    HAGAMI: "But I think I can do it, now. I failed tonight, but..."
+    HAGAMI: "It's nothing. I'm twice as determined."
+    TAKERU: "I don't know if it's anything, but, I'll back you up. If I can help, let me know. Everyone else should be able to hear that, what I just watched."
+    I'm caught up in her eyes. That full smile she had from the last act of the sonata, that's gone, but the traces are still in her eyes. Some sort of deep fire.
+    HAGAMI: "Hold me to it. Count on me."
+    TAKERU: "I will."
+    HAGAMI: "And I won't let you down."
+    It's like talking to a different person. Or that I myself am somewhere else.
+    HAGAMI: "I'll prove myself to you. And then to the rest of the world."
+    
+    We emerge into the clear night.
+    There were a few students in the gym, tearing down booths and tables at the end of the festival, and our here, there's more traffic as people return from watching the fireworks in the field. But off to the side of the path, the night is still silent.
+    TAKERU: "Sorry. Meiko said she wanted to meet our here. Did you see the shrine today?"
+    HAGAMI: "No."
+    TAKERU: "She had something set up to remember Hikari. It was... complicated."
+    I fill her in as we head down the path.
+    It feels strange, walking with her like this. Back in the piano room, I saw someone different, a fearless, passionate Hagami, someone other than the person beside me. Knowing that next to me, she has that kind of strength...
+    It's somewhere between intimidating and reassuring. At the very least, I appreciate her in a new light.
+    I stop when I spot a dark figure on the path ahead. They look this way, and I squint, straining the limits of my night vision.
+    TAKERU: "Meiko? Is that you?"
+    MEIKO: "Mana too."
+    Another shadow steps out from behind her.
+    MANA: "Takeru?"
+    MANA: "And Hagami. Hagami! You're here!"
+    There's the thumping sound of running footfalls and then a whoosh beside me as Mana tackles the stunned Hagami.
+    MANA: "You're here! Hagami's here! I'm so proud of you! You got up on that stage, and you, you - "
+    MANA: "You've come so far! I remember when you were about to run away when Takeru showed up on his first day, and now, now you - "
+    MANA: "One of these days you'll have to let me hear you play again, but... You're incredible! You're the best!"
+    HAGAMI: "Um, Mana..."
+    Maybe she's a little tired of Mana hanging off her shoulders. Meiko closes the distance on the path, and in the moonlight, comes into view.
+    MEIKO: "You remembered."
+    TAKERU: "Sorry, I knew I said I'd meet you here, but I got a bit distracted."
+    MEIKO: "That's fine. You are coming to the shrine, correct?"
+    TAKERU: "Right."
+    HAGAMI: "The shrine for Hikari?"
+    Meiko winces in shock, but she doesn't look offended.
+    MANA: "Hikari! That's her name! I'm coming as well."
+    MEIKO: "Hagami? You knew her?"
+    HAGAMI: "In a way."
+    MEIKO: "It's all very strange to me. Takeru, one of these days you'll have to tell me how you met, but for now, take this. Mana, Hagami, you too."
+    In the dark, I can't tell what she's fiddling with in her bag, but in a moment, she passes me a sparkler. Mana and Hagmai also take one.
+    MEIKO: "These were her favorite."
+    MEIKO: "I know it's a little hard to see, so, be careful. Follow me."
+    For a moment her eyes catch in the moonlight and I see something at constrast with her words, but I follow Meiko down the path anyway. Mana trails right behind, unlit sparkler in hand, while Hagami walks next to me.
+    Two dots of light come into view, and Meiko halts in front of them. Looks like the candles on the shrine haven't gone out yet.
+    Meiko turns.
+    MEIKO: "These were her favorite."
+    MEIKO: "I'm not sure how any of you knew her. Sometimes it feels like everyone still knows her, and sometimes it feels like everyone forgot."
+    MEIKO: "Tonight, it's been like she was here beside us. I hope she was watching the fireworks, from somewhere above. I know it's what she would've wanted. It was silly of me to try to put a hold on them on her behalf."
+    MEIKO: "Even if she isn't here beside us, I want to say a prayer. A year ago, I pledged not to forget her. I want to renew that vow now."
+    MEIKO: "I won't forget you."
+    MEIKO: "Hikari."
+    Meiko lights her own sparkler by one of the candles. As she turns, it lights an arc through the night. Mana's sparkler lights up, then she passes the flame to Hagami, then me. We stand facing the shirne.
+    It's still anonymous. There's no photo of Hikari, and nothing to remember her but the chess set, still missing its green knight.
+    It feels strange to just hold the sparkler here, lit. When I was younger, with my parents at the Tanabata festival, I'd spin and paint glowing lines in the air in front of me. Now the crackling spark is more like a memorial candle.
+    In the on-and-off light provided by the sparklers, I see Meiko produce something from her pocket. It could be anything, at first, some dark object silhouetted by the uneven light. I only recognize when she sets it down the chess board.
+    It's the green knight, the missing green knight.
+    The set is complete. Meiko kneels.
+    If this was a spiritual moment, I can't bring myself to shut my eyes. I never was any good at ceremony. Mana seems to be staring at the ground, but Hagami also has her eyes straight ahead. Then what happens next must be visible to both of us.
+    Where before there was only darkness behind the shrine, I spot a light. I think it's another sparkler at first, or maybe two, but then her shape becomes clear. She is standing there, in front of her own shrine, blinking slowly.
+    TAKERU: "Hikari..."
+    I mouth her name, and she smiles.
+    There's movement next to me. Hagami has her hand up. Is she... waving?
+    A wave. A call to attention, or... a sendoff. A farewell to a departure.
+    Hikari returns the gesture, and I notice, around her slight frame, oddities that interact unevenly with the flickering light.
+    No, that's it, she's flickering herself, like a fire on the breeze. Hikari waves back. Then I too raise my hand in farewell. That must be it, tonight. Hagami was right again. Tonight is goodbye.
+    HIKARI: "Takeru, Hagami..."
+    HIKARI: "Maybe I'll see you again, after a long time."
+    HIKARI: "Don't disappoint me, and... take care."
+    TAKERU: "Goodbye."
+    HAGAMI: "Goodbye, Hikari."
+    Her wave fades and murmurs, and she disappears into black.
+    In that moment, Meiko rises.
+    MEIKO: "It seems... I know she's watching us. Takeru, you said as much earlier, but I know she was here today. Whether down here with us, or somewhere up there..."
+    MEIKO: "I'll remember you."
+    HAGAMI: "I could never forget."
+    TAKERU: "I won't either."
+    MANA: "Goodbye! Goodbye! I'll miss you! Come back soon!"
+    And we stand, staring at the sky.
+    Something up there flickers. A new star? A sparkler, to match our extinguished ones here on earth?
+    It doesn't seem to matter. Meiko has her eyes closed, but her voice is level.
+    MEIKO: "We should head back."
+    TAKERU: "Yeah."
+    MEIKO: "Natsumi's probably wondering what happened to everyone."
+    TAKERU: "And Kenta."
+    MANA: "We're half an hour behind when he wanted to get home!"
+    TAKERU: "More like an hour. He'll be livid."
+    HAGAMI: "And you had clocks."
+    TAKERU: "What?"
+    HAGAMI: "Clocks to move."
+    TAKERU: "Oh great, don't remind me. I'm not doing that tonight, no way. It's late as is."
+    MEIKO: "You did have a deal with Natsumi. She won't be - "
+    TAKERU: "Screw Natsumi. With all that mess in the auction she can't seriously expect me to..."
+    We walk back down the path, chatting and joking about the festival, tomorrow, and the days after that.
+    When I glance over my shoulder, though, the moon shines bright, surrounded by stars, one especially bright.
+    There's someone else looking back, too. Hagami.
+    World-class. 
+    I know she has it in her. That's what Hikari said as well. I glance at Hagami, and she smiles back. Walking along that path at night, my purpose seems magnified and like never before I know what I want to do. I'll stand beside her. She's world-class.
