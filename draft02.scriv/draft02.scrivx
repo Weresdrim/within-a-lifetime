@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="P-FLOWER" Modified="2020-04-08 03:59:05 -0400" ModID="48148B65-1D72-47B8-8331-0554E056B507">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="P-FLOWER" Modified="2020-04-09 04:14:35 -0400" ModID="775EDA01-3633-4F20-AAEE-1D08574A450F">
     <Binder>
         <BinderItem ID="0" UUID="B49D3130-A5CD-4634-BE66-FEAC5DFBC4A1" Created="2020-03-17 01:43:50 -0400" Modified="2020-03-17 01:43:50 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -1246,6 +1246,198 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="74" UUID="98BCF942-F63D-4905-9BD4-F0CC76791602" Created="2020-04-08 23:51:41 -0400" Modified="2020-04-08 23:55:15 -0400" Type="Text">
+                            <Title>That damn envelope</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Clinic</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>690,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="75" UUID="6C45A03F-BECA-4ABE-8A00-0028C3D6B3D3" Created="2020-04-09 03:49:49 -0400" Modified="2020-04-09 03:54:12 -0400" Type="Folder">
+                    <Title>day06</Title>
+                    <MetaData>
+                        <StatusID>6</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="76" UUID="7225DFE2-5810-4A36-BED5-93ED61C1C679" Created="2020-04-09 03:55:24 -0400" Modified="2020-04-09 03:55:51 -0400" Type="Text">
+                            <Title>Morning letter check</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Takeru's room</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1354,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="77" UUID="D6F7B5ED-616A-47F7-9430-C6FFDD557E1F" Created="2020-04-09 03:55:54 -0400" Modified="2020-04-09 03:57:02 -0400" Type="Text">
+                            <Title>Attack of the camel spiders</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Takeru's room</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3140,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="78" UUID="7E80F2F7-F795-4175-9C7B-3BA599BB175B" Created="2020-04-09 03:58:11 -0400" Modified="2020-04-09 03:58:40 -0400" Type="Text">
+                            <Title>Homeroom, usual suspects</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Classroom</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2024,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="79" UUID="507A2B63-4D1C-4F65-ADDD-ADAAD8B03606" Created="2020-04-09 03:59:44 -0400" Modified="2020-04-09 04:00:01 -0400" Type="Text">
+                            <Title>Math class sucks</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Classroom</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1443,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" UUID="45547215-DAA5-4C32-AA67-CBFE2E89D91E" Created="2020-04-09 04:02:57 -0400" Modified="2020-04-09 04:03:22 -0400" Type="Text">
+                            <Title>Roof lunch; festival recruitment</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Rooftop</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6828,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="81" UUID="5496BB6C-BB29-4C45-9F31-2FBE0546AE55" Created="2020-04-09 04:05:37 -0400" Modified="2020-04-09 04:05:59 -0400" Type="Text">
+                            <Title>Mana vs Kenta</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Hallway; Classroom</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5855,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="82" UUID="65347DE4-1F58-4641-B5F1-9E9A4ED50CD7" Created="2020-04-09 04:11:40 -0400" Modified="2020-04-09 04:11:55 -0400" Type="Text">
+                            <Title>Mirako Supernatural: first meeting</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Old library</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>15028,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="83" UUID="A5D09347-8B1A-4ED5-8DB3-E8034EC17EB3" Created="2020-04-09 04:13:14 -0400" Modified="2020-04-09 04:13:29 -0400" Type="Text">
+                            <Title>Return with Hagami</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Road; Bridge</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1032,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="84" UUID="43388DEF-5DB4-42B3-B00F-3A1AB9C6804E" Created="2020-04-09 04:14:06 -0400" Modified="2020-04-09 04:14:21 -0400" Type="Text">
+                            <Title>Dream of the ruin</Title>
+                            <MetaData>
+                                <LabelID>1</LabelID>
+                                <StatusID>8</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>bgs</FieldID>
+                                        <Value>Ruin at night</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1179,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
             </Children>
@@ -1298,7 +1490,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="7540" Characters="43231" Date="2020-04-08 03:24:34 -0400"/>
+        <PreviousSession Words="14662" Characters="83303" Date="2020-04-08 03:24:34 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="528E8469-969B-46D1-A379-ACBDE6EB457D" Color="0.901961 0.917647 0.933333">
