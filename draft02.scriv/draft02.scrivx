@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="P-FLOWER" Modified="2020-04-09 23:24:19 -0400" ModID="59E9936A-4353-4E98-A62D-6F9A98DBE429">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="P-FLOWER" Modified="2020-06-26 01:59:11 -0400" ModID="98C1BF2C-49E1-4311-8A2A-413717E0D878">
     <Binder>
         <BinderItem ID="0" UUID="B49D3130-A5CD-4634-BE66-FEAC5DFBC4A1" Created="2020-03-17 01:43:50 -0400" Modified="2020-03-17 01:43:50 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -1645,6 +1645,72 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem ID="98" UUID="19AB1591-77BB-49C4-A140-75973232A2D1" Created="2020-06-26 01:47:31 -0400" Modified="2020-06-26 01:47:53 -0400" Type="Text">
+                            <Title>Recap the ghosthunt + Hikari</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6288,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="99" UUID="08D32F20-5A8A-483F-961D-38981B2C6B73" Created="2020-06-26 01:48:13 -0400" Modified="2020-06-26 01:48:23 -0400" Type="Text">
+                            <Title>Hagami believes Takeru</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1883,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="100" UUID="733647A8-29CE-4F05-8275-CF983FC37865" Created="2020-06-26 01:48:58 -0400" Modified="2020-06-26 01:49:08 -0400" Type="Text">
+                            <Title>Practice partners with Natsumi</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2634,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="101" UUID="157BB040-EB11-451E-9442-3FC4583BC8DA" Created="2020-06-26 01:56:29 -0400" Modified="2020-06-26 01:56:33 -0400" Type="Text">
+                            <Title>Idiociy with Natsumi</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4759,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="102" UUID="5293B63A-BFD2-436D-A18D-DDB27B6B1063" Created="2020-06-26 01:57:11 -0400" Modified="2020-06-26 01:57:50 -0400" Type="Text">
+                            <Title>Jun's true letter with Hikari</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13539,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="C3E420BF-6F8C-4CFC-8AB4-A55DD93D7BE4" Created="2020-06-26 01:57:59 -0400" Modified="2020-06-26 01:58:06 -0400" Type="Text">
+                            <Title>Jun flashback, reality</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5464,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
             </Children>
@@ -1707,7 +1773,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="23648" Characters="134149" Date="2020-04-08 03:24:34 -0400"/>
+        <PreviousSession Words="6239" Characters="34567" Date="2020-06-26 00:56:59 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="528E8469-969B-46D1-A379-ACBDE6EB457D" Color="0.901961 0.917647 0.933333">
