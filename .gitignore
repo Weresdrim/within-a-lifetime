@@ -74,3 +74,10 @@ game/script.rpy
 
 # Java
 *.class
+
+# Scrivener
+binder.autosave
+binder.backup
+search.indexes
+recents.txt
+ui.ini
